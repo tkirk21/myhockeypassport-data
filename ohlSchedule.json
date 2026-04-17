@@ -6658,5 +6658,59 @@
     "opponent": "Guelph Storm",
     "arena": "WFCU Centre",
     "city": "Windsor, Ontario"
-  }
+  },
+  {
+  "id": "ohl_20260417_05",
+  "league": "OHL",
+  "date": "2026-04-17T23:00:00Z",
+  "team": "Kitchener Rangers",
+  "opponent": "Sault Ste. Marie Greyhounds",
+  "arena": "Kitchener Memorial Auditorium",
+  "city": "Kitchener, Ontario"
+},
+{
+  "id": "ohl_20260418_05",
+  "league": "OHL",
+  "date": "2026-04-18T23:30:00Z",
+  "team": "Barrie Colts",
+  "opponent": "Ottawa 67's",
+  "arena": "Sadlon Arena",
+  "city": "Barrie, Ontario"
+},
+{
+  "id": "ohl_20260419_06a",
+  "league": "OHL",
+  "date": "2026-04-19T21:00:00Z",
+  "team": "Ottawa 67's",
+  "opponent": "Barrie Colts",
+  "arena": "TD Place",
+  "city": "Ottawa, Ontario"
+},
+{
+  "id": "ohl_20260419_06b",
+  "league": "OHL",
+  "date": "2026-04-19T23:07:00Z",
+  "team": "Sault Ste. Marie Greyhounds",
+  "opponent": "Kitchener Rangers",
+  "arena": "GFL Memorial Gardens",
+  "city": "Sault Ste. Marie, Ontario"
+},
+{
+  "id": "ohl_20260421_07a",
+  "league": "OHL",
+  "date": "2026-04-21T23:00:00Z",
+  "team": "Barrie Colts",
+  "opponent": "Ottawa 67's",
+  "arena": "Sadlon Arena",
+  "city": "Barrie, Ontario"
+},
+{
+  "id": "ohl_20260421_07b",
+  "league": "OHL",
+  "date": "2026-04-21T23:00:00Z",
+  "team": "Kitchener Rangers",
+  "opponent": "Sault Ste. Marie Greyhounds",
+  "arena": "Kitchener Memorial Auditorium",
+  "city": "Kitchener, Ontario"
+}
 ]
