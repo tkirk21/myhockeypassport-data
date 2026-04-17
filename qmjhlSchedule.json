@@ -5830,95 +5830,95 @@
     "opponent": "Val-d'Or Foreurs",
     "arena": "Centre Marcel Dionne",
     "city": "Drummondville, Quebec"
-  }
+  },
   {
-  "id": "qmjhl_20260417_882",
-  "league": "QMJHL",
-  "date": "2026-04-17T21:30:00Z",
-  "team": "Newfoundland Regiment",
-  "opponent": "Blainville-Boisbriand Armada",
-  "arena": "Mary Brown's Centre",
-  "city": "St. John's, Newfoundland and Labrador"
+    "id": "qmjhl_20260417_882",
+    "league": "QMJHL",
+    "date": "2026-04-17T21:30:00Z",
+    "team": "Newfoundland Regiment",
+    "opponent": "Blainville-Boisbriand Armada",
+    "arena": "Mary Brown's Centre",
+    "city": "St. John's, Newfoundland and Labrador"
 },
 {
-  "id": "qmjhl_20260419_883",
-  "league": "QMJHL",
-  "date": "2026-04-19T19:00:00Z",
-  "team": "Blainville-Boisbriand Armada",
-  "opponent": "Newfoundland Regiment",
-  "arena": "Centre d'excellence Sports Rousseau",
-  "city": "Boisbriand, Quebec"
+    "id": "qmjhl_20260419_883",
+    "league": "QMJHL",
+    "date": "2026-04-19T19:00:00Z",
+    "team": "Blainville-Boisbriand Armada",
+    "opponent": "Newfoundland Regiment",
+    "arena": "Centre d'excellence Sports Rousseau",
+    "city": "Boisbriand, Quebec"
 },
 {
-  "id": "qmjhl_20260421_884",
-  "league": "QMJHL",
-  "date": "2026-04-21T23:00:00Z",
-  "team": "Blainville-Boisbriand Armada",
-  "opponent": "Newfoundland Regiment",
-  "arena": "Centre d'excellence Sports Rousseau",
-  "city": "Boisbriand, Quebec"
+    "id": "qmjhl_20260421_884",
+    "league": "QMJHL",
+    "date": "2026-04-21T23:00:00Z",
+    "team": "Blainville-Boisbriand Armada",
+    "opponent": "Newfoundland Regiment",
+    "arena": "Centre d'excellence Sports Rousseau",
+    "city": "Boisbriand, Quebec"
 },
 {
-  "id": "qmjhl_20260424_892",
-  "league": "QMJHL",
-  "date": "2026-04-24T23:00:00Z",
-  "team": "Chicoutimi Saguenéens",
-  "opponent": "Rouyn-Noranda Huskies",
-  "arena": "Centre Georges-Vézina",
-  "city": "Chicoutimi, Quebec"
+    "id": "qmjhl_20260424_892",
+    "league": "QMJHL",
+    "date": "2026-04-24T23:00:00Z",
+    "team": "Chicoutimi Saguenéens",
+    "opponent": "Rouyn-Noranda Huskies",
+    "arena": "Centre Georges-Vézina",
+    "city": "Chicoutimi, Quebec"
 },
 {
-  "id": "qmjhl_20260425_893",
-  "league": "QMJHL",
-  "date": "2026-04-25T23:00:00Z",
-  "team": "Chicoutimi Saguenéens",
-  "opponent": "Rouyn-Noranda Huskies",
-  "arena": "Centre Georges-Vézina",
-  "city": "Chicoutimi, Quebec"
-},
-{
-  "id": "qmjhl_20260428_894",
-  "league": "QMJHL",
-  "date": "2026-04-28T23:00:00Z",
-  "team": "Rouyn-Noranda Huskies",
-  "opponent": "Chicoutimi Saguenéens",
-  "arena": "Aréna Glencore",
-  "city": "Rouyn-Noranda, Quebec"
-},
-{
-  "id": "qmjhl_20260429_895",
-  "league": "QMJHL",
-  "date": "2026-04-29T23:00:00Z",
-  "team": "Rouyn-Noranda Huskies",
-  "opponent": "Chicoutimi Saguenéens",
-  "arena": "Aréna Glencore",
-  "city": "Rouyn-Noranda, Quebec"
-},
-{
-  "id": "qmjhl_20260501_896",
-  "league": "QMJHL",
-  "date": "2026-05-01T23:00:00Z",
-  "team": "Chicoutimi Saguenéens",
-  "opponent": "Rouyn-Noranda Huskies",
-  "arena": "Centre Georges-Vézina",
-  "city": "Chicoutimi, Quebec"
-},
-{
-  "id": "qmjhl_20260503_897",
-  "league": "QMJHL",
-  "date": "2026-05-03T20:00:00Z",
-  "team": "Rouyn-Noranda Huskies",
-  "opponent": "Chicoutimi Saguenéens",
-  "arena": "Aréna Glencore",
-  "city": "Rouyn-Noranda, Quebec"
-},
-{
-  "id": "qmjhl_20260505_898",
-  "league": "QMJHL",
-  "date": "2026-05-05T23:00:00Z",
-  "team": "Chicoutimi Saguenéens",
-  "opponent": "Rouyn-Noranda Huskies",
-  "arena": "Centre Georges-Vézina",
-  "city": "Chicoutimi, Quebec"
-}
+    "id": "qmjhl_20260425_893",
+    "league": "QMJHL",
+    "date": "2026-04-25T23:00:00Z",
+    "team": "Chicoutimi Saguenéens",
+    "opponent": "Rouyn-Noranda Huskies",
+    "arena": "Centre Georges-Vézina",
+    "city": "Chicoutimi, Quebec"
+  },
+  {
+    "id": "qmjhl_20260428_894",
+    "league": "QMJHL",
+    "date": "2026-04-28T23:00:00Z",
+    "team": "Rouyn-Noranda Huskies",
+    "opponent": "Chicoutimi Saguenéens",
+    "arena": "Aréna Glencore",
+    "city": "Rouyn-Noranda, Quebec"
+  },
+  {
+    "id": "qmjhl_20260429_895",
+    "league": "QMJHL",
+    "date": "2026-04-29T23:00:00Z",
+    "team": "Rouyn-Noranda Huskies",
+    "opponent": "Chicoutimi Saguenéens",
+    "arena": "Aréna Glencore",
+    "city": "Rouyn-Noranda, Quebec"
+  },
+  {
+    "id": "qmjhl_20260501_896",
+    "league": "QMJHL",
+    "date": "2026-05-01T23:00:00Z",
+    "team": "Chicoutimi Saguenéens",
+    "opponent": "Rouyn-Noranda Huskies",
+    "arena": "Centre Georges-Vézina",
+    "city": "Chicoutimi, Quebec"
+  },
+  {
+    "id": "qmjhl_20260503_897",
+    "league": "QMJHL",
+    "date": "2026-05-03T20:00:00Z",
+    "team": "Rouyn-Noranda Huskies",
+    "opponent": "Chicoutimi Saguenéens",
+    "arena": "Aréna Glencore",
+    "city": "Rouyn-Noranda, Quebec"
+  },
+  {
+    "id": "qmjhl_20260505_898",
+    "league": "QMJHL",
+    "date": "2026-05-05T23:00:00Z",
+    "team": "Chicoutimi Saguenéens",
+    "opponent": "Rouyn-Noranda Huskies",
+    "arena": "Centre Georges-Vézina",
+    "city": "Chicoutimi, Quebec"
+  }
 ]
