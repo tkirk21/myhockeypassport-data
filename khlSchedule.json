@@ -2815,5 +2815,14 @@
     "opponent": "Avangard Omsk",
     "arena": "Tatneft Arena",
     "city": "Nizhnekamsk, Tatarstan"
-  }
+  },
+  {
+  "id": "khl_20260417_58",
+  "league": "KHL",
+  "date": "2026-04-17T14:00:00Z",
+  "team": "Metallurg Magnitogorsk",
+  "opponent": "Torpedo Nizhny Novgorod",
+  "arena": "Arena Metallurg",
+  "city": "Magnitogorsk, Chelyabinsk Oblast"
+}
 ]
