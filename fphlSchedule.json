@@ -1681,5 +1681,95 @@
     "opponent": "Twin City Thunderbirds",
     "arena": "Hitachi Energy Arena",
     "city": "Danville, Virginia"
-  }
+  },
+  {
+  "id": "fphl_20260417_a2",
+  "league": "FPHL",
+  "date": "2026-04-17T23:00:00Z",
+  "team": "Binghamton Black Bears",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York"
+},
+{
+  "id": "fphl_20260417_c2",
+  "league": "FPHL",
+  "date": "2026-04-17T23:05:00Z",
+  "team": "Port Huron Prowlers",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan"
+},
+{
+  "id": "fphl_20260417_b1",
+  "league": "FPHL",
+  "date": "2026-04-17T23:05:00Z",
+  "team": "Athens Rock Lobsters",
+  "opponent": "Pee Dee IceCats",
+  "arena": "Akins Ford Arena",
+  "city": "Athens, Georgia"
+},
+{
+  "id": "fphl_20260417_d1",
+  "league": "FPHL",
+  "date": "2026-04-17T23:35:00Z",
+  "team": "Columbus River Dragons",
+  "opponent": "Monroe Moccasins",
+  "arena": "Columbus Civic Center",
+  "city": "Columbus, Georgia"
+},
+{
+  "id": "fphl_20260418_a3",
+  "league": "FPHL",
+  "date": "2026-04-18T23:00:00Z",
+  "team": "Binghamton Black Bears",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York"
+},
+{
+  "id": "fphl_20260418_c3",
+  "league": "FPHL",
+  "date": "2026-04-18T23:05:00Z",
+  "team": "Port Huron Prowlers",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan"
+},
+{
+  "id": "fphl_20260418_d2",
+  "league": "FPHL",
+  "date": "2026-04-19T00:05:00Z",
+  "team": "Monroe Moccasins",
+  "opponent": "Columbus River Dragons",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana"
+},
+{
+  "id": "fphl_20260418_b2",
+  "league": "FPHL",
+  "date": "2026-04-18T23:15:00Z",
+  "team": "Pee Dee IceCats",
+  "opponent": "Athens Rock Lobsters",
+  "arena": "Florence Center",
+  "city": "Florence, South Carolina"
+},
+{
+  "id": "fphl_20260419_d3",
+  "league": "FPHL",
+  "date": "2026-04-19T21:05:00Z",
+  "team": "Monroe Moccasins",
+  "opponent": "Columbus River Dragons",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana"
+},
+{
+  "id": "fphl_20260419_b3",
+  "league": "FPHL",
+  "date": "2026-04-19T20:05:00Z",
+  "team": "Athens Rock Lobsters",
+  "opponent": "Pee Dee IceCats",
+  "arena": "Akins Ford Arena",
+  "city": "Athens, Georgia"
+}  
 ]
