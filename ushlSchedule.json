@@ -4725,183 +4725,183 @@
     "city": "Cedar Rapids, Iowa"
   },
   {
-  "id": "ushl_2026041701",
-  "league": "USHL",
-  "date": "2026-04-17T23:05:00Z",
-  "team": "Youngstown Phantoms",
-  "opponent": "Madison Capitols",
-  "arena": "Covelli Centre",
-  "city": "Youngstown, Ohio"
-},
-{
-  "id": "ushl_2026041702",
-  "league": "USHL",
-  "date": "2026-04-18T00:05:00Z",
-  "team": "Dubuque Fighting Saints",
-  "opponent": "Muskegon Lumberjacks",
-  "arena": "ImOn Arena",
-  "city": "Dubuque, Iowa"
-},
-{
-  "id": "ushl_2026041703",
-  "league": "USHL",
-  "date": "2026-04-18T00:05:00Z",
-  "team": "Sioux Falls Stampede",
-  "opponent": "Lincoln Stars",
-  "arena": "Denny Sanford PREMIER Center",
-  "city": "Sioux Falls, South Dakota"
-},
-{
-  "id": "ushl_2026041801",
-  "league": "USHL",
-  "date": "2026-04-18T22:05:00Z",
-  "team": "Youngstown Phantoms",
-  "opponent": "Madison Capitols",
-  "arena": "Covelli Centre",
-  "city": "Youngstown, Ohio"
-},
-{
-  "id": "ushl_20260418_02",
-  "league": "USHL",
-  "date": "2026-04-18T23:05:00Z",
-  "team": "Fargo Force",
-  "opponent": "Sioux City Musketeers",
-  "arena": "Scheels Arena",
-  "city": "Fargo, North Dakota"
-},
-{
-  "id": "ushl_2026041803",
-  "league": "USHL",
-  "date": "2026-04-19T00:05:00Z",
-  "team": "Dubuque Fighting Saints",
-  "opponent": "Muskegon Lumberjacks",
-  "arena": "ImOn Arena",
-  "city": "Dubuque, Iowa"
-},
-{
-  "id": "ushl_2026041901",
-  "league": "USHL",
-  "date": "2026-04-19T21:05:00Z",
-  "team": "Sioux Falls Stampede",
-  "opponent": "Lincoln Stars",
-  "arena": "Denny Sanford PREMIER Center",
-  "city": "Sioux Falls, South Dakota"
-},
-{
-  "id": "ushl_2026041902",
-  "league": "USHL",
-  "date": "2026-04-19T20:00:00Z",
-  "team": "Fargo Force",
-  "opponent": "Sioux City Musketeers",
-  "arena": "Scheels Arena",
-  "city": "Fargo, North Dakota"
-},
-{
-  "id": "ushl_20260423_01",
-  "league": "USHL",
-  "date": "2026-04-24T00:05:00Z",
-  "team": "Sioux City Musketeers",
-  "opponent": "Fargo Force",
-  "arena": "Tyson Events Center",
-  "city": "Sioux City, Iowa"
-},
-{
-  "id": "ushl_2026042401",
-  "league": "USHL",
-  "date": "2026-04-24T23:10:00Z",
-  "team": "Muskegon Lumberjacks",
-  "opponent": "Dubuque Fighting Saints",
-  "arena": "Trinity Health Arena",
-  "city": "Muskegon, Michigan"
-},
-{
-  "id": "ushl_2026042402",
-  "league": "USHL",
-  "date": "2026-04-25T00:05:00Z",
-  "team": "Madison Capitols",
-  "opponent": "Youngstown Phantoms",
-  "arena": "Bob Suter's LEGACY20 Arena",
-  "city": "Middleton, Wisconsin"
-},
-{
-  "id": "ushl_2026042403",
-  "league": "USHL",
-  "date": "2026-04-25T00:05:00Z",
-  "team": "Sioux City Musketeers",
-  "opponent": "Fargo Force",
-  "arena": "Tyson Events Center",
-  "city": "Sioux City, Iowa"
-},
-{
-  "id": "ushl_2026042404",
-  "league": "USHL",
-  "date": "2026-04-25T00:05:00Z",
-  "team": "Lincoln Stars",
-  "opponent": "Sioux Falls Stampede",
-  "arena": "Ice Box",
-  "city": "Lincoln, Nebraska"
-},
-{
-  "id": "ushl_2026042501",
-  "league": "USHL",
-  "date": "2026-04-25T22:10:00Z",
-  "team": "Muskegon Lumberjacks",
-  "opponent": "Dubuque Fighting Saints",
-  "arena": "Trinity Health Arena",
-  "city": "Muskegon, Michigan"
-},
-{
-  "id": "ushl_2026042502",
-  "league": "USHL",
-  "date": "2026-04-25T23:05:00Z",
-  "team": "Lincoln Stars",
-  "opponent": "Sioux Falls Stampede",
-  "arena": "Ice Box",
-  "city": "Lincoln, Nebraska"
-},
-{
-  "id": "ushl_2026042503",
-  "league": "USHL",
-  "date": "2026-04-26T00:05:00Z",
-  "team": "Madison Capitols",
-  "opponent": "Youngstown Phantoms",
-  "arena": "Bob Suter's LEGACY20 Arena",
-  "city": "Middleton, Wisconsin"
-},
-{
-  "id": "ushl_2026042801",
-  "league": "USHL",
-  "date": "2026-04-28T23:05:00Z",
-  "team": "Fargo Force",
-  "opponent": "Sioux City Musketeers",
-  "arena": "Scheels Arena",
-  "city": "Fargo, North Dakota"
-},
-{
-  "id": "ushl_2026042802",
-  "league": "USHL",
-  "date": "2026-04-28T23:05:00Z",
-  "team": "Youngstown Phantoms",
-  "opponent": "Madison Capitols",
-  "arena": "Covelli Centre",
-  "city": "Youngstown, Ohio"
-},
-{
-  "id": "ushl_2026042803",
-  "league": "USHL",
-  "date": "2026-04-29T00:05:00Z",
-  "team": "Sioux Falls Stampede",
-  "opponent": "Lincoln Stars",
-  "arena": "Denny Sanford PREMIER Center",
-  "city": "Sioux Falls, South Dakota"
-},
-{
-  "id": "ushl_2026042804",
-  "league": "USHL",
-  "date": "2026-04-29T00:05:00Z",
-  "team": "Dubuque Fighting Saints",
-  "opponent": "Muskegon Lumberjacks",
-  "arena": "ImOn Arena",
-  "city": "Dubuque, Iowa"
-}  
+    "id": "ushl_2026041701",
+    "league": "USHL",
+    "date": "2026-04-17T23:05:00Z",
+    "team": "Youngstown Phantoms",
+    "opponent": "Madison Capitols",
+    "arena": "Covelli Centre",
+    "city": "Youngstown, Ohio"
+  },
+  {
+    "id": "ushl_2026041702",
+    "league": "USHL",
+    "date": "2026-04-18T00:05:00Z",
+    "team": "Dubuque Fighting Saints",
+    "opponent": "Muskegon Lumberjacks",
+    "arena": "ImOn Arena",
+    "city": "Dubuque, Iowa"
+  },
+  {
+    "id": "ushl_2026041703",
+    "league": "USHL",
+    "date": "2026-04-18T00:05:00Z",
+    "team": "Sioux Falls Stampede",
+    "opponent": "Lincoln Stars",
+    "arena": "Denny Sanford PREMIER Center",
+    "city": "Sioux Falls, South Dakota"
+  },
+  {
+    "id": "ushl_2026041801",
+    "league": "USHL",
+    "date": "2026-04-18T22:05:00Z",
+    "team": "Youngstown Phantoms",
+    "opponent": "Madison Capitols",
+    "arena": "Covelli Centre",
+    "city": "Youngstown, Ohio"
+  },
+  {
+    "id": "ushl_20260418_02",
+    "league": "USHL",
+    "date": "2026-04-18T23:05:00Z",
+    "team": "Fargo Force",
+    "opponent": "Sioux City Musketeers",
+    "arena": "Scheels Arena",
+    "city": "Fargo, North Dakota"
+  },
+  {
+    "id": "ushl_2026041803",
+    "league": "USHL",
+    "date": "2026-04-19T00:05:00Z",
+    "team": "Dubuque Fighting Saints",
+    "opponent": "Muskegon Lumberjacks",
+    "arena": "ImOn Arena",
+    "city": "Dubuque, Iowa"
+  },
+  {
+    "id": "ushl_2026041901",
+    "league": "USHL",
+    "date": "2026-04-19T21:05:00Z",
+    "team": "Sioux Falls Stampede",
+    "opponent": "Lincoln Stars",
+    "arena": "Denny Sanford PREMIER Center",
+   "city": "Sioux Falls, South Dakota"
+  },
+  {
+    "id": "ushl_2026041902",
+    "league": "USHL",
+    "date": "2026-04-19T20:00:00Z",
+    "team": "Fargo Force",
+    "opponent": "Sioux City Musketeers",
+    "arena": "Scheels Arena",
+    "city": "Fargo, North Dakota"
+  },
+  {
+    "id": "ushl_20260423_01",
+    "league": "USHL",
+    "date": "2026-04-24T00:05:00Z",
+    "team": "Sioux City Musketeers",
+    "opponent": "Fargo Force",
+    "arena": "Tyson Events Center",
+    "city": "Sioux City, Iowa"
+  },
+  {
+    "id": "ushl_2026042401",
+    "league": "USHL",
+    "date": "2026-04-24T23:10:00Z",
+    "team": "Muskegon Lumberjacks",
+    "opponent": "Dubuque Fighting Saints",
+    "arena": "Trinity Health Arena",
+    "city": "Muskegon, Michigan"
+  },
+  {
+    "id": "ushl_2026042402",
+    "league": "USHL",
+    "date": "2026-04-25T00:05:00Z",
+    "team": "Madison Capitols",
+    "opponent": "Youngstown Phantoms",
+    "arena": "Bob Suter's LEGACY20 Arena",
+    "city": "Middleton, Wisconsin"
+  },
+  {
+    "id": "ushl_2026042403",
+    "league": "USHL",
+    "date": "2026-04-25T00:05:00Z",
+    "team": "Sioux City Musketeers",
+    "opponent": "Fargo Force",
+    "arena": "Tyson Events Center",
+    "city": "Sioux City, Iowa"
+  },
+  {
+    "id": "ushl_2026042404",
+    "league": "USHL",
+    "date": "2026-04-25T00:05:00Z",
+    "team": "Lincoln Stars",
+    "opponent": "Sioux Falls Stampede",
+    "arena": "Ice Box",
+    "city": "Lincoln, Nebraska"
+  },
+  {
+    "id": "ushl_2026042501",
+    "league": "USHL",
+    "date": "2026-04-25T22:10:00Z",
+    "team": "Muskegon Lumberjacks",
+    "opponent": "Dubuque Fighting Saints",
+    "arena": "Trinity Health Arena",
+    "city": "Muskegon, Michigan"
+  },
+  {
+    "id": "ushl_2026042502",
+    "league": "USHL",
+    "date": "2026-04-25T23:05:00Z",
+    "team": "Lincoln Stars",
+    "opponent": "Sioux Falls Stampede",
+    "arena": "Ice Box",
+    "city": "Lincoln, Nebraska"
+  },
+  {
+    "id": "ushl_2026042503",
+    "league": "USHL",
+    "date": "2026-04-26T00:05:00Z",
+    "team": "Madison Capitols",
+    "opponent": "Youngstown Phantoms",
+    "arena": "Bob Suter's LEGACY20 Arena",
+    "city": "Middleton, Wisconsin"
+  },
+  {
+    "id": "ushl_2026042801",
+    "league": "USHL",
+    "date": "2026-04-28T23:05:00Z",
+    "team": "Fargo Force",
+    "opponent": "Sioux City Musketeers",
+    "arena": "Scheels Arena",
+    "city": "Fargo, North Dakota"
+  },
+  {
+    "id": "ushl_2026042802",
+    "league": "USHL",
+    "date": "2026-04-28T23:05:00Z",
+    "team": "Youngstown Phantoms",
+    "opponent": "Madison Capitols",
+    "arena": "Covelli Centre",
+    "city": "Youngstown, Ohio"
+  },
+  {
+    "id": "ushl_2026042803",
+    "league": "USHL",
+    "date": "2026-04-29T00:05:00Z",
+    "team": "Sioux Falls Stampede",
+    "opponent": "Lincoln Stars",
+    "arena": "Denny Sanford PREMIER Center",
+    "city": "Sioux Falls, South Dakota"
+  },
+  {
+    "id": "ushl_2026042804",
+    "league": "USHL",
+    "date": "2026-04-29T00:05:00Z",
+    "team": "Dubuque Fighting Saints",
+    "opponent": "Muskegon Lumberjacks",
+    "arena": "ImOn Arena",
+    "city": "Dubuque, Iowa"
+  }  
 ]
