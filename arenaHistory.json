@@ -296,6 +296,16 @@
     ]
   },
   {
+    "currentArena": "US Airways Arena",
+    "teamName": "Washington Capitals",
+    "league": "NHL",
+    "history": [
+      { "name": "Capital Centre", "from": "1973-09-01", "to": "1992-08-01" },
+      { "name": "USAir Arena", "from": "1993-09-01", "to": "1996-08-01" },
+      { "name": "US Airways Arena", "from": "1996-09-01", "to": "1997-12-01" }
+    ]
+  },
+  {
     "currentArena": "Capital One Arena",
     "teamName": "Washington Capitals",
     "league": "NHL",
