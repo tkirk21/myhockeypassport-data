@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "ha_20260420_01",
+    "league": "HockeyAllsvenskan",
+    "date": "2026-04-20T17:00:00Z",
+    "team": "BIK Karlskoga",
+    "opponent": "IF Björklöven",
+    "arena": "Nobelhallen",
+    "city": "Karlskoga, Sweden"
+  },
+  {
+    "id": "ha_20260422_01",
+    "league": "HockeyAllsvenskan",
+    "date": "2026-04-22T17:00:00Z",
+    "team": "BIK Karlskoga",
+    "opponent": "IF Björklöven",
+    "arena": "Nobelhallen",
+    "city": "Karlskoga, Sweden"
+  }
+]
