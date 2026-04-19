@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "nl_20260424_01",
+    "league": "NL",
+    "date": "2026-04-24T18:00:00Z",
+    "team": "HC Davos",
+    "opponent": "Fribourg-Gottéron",
+    "arena": "zondacrypto Arena",
+    "city": "Davos, Switzerland"
+  },
+  {
+    "id": "nl_20260426_01",
+    "league": "NL",
+    "date": "2026-04-26T18:00:00Z",
+    "team": "HC Davos",
+    "opponent": "Fribourg-Gottéron",
+    "arena": "zondacrypto Arena",
+    "city": "Davos, Switzerland"
+  },
+  {
+    "id": "nl_20260428_01",
+    "league": "NL",
+    "date": "2026-04-28T18:00:00Z",
+    "team": "Fribourg-Gottéron",
+    "opponent": "HC Davos",
+    "arena": "BCF Arena",
+    "city": "Fribourg, Switzerland"
+  },
+  {
+    "id": "nl_20260430_01",
+    "league": "NL",
+    "date": "2026-04-30T18:00:00Z",
+    "team": "HC Davos",
+    "opponent": "Fribourg-Gottéron",
+    "arena": "zondacrypto Arena",
+    "city": "Davos, Switzerland"
+  }
+]
