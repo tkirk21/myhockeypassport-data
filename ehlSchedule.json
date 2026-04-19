@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "czech_20260421_01",
+    "league": "ELH",
+    "date": "2026-04-21T10:00:00Z",
+    "team": "Jihlava",
+    "opponent": "Litvinov",
+    "arena": "Horácká aréna",
+    "city": "Jihlava, Czech Republic"
+  },
+  {
+    "id": "czech_20260422_01",
+    "league": "ELH",
+    "date": "2026-04-22T08:00:00Z",
+    "team": "Jihlava",
+    "opponent": "Litvinov",
+    "arena": "Horácká aréna",
+    "city": "Jihlava, Czech Republic"
+  },
+  {
+    "id": "elh_20260422_01",
+    "league": "ELH",
+    "date": "2026-04-22T09:00:00Z",
+    "team": "Oceláři Třinec",
+    "opponent": "Dynamo Pardubice",
+    "arena": "Werk Arena",
+    "city": "Třinec, Czech Republic"
+  },
+  {
+    "id": "elh_20260423_01",
+    "league": "ELH",
+    "date": "2026-04-23T08:00:00Z",
+    "team": "Oceláři Třinec",
+    "opponent": "Dynamo Pardubice",
+    "arena": "Werk Arena",
+    "city": "Třinec, Czech Republic"
+  }
+]
