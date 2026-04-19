@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "del_20260420_01",
+    "league": "DEL",
+    "date": "2026-04-20T16:30:00Z",
+    "team": "Kölner Haie",
+    "opponent": "Eisbären Berlin",
+    "arena": "LANXESS arena",
+    "city": "Cologne, Germany"
+  },
+  {
+    "id": "del_20260422_01",
+    "league": "DEL",
+    "date": "2026-04-22T16:30:00Z",
+    "team": "Kölner Haie",
+    "opponent": "Eisbären Berlin",
+    "arena": "LANXESS arena",
+    "city": "Cologne, Germany"
+  }
+]
