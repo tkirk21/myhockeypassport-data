@@ -1,2 +1,38 @@
 [
+  {
+    "id": "shl_20260423_01",
+    "league": "SHL",
+    "date": "2026-04-23T17:00:00Z",
+    "team": "Skellefteå AIK",
+    "opponent": "Rögle BK",
+    "arena": "Skellefteå Kraft Arena",
+    "city": "Skellefteå, Sweden"
+  },
+  {
+    "id": "shl_20260425_01",
+    "league": "SHL",
+    "date": "2026-04-25T13:15:00Z",
+    "team": "Skellefteå AIK",
+    "opponent": "Rögle BK",
+    "arena": "Skellefteå Kraft Arena",
+    "city": "Skellefteå, Sweden"
+  },
+  {
+    "id": "shl_20260428_01",
+    "league": "SHL",
+    "date": "2026-04-28T17:00:00Z",
+    "team": "Rögle BK",
+    "opponent": "Skellefteå AIK",
+    "arena": "Catena Arena",
+    "city": "Ängelholm, Sweden"
+  },
+  {
+    "id": "shl_20260430_01",
+    "league": "SHL",
+    "date": "2026-04-30T17:00:00Z",
+    "team": "Rögle BK",
+    "opponent": "Skellefteå AIK",
+    "arena": "Catena Arena",
+    "city": "Ängelholm, Sweden"
+  }
 ]
