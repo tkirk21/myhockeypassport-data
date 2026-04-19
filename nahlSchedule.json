@@ -3337,5 +3337,185 @@
     "opponent": "Watertown Shamrocks",
     "arena": "Odde Ice Center",
     "city": "Aberdeen, SD"
+  },
+  {
+    "id": "nahl_20260419_01",
+    "league": "NAHL",
+    "date": "2026-04-20T00:00:00Z",
+    "team": "Fairbanks Ice Dogs",
+    "opponent": "Wisconsin Windigo",
+    "arena": "Big Dipper Ice Arena",
+    "city": "Fairbanks, Alaska"
+  },
+  {
+    "id": "nahl_20260419_02",
+    "league": "NAHL",
+    "date": "2026-04-20T00:15:00Z",
+    "team": "Minnesota Wilderness",
+    "opponent": "Anchorage Wolverines",
+    "arena": "St. Luke's Sports & Event Center",
+    "city": "Proctor, Minnesota"
+  },
+  {
+    "id": "nahl_20260423_01",
+    "league": "NAHL",
+    "date": "2026-04-23T23:00:00Z",
+    "team": "Northeast Generals",
+    "opponent": "Rochester Jr. Americans",
+    "arena": "Canton Ice House",
+    "city": "Canton, Massachusetts"
+  },
+  {
+    "id": "nahl_20260423_02",
+    "league": "NAHL",
+    "date": "2026-04-23T23:00:00Z",
+    "team": "Danbury Hat Tricks",
+    "opponent": "Maryland Black Bears",
+    "arena": "Danbury Ice Arena",
+    "city": "Danbury, Connecticut"
+  },
+  {
+    "id": "nahl_20260424_01",
+    "league": "NAHL",
+    "date": "2026-04-24T23:00:00Z",
+    "team": "Northeast Generals",
+    "opponent": "Rochester Jr. Americans",
+    "arena": "Canton Ice House",
+    "city": "Canton, Massachusetts"
+},
+{
+    "id": "nahl_20260424_02",
+    "league": "NAHL",
+    "date": "2026-04-24T23:00:00Z",
+    "team": "Danbury Hat Tricks",
+    "opponent": "Maryland Black Bears",
+    "arena": "Danbury Ice Arena",
+    "city": "Danbury, Connecticut"
+  },
+  {
+    "id": "nahl_20260424_03",
+    "league": "NAHL",
+    "date": "2026-04-25T00:00:00Z",
+    "team": "Watertown Shamrocks",
+    "opponent": "Austin Bruins",
+    "arena": "Prairie Lakes Ice Arena",
+    "city": "Watertown, South Dakota"
+  },
+  {
+    "id": "nahl_20260424_04",
+    "league": "NAHL",
+    "date": "2026-04-25T00:11:00Z",
+    "team": "Shreveport Mudbugs",
+    "opponent": "Lone Star Brahmas",
+    "arena": "George's Pond at Hirsch Coliseum",
+    "city": "Shreveport, Louisiana"
+  },
+  {
+    "id": "nahl_20260424_05",
+    "league": "NAHL",
+    "date": "2026-04-25T00:15:00Z",
+    "team": "Aberdeen Wings",
+    "opponent": "Bismarck Bobcats",
+    "arena": "Odde Ice Center",
+    "city": "Aberdeen, South Dakota"
+  },
+  {
+    "id": "nahl_20260424_06",
+    "league": "NAHL",
+    "date": "2026-04-25T01:00:00Z",
+    "team": "El Paso Rhinos",
+    "opponent": "New Mexico Ice Wolves",
+    "arena": "El Paso County Coliseum",
+    "city": "El Paso, Texas"
+  },
+  {
+    "id": "nahl_20260425_01",
+    "league": "NAHL",
+    "date": "2026-04-26T00:00:00Z",
+    "team": "Watertown Shamrocks",
+    "opponent": "Austin Bruins",
+    "arena": "Prairie Lakes Ice Arena",
+    "city": "Watertown, South Dakota"
+  },
+  {
+    "id": "nahl_20260425_02",
+    "league": "NAHL",
+    "date": "2026-04-26T00:11:00Z",
+    "team": "Shreveport Mudbugs",
+    "opponent": "Lone Star Brahmas",
+    "arena": "George's Pond at Hirsch Coliseum",
+    "city": "Shreveport, Louisiana"
+  },
+  {
+    "id": "nahl_20260425_03",
+    "league": "NAHL",
+    "date": "2026-04-26T00:15:00Z",
+    "team": "Aberdeen Wings",
+    "opponent": "Bismarck Bobcats",
+    "arena": "Odde Ice Center",
+    "city": "Aberdeen, South Dakota"
+  },
+  {
+    "id": "nahl_20260425_04",
+    "league": "NAHL",
+    "date": "2026-04-26T01:00:00Z",
+    "team": "El Paso Rhinos",
+    "opponent": "New Mexico Ice Wolves",
+    "arena": "El Paso County Coliseum",
+    "city": "El Paso, Texas"
+  },
+  {
+    "id": "nahl_20260426_01",
+    "league": "NAHL",
+    "date": "2026-04-26T22:30:00Z",
+    "team": "Maryland Black Bears",
+    "opponent": "Danbury Hat Tricks",
+    "arena": "Piney Orchard Ice Arena",
+    "city": "Odenton, Maryland"
+  },
+  {
+    "id": "nahl_20260426_02",
+    "league": "NAHL",
+    "date": "2026-04-26T23:00:00Z",
+    "team": "New Mexico Ice Wolves",
+    "opponent": "El Paso Rhinos",
+    "arena": "Outpost Ice Arenas",
+    "city": "Albuquerque, New Mexico"
+  },
+  {
+    "id": "nahl_20260426_03",
+    "league": "NAHL",
+    "date": "2026-04-26T23:00:00Z",
+    "team": "Rochester Jr. Americans",
+    "opponent": "Northeast Generals",
+    "arena": "Rochester Ice Center",
+    "city": "Fairport, New York"
+  },
+  {
+    "id": "nahl_20260427_01",
+    "league": "NAHL",
+    "date": "2026-04-28T00:00:00Z",
+    "team": "Lone Star Brahmas",
+    "opponent": "Shreveport Mudbugs",
+    "arena": "NYTEX Sports Centre",
+    "city": "North Richland Hills, Texas"
+  },
+  {
+    "id": "nahl_20260427_02",
+    "league": "NAHL",
+    "date": "2026-04-28T00:05:00Z",
+    "team": "Austin Bruins",
+    "opponent": "Watertown Shamrocks",
+    "arena": "Riverside Arena",
+    "city": "Austin, Minnesota"
+  },
+  {
+    "id": "nahl_20260427_03",
+    "league": "NAHL",
+    "date": "2026-04-28T00:15:00Z",
+    "team": "Bismarck Bobcats",
+    "opponent": "Aberdeen Wings",
+    "arena": "VFW Sports Center",
+    "city": "Bismarck, North Dakota"
   }
 ]
