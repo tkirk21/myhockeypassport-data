@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "id": "slovak_20260420_01",
+    "league": "Slovak Extraliga",
+    "date": "2026-04-20T09:00:00Z",
+    "team": "HK Nitra",
+    "opponent": "HC Slovan Bratislava",
+    "arena": "Tipsport Arena Nitra",
+    "city": "Nitra, Slovakia"
+  },
+  {
+    "id": "slovak_20260421_01",
+    "league": "Slovak Extraliga",
+    "date": "2026-04-21T09:00:00Z",
+    "team": "HC Prešov",
+    "opponent": "HK Dukla Trenčín",
+    "arena": "Zimný štadión Prešov",
+    "city": "Prešov, Slovakia"
+  },
+  {
+    "id": "slovak_20260423_01",
+    "league": "Slovak Extraliga",
+    "date": "2026-04-23T09:30:00Z",
+    "team": "HC Slovan Bratislava",
+    "opponent": "HK Nitra",
+    "arena": "Tipos Arena",
+    "city": "Bratislava, Slovakia"
+  },
+  {
+    "id": "slovak_20260424_01",
+    "league": "Slovak Extraliga",
+    "date": "2026-04-24T09:30:00Z",
+    "team": "HC Slovan Bratislava",
+    "opponent": "HK Nitra",
+    "arena": "Tipos Arena",
+    "city": "Bratislava, Slovakia"
+  },
+  {
+    "id": "slovak_20260425_01",
+    "league": "Slovak Extraliga",
+    "date": "2026-04-25T06:00:00Z",
+    "team": "HK Dukla Trenčín",
+    "opponent": "Skalica",
+    "arena": "Zimný štadión Pavla Demitru",
+    "city": "Trenčín, Slovakia"
+  }
+]
