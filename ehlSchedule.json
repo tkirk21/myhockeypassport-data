@@ -34,5 +34,23 @@
     "opponent": "Dynamo Pardubice",
     "arena": "Werk Arena",
     "city": "Třinec, Czech Republic"
+  },
+  {
+    "id": "norway_20260426_01",
+    "league": "EHL Norway",
+    "date": "2026-04-26T16:00:00Z",
+    "team": "Storhamar",
+    "opponent": "Stavanger Oilers",
+    "arena": "CC Amfi",
+    "city": "Hamar, Norway"
+  },
+  {
+    "id": "norway_20260428_01",
+    "league": "EHL Norway",
+    "date": "2026-04-28T16:00:00Z",
+    "team": "Stavanger Oilers",
+    "opponent": "Storhamar",
+    "arena": "DNB Arena",
+    "city": "Stavanger, Norway"
   }
 ]
