@@ -1,3 +1,38 @@
 [
-
+  {
+    "id": "liiga_20260424_01",
+    "league": "Liiga",
+    "date": "2026-04-24T15:30:00Z",
+    "team": "KooKoo",
+    "opponent": "SaiPa",
+    "arena": "Lumon Areena",
+    "city": "Kouvola, Finland"
+  },
+  {
+    "id": "liiga_20260425_01",
+    "league": "Liiga",
+    "date": "2026-04-25T14:00:00Z",
+    "team": "Ilves",
+    "opponent": "Tappara",
+    "arena": "Nokia Arena",
+    "city": "Tampere, Finland"
+  },
+  {
+    "id": "liiga_20260425_02",
+    "league": "Liiga",
+    "date": "2026-04-25T15:30:00Z",
+    "team": "SaiPa",
+    "opponent": "KooKoo",
+    "arena": "Kisapuisto",
+    "city": "Lappeenranta, Finland"
+  },
+  {
+    "id": "liiga_20260427_01",
+    "league": "Liiga",
+    "date": "2026-04-27T15:30:00Z",
+    "team": "Tappara",
+    "opponent": "Ilves",
+    "arena": "Nokia Arena",
+    "city": "Tampere, Finland"
+  }
 ]
