@@ -2817,12 +2817,120 @@
     "city": "Nizhnekamsk, Tatarstan"
   },
   {
-  "id": "khl_20260417_58",
-  "league": "KHL",
-  "date": "2026-04-17T14:00:00Z",
-  "team": "Metallurg Magnitogorsk",
-  "opponent": "Torpedo Nizhny Novgorod",
-  "arena": "Arena Metallurg",
-  "city": "Magnitogorsk, Chelyabinsk Oblast"
-}
+    "id": "khl_20260417_58",
+    "league": "KHL",
+    "date": "2026-04-17T14:00:00Z",
+    "team": "Metallurg Magnitogorsk",
+    "opponent": "Torpedo Nizhny Novgorod",
+    "arena": "Arena Metallurg",
+    "city": "Magnitogorsk, Chelyabinsk Oblast"
+  },
+  {
+    "id": "khl_20260426_01",
+    "league": "KHL",
+    "date": "2026-04-26T14:00:00Z",
+    "team": "Lokomotiv Yaroslavl",
+    "opponent": "Avangard Omsk",
+    "arena": "Arena 2000",
+    "city": "Yaroslavl, Russia"
+  },
+  {
+    "id": "khl_20260427_01",
+    "league": "KHL",
+    "date": "2026-04-27T14:00:00Z",
+    "team": "Metallurg Magnitogorsk",
+    "opponent": "Ak Bars Kazan",
+    "arena": "Arena Metallurg",
+    "city": "Magnitogorsk, Russia"
+  },
+  {
+    "id": "khl_20260428_01",
+    "league": "KHL",
+    "date": "2026-04-28T13:30:00Z",
+    "team": "Avangard Omsk",
+    "opponent": "Lokomotiv Yaroslavl",
+    "arena": "G-Drive Arena",
+    "city": "Omsk, Russia"
+  },
+  {
+    "id": "khl_20260429_01",
+    "league": "KHL",
+    "date": "2026-04-29T16:30:00Z",
+    "team": "Ak Bars Kazan",
+    "opponent": "Metallurg Magnitogorsk",
+    "arena": "Tatneft Arena",
+    "city": "Kazan, Russia"
+  },
+  {
+    "id": "khl_20260430_01",
+    "league": "KHL",
+    "date": "2026-04-30T13:30:00Z",
+    "team": "Avangard Omsk",
+    "opponent": "Lokomotiv Yaroslavl",
+    "arena": "G-Drive Arena",
+    "city": "Omsk, Russia"
+  },
+  {
+    "id": "khl_20260501_01",
+    "league": "KHL",
+    "date": "2026-05-01T12:00:00Z",
+    "team": "Ak Bars Kazan",
+    "opponent": "Metallurg Magnitogorsk",
+    "arena": "Tatneft Arena",
+    "city": "Kazan, Russia"
+  },
+  {
+    "id": "khl_20260502_01",
+    "league": "KHL",
+    "date": "2026-05-02T14:00:00Z",
+    "team": "Lokomotiv Yaroslavl",
+    "opponent": "Avangard Omsk",
+    "arena": "Arena 2000",
+    "city": "Yaroslavl, Russia"
+  },
+  {
+    "id": "khl_20260503_01",
+    "league": "KHL",
+    "date": "2026-05-03T14:00:00Z",
+    "team": "Metallurg Magnitogorsk",
+    "opponent": "Ak Bars Kazan",
+    "arena": "Arena Metallurg",
+    "city": "Magnitogorsk, Russia"
+  },
+  {
+    "id": "khl_20260504_01",
+    "league": "KHL",
+    "date": "2026-05-04T14:00:00Z",
+    "team": "Avangard Omsk",
+    "opponent": "Lokomotiv Yaroslavl",
+    "arena": "G-Drive Arena",
+    "city": "Omsk, Russia"
+  },
+  {
+    "id": "khl_20260505_01",
+    "league": "KHL",
+    "date": "2026-05-05T14:00:00Z",
+    "team": "Ak Bars Kazan",
+    "opponent": "Metallurg Magnitogorsk",
+    "arena": "Tatneft Arena",
+    "city": "Kazan, Russia"
+  },
+  {
+    "id": "khl_20260506_01",
+    "league": "KHL",
+    "date": "2026-05-06T14:00:00Z",
+    "team": "Lokomotiv Yaroslavl",
+    "opponent": "Avangard Omsk",
+    "arena": "Arena 2000",
+    "city": "Yaroslavl, Russia"
+  },
+  {
+    "id": "khl_20260507_01",
+    "league": "KHL",
+    "date": "2026-05-07T14:00:00Z",
+    "team": "Metallurg Magnitogorsk",
+    "opponent": "Ak Bars Kazan",
+    "arena": "Arena Metallurg",
+    "city": "Magnitogorsk, Russia"
+  }
 ]
