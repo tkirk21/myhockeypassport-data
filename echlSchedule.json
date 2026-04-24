@@ -9133,5 +9133,185 @@
     "team": "Fort Wayne Komets",
     "arena": "Allen County War Memorial Coliseum",
     "city": "Fort Wayne, Indiana"
-  }
+  },
+  {
+    "id": "echl_20260424_01",
+    "league": "ECHL",
+    "date": "2026-04-24T22:00:00Z",
+    "team": "Maine Mariners",
+    "opponent": "Adirondack Thunder",
+    "arena": "Cross Insurance Arena",
+    "city": "Portland, Maine"
+  },
+  {
+    "id": "echl_20260424_02",
+    "league": "ECHL",
+    "date": "2026-04-24T23:05:00Z",
+    "team": "South Carolina Stingrays",
+    "opponent": "Atlanta Gladiators",
+    "arena": "North Charleston Coliseum",
+    "city": "North Charleston, South Carolina"
+  },
+  {
+    "id": "echl_20260424_03",
+    "league": "ECHL",
+    "date": "2026-04-24T23:10:00Z",
+    "team": "Wheeling Nailers",
+    "opponent": "Reading Royals",
+    "arena": "WesBanco Arena",
+    "city": "Wheeling, West Virginia"
+  },
+  {
+    "id": "echl_20260424_04",
+    "league": "ECHL",
+    "date": "2026-04-24T23:30:00Z",
+    "team": "Florida Everblades",
+    "opponent": "Savannah Ghost Pirates",
+    "arena": "Hertz Arena",
+    "city": "Estero, Florida"
+  },
+  {
+    "id": "echl_20260424_05",
+    "league": "ECHL",
+    "date": "2026-04-24T23:35:00Z",
+    "team": "Fort Wayne Komets",
+    "opponent": "Indy Fuel",
+    "arena": "Memorial Coliseum",
+    "city": "Fort Wayne, Indiana"
+  },
+  {
+    "id": "echl_20260424_06",
+    "league": "ECHL",
+    "date": "2026-04-25T00:05:00Z",
+    "team": "Kansas City Mavericks",
+    "opponent": "Tahoe Knight Monsters",
+    "arena": "Cable Dahmer Arena",
+    "city": "Independence, Missouri"
+  },
+  {
+    "id": "echl_20260424_07",
+    "league": "ECHL",
+    "date": "2026-04-25T00:10:00Z",
+    "team": "Allen Americans",
+    "opponent": "Idaho Steelheads",
+    "arena": "Credit Union of Texas Event Center",
+    "city": "Allen, Texas"
+  },
+  {
+    "id": "echl_20260425_01",
+    "league": "ECHL",
+    "date": "2026-04-25T22:00:00Z",
+    "team": "Maine Mariners",
+    "opponent": "Adirondack Thunder",
+    "arena": "Cross Insurance Arena",
+    "city": "Portland, Maine"
+  },
+  {
+    "id": "echl_20260425_02",
+    "league": "ECHL",
+    "date": "2026-04-25T22:05:00Z",
+    "team": "South Carolina Stingrays",
+    "opponent": "Atlanta Gladiators",
+    "arena": "North Charleston Coliseum",
+    "city": "North Charleston, South Carolina"
+  },
+  {
+    "id": "echl_20260425_03",
+    "league": "ECHL",
+    "date": "2026-04-25T23:00:00Z",
+    "team": "Florida Everblades",
+    "opponent": "Savannah Ghost Pirates",
+    "arena": "Hertz Arena",
+    "city": "Estero, Florida"
+  },
+  {
+    "id": "echl_20260425_04",
+    "league": "ECHL",
+    "date": "2026-04-25T23:05:00Z",
+    "team": "Kansas City Mavericks",
+    "opponent": "Tahoe Knight Monsters",
+    "arena": "Cable Dahmer Arena",
+    "city": "Independence, Missouri"
+  },
+  {
+    "id": "echl_20260425_05",
+    "league": "ECHL",
+    "date": "2026-04-25T23:10:00Z",
+    "team": "Wheeling Nailers",
+    "opponent": "Reading Royals",
+    "arena": "WesBanco Arena",
+    "city": "Wheeling, West Virginia"
+  },
+  {
+    "id": "echl_20260425_06",
+    "league": "ECHL",
+    "date": "2026-04-25T23:15:00Z",
+    "team": "Toledo Walleye",
+    "opponent": "Bloomington Bison",
+    "arena": "Huntington Center",
+    "city": "Toledo, Ohio"
+  },
+  {
+    "id": "echl_20260425_07",
+    "league": "ECHL",
+    "date": "2026-04-25T23:35:00Z",
+    "team": "Fort Wayne Komets",
+    "opponent": "Indy Fuel",
+    "arena": "Memorial Coliseum",
+    "city": "Fort Wayne, Indiana"
+  },
+  {
+    "id": "echl_20260426_01",
+    "league": "ECHL",
+    "date": "2026-04-26T22:10:00Z",
+    "team": "Idaho Steelheads",
+    "opponent": "Allen Americans",
+    "arena": "Idaho Central Arena",
+    "city": "Boise, Idaho"
+  },
+  {
+    "id": "echl_20260427_01",
+    "league": "ECHL",
+    "date": "2026-04-27T23:10:00Z",
+    "team": "Atlanta Gladiators",
+    "opponent": "South Carolina Stingrays",
+    "arena": "Gas South Arena",
+    "city": "Duluth, Georgia"
+  },
+  {
+    "id": "echl_20260427_02",
+    "league": "ECHL",
+    "date": "2026-04-28T00:00:00Z",
+    "team": "Bloomington Bison",
+    "opponent": "Toledo Walleye",
+    "arena": "Grossinger Motors Arena",
+    "city": "Bloomington, Illinois"
+  },
+  {
+    "id": "echl_20260427_03",
+    "league": "ECHL",
+    "date": "2026-04-28T01:10:00Z",
+    "team": "Idaho Steelheads",
+    "opponent": "Allen Americans",
+    "arena": "Idaho Central Arena",
+    "city": "Boise, Idaho"
+  },
+  {
+    "id": "echl_20260428_01",
+    "league": "ECHL",
+    "date": "2026-04-28T23:05:00Z",
+    "team": "Indy Fuel",
+    "opponent": "Fort Wayne Komets",
+    "arena": "Fishers Event Center",
+    "city": "Fishers, Indiana"
+  },
+  {
+    "id": "echl_20260428_02",
+    "league": "ECHL",
+    "date": "2026-04-28T23:10:00Z",
+    "team": "Atlanta Gladiators",
+    "opponent": "South Carolina Stingrays",
+    "arena": "Gas South Arena",
+    "city": "Duluth, Georgia"
+  } 
 ]
