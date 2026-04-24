@@ -7,5 +7,23 @@
     "opponent": "Graz 99ers",
     "arena": "Intercable Arena",
     "city": "Brunico, Italy"
+  },
+  {
+    "id": "icehl_20260424_01",
+    "league": "ICEHL",
+    "date": "2026-04-24T18:00:00Z",
+    "team": "HC Pustertal",
+    "opponent": "Graz99ers",
+    "arena": "Intercable Arena",
+    "city": "Brunico, Italy"
+  },
+  {
+    "id": "icehl_20260426_01",
+    "league": "ICEHL",
+    "date": "2026-04-26T14:30:00Z",
+    "team": "Graz99ers",
+    "opponent": "HC Pustertal",
+    "arena": "Merkur Eisstadion",
+    "city": "Graz, Austria"
   }
 ]
