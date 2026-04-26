@@ -9619,5 +9619,14 @@
     "opponent": "Tahoe Knight Monsters",
     "arena": "Cable Dahmer Arena",
     "city": "Independence, Missouri"
-  }
+  },
+  {
+  "league": "echl_20260506_05",
+  "league": "ECHL",
+  "team": "Kansas City Mavericks",
+  "opponent": "Tulsa Oilers",
+  "arena": "Cable Dahmer Arena",
+  "city": "Independence, Missouri",  
+  "date": "2026-04-26T20:30:00"
+}
 ]
