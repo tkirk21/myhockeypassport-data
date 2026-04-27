@@ -12726,507 +12726,453 @@
     "city": "Winnipeg"
   },
   {
-  "id": "nhl_20260419_01",
-  "league": "NHL",
-  "date": "2026-04-19T23:30:00Z",
-  "team": "Buffalo Sabres",
-  "opponent": "Boston Bruins",
-  "arena": "KeyBank Center",
-  "city": "Buffalo, New York"
-},
-{
-  "id": "nhl_20260421_01",
-  "league": "NHL",
-  "date": "2026-04-21T23:30:00Z",
-  "team": "Buffalo Sabres",
-  "opponent": "Boston Bruins",
-  "arena": "KeyBank Center",
-  "city": "Buffalo, New York"
-},
-{
-  "id": "nhl_20260423_01",
-  "league": "NHL",
-  "date": "2026-04-23T23:00:00Z",
-  "team": "Boston Bruins",
-  "opponent": "Buffalo Sabres",
-  "arena": "TD Garden",
-  "city": "Boston, Massachusetts"
-},
-{
-  "id": "nhl_20260426_01",
-  "league": "NHL",
-  "date": "2026-04-26T18:00:00Z",
-  "team": "Boston Bruins",
-  "opponent": "Buffalo Sabres",
-  "arena": "TD Garden",
-  "city": "Boston, Massachusetts"
-},
-{
-  "id": "nhl_20260428_01",
-  "league": "NHL",
-  "date": "2026-04-28T23:30:00Z",
-  "team": "Buffalo Sabres",
-  "opponent": "Boston Bruins",
-  "arena": "KeyBank Center",
-  "city": "Buffalo, New York"
-},
-{
-  "id": "nhl_20260501_01",
-  "league": "NHL",
-  "date": "2026-05-01T23:00:00Z",
-  "team": "Boston Bruins",
-  "opponent": "Buffalo Sabres",
-  "arena": "TD Garden",
-  "city": "Boston, Massachusetts"
-},
-{
-  "id": "nhl_20260503_01",
-  "league": "NHL",
-  "date": "2026-05-03T23:30:00Z",
-  "team": "Buffalo Sabres",
-  "opponent": "Boston Bruins",
-  "arena": "KeyBank Center",
-  "city": "Buffalo, New York"
-},
-{
-  "id": "nhl_20260419_02",
-  "league": "NHL",
-  "date": "2026-04-19T21:45:00Z",
-  "team": "Tampa Bay Lightning",
-  "opponent": "Montreal Canadiens",
-  "arena": "Amalie Arena",
-  "city": "Tampa, Florida"
-},
-{
-  "id": "nhl_20260421_02",
-  "league": "NHL",
-  "date": "2026-04-21T23:00:00Z",
-  "team": "Tampa Bay Lightning",
-  "opponent": "Montreal Canadiens",
-  "arena": "Amalie Arena",
-  "city": "Tampa, Florida"
-},
-{
-  "id": "nhl_20260424_01",
-  "league": "NHL",
-  "date": "2026-04-24T23:00:00Z",
-  "team": "Montreal Canadiens",
-  "opponent": "Tampa Bay Lightning",
-  "arena": "Bell Centre",
-  "city": "Montreal, Quebec"
-},
-{
-  "id": "nhl_20260426_02",
-  "league": "NHL",
-  "date": "2026-04-26T23:00:00Z",
-  "team": "Montreal Canadiens",
-  "opponent": "Tampa Bay Lightning",
-  "arena": "Bell Centre",
-  "city": "Montreal, Quebec"
-},
-{
-  "id": "nhl_20260429_01",
-  "league": "NHL",
-  "date": "2026-04-29T23:00:00Z",
-  "team": "Tampa Bay Lightning",
-  "opponent": "Montreal Canadiens",
-  "arena": "Amalie Arena",
-  "city": "Tampa, Florida"
-},
-{
-  "id": "nhl_20260501_02",
-  "league": "NHL",
-  "date": "2026-05-01T23:00:00Z",
-  "team": "Montreal Canadiens",
-  "opponent": "Tampa Bay Lightning",
-  "arena": "Bell Centre",
-  "city": "Montreal, Quebec"
-},
-{
-  "id": "nhl_20260503_02",
-  "league": "NHL",
-  "date": "2026-05-03T23:00:00Z",
-  "team": "Tampa Bay Lightning",
-  "opponent": "Montreal Canadiens",
-  "arena": "Amalie Arena",
-  "city": "Tampa, Florida"
-},
-{
-  "id": "nhl_20260418_01",
-  "league": "NHL",
-  "date": "2026-04-18T19:00:00Z",
-  "team": "Carolina Hurricanes",
-  "opponent": "Ottawa Senators",
-  "arena": "Lenovo Center",
-  "city": "Raleigh, North Carolina"
-},
-{
-  "id": "nhl_20260420_01",
-  "league": "NHL",
-  "date": "2026-04-20T23:30:00Z",
-  "team": "Carolina Hurricanes",
-  "opponent": "Ottawa Senators",
-  "arena": "Lenovo Center",
-  "city": "Raleigh, North Carolina"
-},
-{
-  "id": "nhl_20260423_02",
-  "league": "NHL",
-  "date": "2026-04-23T23:30:00Z",
-  "team": "Ottawa Senators",
-  "opponent": "Carolina Hurricanes",
-  "arena": "Canadian Tire Centre",
-  "city": "Ottawa, Ontario"
-},
-{
-  "id": "nhl_20260425_01",
-  "league": "NHL",
-  "date": "2026-04-25T19:00:00Z",
-  "team": "Ottawa Senators",
-  "opponent": "Carolina Hurricanes",
-  "arena": "Canadian Tire Centre",
-  "city": "Ottawa, Ontario"
-},
-{
-  "id": "nhl_20260427_01",
-  "league": "NHL",
-  "date": "2026-04-27T23:30:00Z",
-  "team": "Carolina Hurricanes",
-  "opponent": "Ottawa Senators",
-  "arena": "Lenovo Center",
-  "city": "Raleigh, North Carolina"
-},
-{
-  "id": "nhl_20260430_01",
-  "league": "NHL",
-  "date": "2026-04-30T23:30:00Z",
-  "team": "Ottawa Senators",
-  "opponent": "Carolina Hurricanes",
-  "arena": "Canadian Tire Centre",
-  "city": "Ottawa, Ontario"
-},
-{
-  "id": "nhl_20260502_01",
-  "league": "NHL",
-  "date": "2026-05-02T23:30:00Z",
-  "team": "Carolina Hurricanes",
-  "opponent": "Ottawa Senators",
-  "arena": "Lenovo Center",
-  "city": "Raleigh, North Carolina"
-},
-{
-  "id": "nhl_20260418_02",
-  "league": "NHL",
-  "date": "2026-04-19T00:00:00Z",
-  "team": "Pittsburgh Penguins",
-  "opponent": "Philadelphia Flyers",
-  "arena": "PPG Paints Arena",
-  "city": "Pittsburgh, Pennsylvania"
-},
-{
-  "id": "nhl_20260420_02",
-  "league": "NHL",
-  "date": "2026-04-20T23:00:00Z",
-  "team": "Pittsburgh Penguins",
-  "opponent": "Philadelphia Flyers",
-  "arena": "PPG Paints Arena",
-  "city": "Pittsburgh, Pennsylvania"
-},
-{
-  "id": "nhl_20260422_01",
-  "league": "NHL",
-  "date": "2026-04-22T23:00:00Z",
-  "team": "Philadelphia Flyers",
-  "opponent": "Pittsburgh Penguins",
-  "arena": "Wells Fargo Center",
-  "city": "Philadelphia, Pennsylvania"
-},
-{
-  "id": "nhl_20260425_02",
-  "league": "NHL",
-  "date": "2026-04-26T00:00:00Z",
-  "team": "Philadelphia Flyers",
-  "opponent": "Pittsburgh Penguins",
-  "arena": "Wells Fargo Center",
-  "city": "Philadelphia, Pennsylvania"
-},
-{
-  "id": "nhl_20260427_02",
-  "league": "NHL",
-  "date": "2026-04-27T23:30:00Z",
-  "team": "Pittsburgh Penguins",
-  "opponent": "Philadelphia Flyers",
-  "arena": "PPG Paints Arena",
-  "city": "Pittsburgh, Pennsylvania"
-},
-{
-  "id": "nhl_20260429_02",
-  "league": "NHL",
-  "date": "2026-04-29T23:00:00Z",
-  "team": "Philadelphia Flyers",
-  "opponent": "Pittsburgh Penguins",
-  "arena": "Wells Fargo Center",
-  "city": "Philadelphia, Pennsylvania"
-},
-{
-  "id": "nhl_20260502_02",
-  "league": "NHL",
-  "date": "2026-05-02T23:30:00Z",
-  "team": "Pittsburgh Penguins",
-  "opponent": "Philadelphia Flyers",
-  "arena": "PPG Paints Arena",
-  "city": "Pittsburgh, Pennsylvania"
-},
-{
-  "id": "nhl_20260419_03",
-  "league": "NHL",
-  "date": "2026-04-19T19:00:00Z",
-  "team": "Colorado Avalanche",
-  "opponent": "Los Angeles Kings",
-  "arena": "Ball Arena",
-  "city": "Denver, Colorado"
-},
-{
-  "id": "nhl_20260422_01",
-  "league": "NHL",
-  "date": "2026-04-22T02:00:00Z",
-  "team": "Colorado Avalanche",
-  "opponent": "Los Angeles Kings",
-  "arena": "Ball Arena",
-  "city": "Denver, Colorado"
-},
-{
-  "id": "nhl_20260424_02",
-  "league": "NHL",
-  "date": "2026-04-24T02:00:00Z",
-  "team": "Los Angeles Kings",
-  "opponent": "Colorado Avalanche",
-  "arena": "Crypto.com Arena",
-  "city": "Los Angeles, California"
-},
-{
-  "id": "nhl_20260426_03",
-  "league": "NHL",
-  "date": "2026-04-26T20:30:00Z",
-  "team": "Los Angeles Kings",
-  "opponent": "Colorado Avalanche",
-  "arena": "Crypto.com Arena",
-  "city": "Los Angeles, California"
-},
-{
-  "id": "nhl_20260430_02",
-  "league": "NHL",
-  "date": "2026-04-30T02:00:00Z",
-  "team": "Colorado Avalanche",
-  "opponent": "Los Angeles Kings",
-  "arena": "Ball Arena",
-  "city": "Denver, Colorado"
-},
-{
-  "id": "nhl_20260502_03",
-  "league": "NHL",
-  "date": "2026-05-02T02:00:00Z",
-  "team": "Los Angeles Kings",
-  "opponent": "Colorado Avalanche",
-  "arena": "Crypto.com Arena",
-  "city": "Los Angeles, California"
-},
-{
-  "id": "nhl_20260504_01",
-  "league": "NHL",
-  "date": "2026-05-04T02:00:00Z",
-  "team": "Colorado Avalanche",
-  "opponent": "Los Angeles Kings",
-  "arena": "Ball Arena",
-  "city": "Denver, Colorado"
-},
-{
-  "id": "nhl_20260418_03",
-  "league": "NHL",
-  "date": "2026-04-18T21:30:00Z",
-  "team": "Dallas Stars",
-  "opponent": "Minnesota Wild",
-  "arena": "American Airlines Center",
-  "city": "Dallas, Texas"
-},
-{
-  "id": "nhl_20260421_03",
-  "league": "NHL",
-  "date": "2026-04-21T01:30:00Z",
-  "team": "Dallas Stars",
-  "opponent": "Minnesota Wild",
-  "arena": "American Airlines Center",
-  "city": "Dallas, Texas"
-},
-{
-  "id": "nhl_20260423_03",
-  "league": "NHL",
-  "date": "2026-04-23T01:30:00Z",
-  "team": "Minnesota Wild",
-  "opponent": "Dallas Stars",
-  "arena": "Grand Casino Arena",
-  "city": "St. Paul, Minnesota"
-},
-{
-  "id": "nhl_20260425_03",
-  "league": "NHL",
-  "date": "2026-04-25T21:30:00Z",
-  "team": "Minnesota Wild",
-  "opponent": "Dallas Stars",
-  "arena": "Grand Casino Arena",
-  "city": "St. Paul, Minnesota"
-},
-{
-  "id": "nhl_20260429_03",
-  "league": "NHL",
-  "date": "2026-04-29T00:30:00Z",
-  "team": "Dallas Stars",
-  "opponent": "Minnesota Wild",
-  "arena": "American Airlines Center",
-  "city": "Dallas, Texas"
-},
-{
-  "id": "nhl_20260501_03",
-  "league": "NHL",
-  "date": "2026-05-01T00:30:00Z",
-  "team": "Minnesota Wild",
-  "opponent": "Dallas Stars",
-  "arena": "Grand Casino Arena",
-  "city": "St. Paul, Minnesota"
-},
-{
-  "id": "nhl_20260503_03",
-  "league": "NHL",
-  "date": "2026-05-03T00:30:00Z",
-  "team": "Dallas Stars",
-  "opponent": "Minnesota Wild",
-  "arena": "American Airlines Center",
-  "city": "Dallas, Texas"
-},
-{
-  "id": "nhl_20260420_03",
-  "league": "NHL",
-  "date": "2026-04-20T02:00:00Z",
-  "team": "Vegas Golden Knights",
-  "opponent": "Utah Mammoth",
-  "arena": "T-Mobile Arena",
-  "city": "Las Vegas, Nevada"
-},
-{
-  "id": "nhl_20260422_02",
-  "league": "NHL",
-  "date": "2026-04-22T01:30:00Z",
-  "team": "Vegas Golden Knights",
-  "opponent": "Utah Mammoth",
-  "arena": "T-Mobile Arena",
-  "city": "Las Vegas, Nevada"
-},
-{
-  "id": "nhl_20260425_04",
-  "league": "NHL",
-  "date": "2026-04-25T01:30:00Z",
-  "team": "Utah Mammoth",
-  "opponent": "Vegas Golden Knights",
-  "arena": "Delta Center",
-  "city": "Salt Lake City, Utah"
-},
-{
-  "id": "nhl_20260428_02",
-  "league": "NHL",
-  "date": "2026-04-28T01:30:00Z",
-  "team": "Utah Mammoth",
-  "opponent": "Vegas Golden Knights",
-  "arena": "Delta Center",
-  "city": "Salt Lake City, Utah"
-},
-{
-  "id": "nhl_20260430_03",
-  "league": "NHL",
-  "date": "2026-04-30T01:30:00Z",
-  "team": "Vegas Golden Knights",
-  "opponent": "Utah Mammoth",
-  "arena": "T-Mobile Arena",
-  "city": "Las Vegas, Nevada"
-},
-{
-  "id": "nhl_20260502_04",
-  "league": "NHL",
-  "date": "2026-05-02T01:30:00Z",
-  "team": "Utah Mammoth",
-  "opponent": "Vegas Golden Knights",
-  "arena": "Delta Center",
-  "city": "Salt Lake City, Utah"
-},
-{
-  "id": "nhl_20260504_02",
-  "league": "NHL",
-  "date": "2026-05-04T01:30:00Z",
-  "team": "Vegas Golden Knights",
-  "opponent": "Utah Mammoth",
-  "arena": "T-Mobile Arena",
-  "city": "Las Vegas, Nevada"
-},
-{
-  "id": "nhl_20260421_04",
-  "league": "NHL",
-  "date": "2026-04-21T02:00:00Z",
-  "team": "Edmonton Oilers",
-  "opponent": "Anaheim Ducks",
-  "arena": "Rogers Place",
-  "city": "Edmonton, Alberta"
-},
-{
-  "id": "nhl_20260423_04",
-  "league": "NHL",
-  "date": "2026-04-23T02:00:00Z",
-  "team": "Edmonton Oilers",
-  "opponent": "Anaheim Ducks",
-  "arena": "Rogers Place",
-  "city": "Edmonton, Alberta"
-},
-{
-  "id": "nhl_20260425_05",
-  "league": "NHL",
-  "date": "2026-04-25T02:00:00Z",
-  "team": "Anaheim Ducks",
-  "opponent": "Edmonton Oilers",
-  "arena": "Honda Center",
-  "city": "Anaheim, California"
-},
-{
-  "id": "nhl_20260427_03",
-  "league": "NHL",
-  "date": "2026-04-27T01:30:00Z",
-  "team": "Anaheim Ducks",
-  "opponent": "Edmonton Oilers",
-  "arena": "Honda Center",
-  "city": "Anaheim, California"
-},
-{
-  "id": "nhl_20260429_04",
-  "league": "NHL",
-  "date": "2026-04-29T02:00:00Z",
-  "team": "Edmonton Oilers",
-  "opponent": "Anaheim Ducks",
-  "arena": "Rogers Place",
-  "city": "Edmonton, Alberta"
-},
-{
-  "id": "nhl_20260501_04",
-  "league": "NHL",
-  "date": "2026-05-01T02:00:00Z",
-  "team": "Anaheim Ducks",
-  "opponent": "Edmonton Oilers",
-  "arena": "Honda Center",
-  "city": "Anaheim, California"
-},
-{
-  "id": "nhl_20260503_04",
-  "league": "NHL",
-  "date": "2026-05-03T02:00:00Z",
-  "team": "Edmonton Oilers",
-  "opponent": "Anaheim Ducks",
-  "arena": "Rogers Place",
-  "city": "Edmonton, Alberta"
-}  
+    "id": "nhl_20260419_01",
+    "league": "NHL",
+    "date": "2026-04-19T23:30:00Z",
+    "team": "Buffalo Sabres",
+    "opponent": "Boston Bruins",
+    "arena": "KeyBank Center",
+    "city": "Buffalo, New York"
+  },
+  {
+    "id": "nhl_20260421_01",
+    "league": "NHL",
+    "date": "2026-04-21T23:30:00Z",
+    "team": "Buffalo Sabres",
+    "opponent": "Boston Bruins",
+    "arena": "KeyBank Center",
+    "city": "Buffalo, New York"
+  },
+  {
+    "id": "nhl_20260423_01",
+    "league": "NHL",
+    "date": "2026-04-23T23:00:00Z",
+    "team": "Boston Bruins",
+    "opponent": "Buffalo Sabres",
+    "arena": "TD Garden",
+    "city": "Boston, Massachusetts"
+  },
+  {
+    "id": "nhl_20260426_01",
+   "league": "NHL",
+    "date": "2026-04-26T18:00:00Z",
+    "team": "Boston Bruins",
+    "opponent": "Buffalo Sabres",
+    "arena": "TD Garden",
+    "city": "Boston, Massachusetts"
+  },
+  {
+    "id": "nhl_20260428_01",
+    "league": "NHL",
+    "date": "2026-04-28T23:30:00Z",
+    "team": "Buffalo Sabres",
+    "opponent": "Boston Bruins",
+    "arena": "KeyBank Center",
+    "city": "Buffalo, New York"
+  },
+  {
+    "id": "nhl_20260501_01",
+    "league": "NHL",
+    "date": "2026-05-01T23:00:00Z",
+    "team": "Boston Bruins",
+    "opponent": "Buffalo Sabres",
+    "arena": "TD Garden",
+    "city": "Boston, Massachusetts"
+  },
+  {
+    "id": "nhl_20260503_01",
+    "league": "NHL",
+    "date": "2026-05-03T23:30:00Z",
+    "team": "Buffalo Sabres",
+    "opponent": "Boston Bruins",
+    "arena": "KeyBank Center",
+    "city": "Buffalo, New York"
+  },
+  {
+    "id": "nhl_20260419_02",
+    "league": "NHL",
+    "date": "2026-04-19T21:45:00Z",
+    "team": "Tampa Bay Lightning",
+    "opponent": "Montreal Canadiens",
+    "arena": "Amalie Arena",
+    "city": "Tampa, Florida"
+  },
+  {
+    "id": "nhl_20260421_02",
+    "league": "NHL",
+    "date": "2026-04-21T23:00:00Z",
+    "team": "Tampa Bay Lightning",
+    "opponent": "Montreal Canadiens",
+    "arena": "Amalie Arena",
+    "city": "Tampa, Florida"
+  },
+  {
+    "id": "nhl_20260424_01",
+    "league": "NHL",
+    "date": "2026-04-24T23:00:00Z",
+    "team": "Montreal Canadiens",
+    "opponent": "Tampa Bay Lightning",
+    "arena": "Bell Centre",
+    "city": "Montreal, Quebec"
+  },
+  {
+    "id": "nhl_20260426_02",
+    "league": "NHL",
+    "date": "2026-04-26T23:00:00Z",
+    "team": "Montreal Canadiens",
+    "opponent": "Tampa Bay Lightning",
+    "arena": "Bell Centre",
+    "city": "Montreal, Quebec"
+  },
+  {
+    "id": "nhl_20260429_01",
+    "league": "NHL",
+    "date": "2026-04-29T23:00:00Z",
+    "team": "Tampa Bay Lightning",
+    "opponent": "Montreal Canadiens",
+    "arena": "Amalie Arena",
+    "city": "Tampa, Florida"
+  },
+  {
+    "id": "nhl_20260501_02",
+    "league": "NHL",
+    "date": "2026-05-01T23:00:00Z",
+    "team": "Montreal Canadiens",
+    "opponent": "Tampa Bay Lightning",
+    "arena": "Bell Centre",
+    "city": "Montreal, Quebec"
+  },
+  {
+    "id": "nhl_20260503_02",
+    "league": "NHL",
+    "date": "2026-05-03T23:00:00Z",
+    "team": "Tampa Bay Lightning",
+    "opponent": "Montreal Canadiens",
+    "arena": "Amalie Arena",
+    "city": "Tampa, Florida"
+  },
+  {
+    "id": "nhl_20260418_01",
+    "league": "NHL",
+    "date": "2026-04-18T19:00:00Z",
+    "team": "Carolina Hurricanes",
+    "opponent": "Ottawa Senators",
+    "arena": "Lenovo Center",
+    "city": "Raleigh, North Carolina"
+  },
+  {
+    "id": "nhl_20260420_01",
+    "league": "NHL",
+    "date": "2026-04-20T23:30:00Z",
+    "team": "Carolina Hurricanes",
+    "opponent": "Ottawa Senators",
+    "arena": "Lenovo Center",
+    "city": "Raleigh, North Carolina"
+  },
+  {
+    "id": "nhl_20260423_02",
+    "league": "NHL",
+    "date": "2026-04-23T23:30:00Z",
+    "team": "Ottawa Senators",
+    "opponent": "Carolina Hurricanes",
+    "arena": "Canadian Tire Centre",
+    "city": "Ottawa, Ontario"
+  },
+  {
+    "id": "nhl_20260425_01",
+    "league": "NHL",
+    "date": "2026-04-25T19:00:00Z",
+    "team": "Ottawa Senators",
+    "opponent": "Carolina Hurricanes",
+    "arena": "Canadian Tire Centre",
+    "city": "Ottawa, Ontario"
+  },
+  {
+    "id": "nhl_20260418_02",
+    "league": "NHL",
+    "date": "2026-04-19T00:00:00Z",
+    "team": "Pittsburgh Penguins",
+    "opponent": "Philadelphia Flyers",
+    "arena": "PPG Paints Arena",
+    "city": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "id": "nhl_20260420_02",
+    "league": "NHL",
+    "date": "2026-04-20T23:00:00Z",
+    "team": "Pittsburgh Penguins",
+    "opponent": "Philadelphia Flyers",
+    "arena": "PPG Paints Arena",
+    "city": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "id": "nhl_20260422_01",
+    "league": "NHL",
+    "date": "2026-04-22T23:00:00Z",
+    "team": "Philadelphia Flyers",
+    "opponent": "Pittsburgh Penguins",
+    "arena": "Wells Fargo Center",
+    "city": "Philadelphia, Pennsylvania"
+  },
+  {
+    "id": "nhl_20260425_02",
+    "league": "NHL",
+    "date": "2026-04-26T00:00:00Z",
+    "team": "Philadelphia Flyers",
+    "opponent": "Pittsburgh Penguins",
+    "arena": "Wells Fargo Center",
+    "city": "Philadelphia, Pennsylvania"
+  },
+  {
+    "id": "nhl_20260427_02",
+    "league": "NHL",
+    "date": "2026-04-27T23:30:00Z",
+    "team": "Pittsburgh Penguins",
+    "opponent": "Philadelphia Flyers",
+    "arena": "PPG Paints Arena",
+    "city": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "id": "nhl_20260429_02",
+    "league": "NHL",
+    "date": "2026-04-29T23:00:00Z",
+    "team": "Philadelphia Flyers",
+    "opponent": "Pittsburgh Penguins",
+    "arena": "Wells Fargo Center",
+    "city": "Philadelphia, Pennsylvania"
+  },
+  {
+    "id": "nhl_20260502_02",
+    "league": "NHL",
+    "date": "2026-05-02T23:30:00Z",
+    "team": "Pittsburgh Penguins",
+    "opponent": "Philadelphia Flyers",
+    "arena": "PPG Paints Arena",
+    "city": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "id": "nhl_20260419_03",
+    "league": "NHL",
+    "date": "2026-04-19T19:00:00Z",
+    "team": "Colorado Avalanche",
+    "opponent": "Los Angeles Kings",
+    "arena": "Ball Arena",
+    "city": "Denver, Colorado"
+  },
+  {
+    "id": "nhl_20260422_01",
+    "league": "NHL",
+    "date": "2026-04-22T02:00:00Z",
+    "team": "Colorado Avalanche",
+    "opponent": "Los Angeles Kings",
+    "arena": "Ball Arena",
+    "city": "Denver, Colorado"
+  },
+  {
+    "id": "nhl_20260424_02",
+    "league": "NHL",
+    "date": "2026-04-24T02:00:00Z",
+    "team": "Los Angeles Kings",
+    "opponent": "Colorado Avalanche",
+    "arena": "Crypto.com Arena",
+    "city": "Los Angeles, California"
+  },
+  {
+    "id": "nhl_20260426_03",
+    "league": "NHL",
+    "date": "2026-04-26T20:30:00Z",
+    "team": "Los Angeles Kings",
+    "opponent": "Colorado Avalanche",
+    "arena": "Crypto.com Arena",
+    "city": "Los Angeles, California"
+  },
+  {
+    "id": "nhl_20260418_03",
+    "league": "NHL",
+    "date": "2026-04-18T21:30:00Z",
+    "team": "Dallas Stars",
+    "opponent": "Minnesota Wild",
+    "arena": "American Airlines Center",
+    "city": "Dallas, Texas"
+  },
+  {
+    "id": "nhl_20260421_03",
+    "league": "NHL",
+    "date": "2026-04-21T01:30:00Z",
+    "team": "Dallas Stars",
+    "opponent": "Minnesota Wild",
+    "arena": "American Airlines Center",
+    "city": "Dallas, Texas"
+  },
+  {
+    "id": "nhl_20260423_03",
+    "league": "NHL",
+    "date": "2026-04-23T01:30:00Z",
+    "team": "Minnesota Wild",
+    "opponent": "Dallas Stars",
+    "arena": "Grand Casino Arena",
+    "city": "St. Paul, Minnesota"
+  },
+  {
+    "id": "nhl_20260425_03",
+    "league": "NHL",
+    "date": "2026-04-25T21:30:00Z",
+    "team": "Minnesota Wild",
+    "opponent": "Dallas Stars",
+    "arena": "Grand Casino Arena",
+    "city": "St. Paul, Minnesota"
+  },
+  {
+    "id": "nhl_20260429_03",
+    "league": "NHL",
+    "date": "2026-04-29T00:30:00Z",
+    "team": "Dallas Stars",
+    "opponent": "Minnesota Wild",
+    "arena": "American Airlines Center",
+    "city": "Dallas, Texas"
+  },
+  {
+    "id": "nhl_20260501_03",
+    "league": "NHL",
+    "date": "2026-05-01T00:30:00Z",
+    "team": "Minnesota Wild",
+    "opponent": "Dallas Stars",
+    "arena": "Grand Casino Arena",
+    "city": "St. Paul, Minnesota"
+  },
+  {
+    "id": "nhl_20260503_03",
+    "league": "NHL",
+    "date": "2026-05-03T00:30:00Z",
+    "team": "Dallas Stars",
+    "opponent": "Minnesota Wild",
+    "arena": "American Airlines Center",
+    "city": "Dallas, Texas"
+  },
+  {
+    "id": "nhl_20260420_03",
+    "league": "NHL",
+    "date": "2026-04-20T02:00:00Z",
+    "team": "Vegas Golden Knights",
+    "opponent": "Utah Mammoth",
+    "arena": "T-Mobile Arena",
+    "city": "Las Vegas, Nevada"
+  },
+  {
+    "id": "nhl_20260422_02",
+    "league": "NHL",
+    "date": "2026-04-22T01:30:00Z",
+    "team": "Vegas Golden Knights",
+    "opponent": "Utah Mammoth",
+    "arena": "T-Mobile Arena",
+    "city": "Las Vegas, Nevada"
+  },
+  {
+    "id": "nhl_20260425_04",
+    "league": "NHL",
+    "date": "2026-04-25T01:30:00Z",
+    "team": "Utah Mammoth",
+    "opponent": "Vegas Golden Knights",
+    "arena": "Delta Center",
+    "city": "Salt Lake City, Utah"
+  },
+  {
+    "id": "nhl_20260428_02",
+    "league": "NHL",
+    "date": "2026-04-28T01:30:00Z",
+    "team": "Utah Mammoth",
+    "opponent": "Vegas Golden Knights",
+    "arena": "Delta Center",
+    "city": "Salt Lake City, Utah"
+  },
+  {
+    "id": "nhl_20260430_03",
+    "league": "NHL",
+    "date": "2026-04-30T01:30:00Z",
+    "team": "Vegas Golden Knights",
+    "opponent": "Utah Mammoth",
+    "arena": "T-Mobile Arena",
+    "city": "Las Vegas, Nevada"
+  },
+  {
+    "id": "nhl_20260502_04",
+    "league": "NHL",
+    "date": "2026-05-02T01:30:00Z",
+    "team": "Utah Mammoth",
+    "opponent": "Vegas Golden Knights",
+    "arena": "Delta Center",
+    "city": "Salt Lake City, Utah"
+  },
+  {
+    "id": "nhl_20260504_02",
+    "league": "NHL",
+    "date": "2026-05-04T01:30:00Z",
+    "team": "Vegas Golden Knights",
+    "opponent": "Utah Mammoth",
+    "arena": "T-Mobile Arena",
+    "city": "Las Vegas, Nevada"
+  },
+  {
+    "id": "nhl_20260421_04",
+    "league": "NHL",
+    "date": "2026-04-21T02:00:00Z",
+    "team": "Edmonton Oilers",
+    "opponent": "Anaheim Ducks",
+    "arena": "Rogers Place",
+    "city": "Edmonton, Alberta"
+  },
+  {
+    "id": "nhl_20260423_04",
+    "league": "NHL",
+    "date": "2026-04-23T02:00:00Z",
+    "team": "Edmonton Oilers",
+    "opponent": "Anaheim Ducks",
+    "arena": "Rogers Place",
+    "city": "Edmonton, Alberta"
+  },
+  {
+    "id": "nhl_20260425_05",
+    "league": "NHL",
+    "date": "2026-04-25T02:00:00Z",
+    "team": "Anaheim Ducks",
+    "opponent": "Edmonton Oilers",
+    "arena": "Honda Center",
+    "city": "Anaheim, California"
+  },
+  {
+    "id": "nhl_20260427_03",
+    "league": "NHL",
+    "date": "2026-04-27T01:30:00Z",
+    "team": "Anaheim Ducks",
+    "opponent": "Edmonton Oilers",
+    "arena": "Honda Center",
+    "city": "Anaheim, California"
+  },
+  {
+    "id": "nhl_20260429_04",
+    "league": "NHL",
+    "date": "2026-04-29T02:00:00Z",
+    "team": "Edmonton Oilers",
+    "opponent": "Anaheim Ducks",
+    "arena": "Rogers Place",
+    "city": "Edmonton, Alberta"
+  },
+  {
+    "id": "nhl_20260501_04",
+    "league": "NHL",
+    "date": "2026-05-01T02:00:00Z",
+    "team": "Anaheim Ducks",
+    "opponent": "Edmonton Oilers",
+    "arena": "Honda Center",
+    "city": "Anaheim, California"
+  },
+  {
+    "id": "nhl_20260503_04",
+    "league": "NHL",
+    "date": "2026-05-03T02:00:00Z",
+    "team": "Edmonton Oilers",
+    "opponent": "Anaheim Ducks",
+    "arena": "Rogers Place",
+    "city": "Edmonton, Alberta"
+  }  
 ]
