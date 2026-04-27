@@ -13174,5 +13174,14 @@
     "opponent": "Anaheim Ducks",
     "arena": "Rogers Place",
     "city": "Edmonton, Alberta"
-  }  
+  },
+  {
+    "id": "nhl_2025021253",
+    "league": "NHL",
+    "date": "2026-04-27T01:00:00Z",
+    "team": "St. Louis Blues",
+    "opponent": "Winnipeg Jets",
+    "arena": "Enterprise Center",
+    "city": "St. Louis, MO"
+  }
 ]
