@@ -5877,7 +5877,16 @@
     "city": "Chicoutimi, Quebec"
   },
   {
-    "id": "qmjhl_20260428_894",
+    "id": "qmjhl_20260427_01",
+    "league": "QMJHL",
+    "date": "2026-04-27T23:00:00Z",
+    "team": "Blainville-Boisbriand Armada",
+    "opponent": "Moncton Wildcats",
+    "arena": "Centre d'excellence Sports Rousseau",
+    "city": "Boisbriand, Quebec"
+  },
+  {
+    "id": "qmjhl_20260428_01",
     "league": "QMJHL",
     "date": "2026-04-28T23:00:00Z",
     "team": "Rouyn-Noranda Huskies",
@@ -5886,7 +5895,16 @@
     "city": "Rouyn-Noranda, Quebec"
   },
   {
-    "id": "qmjhl_20260429_895",
+    "id": "qmjhl_20260428_02",
+    "league": "QMJHL",
+    "date": "2026-04-28T23:00:00Z",
+    "team": "Blainville-Boisbriand Armada",
+    "opponent": "Moncton Wildcats",
+    "arena": "Centre d'excellence Sports Rousseau",
+    "city": "Boisbriand, Quebec"
+  },
+  {
+    "id": "qmjhl_20260429_01",
     "league": "QMJHL",
     "date": "2026-04-29T23:00:00Z",
     "team": "Rouyn-Noranda Huskies",
@@ -5895,7 +5913,16 @@
     "city": "Rouyn-Noranda, Quebec"
   },
   {
-    "id": "qmjhl_20260501_896",
+    "id": "qmjhl_20260501_01",
+    "league": "QMJHL",
+    "date": "2026-05-01T22:00:00Z",
+    "team": "Moncton Wildcats",
+    "opponent": "Blainville-Boisbriand Armada",
+    "arena": "Avenir Centre",
+    "city": "Moncton, New Brunswick"
+  },
+  {
+    "id": "qmjhl_20260501_02",
     "league": "QMJHL",
     "date": "2026-05-01T23:00:00Z",
     "team": "Chicoutimi Saguenéens",
@@ -5904,7 +5931,16 @@
     "city": "Chicoutimi, Quebec"
   },
   {
-    "id": "qmjhl_20260503_897",
+    "id": "qmjhl_20260503_01",
+    "league": "QMJHL",
+    "date": "2026-05-03T19:00:00Z",
+    "team": "Blainville-Boisbriand Armada",
+    "opponent": "Moncton Wildcats",
+    "arena": "Centre d'excellence Sports Rousseau",
+    "city": "Boisbriand, Quebec"
+  },
+  {
+    "id": "qmjhl_20260503_02",
     "league": "QMJHL",
     "date": "2026-05-03T20:00:00Z",
     "team": "Rouyn-Noranda Huskies",
@@ -5913,7 +5949,16 @@
     "city": "Rouyn-Noranda, Quebec"
   },
   {
-    "id": "qmjhl_20260505_898",
+    "id": "qmjhl_20260505_01",
+    "league": "QMJHL",
+    "date": "2026-05-05T22:00:00Z",
+    "team": "Moncton Wildcats",
+    "opponent": "Blainville-Boisbriand Armada",
+    "arena": "Avenir Centre",
+    "city": "Moncton, New Brunswick"
+  },
+  {
+    "id": "qmjhl_20260505_02",
     "league": "QMJHL",
     "date": "2026-05-05T23:00:00Z",
     "team": "Chicoutimi Saguenéens",
