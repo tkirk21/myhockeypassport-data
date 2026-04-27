@@ -7145,6 +7145,15 @@
     "city": "Prince Albert, Saskatchewan"
   },
   {
+    "id": "whl_20260427_01",
+    "league": "WHL",
+    "date": "2026-04-28T02:05:00Z",
+    "team": "Penticton Vees",
+    "opponent": "Everett Silvertips",
+    "arena": "South Okanagan Events Centre",
+    "city": "Penticton, British Columbia"
+  },
+  {
     "id": "whl_20260428_01",
     "league": "WHL",
     "date": "2026-04-29T01:00:00Z",
@@ -7152,6 +7161,15 @@
     "opponent": "Prince Albert Raiders",
     "arena": "Co-op Place",
     "city": "Medicine Hat, Alberta"
+  },
+  {
+    "id": "whl_20260428_02",
+    "league": "WHL",
+    "date": "2026-04-29T02:05:00Z",
+    "team": "Penticton Vees",
+    "opponent": "Everett Silvertips",
+    "arena": "South Okanagan Events Centre",
+    "city": "Penticton, British Columbia"
   },
   {
     "id": "whl_20260429_01",
@@ -7172,6 +7190,15 @@
     "city": "Prince Albert, Saskatchewan"
   },
   {
+    "id": "whl_20260501_02",
+    "league": "WHL",
+    "date": "2026-05-02T02:00:00Z",
+    "team": "Everett Silvertips",
+    "opponent": "Penticton Vees",
+    "arena": "Angel of the Winds Arena",
+    "city": "Everett, Washington"
+  },
+  {
     "id": "whl_20260503_01",
     "league": "WHL",
     "date": "2026-05-04T00:00:00Z",
@@ -7181,6 +7208,15 @@
     "city": "Medicine Hat, Alberta"
   },
   {
+    "id": "whl_20260503_02",
+    "league": "WHL",
+    "date": "2026-05-04T01:05:00Z",
+    "team": "Penticton Vees",
+    "opponent": "Everett Silvertips",
+    "arena": "South Okanagan Events Centre",
+    "city": "Penticton, British Columbia"
+  },
+  {
     "id": "whl_20260505_01",
     "league": "WHL",
     "date": "2026-05-06T01:00:00Z",
@@ -7188,5 +7224,14 @@
     "opponent": "Medicine Hat Tigers",
     "arena": "Art Hauser Centre",
     "city": "Prince Albert, Saskatchewan"
+  },
+  {
+    "id": "whl_20260505_02",
+    "league": "WHL",
+    "date": "2026-05-06T02:05:00Z",
+    "team": "Everett Silvertips",
+    "opponent": "Penticton Vees",
+    "arena": "Angel of the Winds Arena",
+    "city": "Everett, Washington"
   }
 ]
