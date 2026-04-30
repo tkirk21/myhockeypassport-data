@@ -565,5 +565,68 @@
     "opponent": "Minnesota Frost",
     "arena": "Pacific Coliseum",
     "city": "Vancouver, British Columbia"
+  },
+  {
+    "id": "pwhl_20260430_01",
+    "league": "PWHL",
+    "team": "Boston Fleet",
+    "opponent": "Ottawa Charge",
+    "arena": "Tsongas Center",
+    "city": "Lowell, Massachusetts",
+    "date": "2026-05-01T00:00:00Z"
+  },
+  {
+    "id": "pwhl_20260502_01",
+    "league": "PWHL",
+    "team": "Montreal Victoire",
+    "opponent": "Minnesota Frost",
+    "arena": "Place Bell",
+    "city": "Laval, Quebec",
+    "date": "2026-05-02T18:00:00Z"
+  },
+  {
+    "id": "pwhl_20260502_02",
+    "league": "PWHL",
+    "team": "Boston Fleet",
+    "opponent": "Ottawa Charge",
+    "arena": "Tsongas Center",
+    "city": "Lowell, Massachusetts",
+    "date": "2026-05-02T23:00:00Z"
+  },
+  {
+    "id": "pwhl_20260505_01",
+    "league": "PWHL",
+    "team": "Montreal Victoire",
+    "opponent": "Minnesota Frost",
+    "arena": "Place Bell",
+    "city": "Laval, Quebec",
+    "date": "2026-05-05T23:00:00Z"
+  },
+  {
+    "id": "pwhl_20260507_01",
+    "league": "PWHL",
+    "team": "Minnesota Frost",
+    "opponent": "Montreal Victoire",
+    "arena": "Grand Casino Arena",
+    "city": "St. Paul, Minnesota",
+    "date": "2026-05-07T23:00:00Z"
+  },
+  {
+    "id": "pwhl_20260508_01",
+    "league": "PWHL",
+    "team": "Ottawa Charge",
+    "opponent": "Boston Fleet",
+    "arena": "Canadian Tire Centre",
+    "city": "Ottawa, Ontario",
+    "date": "2026-05-08T23:00:00Z"
+  },
+  {
+    "id": "pwhl_20260510_01",
+    "league": "PWHL",
+    "team": "Ottawa Charge",
+    "opponent": "Boston Fleet",
+    "arena": "Canadian Tire Centre",
+    "city": "Ottawa, Ontario",
+    "date": "2026-05-10T19:00:00Z"
   }
 ]
