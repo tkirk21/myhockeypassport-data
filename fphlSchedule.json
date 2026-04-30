@@ -1807,5 +1807,50 @@
     "opponent": "Pee Dee IceCats",
     "arena": "Columbus Civic Center",
     "city": "Columbus, Georgia"
+  },
+  {
+    "id": "fphl_20260501_01",
+    "league": "FPHL",
+    "date": "2026-05-01T23:15:00Z",
+    "team": "Pee Dee IceCats",
+    "opponent": "Binghamton Black Bears",
+    "arena": "Florence Center",
+    "city": "Florence, South Carolina"
+  },
+  {
+    "id": "fphl_20260502_01",
+    "league": "FPHL",
+    "date": "2026-05-02T23:15:00Z",
+    "team": "Pee Dee IceCats",
+    "opponent": "Binghamton Black Bears",
+    "arena": "Florence Center",
+    "city": "Florence, South Carolina"
+  },
+  {
+    "id": "fphl_20260508_01",
+    "league": "FPHL",
+    "date": "2026-05-08T23:00:00Z",
+    "team": "Binghamton Black Bears",
+    "opponent": "Pee Dee IceCats",
+    "arena": "Visions Veterans Memorial Arena",
+    "city": "Binghamton, New York"
+  },
+  {
+    "id": "fphl_20260509_01",
+    "league": "FPHL",
+    "date": "2026-05-09T23:00:00Z",
+    "team": "Binghamton Black Bears",
+    "opponent": "Pee Dee IceCats",
+    "arena": "Visions Veterans Memorial Arena",
+    "city": "Binghamton, New York"
+  },
+  {
+    "id": "fphl_20260510_01",
+    "league": "FPHL",
+    "date": "2026-05-10T22:00:00Z",
+    "team": "Binghamton Black Bears",
+    "opponent": "Pee Dee IceCats",
+    "arena": "Visions Veterans Memorial Arena",
+    "city": "Binghamton, New York"
   }
 ]
