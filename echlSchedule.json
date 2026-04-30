@@ -9459,15 +9459,6 @@
     "city": "Savannah, Georgia"
   },
   {
-    "id": "echl_20260502_04",
-    "league": "ECHL",
-    "date": "2026-05-03T00:10:00Z",
-    "team": "Allen Americans",
-    "opponent": "Idaho Steelheads",
-    "arena": "Credit Union of Texas Event Center",
-    "city": "Allen, Texas"
-  },
-  {
     "id": "echl_20260502_05",
     "league": "ECHL",
     "date": "2026-05-03T02:00:00Z",
@@ -9484,15 +9475,6 @@
     "opponent": "Indy Fuel",
     "arena": "Memorial Coliseum",
     "city": "Fort Wayne, Indiana"
-  },
-  {
-    "id": "echl_20260503_02",
-    "league": "ECHL",
-    "date": "2026-05-03T21:10:00Z",
-    "team": "Allen Americans",
-    "opponent": "Idaho Steelheads",
-    "arena": "Credit Union of Texas Event Center",
-    "city": "Allen, Texas"
   },
   {
     "id": "echl_20260503_03",
