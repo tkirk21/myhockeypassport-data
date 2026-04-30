@@ -34,5 +34,68 @@
     "opponent": "Fribourg-Gottéron",
     "arena": "zondacrypto Arena",
     "city": "Davos, Switzerland"
+  },
+  {
+    "id": "liiga_20260502_01",
+    "league": "Liiga",
+    "team": "Tappara",
+    "opponent": "KooKoo",
+    "arena": "Nokia Arena",
+    "city": "Tampere, Finland",
+    "date": "2026-05-02T14:00:00Z"
+  },
+  {
+    "id": "liiga_20260504_01",
+    "league": "Liiga",
+    "team": "KooKoo",
+    "opponent": "Tappara",
+    "arena": "Lumon Areena",
+    "city": "Kouvola, Finland",
+    "date": "2026-05-04T15:30:00Z"
+  },
+  {
+    "id": "liiga_20260506_01",
+    "league": "Liiga",
+    "team": "Tappara",
+    "opponent": "KooKoo",
+    "arena": "Nokia Arena",
+    "city": "Tampere, Finland",
+    "date": "2026-05-06T15:30:00Z"
+  },
+  {
+    "id": "liiga_20260508_01",
+    "league": "Liiga",
+    "team": "KooKoo",
+    "opponent": "Tappara",
+    "arena": "Lumon Areena",
+    "city": "Kouvola, Finland",
+    "date": "2026-05-08T15:30:00Z"
+  },
+  {
+    "id": "liiga_20260509_01",
+    "league": "Liiga",
+    "team": "Tappara",
+    "opponent": "KooKoo",
+    "arena": "Nokia Arena",
+    "city": "Tampere, Finland",
+    "date": "2026-05-09T14:00:00Z"
+  },
+  {
+    "id": "liiga_20260511_01",
+    "league": "Liiga",
+    "team": "KooKoo",
+    "opponent": "Tappara",
+    "arena": "Lumon Areena",
+    "city": "Kouvola, Finland",
+    "date": "2026-05-11T15:30:00Z"
+  },
+  {
+    "id": "liiga_20260513_01",
+    "league": "Liiga",
+    "team": "Tappara",
+    "opponent": "KooKoo",
+    "arena": "Nokia Arena",
+    "city": "Tampere, Finland",
+    "date": "2026-05-13T15:30:00Z"
   }
 ]
