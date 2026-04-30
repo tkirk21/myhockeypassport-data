@@ -12941,15 +12941,7 @@
     "arena": "Wells Fargo Center",
     "city": "Philadelphia, Pennsylvania"
   },
-  {
-    "id": "nhl_20260502_02",
-    "league": "NHL",
-    "date": "2026-05-02T23:30:00Z",
-    "team": "Pittsburgh Penguins",
-    "opponent": "Philadelphia Flyers",
-    "arena": "PPG Paints Arena",
-    "city": "Pittsburgh, Pennsylvania"
-  },
+ 
   {
     "id": "nhl_20260419_03",
     "league": "NHL",
