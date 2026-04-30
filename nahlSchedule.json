@@ -3517,5 +3517,185 @@
     "opponent": "Aberdeen Wings",
     "arena": "VFW Sports Center",
     "city": "Bismarck, North Dakota"
+  },
+  {
+    "id": "nahl_20260501_01",
+    "league": "NAHL",
+    "team": "Maryland Black Bears",
+    "opponent": "Rochester Jr. Americans",
+    "arena": "Piney Orchard Ice Arena",
+    "city": "Odenton, Maryland",
+    "date": "2026-05-01T23:00:00Z"
+  },
+  {
+    "id": "nahl_20260501_02",
+    "league": "NAHL",
+    "team": "Austin Bruins",
+    "opponent": "Aberdeen Wings",
+    "arena": "Riverside Arena",
+    "city": "Austin, Minnesota",
+    "date": "2026-05-02T00:05:00Z"
+  },
+  {
+    "id": "nahl_20260501_03",
+    "league": "NAHL",
+    "team": "Minnesota Wilderness",
+    "opponent": "Wisconsin Windigo",
+    "arena": "St. Lukes Sports and Event Center",
+    "city": "Superior, Wisconsin",
+    "date": "2026-05-02T00:15:00Z"
+  },
+  {
+    "id": "nahl_20260501_04",
+    "league": "NAHL",
+    "team": "Lone Star Brahmas",
+    "opponent": "El Paso Rhinos",
+    "arena": "NYTEX Sports Centre",
+    "city": "North Richland Hills, Texas",
+    "date": "2026-05-02T00:30:00Z"
+  },
+  {
+    "id": "nahl_20260502_01",
+    "league": "NAHL",
+    "team": "Maryland Black Bears",
+    "opponent": "Rochester Jr. Americans",
+    "arena": "Piney Orchard Ice Arena",
+    "city": "Odenton, Maryland",
+    "date": "2026-05-02T22:30:00Z"
+  },
+  {
+    "id": "nahl_20260502_02",
+    "league": "NAHL",
+    "team": "Austin Bruins",
+    "opponent": "Aberdeen Wings",
+    "arena": "Riverside Arena",
+    "city": "Austin, Minnesota",
+    "date": "2026-05-03T00:05:00Z"
+  },
+  {
+    "id": "nahl_20260502_03",
+    "league": "NAHL",
+    "team": "Minnesota Wilderness",
+    "opponent": "Wisconsin Windigo",
+    "arena": "St. Lukes Sports and Event Center",
+    "city": "Superior, Wisconsin",
+    "date": "2026-05-03T00:15:00Z"
+  },
+  {
+    "id": "nahl_20260502_04",
+    "league": "NAHL",
+    "team": "Lone Star Brahmas",
+    "opponent": "El Paso Rhinos",
+    "arena": "NYTEX Sports Centre",
+    "city": "North Richland Hills, Texas",
+    "date": "2026-05-03T00:30:00Z"
+  },
+  {
+    "id": "nahl_20260507_01",
+    "league": "NAHL",
+    "team": "Rochester Jr. Americans",
+    "opponent": "Maryland Black Bears",
+    "arena": "Rochester Ice Center",
+    "city": "Fairport, New York",
+    "date": "2026-05-07T23:00:00Z"
+  },
+  {
+    "id": "nahl_20260507_02",
+    "league": "NAHL",
+    "team": "El Paso Rhinos",
+    "opponent": "Lone Star Brahmas",
+    "arena": "El Paso County Coliseum",
+    "city": "El Paso, Texas",
+    "date": "2026-05-08T01:00:00Z"
+  },
+  {
+    "id": "nahl_20260508_01",
+    "league": "NAHL",
+    "team": "Rochester Jr. Americans",
+    "opponent": "Maryland Black Bears",
+    "arena": "Rochester Ice Center",
+    "city": "Fairport, New York",
+    "date": "2026-05-08T23:00:00Z"
+  },
+  {
+    "id": "nahl_20260508_02",
+    "league": "NAHL",
+    "team": "Wisconsin Windigo",
+    "opponent": "Minnesota Wilderness",
+    "arena": "The Ponds of Brookfield",
+    "city": "Brookfield, Wisconsin",
+    "date": "2026-05-08T23:35:00Z"
+  },
+  {
+    "id": "nahl_20260508_03",
+    "league": "NAHL",
+    "team": "Aberdeen Wings",
+    "opponent": "Austin Bruins",
+    "arena": "Odde Ice Center",
+    "city": "Aberdeen, South Dakota",
+    "date": "2026-05-09T00:15:00Z"
+  },
+  {
+    "id": "nahl_20260508_04",
+    "league": "NAHL",
+    "team": "El Paso Rhinos",
+    "opponent": "Lone Star Brahmas",
+    "arena": "El Paso County Coliseum",
+    "city": "El Paso, Texas",
+    "date": "2026-05-09T01:00:00Z"
+  },
+  {
+    "id": "nahl_20260509_01",
+    "league": "NAHL",
+    "team": "Wisconsin Windigo",
+    "opponent": "Minnesota Wilderness",
+    "arena": "The Ponds of Brookfield",
+    "city": "Brookfield, Wisconsin",
+    "date": "2026-05-09T23:35:00Z"
+  },
+  {
+    "id": "nahl_20260509_02",
+    "league": "NAHL",
+    "team": "Aberdeen Wings",
+    "opponent": "Austin Bruins",
+    "arena": "Odde Ice Center",
+    "city": "Aberdeen, South Dakota",
+    "date": "2026-05-10T00:15:00Z"
+  },
+  {
+    "id": "nahl_20260510_01",
+    "league": "NAHL",
+    "team": "Maryland Black Bears",
+    "opponent": "Rochester Jr. Americans",
+    "arena": "Piney Orchard Ice Arena",
+    "city": "Odenton, Maryland",
+    "date": "2026-05-10T22:00:00Z"
+  },
+  {
+    "id": "nahl_20260510_02",
+    "league": "NAHL",
+    "team": "Lone Star Brahmas",
+    "opponent": "El Paso Rhinos",
+    "arena": "NYTEX Sports Centre",
+    "city": "North Richland Hills, Texas",
+    "date": "2026-05-10T23:00:00Z"
+  },
+  {
+    "id": "nahl_20260511_01",
+    "league": "NAHL",
+    "team": "Minnesota Wilderness",
+    "opponent": "Wisconsin Windigo",
+    "arena": "St. Lukes Sports and Event Center",
+    "city": "Superior, Wisconsin",
+    "date": "2026-05-11T23:15:00Z"
+  },
+  {
+    "id": "nahl_20260511_02",
+    "league": "NAHL",
+    "team": "Austin Bruins",
+    "opponent": "Aberdeen Wings",
+    "arena": "Riverside Arena",
+    "city": "Austin, Minnesota",
+    "date": "2026-05-12T00:05:00Z"
   }
 ]
