@@ -7209,6 +7209,15 @@
     "city": "Cedar Park, Texas"
   },
   {
+    "id": "ahl_20260430_02",
+    "league": "AHL",
+    "date": "2026-04-30T23:05:00Z",
+    "team": "Wilkes-Barre/Scranton Penguins",
+    "opponent": "Hershey Bears",
+    "arena": "Mohegan Arena at Casey Plaza",
+    "city": "Wilkes-Barre, Pennsylvania"
+  }
+  {
     "id": "ahl_20260501_01",
     "league": "AHL",
     "date": "2026-05-01T23:00:00Z",
