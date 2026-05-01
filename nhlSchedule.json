@@ -13033,15 +13033,6 @@
     "city": "St. Paul, Minnesota"
   },
   {
-    "id": "nhl_20260503_03",
-    "league": "NHL",
-    "date": "2026-05-03T00:30:00Z",
-    "team": "Dallas Stars",
-    "opponent": "Minnesota Wild",
-    "arena": "American Airlines Center",
-    "city": "Dallas, Texas"
-  },
-  {
     "id": "nhl_20260420_03",
     "league": "NHL",
     "date": "2026-04-20T02:00:00Z",
