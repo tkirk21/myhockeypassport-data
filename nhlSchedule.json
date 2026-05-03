@@ -13148,5 +13148,23 @@
     "opponent": "Edmonton Oilers",
     "arena": "Honda Center",
     "city": "Anaheim, California"
+  },
+  {
+    "id": "nhl_20260502_01",
+    "league": "NHL",
+    "date": "2026-05-02T23:00:00Z",
+    "team": "Carolina Hurricanes",
+    "opponent": "Philadelphia Flyers",
+    "arena": "PNC Arena",
+    "city": "Raleigh, North Carolina"
+  },
+  {
+    "id": "nhl_20260503_01",
+    "league": "NHL",
+    "date": "2026-05-04T01:00:00Z",
+    "team": "Colorado Avalanche",
+    "opponent": "Minnesota Wild",
+    "arena": "Ball Arena",
+    "city": "Denver, Colorado"
   }
 ]
