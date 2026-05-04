@@ -13148,5 +13148,95 @@
     "opponent": "Minnesota Wild",
     "arena": "Ball Arena",
     "city": "Denver, Colorado"
+  },
+  {
+    "id": "nhl_20260504_01",
+    "league": "NHL",
+    "date": "2026-05-04T23:00:00Z",
+    "team": "Carolina Hurricanes",
+    "opponent": "Philadelphia Flyers",
+    "arena": "PNC Arena",
+    "city": "Raleigh, North Carolina"
+  },
+  {
+    "id": "nhl_20260504_02",
+    "league": "NHL",
+    "date": "2026-05-05T01:30:00Z",
+    "team": "Vegas Golden Knights",
+    "opponent": "Anaheim Ducks",
+    "arena": "T-Mobile Arena",
+    "city": "Las Vegas, Nevada"
+  },
+  {
+    "id": "nhl_20260505_01",
+    "league": "NHL",
+    "date": "2026-05-06T00:00:00Z",
+    "team": "Colorado Avalanche",
+    "opponent": "Minnesota Wild",
+    "arena": "Ball Arena",
+    "city": "Denver, Colorado"
+  },
+  {
+    "id": "nhl_20260506_01",
+    "league": "NHL",
+    "date": "2026-05-06T23:00:00Z",
+    "team": "Buffalo Sabres",
+    "opponent": "Montreal Canadiens",
+    "arena": "KeyBank Center",
+    "city": "Buffalo, New York"
+  },
+  {
+    "id": "nhl_20260506_02",
+    "league": "NHL",
+    "date": "2026-05-07T01:30:00Z",
+    "team": "Vegas Golden Knights",
+    "opponent": "Anaheim Ducks",
+    "arena": "T-Mobile Arena",
+    "city": "Las Vegas, Nevada"
+  },
+  {
+    "id": "nhl_20260507_01",
+    "league": "NHL",
+    "date": "2026-05-08T00:00:00Z",
+    "team": "Philadelphia Flyers",
+    "opponent": "Carolina Hurricanes",
+    "arena": "Wells Fargo Center",
+    "city": "Philadelphia, Pennsylvania"
+  },
+  {
+    "id": "nhl_20260508_01",
+    "league": "NHL",
+    "date": "2026-05-08T23:00:00Z",
+    "team": "Buffalo Sabres",
+    "opponent": "Montreal Canadiens",
+    "arena": "KeyBank Center",
+    "city": "Buffalo, New York"
+  },
+  {
+    "id": "nhl_20260508_02",
+    "league": "NHL",
+    "date": "2026-05-09T01:30:00Z",
+    "team": "Anaheim Ducks",
+    "opponent": "Vegas Golden Knights",
+    "arena": "Honda Center",
+    "city": "Anaheim, California"
+  },
+  {
+    "id": "nhl_20260509_01",
+    "league": "NHL",
+    "date": "2026-05-09T22:00:00Z",
+    "team": "Philadelphia Flyers",
+    "opponent": "Carolina Hurricanes",
+    "arena": "Wells Fargo Center",
+    "city": "Philadelphia, Pennsylvania"
+  },
+  {
+    "id": "nhl_20260509_02",
+    "league": "NHL",
+    "date": "2026-05-10T01:00:00Z",
+    "team": "Minnesota Wild",
+    "opponent": "Colorado Avalanche",
+    "arena": "Xcel Energy Center",
+    "city": "St. Paul, Minnesota"
   }
 ]
