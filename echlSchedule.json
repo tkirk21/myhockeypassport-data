@@ -9531,42 +9531,6 @@
     "city": "Portland, Maine"
   },
   {
-    "id": "echl_20260505_02",
-    "league": "ECHL",
-    "date": "2026-05-05T23:05:00Z",
-    "team": "Indy Fuel",
-    "opponent": "Fort Wayne Komets",
-    "arena": "Fishers Event Center",
-    "city": "Fishers, Indiana"
-  },
-  {
-    "id": "echl_20260505_03",
-    "league": "ECHL",
-    "date": "2026-05-05T23:05:00Z",
-    "team": "South Carolina Stingrays",
-    "opponent": "Atlanta Gladiators",
-    "arena": "North Charleston Coliseum",
-    "city": "North Charleston, South Carolina"
-  },
-  {
-    "id": "echl_20260505_04",
-    "league": "ECHL",
-    "date": "2026-05-05T23:15:00Z",
-    "team": "Toledo Walleye",
-    "opponent": "Bloomington Bison",
-    "arena": "Huntington Center",
-    "city": "Toledo, Ohio"
-  },
-  {
-    "id": "echl_20260505_05",
-    "league": "ECHL",
-    "date": "2026-05-05T23:30:00Z",
-    "team": "Florida Everblades",
-    "opponent": "Savannah Ghost Pirates",
-    "arena": "Hertz Arena",
-    "city": "Estero, Florida"
-  },
-  {
     "id": "echl_20260506_01",
     "league": "ECHL",
     "date": "2026-05-06T23:00:00Z",
@@ -9575,40 +9539,199 @@
     "arena": "Cross Insurance Arena",
     "city": "Portland, Maine"
   },
+
+
+
+
+
+
   {
-    "id": "echl_20260506_02",
+    "id": "echl_20260508_01",
     "league": "ECHL",
-    "date": "2026-05-06T23:05:00Z",
-    "team": "Fort Wayne Komets",
-    "opponent": "Indy Fuel",
-    "arena": "Memorial Coliseum",
-    "city": "Fort Wayne, Indiana"
+    "date": "2026-05-08T23:30:00Z",
+    "team": "Florida Everblades",
+    "opponent": "South Carolina Stingrays",
+    "arena": "Hertz Arena",
+    "city": "Estero, Florida"
   },
   {
-    "id": "echl_20260506_03",
+    "id": "echl_20260509_01",
     "league": "ECHL",
-    "date": "2026-05-06T23:10:00Z",
-    "team": "Wheeling Nailers",
-    "opponent": "Reading Royals",
-    "arena": "WesBanco Arena",
-    "city": "Wheeling, West Virginia"
+    "date": "2026-05-09T23:00:00Z",
+    "team": "Florida Everblades",
+    "opponent": "South Carolina Stingrays",
+    "arena": "Hertz Arena",
+    "city": "Estero, Florida"
   },
   {
-    "id": "echl_20260506_04",
+    "id": "echl_20260509_02",
     "league": "ECHL",
-    "date": "2026-05-07T00:05:00Z",
+    "date": "2026-05-10T00:05:00Z",
     "team": "Kansas City Mavericks",
-    "opponent": "Tahoe Knight Monsters",
+    "opponent": "Allen Americans",
     "arena": "Cable Dahmer Arena",
     "city": "Independence, Missouri"
   },
   {
-    "id": "echl_20260506_05",
+    "id": "echl_20260510_01",
     "league": "ECHL",
+    "date": "2026-05-10T21:05:00Z",
     "team": "Kansas City Mavericks",
-    "opponent": "Tulsa Oilers",
+    "opponent": "Allen Americans",
     "arena": "Cable Dahmer Arena",
-    "city": "Independence, Missouri",  
-    "date": "2026-04-26T15:30:00"
- }
+    "city": "Independence, Missouri"
+  },
+  {
+    "id": "echl_20260510_02",
+    "league": "ECHL",
+    "date": "2026-05-10T21:05:00Z",
+    "team": "Fort Wayne Komets",
+    "opponent": "Toledo Walleye",
+    "arena": "Memorial Coliseum",
+    "city": "Fort Wayne, Indiana"
+  },
+  {
+    "id": "echl_20260512_01",
+    "league": "ECHL",
+    "date": "2026-05-12T23:15:00Z",
+    "team": "Toledo Walleye",
+    "opponent": "Fort Wayne Komets",
+    "arena": "Huntington Center",
+    "city": "Toledo, Ohio"
+  },
+  {
+    "id": "echl_20260513_01",
+    "league": "ECHL",
+    "date": "2026-05-13T23:05:00Z",
+    "team": "South Carolina Stingrays",
+    "opponent": "Florida Everblades",
+    "arena": "North Charleston Coliseum",
+    "city": "North Charleston, South Carolina"
+  },
+  {
+    "id": "echl_20260513_02",
+    "league": "ECHL",
+    "date": "2026-05-14T00:10:00Z",
+    "team": "Allen Americans",
+    "opponent": "Kansas City Mavericks",
+    "arena": "Credit Union of Texas Event Center",
+    "city": "Allen, Texas"
+  },
+  {
+    "id": "echl_20260514_01",
+    "league": "ECHL",
+    "date": "2026-05-14T23:35:00Z",
+    "team": "Fort Wayne Komets",
+    "opponent": "Toledo Walleye",
+    "arena": "Memorial Coliseum",
+    "city": "Fort Wayne, Indiana"
+  },
+  {
+    "id": "echl_20260515_01",
+    "league": "ECHL",
+    "date": "2026-05-15T23:05:00Z",
+    "team": "South Carolina Stingrays",
+    "opponent": "Florida Everblades",
+    "arena": "North Charleston Coliseum",
+    "city": "North Charleston, South Carolina"
+  },
+  {
+    "id": "echl_20260515_02",
+    "league": "ECHL",
+    "date": "2026-05-15T23:15:00Z",
+    "team": "Toledo Walleye",
+    "opponent": "Fort Wayne Komets",
+    "arena": "Huntington Center",
+    "city": "Toledo, Ohio"
+  },
+  {
+    "id": "echl_20260516_01",
+    "league": "ECHL",
+    "date": "2026-05-16T23:15:00Z",
+    "team": "Toledo Walleye",
+    "opponent": "Fort Wayne Komets",
+    "arena": "Huntington Center",
+    "city": "Toledo, Ohio"
+  },
+  {
+    "id": "echl_20260516_02",
+    "league": "ECHL",
+    "date": "2026-05-17T00:10:00Z",
+    "team": "Allen Americans",
+    "opponent": "Kansas City Mavericks",
+    "arena": "Credit Union of Texas Event Center",
+    "city": "Allen, Texas"
+  },
+  {
+    "id": "echl_20260517_01",
+    "league": "ECHL",
+    "date": "2026-05-17T19:10:00Z",
+    "team": "Allen Americans",
+    "opponent": "Kansas City Mavericks",
+    "arena": "Credit Union of Texas Event Center",
+    "city": "Allen, Texas"
+  },
+  {
+    "id": "echl_20260517_02",
+    "league": "ECHL",
+    "date": "2026-05-17T23:05:00Z",
+    "team": "South Carolina Stingrays",
+    "opponent": "Florida Everblades",
+    "arena": "North Charleston Coliseum",
+    "city": "North Charleston, South Carolina"
+  },
+  {
+    "id": "echl_20260519_01",
+    "league": "ECHL",
+    "date": "2026-05-19T23:30:00Z",
+    "team": "Florida Everblades",
+    "opponent": "South Carolina Stingrays",
+    "arena": "Hertz Arena",
+    "city": "Estero, Florida"
+  },
+  {
+    "id": "echl_20260519_02",
+    "league": "ECHL",
+    "date": "2026-05-19T23:35:00Z",
+    "team": "Fort Wayne Komets",
+    "opponent": "Toledo Walleye",
+    "arena": "Memorial Coliseum",
+    "city": "Fort Wayne, Indiana"
+  },
+  {
+    "id": "echl_20260519_03",
+    "league": "ECHL",
+    "date": "2026-05-20T00:05:00Z",
+    "team": "Kansas City Mavericks",
+    "opponent": "Allen Americans",
+    "arena": "Community Ice",
+    "city": "Independence, Missouri"
+  },
+  {
+    "id": "echl_20260520_01",
+    "league": "ECHL",
+    "date": "2026-05-20T23:30:00Z",
+    "team": "Florida Everblades",
+    "opponent": "South Carolina Stingrays",
+    "arena": "Hertz Arena",
+    "city": "Estero, Florida"
+  },
+  {
+    "id": "echl_20260520_02",
+    "league": "ECHL",
+    "date": "2026-05-20T23:35:00Z",
+    "team": "Fort Wayne Komets",
+    "opponent": "Toledo Walleye",
+    "arena": "Memorial Coliseum",
+    "city": "Fort Wayne, Indiana"
+  },
+  {
+    "id": "echl_20260520_03",
+    "league": "ECHL",
+    "date": "2026-05-21T00:05:00Z",
+    "team": "Kansas City Mavericks",
+    "opponent": "Allen Americans",
+    "arena": "Community Ice",
+    "city": "Independence, Missouri"
+  }
 ]
