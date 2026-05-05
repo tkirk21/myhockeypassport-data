@@ -6829,5 +6829,64 @@
     "opponent": "Windsor Spitfires",
     "arena": "Kitchener Memorial Auditorium",
     "city": "Kitchener, Ontario"
+  },
+
+
+
+
+  {
+    "id": "ohl_20260506_01",
+    "league": "OHL",
+    "date": "2026-05-06T23:00:00Z",
+    "team": "Kitchener Rangers",
+    "opponent": "Barrie Colts",
+    "arena": "Kitchener Memorial Auditorium",
+    "city": "Kitchener, Ontario"
+  },
+  {
+    "id": "ohl_20260508_01",
+    "league": "OHL",
+    "date": "2026-05-08T23:00:00Z",
+    "team": "Kitchener Rangers",
+    "opponent": "Barrie Colts",
+    "arena": "Kitchener Memorial Auditorium",
+    "city": "Kitchener, Ontario"
+  },
+  {
+    "id": "ohl_20260510_01",
+    "league": "OHL",
+    "date": "2026-05-10T22:00:00Z",
+    "team": "Barrie Colts",
+    "opponent": "Kitchener Rangers",
+    "arena": "Sadlon Arena",
+    "city": "Barrie, Ontario"
+  },
+  {
+    "id": "ohl_20260512_01",
+    "league": "OHL",
+    "date": "2026-05-12T23:00:00Z",
+    "team": "Barrie Colts",
+    "opponent": "Kitchener Rangers",
+    "arena": "Sadlon Arena",
+    "city": "Barrie, Ontario"
+  },
+  {
+    "id": "ohl_20260514_01",
+    "league": "OHL",
+    "date": "2026-05-14T23:00:00Z",
+    "team": "Kitchener Rangers",
+    "opponent": "Barrie Colts",
+    "arena": "Kitchener Memorial Auditorium",
+    "city": "Kitchener, Ontario"
+  },
+  {
+    "id": "ohl_20260516_01",
+    "league": "OHL",
+    "date": "2026-05-16T22:00:00Z",
+    "team": "Barrie Colts",
+    "opponent": "Kitchener Rangers",
+    "arena": "Sadlon Arena",
+    "city": "Barrie, Ontario"
   }
+  
 ]
