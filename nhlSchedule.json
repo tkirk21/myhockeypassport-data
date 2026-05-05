@@ -13238,5 +13238,40 @@
     "opponent": "Colorado Avalanche",
     "arena": "Xcel Energy Center",
     "city": "St. Paul, Minnesota"
+  },
+
+
+
+
+
+  {
+    "id": "nhl_20260509_03",
+    "league": "NHL",
+    "date": "2026-05-09T22:00:00Z",
+    "team": "Philadelphia Flyers",
+    "opponent": "Carolina Hurricanes",
+    "arena": "Wells Fargo Center",
+    "city": "Philadelphia, Pennsylvania"
+  },
+  {
+    "id": "nhl_20260510_03",
+    "league": "NHL",
+    "date": "2026-05-10T23:00:00Z",
+    "team": "Montreal Canadiens",
+    "opponent": "Buffalo Sabres",
+    "arena": "Bell Centre",
+    "city": "Montreal, Quebec"
+  },
+  {
+    "id": "nhl_20260510_04",
+    "league": "NHL",
+    "date": "2026-05-11T01:30:00Z",
+    "team": "Anaheim Ducks",
+    "opponent": "Vegas Golden Knights",
+    "arena": "Honda Center",
+    "city": "Anaheim, California"
   }
+
+
+  
 ]
