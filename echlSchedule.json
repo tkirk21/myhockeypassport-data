@@ -9573,6 +9573,14 @@
     "city": "Independence, Missouri"
   },
   {
+    "id": "echl_20260509_03",
+    "league": "ECHL",
+    "date": "2026-05-09T23:10:00Z",
+    "team": "Wheeling Nailers",
+    "opponent": "Maine Mariners",
+    "city": "Wheeling, West Virginia"
+  },
+  {
     "id": "echl_20260510_01",
     "league": "ECHL",
     "date": "2026-05-10T21:05:00Z",
@@ -9591,7 +9599,25 @@
     "city": "Fort Wayne, Indiana"
   },
   {
+    "id": "echl_20260511_01",
+    "league": "ECHL",
+    "date": "2026-05-11T23:00:00Z",
+    "team": "Maine Mariners",
+    "opponent": "Wheeling Nailers",
+    "arena": "Cross Insurance Arena",
+    "city": "Portland, Maine"
+  },
+  {
     "id": "echl_20260512_01",
+    "league": "ECHL",
+    "date": "2026-05-12T23:00:00Z",
+    "team": "Maine Mariners",
+    "opponent": "Wheeling Nailers",
+    "arena": "Cross Insurance Arena",
+    "city": "Portland, Maine"
+  },
+  {
+    "id": "echl_20260512_02",
     "league": "ECHL",
     "date": "2026-05-12T23:15:00Z",
     "team": "Toledo Walleye",
@@ -9602,6 +9628,15 @@
   {
     "id": "echl_20260513_01",
     "league": "ECHL",
+    "date": "2026-05-13T23:00:00Z",
+    "team": "Maine Mariners",
+    "opponent": "Wheeling Nailers",
+    "arena": "Cross Insurance Arena",
+    "city": "Portland, Maine"
+  },
+  {
+    "id": "echl_20260513_02",
+    "league": "ECHL",
     "date": "2026-05-13T23:05:00Z",
     "team": "South Carolina Stingrays",
     "opponent": "Florida Everblades",
@@ -9609,7 +9644,7 @@
     "city": "North Charleston, South Carolina"
   },
   {
-    "id": "echl_20260513_02",
+    "id": "echl_20260513_03",
     "league": "ECHL",
     "date": "2026-05-14T00:10:00Z",
     "team": "Allen Americans",
@@ -9647,6 +9682,15 @@
   {
     "id": "echl_20260516_01",
     "league": "ECHL",
+    "date": "2026-05-16T23:10:00Z",
+    "team": "Wheeling Nailers",
+    "opponent": "Maine Mariners",
+    "arena": "WesBanco Arena",
+    "city": "Wheeling, West Virginia"
+  },
+  {
+    "id": "echl_20260516_02",
+    "league": "ECHL",
     "date": "2026-05-16T23:15:00Z",
     "team": "Toledo Walleye",
     "opponent": "Fort Wayne Komets",
@@ -9654,7 +9698,7 @@
     "city": "Toledo, Ohio"
   },
   {
-    "id": "echl_20260516_02",
+    "id": "echl_20260516_03",
     "league": "ECHL",
     "date": "2026-05-17T00:10:00Z",
     "team": "Allen Americans",
@@ -9681,7 +9725,16 @@
     "city": "North Charleston, South Carolina"
   },
   {
-    "id": "echl_20260519_01",
+    "id": "echl_20260518_01",
+    "league": "ECHL",
+    "date": "2026-05-18T23:10:00Z",
+    "team": "Wheeling Nailers",
+    "opponent": "Maine Mariners",
+    "arena": "WesBanco Arena",
+    "city": "Wheeling, West Virginia"
+  },
+  {
+    "id": "echl_20260519_04",
     "league": "ECHL",
     "date": "2026-05-19T23:30:00Z",
     "team": "Florida Everblades",
@@ -9690,7 +9743,7 @@
     "city": "Estero, Florida"
   },
   {
-    "id": "echl_20260519_02",
+    "id": "echl_20260519_05",
     "league": "ECHL",
     "date": "2026-05-19T23:35:00Z",
     "team": "Fort Wayne Komets",
@@ -9699,16 +9752,16 @@
     "city": "Fort Wayne, Indiana"
   },
   {
-    "id": "echl_20260519_03",
+    "id": "echl_20260519_06",
     "league": "ECHL",
     "date": "2026-05-20T00:05:00Z",
     "team": "Kansas City Mavericks",
     "opponent": "Allen Americans",
-    "arena": "Community Ice",
+    "arena": "Cable Dahmer Arena",
     "city": "Independence, Missouri"
   },
   {
-    "id": "echl_20260520_01",
+    "id": "echl_20260520_04",
     "league": "ECHL",
     "date": "2026-05-20T23:30:00Z",
     "team": "Florida Everblades",
@@ -9717,7 +9770,7 @@
     "city": "Estero, Florida"
   },
   {
-    "id": "echl_20260520_02",
+    "id": "echl_20260520_05",
     "league": "ECHL",
     "date": "2026-05-20T23:35:00Z",
     "team": "Fort Wayne Komets",
@@ -9726,12 +9779,13 @@
     "city": "Fort Wayne, Indiana"
   },
   {
-    "id": "echl_20260520_03",
+    "id": "echl_20260520_06",
     "league": "ECHL",
     "date": "2026-05-21T00:05:00Z",
     "team": "Kansas City Mavericks",
     "opponent": "Allen Americans",
-    "arena": "Community Ice",
+    "arena": "Cable Dahmer Arena",
     "city": "Independence, Missouri"
   }
+  
 ]
