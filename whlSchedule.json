@@ -7233,5 +7233,59 @@
     "opponent": "Penticton Vees",
     "arena": "Angel of the Winds Arena",
     "city": "Everett, Washington"
+  },
+  {
+    "id": "whl_20260509_03",
+    "league": "WHL",
+    "date": "2026-05-10T01:00:00Z",
+    "team": "Everett Silvertips",
+    "opponent": "Prince Albert Raiders",
+    "arena": "Angel of the Winds Arena",
+    "city": "Everett, Washington"
+  },
+  {
+    "id": "whl_20260512_03",
+    "league": "WHL",
+    "date": "2026-05-13T01:30:00Z",
+    "team": "Prince Albert Raiders",
+    "opponent": "Everett Silvertips",
+    "arena": "Art Hauser Centre",
+    "city": "Prince Albert, Saskatchewan"
+  },
+  {
+    "id": "whl_20260513_03",
+    "league": "WHL",
+    "date": "2026-05-14T01:30:00Z",
+    "team": "Prince Albert Raiders",
+    "opponent": "Everett Silvertips",
+    "arena": "Art Hauser Centre",
+    "city": "Prince Albert, Saskatchewan"
+  },
+  {
+    "id": "whl_20260515_03",
+    "league": "WHL",
+    "date": "2026-05-16T01:30:00Z",
+    "team": "Prince Albert Raiders",
+    "opponent": "Everett Silvertips",
+    "arena": "Art Hauser Centre",
+    "city": "Prince Albert, Saskatchewan"
+  },
+  {
+    "id": "whl_20260517_03",
+    "league": "WHL",
+    "date": "2026-05-18T02:00:00Z",
+    "team": "Everett Silvertips",
+    "opponent": "Prince Albert Raiders",
+    "arena": "Angel of the Winds Arena",
+    "city": "Everett, Washington"
+  },
+  {
+    "id": "whl_20260518_01",
+    "league": "WHL",
+    "date": "2026-05-19T02:00:00Z",
+    "team": "Everett Silvertips",
+    "opponent": "Prince Albert Raiders",
+    "arena": "Angel of the Winds Arena",
+    "city": "Everett, Washington"
   }
 ]
