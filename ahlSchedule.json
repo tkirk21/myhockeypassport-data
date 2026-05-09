@@ -7443,49 +7443,13 @@
     "city": "Grand Rapids, Michigan"
   },
   {
-    "id": "ahl_20260508_02",
+    "id": "ahl_20260509_07",
     "league": "AHL",
-    "date": "2026-05-08T23:00:00Z",
+    "date": "2026-05-09T19:00:00Z",
     "team": "Laval Rocket",
     "opponent": "Toronto Marlies",
     "arena": "Place Bell",
     "city": "Laval, Quebec"
-  },
-  {
-    "id": "ahl_20260509_01",
-    "league": "AHL",
-    "date": "2026-05-09T21:00:00Z",
-    "team": "Syracuse Crunch",
-    "opponent": "Cleveland Monsters",
-    "arena": "Upstate Medical University Arena",
-    "city": "Syracuse, New York"
-  },
-  {
-    "id": "ahl_20260509_02",
-    "league": "AHL",
-    "date": "2026-05-09T22:05:00Z",
-    "team": "Wilkes-Barre/Scranton Penguins",
-    "opponent": "Hershey Bears",
-    "arena": "Mohegan Arena at Casey Plaza",
-    "city": "Wilkes-Barre, Pennsylvania"
-  },
-  {
-    "id": "ahl_20260509_03",
-    "league": "AHL",
-    "date": "2026-05-09T23:00:00Z",
-    "team": "Grand Rapids Griffins",
-    "opponent": "Manitoba Moose",
-    "arena": "Van Andel Arena",
-    "city": "Grand Rapids, Michigan"
-  },
-  {
-    "id": "ahl_20260509_04",
-    "league": "AHL",
-    "date": "2026-05-09T23:05:00Z",
-    "team": "Providence Bruins",
-    "opponent": "Springfield Thunderbirds",
-    "arena": "Amica Mutual Pavilion",
-    "city": "Providence, Rhode Island"
   },
   {
     "id": "ahl_20260509_05",
@@ -7513,5 +7477,96 @@
     "opponent": "Henderson Silver Knights",
     "arena": "Blue Arena",
     "city": "Loveland, Colorado"
-  }
+  },
+  {
+    "id": "ahl_20260512_01",
+    "league": "AHL",
+    "date": "2026-05-12T23:05:00Z",
+    "team": "Wilkes-Barre/Scranton Penguins",
+    "opponent": "Springfield Thunderbirds",
+    "arena": "Mohegan Arena at Casey Plaza",
+    "city": "Wilkes-Barre, Pennsylvania"
+  },
+  {
+    "id": "ahl_20260514_01",
+    "league": "AHL",
+    "date": "2026-05-14T23:00:00Z",
+    "team": "Grand Rapids Griffins",
+    "opponent": "Chicago Wolves",
+    "arena": "Van Andel Arena",
+    "city": "Grand Rapids, Michigan"
+  },
+  {
+    "id": "ahl_20260514_02",
+    "league": "AHL",
+    "date": "2026-05-14T23:05:00Z",
+    "team": "Wilkes-Barre/Scranton Penguins",
+    "opponent": "Springfield Thunderbirds",
+    "arena": "Mohegan Arena at Casey Plaza",
+    "city": "Wilkes-Barre, Pennsylvania"
+  },
+  {
+    "id": "ahl_20260516_01",
+    "league": "AHL",
+    "date": "2026-05-16T23:00:00Z",
+    "team": "Grand Rapids Griffins",
+    "opponent": "Chicago Wolves",
+    "arena": "Van Andel Arena",
+    "city": "Grand Rapids, Michigan"
+  },
+  {
+    "id": "ahl_20260519_01",
+    "league": "AHL",
+    "date": "2026-05-19T23:05:00Z",
+    "team": "Springfield Thunderbirds",
+    "opponent": "Wilkes-Barre/Scranton Penguins",
+    "arena": "MassMutual Center",
+    "city": "Springfield, Massachusetts"
+  },
+  {
+    "id": "ahl_20260519_02",
+    "league": "AHL",
+    "date": "2026-05-20T00:00:00Z",
+    "team": "Chicago Wolves",
+    "opponent": "Grand Rapids Griffins",
+    "arena": "Allstate Arena",
+    "city": "Rosemont, Illinois"
+  },
+  {
+    "id": "ahl_20260521_01",
+    "league": "AHL",
+    "date": "2026-05-21T23:05:00Z",
+    "team": "Springfield Thunderbirds",
+    "opponent": "Wilkes-Barre/Scranton Penguins",
+    "arena": "MassMutual Center",
+    "city": "Springfield, Massachusetts"
+  },
+  {
+    "id": "ahl_20260521_02",
+    "league": "AHL",
+    "date": "2026-05-22T00:00:00Z",
+    "team": "Chicago Wolves",
+    "opponent": "Grand Rapids Griffins",
+    "arena": "Allstate Arena",
+    "city": "Rosemont, Illinois"
+  },
+  {
+    "id": "ahl_20260523_01",
+    "league": "AHL",
+    "date": "2026-05-23T22:05:00Z",
+    "team": "Wilkes-Barre/Scranton Penguins",
+    "opponent": "Springfield Thunderbirds",
+    "arena": "Mohegan Arena at Casey Plaza",
+    "city": "Wilkes-Barre, Pennsylvania"
+  },
+  {
+    "id": "ahl_20260523_02",
+    "league": "AHL",
+    "date": "2026-05-23T23:00:00Z",
+    "team": "Grand Rapids Griffins",
+    "opponent": "Chicago Wolves",
+    "arena": "Van Andel Arena",
+    "city": "Grand Rapids, Michigan"
+  } 
+  
 ]
