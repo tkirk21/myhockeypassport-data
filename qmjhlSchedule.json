@@ -5965,5 +5965,59 @@
     "opponent": "Rouyn-Noranda Huskies",
     "arena": "Centre Georges-Vézina",
     "city": "Chicoutimi, Quebec"
+  },
+  {
+    "id": "qmjhl_20260509_01",
+    "league": "QMJHL",
+    "date": "2026-05-09T22:00:00Z",
+    "team": "Moncton Wildcats",
+    "opponent": "Chicoutimi Saguenéens",
+    "arena": "Avenir Centre",
+    "city": "Moncton, New Brunswick"
+  },
+  {
+    "id": "qmjhl_20260512_01",
+    "league": "QMJHL",
+    "date": "2026-05-12T23:00:00Z",
+    "team": "Chicoutimi Saguenéens",
+    "opponent": "Moncton Wildcats",
+    "arena": "Centre Georges-Vézina",
+    "city": "Chicoutimi, Quebec"
+  },
+  {
+    "id": "qmjhl_20260513_01",
+    "league": "QMJHL",
+    "date": "2026-05-13T23:00:00Z",
+    "team": "Chicoutimi Saguenéens",
+    "opponent": "Moncton Wildcats",
+    "arena": "Centre Georges-Vézina",
+    "city": "Chicoutimi, Quebec"
+  },
+  {
+    "id": "qmjhl_20260515_01",
+    "league": "QMJHL",
+    "date": "2026-05-15T22:00:00Z",
+    "team": "Moncton Wildcats",
+    "opponent": "Chicoutimi Saguenéens",
+    "arena": "Avenir Centre",
+    "city": "Moncton, New Brunswick"
+  },
+  {
+    "id": "qmjhl_20260517_01",
+    "league": "QMJHL",
+    "date": "2026-05-17T23:00:00Z",
+    "team": "Chicoutimi Saguenéens",
+    "opponent": "Moncton Wildcats",
+    "arena": "Centre Georges-Vézina",
+    "city": "Chicoutimi, Quebec"
+  },
+  {
+    "id": "qmjhl_20260519_01",
+    "league": "QMJHL",
+    "date": "2026-05-19T22:00:00Z",
+    "team": "Moncton Wildcats",
+    "opponent": "Chicoutimi Saguenéens",
+    "arena": "Avenir Centre",
+    "city": "Moncton, New Brunswick"
   }
 ]
