@@ -13258,15 +13258,6 @@
     "city": "Anaheim, California"
   },
   {
-    "id": "nhl_20260511_01",
-    "league": "NHL",
-    "date": "2026-05-11T23:00:00Z",
-    "team": "Carolina Hurricanes",
-    "opponent": "Philadelphia Flyers",
-    "arena": "PNC Arena",
-    "city": "Raleigh, North Carolina"
-  },
-  {
     "id": "nhl_20260512_01",
     "league": "NHL",
     "date": "2026-05-12T23:00:00Z",
@@ -13283,6 +13274,24 @@
     "opponent": "Anaheim Ducks",
     "arena": "T-Mobile Arena",
     "city": "Las Vegas, Nevada"
+  },
+  {
+    "id": "nhl_20260511_02",
+    "league": "NHL",
+    "date": "2026-05-12T00:00:00Z",
+    "team": "Minnesota Wild",
+    "opponent": "Colorado Avalanche",
+    "arena": "Grand Casino Arena",
+    "city": "St. Paul, Minnesota"
+  },
+  {
+    "id": "nhl_20260513_03",
+    "league": "NHL",
+    "date": "2026-05-14T00:00:00Z",
+    "team": "Colorado Avalanche",
+    "opponent": "Minnesota Wild",
+    "arena": "Ball Arena",
+    "city": "Denver, Colorado"
   }
 
 
