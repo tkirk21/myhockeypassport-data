@@ -13292,6 +13292,96 @@
     "opponent": "Minnesota Wild",
     "arena": "Ball Arena",
     "city": "Denver, Colorado"
+  },
+  {
+    "id": "nhl_20260514_01",
+    "league": "NHL",
+    "date": "2026-05-14T23:00:00Z",
+    "team": "Buffalo Sabres",
+    "opponent": "Montreal Canadiens",
+    "arena": "KeyBank Center",
+    "city": "Buffalo, New York"
+  },
+  {
+    "id": "nhl_20260514_02",
+    "league": "NHL",
+    "date": "2026-05-15T01:30:00Z",
+    "team": "Anaheim Ducks",
+    "opponent": "Vegas Golden Knights",
+    "arena": "Honda Center",
+    "city": "Anaheim, California"
+  },
+  {
+    "id": "nhl_20260515_03",
+    "league": "NHL",
+    "date": "2026-05-16T00:00:00Z",
+    "team": "Minnesota Wild",
+    "opponent": "Colorado Avalanche",
+    "arena": "Grand Casino Arena",
+    "city": "St. Paul, Minnesota"
+  },
+  {
+    "id": "nhl_20260516_01",
+    "league": "NHL",
+    "date": "2026-05-16T21:00:00Z",
+    "team": "Vegas Golden Knights",
+    "opponent": "Anaheim Ducks",
+    "arena": "T-Mobile Arena",
+    "city": "Las Vegas, Nevada"
+  },
+  {
+    "id": "nhl_20260516_02",
+    "league": "NHL",
+    "date": "2026-05-17T00:00:00Z",
+    "team": "Montreal Canadiens",
+    "opponent": "Buffalo Sabres",
+    "arena": "Bell Centre",
+    "city": "Montreal, Quebec"
+  },
+  {
+    "id": "nhl_20260514_01",
+    "league": "NHL",
+    "date": "2026-05-14T23:00:00Z",
+    "team": "Buffalo Sabres",
+    "opponent": "Montreal Canadiens",
+    "arena": "KeyBank Center",
+    "city": "Buffalo, New York"
+  },
+  {
+    "id": "nhl_20260514_02",
+    "league": "NHL",
+    "date": "2026-05-15T01:30:00Z",
+    "team": "Anaheim Ducks",
+    "opponent": "Vegas Golden Knights",
+    "arena": "Honda Center",
+    "city": "Anaheim, California"
+  },
+  {
+    "id": "nhl_20260515_03",
+    "league": "NHL",
+    "date": "2026-05-16T00:00:00Z",
+    "team": "Minnesota Wild",
+    "opponent": "Colorado Avalanche",
+    "arena": "Grand Casino Arena",
+    "city": "St. Paul, Minnesota"
+  },
+  {
+    "id": "nhl_20260516_01",
+    "league": "NHL",
+    "date": "2026-05-16T21:00:00Z",
+    "team": "Vegas Golden Knights",
+    "opponent": "Anaheim Ducks",
+    "arena": "T-Mobile Arena",
+    "city": "Las Vegas, Nevada"
+  },
+  {
+    "id": "nhl_20260516_02",
+    "league": "NHL",
+    "date": "2026-05-17T00:00:00Z",
+    "team": "Montreal Canadiens",
+    "opponent": "Buffalo Sabres",
+    "arena": "Centre Bell",
+    "city": "Montreal, Quebec"
   }
 
 
