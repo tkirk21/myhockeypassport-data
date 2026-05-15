@@ -13860,5 +13860,23 @@
     "startDate": "2026-05-15",
     "endDate": "2026-05-20",
     "arenaId": "fogerty_ice_arena_blaine"
+  },
+  {
+    "teamName": "Minnesota Wilderness",
+    "teamCode": "MNW",
+    "arena": "Fogerty Ice Arena",
+    "city": "Blaine, Minnesota",
+    "address": "9250 Lincoln St NE, Blaine, MN 55434",
+    "website": "https://wildernesshockey.com",
+    "latitude": 45.1376962684827,
+    "longitude": -93.2400859670321,
+    "color": "Green",
+    "colorCode": "#006F3C",
+    "colorCode2": "#4B4C4C",
+    "colorCode3": "#000000",
+    "timezone": "America/Chicago",
+    "startDate": "2026-05-15",
+    "endDate": "2026-05-20",
+    "arenaId": "fogerty_ice_arena_blaine"
   }
 ]
