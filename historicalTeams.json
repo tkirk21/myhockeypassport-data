@@ -13800,5 +13800,46 @@
     "startDate": "2026-03-26",
     "endDate": "2026-03-27",
     "arenaId": "mvp_arena_albany"
+  },
+
+
+  {
+    "teamName": "Maryland Black Bears",
+    "teamCode": "MBB",
+    "arena": "Fogerty Ice Arena",
+    "city": "Blaine, Minnesota",
+    "address": "9250 Lincoln St NE, Blaine, MN 55434",
+    "website": "https://minnesotamoosehockey.com",
+    "latitude": 45.1376962684827,
+    "longitude": -93.2400859670321,
+    "color": "Black",
+    "colorCode": "#000000",
+    "colorCode2": "#FFD204",
+    "colorCode3": "#EA0A2A",
+    "colorCode4": "#ffffff",
+    "league": "NAHL",
+    "timezone": "America/Chicago",
+    "startDate": "2026-05-15",
+    "endDate": "2026-05-20",
+    "arenaId": "fogerty_ice_arena_blaine"
+  },
+  {
+    "teamName": "Austin Bruins",
+    "teamCode": "AUB",
+    "arena": "Fogerty Ice Arena",
+    "city": "Blaine, Minnesota",
+    "address": "9250 Lincoln St NE, Blaine, MN 55434",
+    "website": "https://minnesotamoosehockey.com",
+    "latitude": 45.1376962684827,
+    "longitude": -93.2400859670321,
+    "color": "Gold",
+    "colorCode": "#ffb81c",
+    "colorCode2": "#000000",
+    "colorCode3": "#ffffff",
+    "league": "NAHL",
+    "timezone": "America/Chicago",
+    "startDate": "2026-05-15",
+    "endDate": "2026-05-20",
+    "arenaId": "fogerty_ice_arena_blaine"
   }
 ]
