@@ -13841,5 +13841,24 @@
     "startDate": "2026-05-15",
     "endDate": "2026-05-20",
     "arenaId": "fogerty_ice_arena_blaine"
+  },
+   {
+    "teamName": "Lone Star Brahmas",
+    "teamCode": "LSB",
+    "arena": "Fogerty Ice Arena",
+    "city": "Blaine, Minnesota",
+    "address": "9250 Lincoln St NE, Blaine, MN 55434",
+    "website": "https://lonestarbrahmas.com",
+    "latitude": 45.1376962684827,
+    "longitude": -93.2400859670321,
+    "color": "Purple",
+    "colorCode": "#3A3996",
+    "colorCode2": "#000000",
+    "colorCode3": "#ffffff",
+    "league": "NAHL",
+    "timezone": "America/Chicago",
+    "startDate": "2026-05-15",
+    "endDate": "2026-05-20",
+    "arenaId": "fogerty_ice_arena_blaine"
   }
 ]
