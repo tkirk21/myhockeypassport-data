@@ -9661,6 +9661,10 @@
     "arena": "Memorial Coliseum",
     "city": "Fort Wayne, Indiana"
   },
+
+
+
+
   {
     "id": "echl_20260515_01",
     "league": "ECHL",
@@ -9734,7 +9738,7 @@
     "city": "Wheeling, West Virginia"
   },
   {
-    "id": "echl_20260519_04",
+    "id": "echl_20260519_01",
     "league": "ECHL",
     "date": "2026-05-19T23:30:00Z",
     "team": "Florida Everblades",
@@ -9743,7 +9747,7 @@
     "city": "Estero, Florida"
   },
   {
-    "id": "echl_20260519_05",
+    "id": "echl_20260519_02",
     "league": "ECHL",
     "date": "2026-05-19T23:35:00Z",
     "team": "Fort Wayne Komets",
@@ -9752,7 +9756,7 @@
     "city": "Fort Wayne, Indiana"
   },
   {
-    "id": "echl_20260519_06",
+    "id": "echl_20260519_03",
     "league": "ECHL",
     "date": "2026-05-20T00:05:00Z",
     "team": "Kansas City Mavericks",
@@ -9761,7 +9765,7 @@
     "city": "Independence, Missouri"
   },
   {
-    "id": "echl_20260520_04",
+    "id": "echl_20260520_01",
     "league": "ECHL",
     "date": "2026-05-20T23:30:00Z",
     "team": "Florida Everblades",
@@ -9770,7 +9774,7 @@
     "city": "Estero, Florida"
   },
   {
-    "id": "echl_20260520_05",
+    "id": "echl_20260520_02",
     "league": "ECHL",
     "date": "2026-05-20T23:35:00Z",
     "team": "Fort Wayne Komets",
@@ -9779,7 +9783,7 @@
     "city": "Fort Wayne, Indiana"
   },
   {
-    "id": "echl_20260520_06",
+    "id": "echl_20260520_03",
     "league": "ECHL",
     "date": "2026-05-21T00:05:00Z",
     "team": "Kansas City Mavericks",
@@ -9787,5 +9791,8 @@
     "arena": "Cable Dahmer Arena",
     "city": "Independence, Missouri"
   }
+
+
+  
   
 ]
