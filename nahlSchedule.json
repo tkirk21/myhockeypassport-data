@@ -3697,5 +3697,68 @@
     "arena": "Riverside Arena",
     "city": "Austin, Minnesota",
     "date": "2026-05-12T00:05:00Z"
+  },
+
+
+
+
+
+
+
+
+
+  {
+    "id": "nahl_20260515_01",
+    "league": "NAHL",
+    "date": "2026-05-15T21:00:00Z",
+    "team": "Maryland Black Bears",
+    "opponent": "Lone Star Brahmas",
+    "arena": "Fogerty Ice Arena",
+    "city": "Blaine, Minnesota"
+  },
+  {
+    "id": "nahl_20260515_02",
+    "league": "NAHL",
+    "date": "2026-05-16T00:30:00Z",
+    "team": "Austin Bruins",
+    "opponent": "Minnesota Wilderness",
+    "arena": "Fogerty Ice Arena",
+    "city": "Blaine, Minnesota"
+  },
+  {
+    "id": "nahl_20260516_01",
+    "league": "NAHL",
+    "date": "2026-05-16T21:00:00Z",
+    "team": "Lone Star Brahmas",
+    "opponent": "Maryland Black Bears",
+    "arena": "Fogerty Ice Arena",
+    "city": "Blaine, Minnesota"
+  },
+  {
+    "id": "nahl_20260516_02",
+    "league": "NAHL",
+    "date": "2026-05-17T00:30:00Z",
+    "team": "Minnesota Wilderness",
+    "opponent": "Austin Bruins",
+    "arena": "Fogerty Ice Arena",
+    "city": "Blaine, Minnesota"
+  },
+  {
+    "id": "nahl_20260517_01",
+    "league": "NAHL",
+    "date": "2026-05-17T20:00:00Z",
+    "team": "Maryland Black Bears",
+    "opponent": "Lone Star Brahmas",
+    "arena": "Fogerty Ice Arena",
+    "city": "Blaine, Minnesota"
+  },
+  {
+    "id": "nahl_20260517_02",
+    "league": "NAHL",
+    "date": "2026-05-17T23:30:00Z",
+    "team": "Austin Bruins",
+    "opponent": "Minnesota Wilderness",
+    "arena": "Fogerty Ice Arena",
+    "city": "Blaine, Minnesota"
   }
 ]
