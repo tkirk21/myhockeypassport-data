@@ -3744,20 +3744,11 @@
     "city": "Blaine, Minnesota"
   },
   {
-    "id": "nahl_20260517_01",
+    "id": "nahl_20260519_01",
     "league": "NAHL",
-    "date": "2026-05-17T20:00:00Z",
-    "team": "Maryland Black Bears",
-    "opponent": "Lone Star Brahmas",
-    "arena": "Fogerty Ice Arena",
-    "city": "Blaine, Minnesota"
-  },
-  {
-    "id": "nahl_20260517_02",
-    "league": "NAHL",
-    "date": "2026-05-17T23:30:00Z",
-    "team": "Austin Bruins",
-    "opponent": "Minnesota Wilderness",
+    "date": "2026-05-20T00:00:00Z",
+    "team": "Minnesota Wilderness",
+    "opponent": "Maryland Black Bears",
     "arena": "Fogerty Ice Arena",
     "city": "Blaine, Minnesota"
   }
