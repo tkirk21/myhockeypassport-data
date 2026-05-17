@@ -7269,23 +7269,5 @@
     "opponent": "Everett Silvertips",
     "arena": "Art Hauser Centre",
     "city": "Prince Albert, Saskatchewan"
-  },
-  {
-    "id": "whl_20260517_03",
-    "league": "WHL",
-    "date": "2026-05-18T02:00:00Z",
-    "team": "Everett Silvertips",
-    "opponent": "Prince Albert Raiders",
-    "arena": "Angel of the Winds Arena",
-    "city": "Everett, Washington"
-  },
-  {
-    "id": "whl_20260518_01",
-    "league": "WHL",
-    "date": "2026-05-19T02:00:00Z",
-    "team": "Everett Silvertips",
-    "opponent": "Prince Albert Raiders",
-    "arena": "Angel of the Winds Arena",
-    "city": "Everett, Washington"
   }
 ]
