@@ -9711,15 +9711,6 @@
     "city": "Allen, Texas"
   },
   {
-    "id": "echl_20260517_01",
-    "league": "ECHL",
-    "date": "2026-05-17T19:10:00Z",
-    "team": "Allen Americans",
-    "opponent": "Kansas City Mavericks",
-    "arena": "Credit Union of Texas Event Center",
-    "city": "Allen, Texas"
-  },
-  {
     "id": "echl_20260517_02",
     "league": "ECHL",
     "date": "2026-05-17T23:05:00Z",
@@ -9756,15 +9747,6 @@
     "city": "Fort Wayne, Indiana"
   },
   {
-    "id": "echl_20260519_03",
-    "league": "ECHL",
-    "date": "2026-05-20T00:05:00Z",
-    "team": "Kansas City Mavericks",
-    "opponent": "Allen Americans",
-    "arena": "Cable Dahmer Arena",
-    "city": "Independence, Missouri"
-  },
-  {
     "id": "echl_20260520_01",
     "league": "ECHL",
     "date": "2026-05-20T23:30:00Z",
@@ -9781,15 +9763,6 @@
     "opponent": "Toledo Walleye",
     "arena": "Memorial Coliseum",
     "city": "Fort Wayne, Indiana"
-  },
-  {
-    "id": "echl_20260520_03",
-    "league": "ECHL",
-    "date": "2026-05-21T00:05:00Z",
-    "team": "Kansas City Mavericks",
-    "opponent": "Allen Americans",
-    "arena": "Cable Dahmer Arena",
-    "city": "Independence, Missouri"
   }
 
 
