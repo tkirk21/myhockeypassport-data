@@ -9729,15 +9729,6 @@
     "city": "Wheeling, West Virginia"
   },
   {
-    "id": "echl_20260519_01",
-    "league": "ECHL",
-    "date": "2026-05-19T23:30:00Z",
-    "team": "Florida Everblades",
-    "opponent": "South Carolina Stingrays",
-    "arena": "Hertz Arena",
-    "city": "Estero, Florida"
-  },
-  {
     "id": "echl_20260519_02",
     "league": "ECHL",
     "date": "2026-05-19T23:35:00Z",
@@ -9745,15 +9736,6 @@
     "opponent": "Toledo Walleye",
     "arena": "Memorial Coliseum",
     "city": "Fort Wayne, Indiana"
-  },
-  {
-    "id": "echl_20260520_01",
-    "league": "ECHL",
-    "date": "2026-05-20T23:30:00Z",
-    "team": "Florida Everblades",
-    "opponent": "South Carolina Stingrays",
-    "arena": "Hertz Arena",
-    "city": "Estero, Florida"
   },
   {
     "id": "echl_20260520_02",
