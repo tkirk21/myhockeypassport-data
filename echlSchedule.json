@@ -9736,8 +9736,44 @@
     "opponent": "Toledo Walleye",
     "arena": "Memorial Coliseum",
     "city": "Fort Wayne, Indiana"
+  },
+  {
+    "id": "echl_20260522_01",
+    "league": "ECHL",
+    "date": "2026-05-22T23:30:00Z",
+    "team": "Florida Everblades",
+    "opponent": "Wheeling Nailers",
+    "arena": "Hertz Arena",
+    "city": "Estero, Florida"
+  },
+  {
+    "id": "echl_20260522_02",
+    "league": "ECHL",
+    "date": "2026-05-23T00:05:00Z",
+    "team": "Kansas City Mavericks",
+    "opponent": "Fort Wayne Komets",
+    "arena": "Cable Dahmer Arena",
+    "city": "Independence, Missouri"
+  },
+  {
+    "id": "echl_20260523_01",
+    "league": "ECHL",
+    "date": "2026-05-23T23:00:00Z",
+    "team": "Florida Everblades",
+    "opponent": "Wheeling Nailers",
+    "arena": "Hertz Arena",
+    "city": "Estero, Florida"
+  },
+  
+  {
+    "id": "echl_20260523_02",
+    "league": "ECHL",
+    "date": "2026-05-23T23:05:00Z",
+    "team": "Kansas City Mavericks",
+    "opponent": "Fort Wayne Komets",
+    "arena": "Cable Dahmer Arena",
+    "city": "Independence, Missouri"
   }
-
 
   
   
