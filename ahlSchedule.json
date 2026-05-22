@@ -7605,15 +7605,6 @@
     "city": "Toronto, Ontario"
   },
   {
-    "id": "ahl_20260522_02",
-    "league": "AHL",
-    "date": "2026-05-23T01:05:00Z",
-    "team": "Colorado Eagles",
-    "opponent": "Coachella Valley Firebirds",
-    "arena": "Blue Arena",
-    "city": "Loveland, Colorado"
-  },
-  {
     "id": "ahl_20260523_01",
     "league": "AHL",
     "date": "2026-05-23T22:05:00Z",
@@ -7621,15 +7612,6 @@
     "opponent": "Springfield Thunderbirds",
     "arena": "Mohegan Arena at Casey Plaza",
     "city": "Wilkes-Barre, Pennsylvania"
-  },
-  {
-    "id": "ahl_20260523_02",
-    "league": "AHL",
-    "date": "2026-05-23T23:00:00Z",
-    "team": "Grand Rapids Griffins",
-    "opponent": "Chicago Wolves",
-    "arena": "Van Andel Arena",
-    "city": "Grand Rapids, Michigan"
   },
   {
     "id": "ahl_20260524_01",
