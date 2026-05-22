@@ -7269,5 +7269,15 @@
     "opponent": "Everett Silvertips",
     "arena": "Art Hauser Centre",
     "city": "Prince Albert, Saskatchewan"
+  },
+
+  {
+    "id": "chl_20260522_01",
+    "league": "WHL",
+    "date": "2026-05-23T01:00:00Z",
+    "team": "Kelowna Rockets",
+    "opponent": "Kitchener Rangers",
+    "arena": "Prospera Place",
+    "city": "Kelowna, British Columbia"
   }
 ]
