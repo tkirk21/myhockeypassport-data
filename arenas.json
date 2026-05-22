@@ -9089,5 +9089,25 @@
     "timezone": "America/Vancouver",
     "startDate": "2025-11-01",
     "endDate": null
+  },
+  
+  {
+    "teamName": "Kitchener Rangers",
+    "teamCode": "KIT",
+    "arena": "Prospera Place",
+    "city": "Kelowna, British Columbia",
+    "address": "1223 Water St, Kelowna, BC V1Y 9V1, Canada",
+    "website": "https://chl.ca/ohl-rangers",
+    "latitude": 49.888019,
+    "longitude": -119.496010,
+    "color": "Red",
+    "colorCode": "#c8102e",
+    "colorCode2": "#EF3E42",
+    "colorCode3": "#ffffff",
+    "league": "OHL",
+    "timezone": "America/Vancouver",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-31",
+    "arenaId": "prospera_place_kelowna"
   }
 ]
