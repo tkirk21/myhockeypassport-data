@@ -9109,24 +9109,5 @@
     "startDate": "2026-05-22",
     "endDate": "2026-05-31",
     "arenaId": "prospera_place_kelowna"
-  },
-  {
-    "teamName": "Kelowna Rockets",
-    "teamCode": "KEL",
-    "arena": "Westin",
-    "city": "Westminster, Colorado",
-    "address": "10600 Westminster Blvd, Westminster, CO 80020",
-    "website": "https://chl.ca/ohl-rockets",
-    "latitude": 39.89059352295369, 
-    "longitude": -105.06540472585394,
-    "color": "Red",
-    "colorCode": "#c8102e",
-    "colorCode2": "#EF3E42",
-    "colorCode3": "#ffffff",
-    "league": "WHL",
-    "timezone": "America/Vancouver",
-    "startDate": "2026-05-22",
-    "endDate": "2026-05-31",
-    "arenaId": "westin_westminster"
   }
 ]
