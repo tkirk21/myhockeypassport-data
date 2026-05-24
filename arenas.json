@@ -9104,10 +9104,30 @@
     "colorCode": "#c8102e",
     "colorCode2": "#EF3E42",
     "colorCode3": "#ffffff",
-    "league": "OHL",
+    "league": "wHL",
     "timezone": "America/Vancouver",
     "startDate": "2026-05-22",
     "endDate": "2026-05-31",
     "arenaId": "prospera_place_kelowna"
-  }
+  },
+  {
+    "teamName": "Chicoutimi Saguenéens",
+    "teamCode": "CHI",
+    "arena": "Prospera Place",
+    "city": "Kelowna, British Columbia",
+    "address": "1223 Water St, Kelowna, BC V1Y 9V1, Canada",
+    "website": "https://chl.ca/ohl-rangers",
+    "website": "https://sagueneens.com",
+    "latitude": 49.888019,
+    "longitude": -119.496010,
+    "color": "Blue",
+    "colorCode": "#003E7E",
+    "colorCode2": "#99BADD",
+    "colorCode3": "#ffffff",
+    "league": "WHL",
+    "timezone": "America/Toronto",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-31",
+    "arenaId": "prospera_place_kelowna"
+  },
 ]
