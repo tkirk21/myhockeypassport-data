@@ -9764,11 +9764,105 @@
     "arena": "Hertz Arena",
     "city": "Estero, Florida"
   },
-  
   {
     "id": "echl_20260523_02",
     "league": "ECHL",
     "date": "2026-05-23T23:05:00Z",
+    "team": "Kansas City Mavericks",
+    "opponent": "Fort Wayne Komets",
+    "arena": "Cable Dahmer Arena",
+    "city": "Independence, Missouri"
+  },
+
+
+
+
+
+   {
+    "id": "echl_20260525_01",
+    "league": "ECHL",
+    "date": "2026-05-25T23:35:00Z",
+    "team": "Fort Wayne Komets",
+    "opponent": "Kansas City Mavericks",
+    "arena": "Memorial Coliseum",
+    "city": "Fort Wayne, Indiana"
+  },
+  {
+    "id": "echl_20260526_01",
+    "league": "ECHL",
+    "date": "2026-05-26T23:35:00Z",
+    "team": "Fort Wayne Komets",
+    "opponent": "Kansas City Mavericks",
+    "arena": "Memorial Coliseum",
+    "city": "Fort Wayne, Indiana"
+  },
+  {
+    "id": "echl_20260527_01",
+    "league": "ECHL",
+    "date": "2026-05-27T23:10:00Z",
+    "team": "Wheeling Nailers",
+    "opponent": "Florida Everblades",
+    "arena": "WesBanco Arena",
+    "city": "Wheeling, West Virginia"
+  },
+  {
+    "id": "echl_20260529_01",
+    "league": "ECHL",
+    "date": "2026-05-29T23:10:00Z",
+    "team": "Wheeling Nailers",
+    "opponent": "Florida Everblades",
+    "arena": "WesBanco Arena",
+    "city": "Wheeling, West Virginia"
+  },
+  {
+    "id": "echl_20260530_01",
+    "league": "ECHL",
+    "date": "2026-05-30T23:10:00Z",
+    "team": "Wheeling Nailers",
+    "opponent": "Florida Everblades",
+    "arena": "WesBanco Arena",
+    "city": "Wheeling, West Virginia"
+  },
+  {
+    "id": "echl_20260531_01",
+    "league": "ECHL",
+    "date": "2026-05-31T21:05:00Z",
+    "team": "Fort Wayne Komets",
+    "opponent": "Kansas City Mavericks",
+    "arena": "Memorial Coliseum",
+    "city": "Fort Wayne, Indiana"
+  },
+  {
+    "id": "echl_20260601_01",
+    "league": "ECHL",
+    "date": "2026-06-01T23:30:00Z",
+    "team": "Florida Everblades",
+    "opponent": "Wheeling Nailers",
+    "arena": "Hertz Arena",
+    "city": "Estero, Florida"
+  },
+  {
+    "id": "echl_20260602_01",
+    "league": "ECHL",
+    "date": "2026-06-03T00:05:00Z",
+    "team": "Kansas City Mavericks",
+    "opponent": "Fort Wayne Komets",
+    "arena": "Cable Dahmer Arena",
+    "city": "Independence, Missouri"
+  },
+  {
+    "id": "echl_20260603_01",
+    "league": "ECHL",
+    "date": "2026-06-03T23:30:00Z",
+    "team": "Florida Everblades",
+    "opponent": "Wheeling Nailers",
+    "arena": "Hertz Arena",
+    "city": "Estero, Florida"
+  },
+  {
+    "id": "echl_20260603_02",
+    "league": "ECHL",
+    "date": "2026-06-04T00:05:00Z",
     "team": "Kansas City Mavericks",
     "opponent": "Fort Wayne Komets",
     "arena": "Cable Dahmer Arena",
