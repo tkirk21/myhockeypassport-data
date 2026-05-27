@@ -7621,14 +7621,41 @@
     "opponent": "Toronto Marlies",
     "arena": "Rocket Mortgage FieldHouse",
     "city": "Cleveland, Ohio"
-  }
-  
-
-
-
-
-
-
-  
-  
+  },
+  {
+    "id": "ahl_20260527_01",
+    "league": "AHL",
+    "date": "2026-05-27T23:05:00Z",
+    "team": "Wilkes-Barre/Scranton Penguins",
+    "opponent": "Toronto Marlies",
+    "arena": "Mohegan Arena at Casey Plaza",
+    "city": "Wilkes-Barre, Pennsylvania"
+  },
+  {
+    "id": "ahl_20260528_01",
+    "league": "AHL",
+    "date": "2026-05-29T01:05:00Z",
+    "team": "Colorado Eagles",
+    "opponent": "Chicago Wolves",
+    "arena": "Blue Arena",
+    "city": "Loveland, Colorado"
+  },
+  {
+    "id": "ahl_20260529_01",
+    "league": "AHL",
+    "date": "2026-05-29T23:05:00Z",
+    "team": "Wilkes-Barre/Scranton Penguins",
+    "opponent": "Toronto Marlies",
+    "arena": "Mohegan Arena at Casey Plaza",
+    "city": "Wilkes-Barre, Pennsylvania"
+  },
+  {
+    "id": "ahl_20260530_01",
+    "league": "AHL",
+    "date": "2026-05-31T00:05:00Z",
+    "team": "Colorado Eagles",
+    "opponent": "Chicago Wolves",
+    "arena": "Blue Arena",
+    "city": "Loveland, Colorado"
+  } 
 ]
