@@ -13402,15 +13402,6 @@
     "city": "Montreal, Quebec"
   },
   {
-    "id": "nhl_20260528_01",
-    "league": "NHL",
-    "date": "2026-05-29T00:00:00Z",
-    "team": "Colorado Avalanche",
-    "opponent": "Vegas Golden Knights",
-    "arena": "Ball Arena",
-    "city": "Denver, Colorado"
-  },
-  {
     "id": "nhl_20260529_01",
     "league": "NHL",
     "date": "2026-05-30T00:00:00Z",
@@ -13418,15 +13409,6 @@
     "opponent": "Montreal Canadiens",
     "arena": "Lenovo Center",
     "city": "Raleigh, North Carolina"
-  },
-  {
-    "id": "nhl_20260530_01",
-    "league": "NHL",
-    "date": "2026-05-31T00:00:00Z",
-    "team": "Vegas Golden Knights",
-    "opponent": "Colorado Avalanche",
-    "arena": "T-Mobile Arena",
-    "city": "Las Vegas, Nevada"
   }
 
 
