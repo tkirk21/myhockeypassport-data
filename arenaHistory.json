@@ -14,7 +14,6 @@
     "teamName": "Boston Bruins",
     "league": "NHL",
     "history": [
-      { "name": "Boston Garden", "from": "1928-09-30", "to": "1995-05-31" },
       { "name": "FleetCenter", "from": "1995-09-30", "to": "2005-03-08" },
       { "name": "TD Banknorth Garden", "from": "2005-03-09", "to": "2009-07-15" },
       { "name": "TD Garden", "from": "2009-07-16", "to": null }
