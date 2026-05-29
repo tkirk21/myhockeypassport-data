@@ -27,15 +27,15 @@
     "city": "Boston, Massachusetts",
     "address": "100 Legends Way, Boston, MA 02114",
     "website": "https://nhl.com/bruins",
-    "latitude": 42.3662,
-    "longitude": -71.0621,
+    "latitude": 42.36644622083357, 
+    "longitude": -71.06222004045064,
     "color": "Black",
     "colorCode": "#000000",
     "colorCode2": "#FFB81C",
     "colorCode3": "#FFFFFF",
     "league": "NHL",
     "timezone": "America/New_York",
-    "startDate": "1929-09-01",
+    "startDate": "1995-09-01",
     "endDate": null
   },
   {
