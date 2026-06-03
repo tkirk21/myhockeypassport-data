@@ -9840,26 +9840,8 @@
     "opponent": "Fort Wayne Komets",
     "arena": "Cable Dahmer Arena",
     "city": "Independence, Missouri"
-  },
-  {
-    "id": "echl_20260603_01",
-    "league": "ECHL",
-    "date": "2026-06-03T23:30:00Z",
-    "team": "Florida Everblades",
-    "opponent": "Wheeling Nailers",
-    "arena": "Hertz Arena",
-    "city": "Estero, Florida"
-  },
-  {
-    "id": "echl_20260603_02",
-    "league": "ECHL",
-    "date": "2026-06-04T00:05:00Z",
-    "team": "Kansas City Mavericks",
-    "opponent": "Fort Wayne Komets",
-    "arena": "Cable Dahmer Arena",
-    "city": "Independence, Missouri"
   }
-
+ 
   
   
 ]
