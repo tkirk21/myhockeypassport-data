@@ -7738,5 +7738,68 @@
     "opponent": "Chicago Wolves",
     "arena": "Blue Arena",
     "city": "Loveland, Colorado"
+  },
+  {
+    "id": "ahl_20260612_01",
+    "league": "AHL",
+    "date": "2026-06-13T00:00:00Z",
+    "team": "Chicago Wolves",
+    "opponent": "Toronto Marlies",
+    "arena": "Allstate Arena",
+    "city": "Rosemont, Illinois"
+  },
+  {
+    "id": "ahl_20260614_01",
+    "league": "AHL",
+    "date": "2026-06-14T20:00:00Z",
+    "team": "Chicago Wolves",
+    "opponent": "Toronto Marlies",
+    "arena": "Allstate Arena",
+    "city": "Rosemont, Illinois"
+  },
+  {
+    "id": "ahl_20260616_01",
+    "league": "AHL",
+    "date": "2026-06-16T23:00:00Z",
+    "team": "Toronto Marlies",
+    "opponent": "Chicago Wolves",
+    "arena": "Coca-Cola Coliseum",
+    "city": "Toronto, Ontario"
+  },
+  {
+    "id": "ahl_20260618_01",
+    "league": "AHL",
+    "date": "2026-06-18T23:00:00Z",
+    "team": "Toronto Marlies",
+    "opponent": "Chicago Wolves",
+    "arena": "Coca-Cola Coliseum",
+    "city": "Toronto, Ontario"
+  },
+  {
+    "id": "ahl_20260619_01",
+    "league": "AHL",
+    "date": "2026-06-19T23:00:00Z",
+    "team": "Toronto Marlies",
+    "opponent": "Chicago Wolves",
+    "arena": "Coca-Cola Coliseum",
+    "city": "Toronto, Ontario"
+  },
+  {
+    "id": "ahl_20260621_01",
+    "league": "AHL",
+    "date": "2026-06-21T20:00:00Z",
+    "team": "Chicago Wolves",
+    "opponent": "Toronto Marlies",
+    "arena": "Allstate Arena",
+    "city": "Rosemont, Illinois"
+  },
+  {
+    "id": "ahl_20260623_01",
+    "league": "AHL",
+    "date": "2026-06-24T00:00:00Z",
+    "team": "Chicago Wolves",
+    "opponent": "Toronto Marlies",
+    "arena": "Allstate Arena",
+    "city": "Rosemont, Illinois"
   }
 ]
