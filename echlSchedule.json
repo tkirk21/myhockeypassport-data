@@ -9867,6 +9867,44 @@
     "opponent": "Kansas City Mavericks",
     "arena": "Hertz Arena",
     "city": "Estero, Florida"
+  },
+
+
+  {
+    "id": "echl_20260612_01",
+    "league": "ECHL",
+    "date": "2026-06-12T23:30:00Z",
+    "team": "Florida Everblades",
+    "opponent": "Kansas City Mavericks",
+    "arena": "Hertz Arena",
+    "city": "Estero, Florida"
+  },
+  {
+    "id": "echl_20260613_01",
+    "league": "ECHL",
+    "date": "2026-06-13T23:00:00Z",
+    "team": "Florida Everblades",
+    "opponent": "Kansas City Mavericks",
+    "arena": "Hertz Arena",
+    "city": "Estero, Florida"
+  },
+  {
+    "id": "echl_20260615_01",
+    "league": "ECHL",
+    "date": "2026-06-16T00:05:00Z",
+    "team": "Kansas City Mavericks",
+    "opponent": "Florida Everblades",
+    "arena": "Cable Dahmer Arena",
+    "city": "Independence, Missouri"
+  },
+  {
+    "id": "echl_20260617_01",
+    "league": "ECHL",
+    "date": "2026-06-18T00:05:00Z",
+    "team": "Kansas City Mavericks",
+    "opponent": "Florida Everblades",
+    "arena": "Cable Dahmer Arena",
+    "city": "Independence, Missouri"
   }
  
   
