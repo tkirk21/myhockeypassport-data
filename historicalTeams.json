@@ -1479,6 +1479,24 @@
     "endDate": "2007-09-30"
   },
   {
+    "teamName": "Los Angeles Kings",
+    "teamCode": "LAK",
+    "arena": "Toyota Arena",
+    "arenaId": "toyota_arena_ontario",
+    "city": "Ontario, California",
+    "address": "4000 Ontario Center, Ontario, CA 91764",
+    "website": "https://nhl.com/kings",
+    "latitude": 34.07301810938201,
+    "longitude": -117.56699356403257,
+    "color": "Black",
+    "colorCode2": "#c0c0c0",
+    "colorCode": "#000000",
+    "league": "NHL",
+    "timezone": "America/New York",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-20"
+  },
+  {
     "teamName": "Mighty Ducks of Anaheim",
     "arena": "Arrowhead Pond of Anaheim",
     "teamCode": "ANA",
