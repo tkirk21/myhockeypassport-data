@@ -1,3 +1,11 @@
 [
-
+  {
+    "id": "nhl_20260919_01",
+    "league": "NHL",
+    "date": "2026-09-20T01:00:00Z",
+    "team": "Edmonton Oilers",
+    "opponent": "Winnipeg Jets",
+    "arena": "Rogers Place",
+    "city": "Edmonton, Alberta"
+  }
 ]
