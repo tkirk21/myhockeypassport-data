@@ -16,5 +16,50 @@
     "opponent": "Vegas Golden Knights",
     "arena": "Toyota Arena",
     "city": "Ontario, California"
+  },
+  {
+    "id": "nhl_20260920_01",
+    "league": "NHL",
+    "date": "2026-09-20T20:00:00Z",
+    "team": "Anaheim Ducks",
+    "opponent": "San Jose Sharks",
+    "arena": "Honda Center",
+    "city": "Anaheim, California"
+  },
+  {
+    "id": "nhl_20260920_02",
+    "league": "NHL",
+    "date": "2026-09-20T21:00:00Z",
+    "team": "Boston Bruins",
+    "opponent": "Washington Capitals",
+    "arena": "TD Garden",
+    "city": "Boston, Massachusetts"
+  },
+  {
+    "id": "nhl_20260920_03",
+    "league": "NHL",
+    "date": "2026-09-20T23:00:00Z",
+    "team": "Colorado Avalanche",
+    "opponent": "Utah Mammoth",
+    "arena": "Ball Arena",
+    "city": "Denver, Colorado"
+  },
+  {
+    "id": "nhl_20260920_04",
+    "league": "NHL",
+    "date": "2026-09-21T00:00:00Z",
+    "team": "Calgary Flames",
+    "opponent": "Seattle Kraken",
+    "arena": "Scotiabank Saddledome",
+    "city": "Calgary, Alberta"
+  },
+  {
+    "id": "nhl_20260920_05",
+    "league": "NHL",
+    "date": "2026-09-20T23:00:00Z",
+    "team": "Washington Capitals",
+    "opponent": "Philadelphia Flyers",
+    "arena": "Giant Center",
+    "city": "Hershey, Pennsylvania"
   }
 ]
