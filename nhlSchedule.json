@@ -215,7 +215,7 @@
     "arena": "SAP Center",
     "city": "San Jose, California"
   },
-   {
+  {
     "id": "nhl_20260925_01",
     "league": "NHL",
     "date": "2026-09-25T23:00:00Z",
@@ -277,5 +277,5 @@
     "opponent": "San Jose Sharks",
     "arena": "T-Mobile Arena",
     "city": "Las Vegas, Nevada"
-  },
+  }
 ]
