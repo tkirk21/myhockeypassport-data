@@ -7,5 +7,14 @@
     "opponent": "Winnipeg Jets",
     "arena": "Rogers Place",
     "city": "Edmonton, Alberta"
+  },
+  {
+    "id": "nhl_20260919_02",
+    "league": "NHL",
+    "date": "2026-09-20T01:00:00Z",
+    "team": "Los Angeles Kings",
+    "opponent": "Vegas Golden Knights",
+    "arena": "Toyota Arena",
+    "city": "Ontario, California"
   }
 ]
