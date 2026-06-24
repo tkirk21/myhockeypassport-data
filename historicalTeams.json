@@ -1492,7 +1492,7 @@
     "colorCode2": "#c0c0c0",
     "colorCode": "#000000",
     "league": "NHL",
-    "timezone": "America/New York",
+    "timezone": "America/Los_Angeles"
     "startDate": "2026-09-19",
     "endDate": "2026-09-20"
   },
@@ -1500,6 +1500,8 @@
     "teamName": "Mighty Ducks of Anaheim",
     "arena": "Arrowhead Pond of Anaheim",
     "teamCode": "ANA",
+
+
     "arenaId": "honda_center_anaheim",
     "city": "Anaheim, California",
     "address": "2695 E Katella Ave, Anaheim, CA 92806",
@@ -2961,7 +2963,7 @@
     "startDate": "1975-09-01",
     "endDate": "1997-12-01"
   },
-   {
+  {
     "teamName": "Washington Capitals",
     "teamCode": "WSH",
     "arena": "Giant Center",
