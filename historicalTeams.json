@@ -1319,24 +1319,6 @@
   {
     "teamName": "Los Angeles Kings",
     "teamCode": "LAK",
-    "arena": "Toyota Arena",
-    "arenaId": "toyota_arena_ontario",
-    "city": "Ontario, California",
-    "address": "4000 Ontario Center, Ontario, CA 91764",
-    "website": "https://nhl.com/kings",
-    "latitude": 34.07301810938201,
-    "longitude": -117.56699356403257,
-    "color": "Black",
-    "colorCode2": "#c0c0c0",
-    "colorCode": "#000000",
-    "league": "NHL",
-    "timezone": "America/Los_Angeles"
-    "startDate": "2026-09-19",
-    "endDate": "2026-09-20"
-  },
-  {
-    "teamName": "Los Angeles Kings",
-    "teamCode": "LAK",
     "arena": "Long Beach Arena",
     "arenaId": "long_beach_arena_long_beach",
     "city": "Long Beach, California",
@@ -2942,25 +2924,6 @@
     "timezone": "America/Denver",
     "startDate": "2024-09-01",
     "endDate": "2025-05-31"
-  },
-  {
-    "teamName": "Washington Capitals",
-    "teamCode": "WSH",
-    "arena": "Giant Center",
-    "arenaId": "giant_center_hershey",
-    "city": "Hershey, Pennsylvania",
-    "address": "550 Hersheypark Dr, Hershey, PA 17033",
-    "website": "https://nhl.com/capitals",
-    "latitude": 40.28652349526547, 
-    "longitude": -76.66911170895528,
-    "color": "Red",
-    "colorCode": "#C8102E",
-    "colorCode2": "#FFFFFF",
-    "colorCode3": "#041E42",
-    "league": "NHL",
-    "timezone": "America/New_York",
-    "startDate": "2026-09-21",
-    "endDate": "2026-09-22"
   },
   {
     "teamName": "Washington Capitals",
