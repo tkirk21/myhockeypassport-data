@@ -624,8 +624,8 @@
   {
     "teamName": "Abbotsford Canucks",
     "teamCode": "ABB",
-    "arena": "Abbotsford Centre",
-    "arenaId": "abbotsford_centre_abbotsford",
+    "arena": "Rogers Forum",
+    "arenaId": "rogers_forum_abbotsford",
     "city": "Abbotsford, British Columbia",
     "address": "33800 King Rd, Abbotsford, BC V2S 8H8, Canada",
     "website": "https://abbotsford.canucks.com/",
@@ -801,8 +801,8 @@
   {
     "teamName": "Colorado Eagles",
     "teamCode": "COL",
-    "arena": "Blue Arena",
-    "arenaId": "blue_arena_loveland",
+    "arena": "Blue Federal Credit Union Arena",
+    "arenaId": "blue_federal_credit_union_arena_loveland",
     "city": "Loveland, Colorado",
     "address": "5290 Arena Cir, Loveland, CO 80538",
     "website": "https://coloradoeagles.com",
@@ -861,7 +861,7 @@
   {
     "teamName": "Henderson Silver Knights",
     "teamCode": "HSK",
-    "arena": "Lee's Family Forum",
+    "arena": "Lee’s Family Forum",
     "arenaId": "lees_family_forum_henderson",
     "city": "Henderson, Nevada",
     "address": "200 S Green Valley Pkwy, Henderson, NV 89012",
@@ -880,7 +880,7 @@
   {
     "teamName": "Hershey Bears",
     "teamCode": "HER",
-    "arena": "GIANT Center",
+    "arena": "Giant Center",
     "arenaId": "giant_center_hershey",
     "city": "Hershey, Pennsylvania",
     "address": "550 Hersheypark Dr, Hershey, PA 17033",
@@ -900,7 +900,7 @@
   {
     "teamName": "Iowa Wild",
     "teamCode": "IA",
-    "arena": "Casey's Center",
+    "arena": "Casey’s Center",
     "arenaId": "caseys_center_des_moines",
     "city": "Des Moines, Iowa",
     "address": "233 Center St, Des Moines, IA 50309",
@@ -980,7 +980,7 @@
   {
     "teamName": "Milwaukee Admirals",
     "teamCode": "MIL",
-    "arena": "UW–Milwaukee Panther Arena",
+    "arena": "UW-Milwaukee Panther Arena",
     "arenaId": "uwmilwaukee_panther_arena_milwaukee",
     "city": "Milwaukee, Wisconsin",
     "address": "400 W Kilbourn Ave, Milwaukee, WI 53203",
@@ -1075,7 +1075,7 @@
   {
     "teamName": "San Diego Gulls",
     "teamCode": "SD",
-    "arena": "Pechanga Arena",
+    "arena": "Pechanga Arena San Diego",
     "arenaId": "pechanga_arena_san_diego",
     "city": "San Diego, California",
     "address": "3500 Sports Arena Blvd, San Diego, CA 92110",
@@ -1194,8 +1194,8 @@
   {
     "teamName": "Tucson Roadrunners",
     "teamCode": "TUC",
-    "arena": "Tucson Convention Center",
-    "arenaId": "tucson_convention_center_tucson",
+    "arena": "Tucson Convention Center Arena",
+    "arenaId": "tucson_convention_center_arena_tucson",
     "city": "Tucson, Arizona",
     "address": "260 S Church Ave, Tucson, AZ 85701",
     "website": "https://tucsonroadrunners.com",
@@ -1235,7 +1235,7 @@
   {
     "teamName": "Wilkes-Barre/Scranton Penguins",
     "teamCode": "WBS",
-    "arena": "Mohegan Sun Arena at Casey Plaza",
+    "arena": "Mohegan Arena at Casey Plaza",
     "arenaId": "mohegan_arena_at_casey_plaza_wilkesbarre_township",
     "city": "Wilkes-Barre Township, Pennsylvania",
     "address": "255 Highland Park Blvd, Wilkes-Barre Township, PA 18702",
