@@ -1370,7 +1370,8 @@
   {
     "teamName": "Fort Wayne Komets",
     "teamCode": "FWK",
-    "arena": "Allen County War Memorial Coliseum",
+    "arena": "Memorial Coliseum",
+    "arenaId": "memorial_coliseum_fort_wayne",
     "city": "Fort Wayne, Indiana",
     "address": "4000 Parnell Ave, Fort Wayne, IN 46805",
     "website": "https://komets.com",
@@ -1821,7 +1822,7 @@
   {
     "teamName": "Wichita Thunder",
     "teamCode": "WIC",
-    "arena": "Intrust Bank Arena",
+    "arena": "INTRUST Bank Arena",
     "arenaId": "intrust_bank_arena_wichita",
     "city": "Wichita, Kansas",
     "address": "500 E Waterman St, Wichita, KS 67202",
