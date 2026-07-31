@@ -1738,6 +1738,21 @@
     "endDate": "1992-09-14"
   },
   {
+    "teamName": "Montreal Canadiens",
+    "teamCode": "MTL",
+    "arena": "Colisée Vidéotron",
+    "arenaId": "colisee_videotron_trois_rivieres",
+    "city": "Trois-Rivières, Quebec, Canada",
+    "address": "6000 rue du Colisée, Trois-Rivières, QC G9B 0Y7, Canada",
+    "website": "https://nhl.com/canadiens",
+    "latitude": 46.3218,
+    "longitude": -72.5912,
+    "league": "NHL",
+    "timezone": "America/New_York",
+    "startDate": "2026-09-21",
+    "endDate": "2026-09-22"
+  },
+  {
     "teamName": "Montreal Maroons",
     "teamCode": "MON",
     "arena": "Montreal Forum",
@@ -2946,7 +2961,7 @@
   {
     "teamName": "Washington Capitals",
     "teamCode": "WSH",
-    "arena": "Giant Center",
+    "arena": "GIANT Center",
     "arenaId": "giant_center_hershey",
     "city": "Hershey, Pennsylvania",
     "address": "550 Hersheypark Dr, Hershey, PA 17033",
