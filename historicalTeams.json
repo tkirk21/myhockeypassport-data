@@ -3292,6 +3292,25 @@
     "endDate": "2013-05-31"
   },
   {
+    "teamName": "Allen Americans",
+    "teamCode": "ALN",
+    "arena": "Comerica Center",
+    "arenaId": "comerica_center_frisco",
+    "city": "Frisco, Texas",
+    "address": "2601 Avenue of the Stars, Frisco, TX 75034",
+    "website": "https://allenamericans.com",
+    "latitude": 33.1005572092322, 
+    "longitude": -96.81910596598604,
+    "color": "Crimson",
+    "colorCode": "#AA182C",
+    "colorCode2": "#0A2240",
+    "colorCode3": "#FFFFFF",
+    "league": "ECHL",
+    "timezone": "America/Chicago",
+    "startDate": "2026-09-01",
+    "endDate": "2026-11-30"
+  },
+  {
     "teamName": "Bridgeport Sound Tigers",
     "teamCode": "BRI",
     "arena": "Total Mortgage Arena",
