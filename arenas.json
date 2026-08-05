@@ -637,6 +637,7 @@
     "colorCode3": "#002D56",
     "colorCode4": "#979899",
     "colorCode5": "#FFFFFF",
+    "league": "AHL",
     "timezone": "America/Vancouver",
     "startDate": "2021-09-01",
     "endDate": null
