@@ -14000,5 +14000,69 @@
     "startDate": "2026-05-15",
     "endDate": "2026-05-20",
     "arenaId": "fogerty_ice_arena_blaine"
+  },
+
+
+
+
+
+
+  {
+    "teamName": "Kitchener Rangers",
+    "teamCode": "KIT",
+    "arena": "Prospera Place",
+    "city": "Kelowna, British Columbia",
+    "address": "1223 Water St, Kelowna, BC V1Y 9V1, Canada",
+    "website": "https://chl.ca/ohl-rangers",
+    "latitude": 49.888019,
+    "longitude": -119.496010,
+    "color": "Red",
+    "colorCode": "#c8102e",
+    "colorCode2": "#EF3E42",
+    "colorCode3": "#ffffff",
+    "league": "WHL",
+    "timezone": "America/Vancouver",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-31",
+    "arenaId": "prospera_place_kelowna"
+  },
+  {
+    "teamName": "Chicoutimi Saguenéens",
+    "teamCode": "CHI",
+    "arena": "Prospera Place",
+    "city": "Kelowna, British Columbia",
+    "address": "1223 Water St, Kelowna, BC V1Y 9V1, Canada",
+    "website": "https://chl.ca/ohl-rangers",
+    "website": "https://sagueneens.com",
+    "latitude": 49.888019,
+    "longitude": -119.496010,
+    "color": "Blue",
+    "colorCode": "#003E7E",
+    "colorCode2": "#99BADD",
+    "colorCode3": "#ffffff",
+    "league": "WHL",
+    "timezone": "America/Toronto",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-31",
+    "arenaId": "prospera_place_kelowna"
+  },
+  {
+    "teamName": "Everett Silvertips",
+    "teamCode": "EVT",
+    "arena": "Prospera Place",
+    "city": "Kelowna, British Columbia",
+    "address": "1223 Water St, Kelowna, BC V1Y 9V1, Canada",
+    "website": "https://chl.ca/whl-silvertips",
+    "latitude": 49.888019,
+    "longitude": -119.496010,
+    "color": "Green",
+    "colorCode": "#154734",
+    "colorCode2": "#C0C0C0",
+    "colorCode3": "#FFFFFF",
+    "league": "WHL",
+    "timezone": "America/Los_Angeles",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-31",
+    "arenaId": "prospera_place_kelowna"
   }
 ]
