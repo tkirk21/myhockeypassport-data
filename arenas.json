@@ -4559,7 +4559,7 @@
   {
     "teamName": "Binghamton Buzz",
     "teamCode": "BNG",
-    "arena": "LeCom Events Center",
+    "arena": "SUNY Broome Ice Center",
     "city": "Binghamton, New York",
     "address": "907 Front St, Binghamton, NY 13905",
     "website": "https://binghamtonbuzz.com",
@@ -4573,7 +4573,7 @@
     "timezone": "America/New_York",
     "startDate": "2024-09-01",
     "endDate": null,
-    "arenaId": "lecom_events_center_binghamton"
+    "arenaId": "suny_broome_ice_binghamton"
   },
   {
     "teamName": "Bozeman Icedogs",
