@@ -1,23 +1,24 @@
 [
 
   {
-    "id": "aihl_2026082832",
-    "league": "AIHL",
-    "team": "Canberra Brave",
-    "opponent": "Sydney Bears",
-    "arena": "O'Brien Icehouse",
-    "city": "Melbourne, VIC",
-    "date": "2026-08-28T05:00:00Z"
-  },
-  {
-    "id": "aihl_2026082833",
-    "league": "AIHL",
-    "team": "Perth Thunder",
-    "opponent": "Sydney Ice Dogs",
-    "arena": "O'Brien Icehouse",
-    "city": "Melbourne, VIC",
-    "date": "2026-08-28T11:00:00Z"
-  }
+  "id": "aihl_2026082934",
+  "league": "AIHL",
+  "team": "Newcastle Northstars",
+  "opponent": "Sydney Ice Dogs",
+  "arena": "O'Brien Icehouse",
+  "city": "Melbourne, VIC",
+  "date": "2026-08-29T04:00:00Z"
+},
+
+{
+  "id": "aihl_2026082935",
+  "league": "AIHL",
+  "team": "Melbourne Mustangs",
+  "opponent": "Canberra Brave",
+  "arena": "O'Brien Icehouse",
+  "city": "Melbourne, VIC",
+  "date": "2026-08-29T08:00:00Z"
+}
 ]
 
 
