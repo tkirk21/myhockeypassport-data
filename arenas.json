@@ -1915,7 +1915,7 @@
   {
     "teamName": "Huntsville Havoc",
     "teamCode": "HUN",
-    "arena": "Propst Arena",
+    "arena": "Von Braun Center",
     "city": "Huntsville, Alabama",
     "address": "700 Monroe St SW, Huntsville, AL 35801",
     "website": "https://huntsvillehavoc.com",
@@ -1929,7 +1929,7 @@
     "timezone": "America/Chicago",
     "startDate": "2004-09-01",
     "endDate": null,
-    "arenaId": "propst_arena_huntsville"
+    "arenaId": "von_braun_center_huntsville"
   },
   {
     "teamName": "Knoxville Ice Bears",
@@ -2251,7 +2251,7 @@
     "timezone": "America/New_York",
     "startDate": "2025-09-01",
     "endDate": null,
-    "arenaId": "florence_civic_center_florence_south_carolina"
+    "arenaId": "florence_center_florence"
   },
   {
     "teamName": "Port Huron Prowlers",
