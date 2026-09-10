@@ -7865,6 +7865,25 @@
     "arenaId": "notre_dame_arena_berlin"
   },
   {
+    "teamName": "Biloxi Breakers",
+    "teamCode": "BLX",
+    "arena": "Mississippi Coast Coliseum",
+    "city": "Biloxi, Mississippi",
+    "address": "2350 Beach Blvd, Biloxi, MS 39531",
+    "website": "https://mississippiseawolves.com",
+    "latitude": 30.39349952,
+    "longitude": -88.97455185,
+    "color": "Black",
+    "colorCode": "#000000",
+    "colorCode2": "#0143FF",
+    "colorCode3": "#FFFFFF",
+    "league": "FPHL",
+    "timezone": "America/Chicago",
+    "startDate": "2025-09-01",
+    "endDate": "2026-06-30",
+    "arenaId": "mississippi_coast_coliseum_biloxi"
+  }, 
+  {
     "teamName": "Brewster Bulldogs",
     "teamCode": "BRE",
     "arena": "Brewster Ice Arena",
@@ -8397,6 +8416,26 @@
     "startDate": "2017-09-01",
     "endDate": "2018-05-01",
     "arenaId": "kingsville_arena_complex_kingsville"
+  },
+  {
+    "teamName": "Pee Dee IceCats",
+    "teamCode": "PEE",
+    "arena": "Florence Center",
+    "city": "Florence. South Carolina",
+    "address": "3300 W Radio Dr, Florence, SC 29501",
+    "website": "https://peedeeprohockey.com",
+    "latitude": 34.1856998346259,
+    "longitude": -79.8379218717985,
+    "color": "Light Blue",
+    "colorCode": "#158FBE",
+    "colorCode2": "#000000",
+    "colorCode3": "#B01738",
+    "colorCode4": "#FFFFFF",
+    "league": "FPHL",
+    "timezone": "America/New_York",
+    "startDate": "2025-09-01",
+    "endDate": "2026-06-30",
+    "arenaId": "florence_center_florence"
   },
   {
     "teamName": "Rome Frenzy",
