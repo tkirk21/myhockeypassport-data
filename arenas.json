@@ -1915,7 +1915,7 @@
   {
     "teamName": "Huntsville Havoc",
     "teamCode": "HUN",
-    "arena": "Von Braun Center",
+    "arena": "Polaris Ice at Propst Arena",
     "city": "Huntsville, Alabama",
     "address": "700 Monroe St SW, Huntsville, AL 35801",
     "website": "https://huntsvillehavoc.com",
@@ -1929,12 +1929,12 @@
     "timezone": "America/Chicago",
     "startDate": "2004-09-01",
     "endDate": null,
-    "arenaId": "von_braun_center_huntsville"
+    "arenaId": "polaris_ice_at_propst_arena_huntsville"
   },
   {
     "teamName": "Knoxville Ice Bears",
     "teamCode": "KNX",
-    "arena": "General James White Memorial Civic Auditorium and Coliseum",
+    "arena": "Knoxville Civic Coliseum",
     "city": "Knoxville, Tennessee",
     "address": "500 Howard Baker Jr. Ave, Knoxville, TN 37915",
     "website": "https://knoxvilleicebears.com",
@@ -1947,7 +1947,7 @@
     "timezone": "America/New_York",
     "startDate": "2004-09-01",
     "endDate": null,
-    "arenaId": "general_james_white_memorial_civic_auditorium_and_coliseum_knoxville"
+    "arenaId": "knoxville_civic_coliseum_knoxville"
   },
   {
     "teamName": "Macon Mayhem",
