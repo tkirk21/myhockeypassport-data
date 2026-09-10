@@ -7769,6 +7769,26 @@
     "arenaId": "anowarakowa_arena_akwesasne"
   },
   {
+    "teamName": "Athens Rock Lobsters",
+    "teamCode": "ARL",
+    "arena": "Akins Ford Arena",
+    "city": "Athens, Georgia",
+    "address": "155 Hickory St, Athens, GA 30601",
+    "website": "https://rocklobstershockey.com",
+    "latitude": 33.96127332929012,
+    "longitude": -83.37098460341923,
+    "color": "Crimson",
+    "colorCode": "#E40D25",
+    "colorCode2": "#062539",
+    "colorCode3": "#63BBE9",
+    "colorCode4": "#FFFFFF",
+    "league": "FPHL",
+    "timezone": "America/New_York",
+    "startDate": "2024-09-01",
+    "endDate": "2026-06-30",
+    "arenaId": "akins_ford_arena_athens"
+  },
+  {
     "teamName": "Battle Creek Rumble Bees",
     "teamCode": "BCB",
     "arena": "The Rink Battle Creek",
