@@ -7789,6 +7789,26 @@
     "arenaId": "akins_ford_arena_athens"
   },
   {
+    "teamName": "Baton Rouge Zydeco",
+    "teamCode": "BRZ",
+    "arena": "Raising Cane's River Center",
+    "city": "Baton Rouge, Louisiana",
+    "address": "275 S River Rd, Baton Rouge, LA 70802",
+    "website": "https://brprohockey.com",
+    "latitude": 30.4448623,
+    "longitude": -91.18941307,
+    "color": "Navy",
+    "colorCode": "#292A56",
+    "colorCode2": "#9E0814",
+    "colorCode3": "#18C1DB",
+    "colorCode4": "#FFFFFF",
+    "league": "FPHL",
+    "timezone": "America/Chicago",
+    "startDate": "2023-09-01",
+    "endDate": "2026-06-30",
+    "arenaId": "raising_canes_river_center_baton_rouge"
+  },
+  {
     "teamName": "Battle Creek Rumble Bees",
     "teamCode": "BCB",
     "arena": "The Rink Battle Creek",
