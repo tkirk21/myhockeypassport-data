@@ -1,36 +1,26 @@
 [
   {
-    "id": "na3hl_2026091101",
+    "id": "na3hl_2026090401",
     "league": "NA3HL",
-    "team": "Bayou State Rougarou",
-    "opponent": "Louisiana Drillers",
-    "arena": "Monroe Civic Center",
-    "city": "Monroe, Louisiana",
-    "date": "2026-09-11T18:30:00Z"
+    "team": "Peoria Mustangs",
+    "opponent": "Wausau Cyclones",
+    "arena": "Owens Center",
+    "city": "Peoria, Illinois",
+    "date": "2026-09-04T23:00:00Z"
   },
   
   {
-    "id": "na3hl_2026090602",
-    "league": "NA3HL",
-    "team": "Austin Ice Bats",
-    "opponent": "Louisiana Drillers",
-    "arena": "The Crossover",
-    "city": "Leander, Texas",
-    "date": "2026-09-06T17:35:00Z"
-  },
-  
-  {
-    "id": "na3hl_2026090603",
+    "id": "na3hl_2026090502",
     "league": "NA3HL",
     "team": "Austin Ice Bats",
     "opponent": "Louisiana Drillers",
     "arena": "The Crossover",
     "city": "Leander, Texas",
-    "date": "2026-09-06T00:35:00Z"
+    "date": "2026-09-05T00:35:00Z"
   },
   
   {
-    "id": "na3hl_2026090504",
+    "id": "na3hl_2026090503",
     "league": "NA3HL",
     "team": "Peoria Mustangs",
     "opponent": "Wausau Cyclones",
@@ -40,12 +30,824 @@
   },
   
   {
-    "id": "na3hl_2026090505",
+    "id": "na3hl_2026090604",
     "league": "NA3HL",
     "team": "Austin Ice Bats",
     "opponent": "Louisiana Drillers",
     "arena": "The Crossover",
     "city": "Leander, Texas",
-    "date": "2026-09-05T00:35:00Z"
+    "date": "2026-09-06T00:35:00Z"
   },
+  
+  {
+    "id": "na3hl_2026090605",
+    "league": "NA3HL",
+    "team": "Austin Ice Bats",
+    "opponent": "Louisiana Drillers",
+    "arena": "The Crossover",
+    "city": "Leander, Texas",
+    "date": "2026-09-06T17:35:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091106",
+    "league": "NA3HL",
+    "team": "Bayou State Rougarou",
+    "opponent": "Louisiana Drillers",
+    "arena": "Monroe Civic Center",
+    "city": "Monroe, Louisiana",
+    "date": "2026-09-11T18:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091107",
+    "league": "NA3HL",
+    "team": "Peoria Mustangs",
+    "opponent": "Wisconsin Woodsmen",
+    "arena": "Owens Center",
+    "city": "Peoria, Illinois",
+    "date": "2026-09-11T23:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091208",
+    "league": "NA3HL",
+    "team": "Oklahoma City Warriors",
+    "opponent": "New Mexico Ice Wolves",
+    "arena": "Blazers Ice Centre",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-09-12T00:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091209",
+    "league": "NA3HL",
+    "team": "Tulsa Oilers",
+    "opponent": "Phoenix Inferno",
+    "arena": "BOK Center",
+    "city": "Tulsa, Oklahoma",
+    "date": "2026-09-12T00:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091210",
+    "league": "NA3HL",
+    "team": "Badlands Sabres",
+    "opponent": "Sheridan Hawks",
+    "arena": "Roosevelt Park Ice Arena",
+    "city": "Rapid City, South Dakota",
+    "date": "2026-09-12T01:05:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091211",
+    "league": "NA3HL",
+    "team": "Great Falls Americans",
+    "opponent": "Yellowstone Quake",
+    "arena": "Great Falls Ice Plex",
+    "city": "Great Falls, Montana",
+    "date": "2026-09-12T01:05:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091212",
+    "league": "NA3HL",
+    "team": "Butte Irish",
+    "opponent": "Helena Bighorns",
+    "arena": "Butte Community Ice Center",
+    "city": "Butte, Montana",
+    "date": "2026-09-12T01:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091213",
+    "league": "NA3HL",
+    "team": "St. Louis Jr. Blues",
+    "opponent": "Wausau Cyclones",
+    "arena": "Affton Ice Rink",
+    "city": "Affton, Missouri",
+    "date": "2026-09-12T01:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091214",
+    "league": "NA3HL",
+    "team": "Bozeman Icedogs",
+    "opponent": "Gillette Wild",
+    "arena": "Haynes Pavilion",
+    "city": "Bozeman, Montana",
+    "date": "2026-09-12T01:35:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091215",
+    "league": "NA3HL",
+    "team": "Bayou State Rougarou",
+    "opponent": "Louisiana Drillers",
+    "arena": "Monroe Civic Center",
+    "city": "Monroe, Louisiana",
+    "date": "2026-09-12T18:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091216",
+    "league": "NA3HL",
+    "team": "Tulsa Oilers",
+    "opponent": "Phoenix Inferno",
+    "arena": "BOK Center",
+    "city": "Tulsa, Oklahoma",
+    "date": "2026-09-12T21:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091217",
+    "league": "NA3HL",
+    "team": "Peoria Mustangs",
+    "opponent": "Wisconsin Woodsmen",
+    "arena": "Owens Center",
+    "city": "Peoria, Illinois",
+    "date": "2026-09-12T22:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091218",
+    "league": "NA3HL",
+    "team": "St. Louis Jr. Blues",
+    "opponent": "Wausau Cyclones",
+    "arena": "Affton Ice Rink",
+    "city": "Affton, Missouri",
+    "date": "2026-09-12T22:45:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091219",
+    "league": "NA3HL",
+    "team": "Rochester Grizzlies",
+    "opponent": "West Bend Power",
+    "arena": "Rochester Recreation Center",
+    "city": "Rochester, Minnesota",
+    "date": "2026-09-12T23:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091320",
+    "league": "NA3HL",
+    "team": "New Jersey Titans",
+    "opponent": "Garden State Gamblers",
+    "arena": "Middletown Sports Complex",
+    "city": "Middletown Township, New Jersey",
+    "date": "2026-09-13T00:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091321",
+    "league": "NA3HL",
+    "team": "Oklahoma City Warriors",
+    "opponent": "New Mexico Ice Wolves",
+    "arena": "Blazers Ice Centre",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-09-13T00:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091322",
+    "league": "NA3HL",
+    "team": "Great Falls Americans",
+    "opponent": "Gillette Wild",
+    "arena": "Great Falls Ice Plex",
+    "city": "Great Falls, Montana",
+    "date": "2026-09-13T01:05:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091323",
+    "league": "NA3HL",
+    "team": "Badlands Sabres",
+    "opponent": "Sheridan Hawks",
+    "arena": "Roosevelt Park Ice Arena",
+    "city": "Rapid City, South Dakota",
+    "date": "2026-09-13T01:05:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091324",
+    "league": "NA3HL",
+    "team": "Butte Irish",
+    "opponent": "Yellowstone Quake",
+    "arena": "Butte Community Ice Center",
+    "city": "Butte, Montana",
+    "date": "2026-09-13T01:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091325",
+    "league": "NA3HL",
+    "team": "Bozeman Icedogs",
+    "opponent": "Helena Bighorns",
+    "arena": "Haynes Pavilion",
+    "city": "Bozeman, Montana",
+    "date": "2026-09-13T01:35:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091326",
+    "league": "NA3HL",
+    "team": "Bayou State Rougarou",
+    "opponent": "Louisiana Drillers",
+    "arena": "Monroe Civic Center",
+    "city": "Monroe, Louisiana",
+    "date": "2026-09-13T19:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091627",
+    "league": "NA3HL",
+    "team": "Pelham Prowlers",
+    "opponent": "Bayou State Rougarou",
+    "arena": "Pelham Civic Complex",
+    "city": "Pelham, Alabama",
+    "date": "2026-09-16T19:15:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091728",
+    "league": "NA3HL",
+    "team": "Pelham Prowlers",
+    "opponent": "Bayou State Rougarou",
+    "arena": "Pelham Civic Complex",
+    "city": "Pelham, Alabama",
+    "date": "2026-09-17T17:30:00Z"
+  },
+  
+  Missing arena: Garden State Gamblers
+  Missing arena: Garden State Gamblers
+  {
+    "id": "na3hl_2026091829",
+    "league": "NA3HL",
+    "team": "Pelham Prowlers",
+    "opponent": "Bayou State Rougarou",
+    "arena": "Pelham Civic Complex",
+    "city": "Pelham, Alabama",
+    "date": "2026-09-18T17:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091830",
+    "league": "NA3HL",
+    "team": "Oklahoma City Warriors",
+    "opponent": "Tulsa Oilers",
+    "arena": "Blazers Ice Centre",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-09-18T19:45:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091831",
+    "league": "NA3HL",
+    "team": "New Jersey Titans",
+    "opponent": "Long Beach Sharks",
+    "arena": "Middletown Sports Complex",
+    "city": "Middletown Township, New Jersey",
+    "date": "2026-09-18T22:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091832",
+    "league": "NA3HL",
+    "team": "Peoria Mustangs",
+    "opponent": "West Bend Power",
+    "arena": "Owens Center",
+    "city": "Peoria, Illinois",
+    "date": "2026-09-18T23:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091933",
+    "league": "NA3HL",
+    "team": "Rochester Grizzlies",
+    "opponent": "Wausau Cyclones",
+    "arena": "Rochester Recreation Center",
+    "city": "Rochester, Minnesota",
+    "date": "2026-09-19T00:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091934",
+    "league": "NA3HL",
+    "team": "Wisconsin Woodsmen",
+    "opponent": "St. Louis Jr. Blues",
+    "arena": "Tomah Ice Center",
+    "city": "Tomah, Wisconsin",
+    "date": "2026-09-19T00:15:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091935",
+    "league": "NA3HL",
+    "team": "New Mexico Ice Wolves",
+    "opponent": "West Texas Wranglers",
+    "arena": "Outpost Ice Arena",
+    "city": "Albuquerque, New Mexico",
+    "date": "2026-09-19T00:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091936",
+    "league": "NA3HL",
+    "team": "Great Falls Americans",
+    "opponent": "Butte Irish",
+    "arena": "Great Falls Ice Plex",
+    "city": "Great Falls, Montana",
+    "date": "2026-09-19T01:05:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091937",
+    "league": "NA3HL",
+    "team": "Helena Bighorns",
+    "opponent": "Sheridan Hawks",
+    "arena": "Steed Arena",
+    "city": "Helena, Montana",
+    "date": "2026-09-19T01:05:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091938",
+    "league": "NA3HL",
+    "team": "Gillette Wild",
+    "opponent": "Yellowstone Quake",
+    "arena": "Spirit Hall Ice Arena",
+    "city": "Gillette, Wyoming",
+    "date": "2026-09-19T01:05:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091939",
+    "league": "NA3HL",
+    "team": "Bozeman Icedogs",
+    "opponent": "Badlands Sabres",
+    "arena": "Haynes Pavilion",
+    "city": "Bozeman, Montana",
+    "date": "2026-09-19T01:35:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091940",
+    "league": "NA3HL",
+    "team": "Texas Brahmas",
+    "opponent": "Austin Ice Bats",
+    "arena": "NYTEX Sports Centre",
+    "city": "North Richland Hills, Texas",
+    "date": "2026-09-19T19:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091941",
+    "league": "NA3HL",
+    "team": "Oklahoma City Warriors",
+    "opponent": "Tulsa Oilers",
+    "arena": "Blazers Ice Centre",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-09-19T19:45:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091942",
+    "league": "NA3HL",
+    "team": "New Jersey Titans",
+    "opponent": "Long Beach Sharks",
+    "arena": "Middletown Sports Complex",
+    "city": "Middletown Township, New Jersey",
+    "date": "2026-09-19T22:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091943",
+    "league": "NA3HL",
+    "team": "Rochester Grizzlies",
+    "opponent": "Wausau Cyclones",
+    "arena": "Rochester Recreation Center",
+    "city": "Rochester, Minnesota",
+    "date": "2026-09-19T23:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091944",
+    "league": "NA3HL",
+    "team": "Peoria Mustangs",
+    "opponent": "West Bend Power",
+    "arena": "Owens Center",
+    "city": "Peoria, Illinois",
+    "date": "2026-09-19T23:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092045",
+    "league": "NA3HL",
+    "team": "Wisconsin Woodsmen",
+    "opponent": "St. Louis Jr. Blues",
+    "arena": "Tomah Ice Center",
+    "city": "Tomah, Wisconsin",
+    "date": "2026-09-20T00:15:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092046",
+    "league": "NA3HL",
+    "team": "New Mexico Ice Wolves",
+    "opponent": "West Texas Wranglers",
+    "arena": "Outpost Ice Arena",
+    "city": "Albuquerque, New Mexico",
+    "date": "2026-09-20T00:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092047",
+    "league": "NA3HL",
+    "team": "Helena Bighorns",
+    "opponent": "Badlands Sabres",
+    "arena": "Steed Arena",
+    "city": "Helena, Montana",
+    "date": "2026-09-20T01:05:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092048",
+    "league": "NA3HL",
+    "team": "Great Falls Americans",
+    "opponent": "Sheridan Hawks",
+    "arena": "Great Falls Ice Plex",
+    "city": "Great Falls, Montana",
+    "date": "2026-09-20T01:05:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092049",
+    "league": "NA3HL",
+    "team": "Gillette Wild",
+    "opponent": "Yellowstone Quake",
+    "arena": "Spirit Hall Ice Arena",
+    "city": "Gillette, Wyoming",
+    "date": "2026-09-20T01:05:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092050",
+    "league": "NA3HL",
+    "team": "Bozeman Icedogs",
+    "opponent": "Butte Irish",
+    "arena": "Haynes Pavilion",
+    "city": "Bozeman, Montana",
+    "date": "2026-09-20T01:35:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092051",
+    "league": "NA3HL",
+    "team": "New Mexico Ice Wolves",
+    "opponent": "West Texas Wranglers",
+    "arena": "Outpost Ice Arena",
+    "city": "Albuquerque, New Mexico",
+    "date": "2026-09-20T20:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092052",
+    "league": "NA3HL",
+    "team": "Tulsa Oilers",
+    "opponent": "Oklahoma City Warriors",
+    "arena": "BOK Center",
+    "city": "Tulsa, Oklahoma",
+    "date": "2026-09-20T21:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092053",
+    "league": "NA3HL",
+    "team": "Atlanta Capitals",
+    "opponent": "Texas RoadRunners",
+    "arena": "Atlanta Ice Forum",
+    "city": "Duluth, Georgia",
+    "date": "2026-09-20T23:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092154",
+    "league": "NA3HL",
+    "team": "Atlanta Capitals",
+    "opponent": "Texas RoadRunners",
+    "arena": "Atlanta Ice Forum",
+    "city": "Duluth, Georgia",
+    "date": "2026-09-21T15:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092255",
+    "league": "NA3HL",
+    "team": "Atlanta Capitals",
+    "opponent": "Texas RoadRunners",
+    "arena": "Atlanta Ice Forum",
+    "city": "Duluth, Georgia",
+    "date": "2026-09-22T15:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092556",
+    "league": "NA3HL",
+    "team": "Norwich Sea Captains",
+    "opponent": "New Jersey Titans",
+    "arena": "Rosegarden Ice Arena",
+    "city": "Norwich, Connecticut",
+    "date": "2026-09-25T16:15:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092557",
+    "league": "NA3HL",
+    "team": "New Hampshire Jr. Mountain Kings",
+    "opponent": "Garden State Gamblers",
+    "arena": "Delta Dental Arena",
+    "city": "Hooksett, New Hampshire",
+    "date": "2026-09-25T23:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092658",
+    "league": "NA3HL",
+    "team": "Bayou State Rougarou",
+    "opponent": "Austin Ice Bats",
+    "arena": "Monroe Civic Center",
+    "city": "Monroe, Louisiana",
+    "date": "2026-09-26T00:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092659",
+    "league": "NA3HL",
+    "team": "Rochester Grizzlies",
+    "opponent": "West Bend Power",
+    "arena": "Rochester Recreation Center",
+    "city": "Rochester, Minnesota",
+    "date": "2026-09-26T00:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092660",
+    "league": "NA3HL",
+    "team": "North Iowa Bulls",
+    "opponent": "Alexandria Blizzard",
+    "arena": "Mason City Arena",
+    "city": "Mason City, Iowa",
+    "date": "2026-09-26T00:10:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092661",
+    "league": "NA3HL",
+    "team": "Texas RoadRunners",
+    "opponent": "Louisiana Drillers",
+    "arena": "Spirit Ice Arena",
+    "city": "College Station, Texas",
+    "date": "2026-09-26T00:15:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092662",
+    "league": "NA3HL",
+    "team": "Fox Cities Forge",
+    "opponent": "Wausau Cyclones",
+    "arena": "Appleton Family Ice Center",
+    "city": "Appleton, Wisconsin",
+    "date": "2026-09-26T00:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092663",
+    "league": "NA3HL",
+    "team": "Phoenix Inferno",
+    "opponent": "Oklahoma City Warriors",
+    "arena": "Fire 'n' Ice Arena",
+    "city": "Phoenix, Arizona",
+    "date": "2026-09-26T01:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092664",
+    "league": "NA3HL",
+    "team": "Badlands Sabres",
+    "opponent": "Butte Irish",
+    "arena": "Roosevelt Park Ice Arena",
+    "city": "Rapid City, South Dakota",
+    "date": "2026-09-26T01:05:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092665",
+    "league": "NA3HL",
+    "team": "Sheridan Hawks",
+    "opponent": "Bozeman Icedogs",
+    "arena": "Whitney Rink in the M&M's Center",
+    "city": "Sheridan, Wyoming",
+    "date": "2026-09-26T01:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092666",
+    "league": "NA3HL",
+    "team": "St. Louis Jr. Blues",
+    "opponent": "Wisconsin Woodsmen",
+    "arena": "Affton Ice Rink",
+    "city": "Affton, Missouri",
+    "date": "2026-09-26T01:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092667",
+    "league": "NA3HL",
+    "team": "New Hampshire Jr. Mountain Kings",
+    "opponent": "Garden State Gamblers",
+    "arena": "Delta Dental Arena",
+    "city": "Hooksett, New Hampshire",
+    "date": "2026-09-26T22:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092668",
+    "league": "NA3HL",
+    "team": "St. Louis Jr. Blues",
+    "opponent": "Wisconsin Woodsmen",
+    "arena": "Affton Ice Rink",
+    "city": "Affton, Missouri",
+    "date": "2026-09-26T22:45:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092669",
+    "league": "NA3HL",
+    "team": "Bayou State Rougarou",
+    "opponent": "Austin Ice Bats",
+    "arena": "Monroe Civic Center",
+    "city": "Monroe, Louisiana",
+    "date": "2026-09-26T23:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092670",
+    "league": "NA3HL",
+    "team": "Rochester Grizzlies",
+    "opponent": "West Bend Power",
+    "arena": "Rochester Recreation Center",
+    "city": "Rochester, Minnesota",
+    "date": "2026-09-26T23:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092671",
+    "league": "NA3HL",
+    "team": "Norwich Sea Captains",
+    "opponent": "Long Beach Sharks",
+    "arena": "Rosegarden Ice Arena",
+    "city": "Norwich, Connecticut",
+    "date": "2026-09-26T23:15:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092672",
+    "league": "NA3HL",
+    "team": "North Iowa Bulls",
+    "opponent": "Alexandria Blizzard",
+    "arena": "Mason City Arena",
+    "city": "Mason City, Iowa",
+    "date": "2026-09-26T23:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092773",
+    "league": "NA3HL",
+    "team": "Phoenix Inferno",
+    "opponent": "Oklahoma City Warriors",
+    "arena": "Fire 'n' Ice Arena",
+    "city": "Phoenix, Arizona",
+    "date": "2026-09-27T00:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092774",
+    "league": "NA3HL",
+    "team": "Wausau Cyclones",
+    "opponent": "Fox Cities Forge",
+    "arena": "Marathon Park",
+    "city": "Wausau, Wisconsin",
+    "date": "2026-09-27T00:10:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092775",
+    "league": "NA3HL",
+    "team": "Texas RoadRunners",
+    "opponent": "Louisiana Drillers",
+    "arena": "Spirit Ice Arena",
+    "city": "College Station, Texas",
+    "date": "2026-09-27T00:15:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092776",
+    "league": "NA3HL",
+    "team": "Granite City Lumberjacks",
+    "opponent": "Minnesota Vulcans",
+    "arena": "Miller Buick GMC Rink",
+    "city": "Sauk Rapids, Minnesota",
+    "date": "2026-09-27T00:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092777",
+    "league": "NA3HL",
+    "team": "Texas Brahmas",
+    "opponent": "Tulsa Oilers",
+    "arena": "NYTEX Sports Centre",
+    "city": "North Richland Hills, Texas",
+    "date": "2026-09-27T00:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092778",
+    "league": "NA3HL",
+    "team": "Gillette Wild",
+    "opponent": "Butte Irish",
+    "arena": "Spirit Hall Ice Arena",
+    "city": "Gillette, Wyoming",
+    "date": "2026-09-27T01:05:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092779",
+    "league": "NA3HL",
+    "team": "Helena Bighorns",
+    "opponent": "Great Falls Americans",
+    "arena": "Steed Arena",
+    "city": "Helena, Montana",
+    "date": "2026-09-27T01:05:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092780",
+    "league": "NA3HL",
+    "team": "Sheridan Hawks",
+    "opponent": "Bozeman Icedogs",
+    "arena": "Whitney Rink in the M&M's Center",
+    "city": "Sheridan, Wyoming",
+    "date": "2026-09-27T01:30:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092781",
+    "league": "NA3HL",
+    "team": "Texas RoadRunners",
+    "opponent": "Louisiana Drillers",
+    "arena": "Spirit Ice Arena",
+    "city": "College Station, Texas",
+    "date": "2026-09-27T17:15:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092782",
+    "league": "NA3HL",
+    "team": "Long Beach Sharks",
+    "opponent": "New Jersey Titans",
+    "arena": "Long Beach Municipal Ice Arena",
+    "city": "Long Beach, New York",
+    "date": "2026-09-27T18:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092783",
+    "league": "NA3HL",
+    "team": "Bayou State Rougarou",
+    "opponent": "Austin Ice Bats",
+    "arena": "Monroe Civic Center",
+    "city": "Monroe, Louisiana",
+    "date": "2026-09-27T19:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092784",
+    "league": "NA3HL",
+    "team": "Texas Brahmas",
+    "opponent": "Tulsa Oilers",
+    "arena": "NYTEX Sports Centre",
+    "city": "North Richland Hills, Texas",
+    "date": "2026-09-27T19:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092785",
+    "league": "NA3HL",
+    "team": "Phoenix Inferno",
+    "opponent": "Oklahoma City Warriors",
+    "arena": "Fire 'n' Ice Arena",
+    "city": "Phoenix, Arizona",
+    "date": "2026-09-27T19:45:00Z"
+  }
 ]
