@@ -15,7 +15,7 @@
     "colorCode3": "#000000",
     "colorCode4": "#FFFFFF",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2011-10-08",
     "endDate": "2011-10-09"
   },
@@ -35,7 +35,7 @@
     "colorCode3": "#000000",
     "colorCode4": "#FFFFFF",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2007-09-30",
     "endDate": "2007-10-01"
   },
@@ -439,7 +439,7 @@
     "colorCode2": "#FFBB12",
     "colorCode3": "#FFFFFF",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2019-11-08",
     "endDate": "2019-11-09"
   },
@@ -802,7 +802,7 @@
     "colorCode": "#81324a",
     "colorCode2": "#000080",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2017-11-10",
     "endDate": "2017-11-11"
   },
@@ -880,7 +880,7 @@
     "colorCode3": "#A2AAAD",
     "colorCode4": "#FFFFFF",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2010-10-08",
     "endDate": "2010-10-09"
   },
@@ -1087,7 +1087,7 @@
     "colorCode": "#c10000",
     "colorCode2": "#ffffff",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2023-11-17",
     "endDate": "2023-11-18"
   },
@@ -1105,7 +1105,7 @@
     "colorCode": "#c10000",
     "colorCode2": "#ffffff",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2009-10-03",
     "endDate": "2009-10-04"
   },
@@ -1456,7 +1456,7 @@
     "colorCode2": "#c0c0c0",
     "colorCode": "#000000",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2011-10-07",
     "endDate": "2011-10-08"
   },
@@ -1492,7 +1492,7 @@
     "colorCode2": "#c0c0c0",
     "colorCode": "#000000",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2007-09-29",
     "endDate": "2007-09-30"
   },
@@ -1567,7 +1567,7 @@
     "colorCode": "#009639",
     "colorCode2": "#FFD100",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "1980-09-22",
     "endDate": "1980-09-23"
   },
@@ -1627,7 +1627,7 @@
     "colorCode3": "#EAAA00",
     "colorCode4": "#DDC9A3",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2023-11-19",
     "endDate": "2023-11-20"
   },
@@ -1820,7 +1820,7 @@
     "colorCode2": "#041E42",
     "colorCode3": "#FFFFFF",
     "league": "NHL",
-    "timezone": "Japan/Saitama",
+    "timezone": "Asia/Tokyo",
     "startDate": "2000-10-07",
     "endDate": "2000-10-08"
   },
@@ -1839,7 +1839,7 @@
     "colorCode2": "#041E42",
     "colorCode3": "#FFFFFF",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2025-11-14",
     "endDate": "2025-11-15"
   },
@@ -1858,7 +1858,7 @@
     "colorCode2": "#041E42",
     "colorCode3": "#FFFFFF",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2022-10-07",
     "endDate": "2022-10-08"
   },
@@ -2218,7 +2218,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#E4002B",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2017-11-11",
     "endDate": "2017-11-12"
   },
@@ -2414,7 +2414,7 @@
     "colorCode": "#000000",
     "colorCode2": "#ff0000",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2023-11-16",
     "endDate": "2023-11-19"
   },
@@ -2432,7 +2432,7 @@
     "colorCode": "#000000",
     "colorCode2": "#ff0000",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2008-10-04",
     "endDate": "2008-10-05"
   },
@@ -2468,7 +2468,7 @@
     "colorCode": "#CC5500",
     "colorCode2": "#000000",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2019-10-04",
     "endDate": "2022-10-05"
   },
@@ -2504,7 +2504,7 @@
     "colorCode": "#000000",
     "colorCode2": "#ffff00",
     "league": "NHL",
-    "timezone": "Japan/Saitama",
+    "timezone": "Asia/Tokyo",
     "startDate": "2000-10-06",
     "endDate": "2000-10-07"
   },
@@ -2522,7 +2522,7 @@
     "colorCode": "#000000",
     "colorCode2": "#ffff00",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2025-11-16",
     "endDate": "2025-11-17"
   },
@@ -2540,7 +2540,7 @@
     "colorCode": "#000000",
     "colorCode2": "#ffff00",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2008-10-04",
     "endDate": "2008-10-05"
   },
@@ -2668,7 +2668,7 @@
     "colorCode": "#296a65",
     "colorCode2": "#000000",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2022-10-08",
     "endDate": "2022-10-09"
   },
@@ -2686,7 +2686,7 @@
     "colorCode": "#296a65",
     "colorCode2": "#000000",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2010-10-09",
     "endDate": "2010-10-10"
   },
@@ -2722,7 +2722,7 @@
     "colorCode": "#0065bd",
     "colorCode2": "#ffff00",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2009-10-02",
     "endDate": "2009-10-03"
   },
@@ -2812,7 +2812,7 @@
     "colorCode": "#003d7c",
     "colorCode2": "#ffffff",
     "league": "NHL",
-    "timezone": "Sweden/Stockholm",
+    "timezone": "Europe/Stockholm",
     "startDate": "2019-11-09",
     "endDate": "2019-11-10"
   },
