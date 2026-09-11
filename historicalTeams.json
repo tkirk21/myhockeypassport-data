@@ -11155,6 +11155,25 @@
     "arenaId": "edge_ice_arena_bensenville"
   },
   {
+    "teamName": "Chippewa Steel",
+    "teamCode": "CHP",
+    "arena": "Chippewa Area Ice Arena",
+    "city": "Chippewa Falls, Wisconsin",
+    "address": "839 1st Ave, Chippewa Falls, WI 54729",
+    "website": "https://chippewasteelhockey.com",
+    "latitude": 44.9507618022648,
+    "longitude": -91.3864674321369,
+    "color": "Dark Blue",
+    "colorCode": "#2E8B57",
+    "colorCode2": "#000000",
+    "colorCode3": "#808080",
+    "league": "NAHL",
+    "timezone": "America/Chicago",
+    "startDate": "2018-09-01",
+    "endDate": "2026-06-30",
+    "arenaId": "chippewa_area_ice_arena_chippewa_falls"
+  },
+  {
     "teamName": "Danville Wings",
     "teamCode": "DAN",
     "arena": "David S. Palmer Arena",
@@ -11420,6 +11439,25 @@
     "arenaId": "hartmeyer_ice_arena_madison"
   },
   {
+    "teamName": "Maine Nordiques",
+    "teamCode": "MAI",
+    "arena": "Norway Savings Bank Arena",
+    "city": "Auburn, Maine",
+    "address": "985 Turner St, Auburn, ME 04210",
+    "website": "https://mainenordiques.com",
+    "latitude": 44.124411231645794,
+    "longitude": -70.2298159971792,
+    "color": "Blue",
+    "colorCode": "#59B2E7",
+    "colorCode2": "#CF152D",
+    "colorCode3": "#ffffff",
+    "league": "NAHL",
+    "timezone": "America/New_York",
+    "startDate": "2025-09-01",
+    "endDate": "2026-06-30",
+    "arenaId": "norway_savings_bank_arena_auburn"
+  },
+  {
     "teamName": "Minneapolis Jr. Stars",
     "teamCode": "MIN",
     "arena": "Augsburg Ice Arena",
@@ -11437,6 +11475,25 @@
     "startDate": "1984-09-01",
     "endDate": "1985-06-01",
     "arenaId": "augsburg_ice_arena__minneapolis"
+  },
+  {
+    "teamName": "North Iowa Bulls",
+    "teamCode": "NIB",
+    "arena": "Mason City Arena",
+    "city": "Mason City, Iowa",
+    "address": "100 S. Federal Av, Mason City, IA 50401",
+    "website": "https://northiowabulls.com",
+    "latitude": 43.1504702204912,
+    "longitude": -93.2021725834311,
+    "color": "Green",
+    "colorCode": "#0A6623",
+    "colorCode2": "#00205b",
+    "colorCode3": "#ffffff",
+    "league": "NAHL",
+    "timezone": "America/Chicago",
+    "startDate": "2021-09-01",
+    "endDate": "2026-06-30",
+    "arenaId": "mason_city_arena_mason_city"
   },
   {
     "teamName": "North Iowa Huskies",
@@ -11531,6 +11588,25 @@
     "startDate": "2002-09-01",
     "endDate": "2004-06-01",
     "arenaId": "midamerica_center_omaha"
+  },
+  {
+    "teamName": "Rochester Jr. Americans",
+    "teamCode": "RJA",
+    "arena": "Rochester Ice Center",
+    "city": "Fairport, New York",
+    "address": "80 Lyndon Rd, Fairport, NY 14450",
+    "website": "https://rochesterjramerks.com",
+    "latitude": 43.0919509566562,
+    "longitude": -77.4009998626455,
+    "color": "Navy Blue",
+    "colorCode": "#00205b",
+    "colorCode2": "#000000",
+    "colorCode3": "#C00020",
+    "league": "NAHL",
+    "timezone": "America/New_York",
+    "startDate": "2023-09-01",
+    "endDate": "2026-06-30",
+    "arenaId": "rochester_ice_center_fairport"
   },
   {
     "teamName": "Rochester Mustangs",
