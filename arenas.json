@@ -1744,6 +1744,25 @@
     "arenaId": "huntington_center_toledo"
   },
   {
+    "teamName": "Trenton Ironhawks",
+    "teamCode": "TRE",
+    "arena": "CURE Insurance Arena",
+    "city": "Trenton, New Jersey",
+    "address": "81 Hamilton Ave, Trenton, NJ 08611",
+    "website": "trentonironhawks.com",
+    "latitude": 40.212759346925374, 
+    "longitude": -74.75757943481032,
+    "colorCode": "#508EC8",
+    "colorCode2": "#B0B3B4",
+    "colorCode3": "#AB3129",
+    "colorCode4": "#FFFFFF",
+    "league": "ECHL",
+    "timezone": "America/New_York",
+    "startDate": "2026-09-01",
+    "endDate": null,
+    "arenaId": "cure_insurance_arena_trenton"
+  },
+  {
     "teamName": "Trois-Rivières Lions",
     "teamCode": "TRL",
     "arena": "Colisee Videotron",
