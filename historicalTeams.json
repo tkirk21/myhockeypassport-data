@@ -6468,6 +6468,26 @@
     "arenaId": "centurylink_arena_boise"
   },
   {
+    "teamName": "Iowa Heartlanders",
+    "teamCode": "IAH",
+    "arena": "Xtream Arena",
+    "city": "Coralville, Iowa",
+    "address": "200 E 9th St Suite 100, Coralville, IA 52241",
+    "website": "https://iowaheartlanders.com",
+    "latitude": 41.681,
+    "longitude": -91.5621,
+    "color": "Black",
+    "colorCode": "#000000",
+    "colorCode2": "#FFD100",
+    "colorCode3": "#5B6670",
+    "colorCode4": "#FFFFFF",
+    "league": "ECHL",
+    "timezone": "America/Chicago",
+    "startDate": "2021-09-01",
+    "endDate": "2026-06-30",
+    "arenaId": "xtream_arena_coralville"
+  },
+  {
     "teamName": "Jackson Bandits",
     "teamCode": "JAC",
     "arena": "Mississippi Coliseum",
