@@ -7329,6 +7329,25 @@
     "arenaId": "sun_national_bank_center_trenton"
   },
   {
+    "teamName": "Utah Grizzlies",
+    "teamCode": "UTA",
+    "arena": "Maverik Center",
+    "arenaId": "maverik_center_west_valley_city",
+    "city": "West Valley City, Utah",
+    "address": "3200 S Decker Lake Dr, West Valley City, UT 84119",
+    "website": "https://utahgrizzlies.com",
+    "latitude": 40.7028,
+    "longitude": -111.9504,
+    "colorCode": "#00483A",
+    "colorCode2": "#000000",
+    "colorCode3": "#B1790C",
+    "colorCode4": "#FFFFFF",
+    "league": "ECHL",
+    "timezone": "America/New_York",
+    "startDate": "2005-09-01",
+    "endDate": "2026-06-30"
+  },
+  {
     "teamName": "Virginia Lancers",
     "teamCode": "VIR",
     "arena": "Vinton Sports Complex",
