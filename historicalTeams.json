@@ -291,7 +291,7 @@
     "colorCode": "#000000",
     "colorCode2": "#febd00",
     "league": "NHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1928-09-01",
     "endDate": "1995-05-31"
   },
@@ -308,7 +308,7 @@
     "colorCode": "#C8102E",
     "colorCode2": "#0033A0",
     "league": "NHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1941-09-01",
     "endDate": "1942-05-31"
   },
@@ -999,7 +999,7 @@
     "colorCode": "#c10000",
     "colorCode2": "#ffffff",
     "league": "NHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1926-09-01",
     "endDate": "1930-05-31"
   },
@@ -1016,7 +1016,7 @@
     "colorCode": "#c10000",
     "colorCode2": "#ffffff",
     "league": "NHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1930-09-01",
     "endDate": "1932-05-31"
   },
@@ -1069,7 +1069,7 @@
     "colorCode": "#c10000",
     "colorCode2": "#ffffff",
     "league": "NHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2014-01-01",
     "endDate": "2014-01-02"
   },
@@ -1875,7 +1875,7 @@
     "colorCode": "#C8102E",
     "colorCode2": "#0033A0",
     "league": "NHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1925-09-01",
     "endDate": "1941-05-31"
   },
@@ -2236,7 +2236,7 @@
     "colorCode2": "#000000",
     "colorCode3": "#FFFFFF",
     "league": "NHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2012-01-01",
     "endDate": "2012-01-02"
   },
@@ -2254,7 +2254,7 @@
     "colorCode2": "#000000",
     "colorCode3": "#FFFFFF",
     "league": "NHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2019-02-23",
     "endDate": "2019-02-24"
   },
@@ -2271,7 +2271,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#FF7F27",
     "league": "NHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1930-09-01",
     "endDate": "1931-05-31"
   },
@@ -2343,7 +2343,7 @@
     "colorCode2": "#FFB81C",
     "colorCode3": "#FFFFFF",
     "league": "NHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2011-01-01",
     "endDate": "2011-01-02"
   },
@@ -2361,7 +2361,7 @@
     "colorCode2": "#FFB81C",
     "colorCode3": "#FFFFFF",
     "league": "NHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2017-02-25",
     "endDate": "2017-02-26"
   },
@@ -2378,7 +2378,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#F2A900",
     "league": "NHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1925-09-01",
     "endDate": "1930-05-31"
   },
@@ -3251,7 +3251,7 @@
     "colorCode": "#2A3087",
     "colorCode2": "#4852E8",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2011-09-01",
     "endDate": "2017-05-31"
   },
@@ -3269,7 +3269,7 @@
     "colorCode": "#000000",
     "colorCode2": "#7F7F7F",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2001-09-01",
     "endDate": "2015-05-31"
   },
@@ -3397,7 +3397,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#ED1C24",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1999-09-01",
     "endDate": "2001-05-31"
   },
@@ -3415,7 +3415,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#000000",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2017-09-01",
     "endDate": "2021-05-31"
   },
@@ -3433,7 +3433,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#000000",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2010-09-01",
     "endDate": "2017-05-31"
   },
@@ -3451,7 +3451,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#000000",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2006-09-01",
     "endDate": "2010-05-31"
   },
@@ -3488,7 +3488,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#000000",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1998-09-01",
     "endDate": "2006-05-31"
   },
@@ -3506,7 +3506,7 @@
     "colorCode": "#088696",
     "colorCode2": "#000000",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2006-09-01",
     "endDate": "2015-05-31"
   },
@@ -3524,7 +3524,7 @@
     "colorCode": "#088696",
     "colorCode2": "#000000",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2001-09-01",
     "endDate": "2006-05-31"
   },
@@ -3542,7 +3542,7 @@
     "colorCode": "#088696",
     "colorCode2": "#3A1A3B",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1996-09-01",
     "endDate": "2001-05-31"
   },
@@ -3668,7 +3668,7 @@
     "colorCode": "#002E62",
     "colorCode2": "#E31836",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1994-09-01",
     "endDate": "2016-05-31"
   },
@@ -3884,7 +3884,7 @@
     "colorCode": "#6F263D",
     "colorCode2": "#FFFFFF",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1971-09-01",
     "endDate": "1974-05-31"
   },
@@ -4154,7 +4154,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#FFFD55",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1979-09-01",
     "endDate": "1980-05-31"
   },
@@ -4172,7 +4172,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#FFFD55",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1974-09-01",
     "endDate": "1979-05-31"
   },
@@ -4208,7 +4208,7 @@
     "colorCode": "#a60c00",
     "colorCode2": "#000000",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2014-09-01",
     "endDate": "2015-05-31"
   },
@@ -4298,7 +4298,7 @@
     "colorCode": "#a60c00",
     "colorCode2": "#000000",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1987-09-01",
     "endDate": "1993-05-31"
   },
@@ -4316,7 +4316,7 @@
     "colorCode": "#000000",
     "colorCode2": "#FFEF00",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1977-09-01",
     "endDate": "1978-05-31"
   },
@@ -4334,7 +4334,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#000000",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2002-09-01",
     "endDate": "2017-05-31"
   },
@@ -4352,7 +4352,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#000000",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1993-09-01",
     "endDate": "1996-05-31"
   },
@@ -4370,7 +4370,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#000000",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1992-09-01",
     "endDate": "1993-05-31"
   },
@@ -4388,7 +4388,7 @@
     "colorCode": "#000030",
     "colorCode2": "#9C1218",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1972-09-01",
     "endDate": "1992-05-31"
   },
@@ -4443,7 +4443,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#FFFFFF",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1979-09-01",
     "endDate": "1999-05-31"
   },
@@ -4461,7 +4461,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#FFFFFF",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1972-09-01",
     "endDate": "1975-05-31"
   },
@@ -4479,7 +4479,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#FFFFFF",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1971-09-01",
     "endDate": "1972-05-31"
   },
@@ -4497,7 +4497,7 @@
     "colorCode": "#00006A",
     "colorCode2": "#FFEF00",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1971-09-01",
     "endDate": "1974-05-31"
   },
@@ -4515,7 +4515,7 @@
     "colorCode": "#051C2C",
     "colorCode2": "#A4A4A5",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1999-09-01",
     "endDate": "2002-05-31"
   },
@@ -4533,7 +4533,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#00006A",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1990-09-01",
     "endDate": "1999-05-31"
   },
@@ -4551,7 +4551,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#00006A",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1984-09-01",
     "endDate": "1990-05-31"
   },
@@ -4569,7 +4569,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#00006A",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1978-09-01",
     "endDate": "1984-05-31"
   },
@@ -4587,7 +4587,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#00006A",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1969-09-01",
     "endDate": "1971-05-31"
   },
@@ -4605,7 +4605,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#FF7F27",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1962-09-01",
     "endDate": "1976-05-31"
   },
@@ -4623,7 +4623,7 @@
     "colorCode": "#FF3F00",
     "colorCode2": "#FFFFFF",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1971-09-01",
     "endDate": "1976-05-31"
   },
@@ -4641,7 +4641,7 @@
     "colorCode": "#FF3F00",
     "colorCode2": "#FFFFFF",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1959-09-01",
     "endDate": "1971-05-31"
   },
@@ -4659,7 +4659,7 @@
     "colorCode": "#FF3F00",
     "colorCode2": "#FFFFFF",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1946-09-01",
     "endDate": "1949-05-31"
   },
@@ -4695,7 +4695,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#000000",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1949-09-01",
     "endDate": "1952-05-31"
   },
@@ -4713,7 +4713,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1947-09-01",
     "endDate": "1949-05-31"
   },
@@ -4731,7 +4731,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1941-09-01",
     "endDate": "1942-05-31"
   },
@@ -4749,7 +4749,7 @@
     "colorCode": "#FFFFFF",
     "colorCode2": "#000000",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1939-09-01",
     "endDate": "1952-05-31"
   },
@@ -4767,7 +4767,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#000C7B",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1940-09-01",
     "endDate": "1970-05-31"
   },
@@ -4785,7 +4785,7 @@
     "colorCode": "#D65239",
     "colorCode2": "#000C7B",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1936-09-01",
     "endDate": "1937-05-31"
   },
@@ -4803,7 +4803,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#000C7B",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1936-09-01",
     "endDate": "1940-05-31"
   },
@@ -4821,7 +4821,7 @@
     "colorCode": "#ED1C24",
     "colorCode2": "#FFFFFF",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2013-09-01",
     "endDate": "2021-05-31"
   },
@@ -4857,7 +4857,7 @@
     "colorCode": "#339999",
     "colorCode2": "#001479",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1994-09-01",
     "endDate": "2013-05-31"
   },
@@ -4875,7 +4875,7 @@
     "colorCode": "#0000D6",
     "colorCode2": "#FF0031",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1980-09-01",
     "endDate": "1994-05-31"
   },
@@ -4893,7 +4893,7 @@
     "colorCode": "#0000D6",
     "colorCode2": "#FF0031",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1976-09-01",
     "endDate": "1980-05-31"
   },
@@ -4911,7 +4911,7 @@
     "colorCode": "#0000D6",
     "colorCode2": "#FF0031",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1972-09-01",
     "endDate": "1976-05-31"
   },
@@ -4929,7 +4929,7 @@
     "colorCode": "#0000D6",
     "colorCode2": "#FF0031",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1967-09-01",
     "endDate": "1972-05-31"
   },
@@ -4947,7 +4947,7 @@
     "colorCode": "#0000D6",
     "colorCode2": "#FF0031",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1954-09-01",
     "endDate": "1967-05-31"
   },
@@ -4965,7 +4965,7 @@
     "colorCode": "#0000D6",
     "colorCode2": "#FF0031",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1951-09-01",
     "endDate": "1954-05-31"
   },
@@ -4983,7 +4983,7 @@
     "colorCode": "#0000D6",
     "colorCode2": "#FF0031",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1936-09-01",
     "endDate": "1942-05-31"
   },
@@ -5001,7 +5001,7 @@
     "colorCode": "#0000D6",
     "colorCode2": "#FF0031",
     "league": "AHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1946-09-01",
     "endDate": "1951-05-31"
   },
@@ -6152,7 +6152,7 @@
     "colorCode3": "#000000",
     "colorCode4": "#FFFFFF",
     "league": "ECHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2001-09-01",
     "endDate": "2004-05-01",
     "arenaId": "columbus_civic_center_columbus"
@@ -6404,7 +6404,7 @@
     "colorCode2": "#FFBA00",
     "colorCode3": "#FFFFFF",
     "league": "ECHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1989-09-01",
     "endDate": "2000-05-01"
   },
@@ -6826,7 +6826,7 @@
     "colorCode": "#000000",
     "colorCode2": "#7F7F7F",
     "league": "ECHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2015-09-01",
     "endDate": "2019-05-31"
   },
@@ -6954,7 +6954,7 @@
     "colorCode3": "#7F7F7F",
     "colorCode4": "#FFFFFF",
     "league": "ECHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2008-09-01",
     "endDate": "2015-05-31"
   },
@@ -7477,7 +7477,7 @@
     "colorCode": "#040944",
     "colorCode2": "#047A32",
     "league": "SPHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2004-09-01",
     "endDate": "2005-05-01",
     "arenaId": "ashville_civic_center_ashville"
@@ -7495,7 +7495,7 @@
     "colorCode": "#095BA9",
     "colorCode2": "#FADE08",
     "league": "SPHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2004-09-01",
     "endDate": "2017-05-01",
     "arenaId": "columbus_civic_center_columbus"
@@ -7531,7 +7531,7 @@
     "colorCode": "#000000",
     "colorCode2": "#ED1C24",
     "league": "SPHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2004-09-01",
     "endDate": "2017-05-01",
     "arenaId": "crown_coliseum_fayetteville"
@@ -7567,7 +7567,7 @@
     "colorCode": "#0F3793",
     "colorCode2": "#DB1618",
     "league": "SPHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2004-09-01",
     "endDate": "2007-05-01",
     "arenaId": "vystar_veternans_memorial_arena_jacksonville"
@@ -7585,7 +7585,7 @@
     "colorCode": "#0F3793",
     "colorCode2": "#DB1618",
     "league": "SPHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2007-09-01",
     "endDate": "2008-05-01",
     "arenaId": "community_first_igloo_jacksonville"
@@ -7603,7 +7603,7 @@
     "colorCode": "#000000",
     "colorCode2": "#FFF200",
     "league": "SPHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2004-09-01",
     "endDate": "2005-05-01",
     "arenaId": "macon_coliseum_macon"
@@ -7621,7 +7621,7 @@
     "colorCode": "#FFF200",
     "colorCode2": "#FFF200",
     "league": "SPHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2004-09-01",
     "endDate": "2005-05-01",
     "arenaId": "lawrence_joel_coliseum_annex_winstonsalem"
@@ -7639,7 +7639,7 @@
     "colorCode": "#095BA9",
     "colorCode2": "#7F7F7F",
     "league": "SPHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2005-09-01",
     "endDate": "2007-05-01",
     "arenaId": "silver_spurs_arena_kissimmee"
@@ -7657,7 +7657,7 @@
     "colorCode": "#101233",
     "colorCode2": "#8C1115",
     "league": "SPHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2005-09-01",
     "endDate": "2007-05-01",
     "arenaId": "lawrence_joel_coliseum_annex_winstonsalem"
@@ -7675,7 +7675,7 @@
     "colorCode": "#101233",
     "colorCode2": "#8C1115",
     "league": "SPHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2007-09-01",
     "endDate": "2009-05-01",
     "arenaId": "lawrence_joel_coliseum_annex_winstonsalem"
@@ -7729,7 +7729,7 @@
     "colorCode": "#0007DE",
     "colorCode2": "#FFF200",
     "league": "SPHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2006-09-01",
     "endDate": "2009-05-01",
     "arenaId": "richmond_coliseum_richmond"
@@ -7801,7 +7801,7 @@
     "colorCode": "#FF0000",
     "colorCode2": "#000066",
     "league": "SPHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2010-09-01",
     "endDate": "2013-05-01",
     "arenaId": "james_brown_arena_augusta"
@@ -12472,7 +12472,7 @@
     "colorCode": "#1C429B",
     "colorCode2": "#ffffff",
     "league": "NAHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1986-09-01",
     "endDate": "1987-05-31",
     "arenaId": "big_boy_arena_fraser"
@@ -13567,7 +13567,7 @@
     "colorCode": "#1C429B",
     "colorCode2": "#ffffff",
     "league": "NAHL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1983-09-01",
     "endDate": "1986-05-31",
     "arenaId": "big_boy_arena_fraser"
