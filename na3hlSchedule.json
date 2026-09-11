@@ -279,10 +279,28 @@
     "date": "2026-09-17T17:30:00Z"
   },
   
-  Missing arena: Garden State Gamblers
-  Missing arena: Garden State Gamblers
   {
-    "id": "na3hl_2026091829",
+    "id": "na3hl_2026091729",
+    "league": "NA3HL",
+    "team": "Garden State Gamblers",
+    "opponent": "New Hampshire Jr. Mountain Kings",
+    "arena": "The Ice Palace",
+    "city": "Brick Township, New Jersey",
+    "date": "2026-09-17T19:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091830",
+    "league": "NA3HL",
+    "team": "Garden State Gamblers",
+    "opponent": "New Hampshire Jr. Mountain Kings",
+    "arena": "The Ice Palace",
+    "city": "Brick Township, New Jersey",
+    "date": "2026-09-18T16:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026091831",
     "league": "NA3HL",
     "team": "Pelham Prowlers",
     "opponent": "Bayou State Rougarou",
@@ -292,7 +310,7 @@
   },
   
   {
-    "id": "na3hl_2026091830",
+    "id": "na3hl_2026091832",
     "league": "NA3HL",
     "team": "Oklahoma City Warriors",
     "opponent": "Tulsa Oilers",
@@ -302,7 +320,7 @@
   },
   
   {
-    "id": "na3hl_2026091831",
+    "id": "na3hl_2026091833",
     "league": "NA3HL",
     "team": "New Jersey Titans",
     "opponent": "Long Beach Sharks",
@@ -312,7 +330,7 @@
   },
   
   {
-    "id": "na3hl_2026091832",
+    "id": "na3hl_2026091834",
     "league": "NA3HL",
     "team": "Peoria Mustangs",
     "opponent": "West Bend Power",
@@ -322,7 +340,7 @@
   },
   
   {
-    "id": "na3hl_2026091933",
+    "id": "na3hl_2026091935",
     "league": "NA3HL",
     "team": "Rochester Grizzlies",
     "opponent": "Wausau Cyclones",
@@ -332,7 +350,7 @@
   },
   
   {
-    "id": "na3hl_2026091934",
+    "id": "na3hl_2026091936",
     "league": "NA3HL",
     "team": "Wisconsin Woodsmen",
     "opponent": "St. Louis Jr. Blues",
@@ -342,7 +360,7 @@
   },
   
   {
-    "id": "na3hl_2026091935",
+    "id": "na3hl_2026091937",
     "league": "NA3HL",
     "team": "New Mexico Ice Wolves",
     "opponent": "West Texas Wranglers",
@@ -352,7 +370,7 @@
   },
   
   {
-    "id": "na3hl_2026091936",
+    "id": "na3hl_2026091938",
     "league": "NA3HL",
     "team": "Great Falls Americans",
     "opponent": "Butte Irish",
@@ -362,7 +380,7 @@
   },
   
   {
-    "id": "na3hl_2026091937",
+    "id": "na3hl_2026091939",
     "league": "NA3HL",
     "team": "Helena Bighorns",
     "opponent": "Sheridan Hawks",
@@ -372,7 +390,7 @@
   },
   
   {
-    "id": "na3hl_2026091938",
+    "id": "na3hl_2026091940",
     "league": "NA3HL",
     "team": "Gillette Wild",
     "opponent": "Yellowstone Quake",
@@ -382,7 +400,7 @@
   },
   
   {
-    "id": "na3hl_2026091939",
+    "id": "na3hl_2026091941",
     "league": "NA3HL",
     "team": "Bozeman Icedogs",
     "opponent": "Badlands Sabres",
@@ -392,7 +410,7 @@
   },
   
   {
-    "id": "na3hl_2026091940",
+    "id": "na3hl_2026091942",
     "league": "NA3HL",
     "team": "Texas Brahmas",
     "opponent": "Austin Ice Bats",
@@ -402,7 +420,7 @@
   },
   
   {
-    "id": "na3hl_2026091941",
+    "id": "na3hl_2026091943",
     "league": "NA3HL",
     "team": "Oklahoma City Warriors",
     "opponent": "Tulsa Oilers",
@@ -412,7 +430,7 @@
   },
   
   {
-    "id": "na3hl_2026091942",
+    "id": "na3hl_2026091944",
     "league": "NA3HL",
     "team": "New Jersey Titans",
     "opponent": "Long Beach Sharks",
@@ -422,7 +440,7 @@
   },
   
   {
-    "id": "na3hl_2026091943",
+    "id": "na3hl_2026091945",
     "league": "NA3HL",
     "team": "Rochester Grizzlies",
     "opponent": "Wausau Cyclones",
@@ -432,7 +450,7 @@
   },
   
   {
-    "id": "na3hl_2026091944",
+    "id": "na3hl_2026091946",
     "league": "NA3HL",
     "team": "Peoria Mustangs",
     "opponent": "West Bend Power",
@@ -442,7 +460,7 @@
   },
   
   {
-    "id": "na3hl_2026092045",
+    "id": "na3hl_2026092047",
     "league": "NA3HL",
     "team": "Wisconsin Woodsmen",
     "opponent": "St. Louis Jr. Blues",
@@ -452,7 +470,7 @@
   },
   
   {
-    "id": "na3hl_2026092046",
+    "id": "na3hl_2026092048",
     "league": "NA3HL",
     "team": "New Mexico Ice Wolves",
     "opponent": "West Texas Wranglers",
@@ -462,7 +480,7 @@
   },
   
   {
-    "id": "na3hl_2026092047",
+    "id": "na3hl_2026092049",
     "league": "NA3HL",
     "team": "Helena Bighorns",
     "opponent": "Badlands Sabres",
@@ -472,7 +490,7 @@
   },
   
   {
-    "id": "na3hl_2026092048",
+    "id": "na3hl_2026092050",
     "league": "NA3HL",
     "team": "Great Falls Americans",
     "opponent": "Sheridan Hawks",
@@ -482,7 +500,7 @@
   },
   
   {
-    "id": "na3hl_2026092049",
+    "id": "na3hl_2026092051",
     "league": "NA3HL",
     "team": "Gillette Wild",
     "opponent": "Yellowstone Quake",
@@ -492,7 +510,7 @@
   },
   
   {
-    "id": "na3hl_2026092050",
+    "id": "na3hl_2026092052",
     "league": "NA3HL",
     "team": "Bozeman Icedogs",
     "opponent": "Butte Irish",
@@ -502,7 +520,7 @@
   },
   
   {
-    "id": "na3hl_2026092051",
+    "id": "na3hl_2026092053",
     "league": "NA3HL",
     "team": "New Mexico Ice Wolves",
     "opponent": "West Texas Wranglers",
@@ -512,7 +530,7 @@
   },
   
   {
-    "id": "na3hl_2026092052",
+    "id": "na3hl_2026092054",
     "league": "NA3HL",
     "team": "Tulsa Oilers",
     "opponent": "Oklahoma City Warriors",
@@ -522,7 +540,7 @@
   },
   
   {
-    "id": "na3hl_2026092053",
+    "id": "na3hl_2026092055",
     "league": "NA3HL",
     "team": "Atlanta Capitals",
     "opponent": "Texas RoadRunners",
@@ -532,7 +550,7 @@
   },
   
   {
-    "id": "na3hl_2026092154",
+    "id": "na3hl_2026092156",
     "league": "NA3HL",
     "team": "Atlanta Capitals",
     "opponent": "Texas RoadRunners",
@@ -542,7 +560,7 @@
   },
   
   {
-    "id": "na3hl_2026092255",
+    "id": "na3hl_2026092257",
     "league": "NA3HL",
     "team": "Atlanta Capitals",
     "opponent": "Texas RoadRunners",
@@ -552,7 +570,7 @@
   },
   
   {
-    "id": "na3hl_2026092556",
+    "id": "na3hl_2026092558",
     "league": "NA3HL",
     "team": "Norwich Sea Captains",
     "opponent": "New Jersey Titans",
@@ -562,7 +580,7 @@
   },
   
   {
-    "id": "na3hl_2026092557",
+    "id": "na3hl_2026092559",
     "league": "NA3HL",
     "team": "New Hampshire Jr. Mountain Kings",
     "opponent": "Garden State Gamblers",
@@ -572,7 +590,7 @@
   },
   
   {
-    "id": "na3hl_2026092658",
+    "id": "na3hl_2026092660",
     "league": "NA3HL",
     "team": "Bayou State Rougarou",
     "opponent": "Austin Ice Bats",
@@ -582,7 +600,7 @@
   },
   
   {
-    "id": "na3hl_2026092659",
+    "id": "na3hl_2026092661",
     "league": "NA3HL",
     "team": "Rochester Grizzlies",
     "opponent": "West Bend Power",
@@ -592,7 +610,7 @@
   },
   
   {
-    "id": "na3hl_2026092660",
+    "id": "na3hl_2026092662",
     "league": "NA3HL",
     "team": "North Iowa Bulls",
     "opponent": "Alexandria Blizzard",
@@ -602,7 +620,7 @@
   },
   
   {
-    "id": "na3hl_2026092661",
+    "id": "na3hl_2026092663",
     "league": "NA3HL",
     "team": "Texas RoadRunners",
     "opponent": "Louisiana Drillers",
@@ -612,7 +630,7 @@
   },
   
   {
-    "id": "na3hl_2026092662",
+    "id": "na3hl_2026092664",
     "league": "NA3HL",
     "team": "Fox Cities Forge",
     "opponent": "Wausau Cyclones",
@@ -622,7 +640,7 @@
   },
   
   {
-    "id": "na3hl_2026092663",
+    "id": "na3hl_2026092665",
     "league": "NA3HL",
     "team": "Phoenix Inferno",
     "opponent": "Oklahoma City Warriors",
@@ -632,7 +650,7 @@
   },
   
   {
-    "id": "na3hl_2026092664",
+    "id": "na3hl_2026092666",
     "league": "NA3HL",
     "team": "Badlands Sabres",
     "opponent": "Butte Irish",
@@ -642,33 +660,13 @@
   },
   
   {
-    "id": "na3hl_2026092665",
+    "id": "na3hl_2026092667",
     "league": "NA3HL",
     "team": "Sheridan Hawks",
     "opponent": "Bozeman Icedogs",
     "arena": "Whitney Rink in the M&M's Center",
     "city": "Sheridan, Wyoming",
     "date": "2026-09-26T01:30:00Z"
-  },
-  
-  {
-    "id": "na3hl_2026092666",
-    "league": "NA3HL",
-    "team": "St. Louis Jr. Blues",
-    "opponent": "Wisconsin Woodsmen",
-    "arena": "Affton Ice Rink",
-    "city": "Affton, Missouri",
-    "date": "2026-09-26T01:30:00Z"
-  },
-  
-  {
-    "id": "na3hl_2026092667",
-    "league": "NA3HL",
-    "team": "New Hampshire Jr. Mountain Kings",
-    "opponent": "Garden State Gamblers",
-    "arena": "Delta Dental Arena",
-    "city": "Hooksett, New Hampshire",
-    "date": "2026-09-26T22:00:00Z"
   },
   
   {
@@ -678,11 +676,31 @@
     "opponent": "Wisconsin Woodsmen",
     "arena": "Affton Ice Rink",
     "city": "Affton, Missouri",
-    "date": "2026-09-26T22:45:00Z"
+    "date": "2026-09-26T01:30:00Z"
   },
   
   {
     "id": "na3hl_2026092669",
+    "league": "NA3HL",
+    "team": "New Hampshire Jr. Mountain Kings",
+    "opponent": "Garden State Gamblers",
+    "arena": "Delta Dental Arena",
+    "city": "Hooksett, New Hampshire",
+    "date": "2026-09-26T22:00:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092670",
+    "league": "NA3HL",
+    "team": "St. Louis Jr. Blues",
+    "opponent": "Wisconsin Woodsmen",
+    "arena": "Affton Ice Rink",
+    "city": "Affton, Missouri",
+    "date": "2026-09-26T22:45:00Z"
+  },
+  
+  {
+    "id": "na3hl_2026092671",
     "league": "NA3HL",
     "team": "Bayou State Rougarou",
     "opponent": "Austin Ice Bats",
@@ -692,7 +710,7 @@
   },
   
   {
-    "id": "na3hl_2026092670",
+    "id": "na3hl_2026092672",
     "league": "NA3HL",
     "team": "Rochester Grizzlies",
     "opponent": "West Bend Power",
@@ -702,7 +720,7 @@
   },
   
   {
-    "id": "na3hl_2026092671",
+    "id": "na3hl_2026092673",
     "league": "NA3HL",
     "team": "Norwich Sea Captains",
     "opponent": "Long Beach Sharks",
@@ -712,7 +730,7 @@
   },
   
   {
-    "id": "na3hl_2026092672",
+    "id": "na3hl_2026092674",
     "league": "NA3HL",
     "team": "North Iowa Bulls",
     "opponent": "Alexandria Blizzard",
@@ -722,7 +740,7 @@
   },
   
   {
-    "id": "na3hl_2026092773",
+    "id": "na3hl_2026092775",
     "league": "NA3HL",
     "team": "Phoenix Inferno",
     "opponent": "Oklahoma City Warriors",
@@ -732,7 +750,7 @@
   },
   
   {
-    "id": "na3hl_2026092774",
+    "id": "na3hl_2026092776",
     "league": "NA3HL",
     "team": "Wausau Cyclones",
     "opponent": "Fox Cities Forge",
@@ -742,7 +760,7 @@
   },
   
   {
-    "id": "na3hl_2026092775",
+    "id": "na3hl_2026092777",
     "league": "NA3HL",
     "team": "Texas RoadRunners",
     "opponent": "Louisiana Drillers",
@@ -752,7 +770,7 @@
   },
   
   {
-    "id": "na3hl_2026092776",
+    "id": "na3hl_2026092778",
     "league": "NA3HL",
     "team": "Granite City Lumberjacks",
     "opponent": "Minnesota Vulcans",
@@ -762,7 +780,7 @@
   },
   
   {
-    "id": "na3hl_2026092777",
+    "id": "na3hl_2026092779",
     "league": "NA3HL",
     "team": "Texas Brahmas",
     "opponent": "Tulsa Oilers",
@@ -772,7 +790,7 @@
   },
   
   {
-    "id": "na3hl_2026092778",
+    "id": "na3hl_2026092780",
     "league": "NA3HL",
     "team": "Gillette Wild",
     "opponent": "Butte Irish",
@@ -782,7 +800,7 @@
   },
   
   {
-    "id": "na3hl_2026092779",
+    "id": "na3hl_2026092781",
     "league": "NA3HL",
     "team": "Helena Bighorns",
     "opponent": "Great Falls Americans",
@@ -792,7 +810,7 @@
   },
   
   {
-    "id": "na3hl_2026092780",
+    "id": "na3hl_2026092782",
     "league": "NA3HL",
     "team": "Sheridan Hawks",
     "opponent": "Bozeman Icedogs",
@@ -802,7 +820,7 @@
   },
   
   {
-    "id": "na3hl_2026092781",
+    "id": "na3hl_2026092783",
     "league": "NA3HL",
     "team": "Texas RoadRunners",
     "opponent": "Louisiana Drillers",
@@ -812,7 +830,7 @@
   },
   
   {
-    "id": "na3hl_2026092782",
+    "id": "na3hl_2026092784",
     "league": "NA3HL",
     "team": "Long Beach Sharks",
     "opponent": "New Jersey Titans",
@@ -822,7 +840,7 @@
   },
   
   {
-    "id": "na3hl_2026092783",
+    "id": "na3hl_2026092785",
     "league": "NA3HL",
     "team": "Bayou State Rougarou",
     "opponent": "Austin Ice Bats",
@@ -832,7 +850,7 @@
   },
   
   {
-    "id": "na3hl_2026092784",
+    "id": "na3hl_2026092786",
     "league": "NA3HL",
     "team": "Texas Brahmas",
     "opponent": "Tulsa Oilers",
@@ -842,7 +860,7 @@
   },
   
   {
-    "id": "na3hl_2026092785",
+    "id": "na3hl_2026092787",
     "league": "NA3HL",
     "team": "Phoenix Inferno",
     "opponent": "Oklahoma City Warriors",
