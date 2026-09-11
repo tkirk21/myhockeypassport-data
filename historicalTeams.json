@@ -14321,6 +14321,24 @@
     "endDate": "2026-03-27",
     "arenaId": "mvp_arena_albany"
   },
+  {
+    "teamName": "Trine Thunder",
+    "teamCode": "TRI",
+    "arena": "Thunder Ice Arena",
+    "city": "Angola, Indiana",
+    "address": "619 W Maumee St, Angola, IN 46703",
+    "website": "https://trinethunder.com/sports/mens-ice-hockey",
+    "latitude": 41.63441378382022, 
+    "longitude": -85.00768379044426,
+    "color": "Navy Blue",
+    "colorCode": "#023269",
+    "colorCode2": "#FFFFFF",
+    "league": "NCAA DIV I",
+    "timezone": "America/New_York",
+    "startDate": "2026-09-01",
+    "endDate": "2026-12-31",
+    "arenaId": "thunder_ice_arena_angola"
+  },
 
 
   {
@@ -14400,7 +14418,7 @@
     "endDate": "2026-05-20",
     "arenaId": "fogerty_ice_arena_blaine"
   },
-
+  
 
 
 
