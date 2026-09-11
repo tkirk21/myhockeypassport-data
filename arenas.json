@@ -5654,7 +5654,7 @@
     "arenaId": "ewigleben_ice_arena_big_rapids"
   },
   {
-    "teamName": "Havard Crimson",
+    "teamName": "Harvard Crimson",
     "teamCode": "HAR",
     "arena": "Bright-Landry Hockey Center",
     "city": "Cambridge, Massachusetts",
@@ -5764,6 +5764,23 @@
     "arenaId": "harold_alfond_sports_arena_orono"
   },
   {
+    "teamName": "Maryville Saints ",
+    "teamCode": "MARY",
+    "arena": "Maryville University Hockey Center",
+    "city": "Chesterfield, Missouri",
+    "address": "18383 Chesterfield Airport Rd, Chesterfield, MO 63005",
+    "website": "https://maryvillesaints.com/sports/acha-m1-ice-hockey",
+    "latitude": 38.67411744579174, 
+    "longitude": -90.65347099070526,
+    "colorCode": "#C8102E",
+    "colorCode2": "#FFFFFF",
+    "league": "NCAA DIV I",
+    "timezone": "America/Chicago",
+    "startDate": "2026-09-01",
+    "endDate": null,
+    "arenaId": "maryville_university_hockey_center_chesterfield"
+  },
+  {
     "teamName": "Mercyhurst Lakers",
     "teamCode": "MER",
     "arena": "Mercyhurst Ice Center",
@@ -5800,7 +5817,7 @@
     "arenaId": "lawler_rink_north_andover"
   },
   {
-    "teamName": "Miami Redhawks",
+    "teamName": "Miami RedHawks",
     "teamCode": "MIA",
     "arena": "Goggin Ice Center",
     "city": "Oxford, Ohio",
