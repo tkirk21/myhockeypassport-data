@@ -682,25 +682,6 @@
     "endDate": null
   },
   {
-    "teamName": "Hamilton Hammers",
-    "teamCode": "HAM",
-    "arena": "TD Coliseum",
-    "arenaId": "td_coliseum_hamilton",
-    "city": "Hamilton, Ontario",
-    "address": "101 York Blvd, Hamilton, ON L8R 3L4, Canada",
-    "website": "https://www.hamiltonhammers.com/",
-    "latitude": 43.259278287227275, 
-    "longitude": -79.87218923960829,
-    "color": "Blue",
-    "colorCode": "#00539B",
-    "colorCode2": "#F47D30",
-    "colorCode3": "#FFFFFF",
-    "league": "AHL",
-    "timezone": "America/New_York",
-    "startDate": "2026-09-01",
-    "endDate": null
-  },
-  {
     "teamName": "Calgary Wranglers",
     "teamCode": "CGY",
     "arena": "Scotiabank Saddledome",
@@ -838,6 +819,25 @@
     "league": "AHL",
     "timezone": "America/Detroit",
     "startDate": "2001-09-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Hamilton Hammers",
+    "teamCode": "HAM",
+    "arena": "TD Coliseum",
+    "arenaId": "td_coliseum_hamilton",
+    "city": "Hamilton, Ontario",
+    "address": "101 York Blvd, Hamilton, ON L8R 3L4, Canada",
+    "website": "https://www.hamiltonhammers.com/",
+    "latitude": 43.259278287227275, 
+    "longitude": -79.87218923960829,
+    "color": "Blue",
+    "colorCode": "#00539B",
+    "colorCode2": "#F47D30",
+    "colorCode3": "#FFFFFF",
+    "league": "AHL",
+    "timezone": "America/New_York",
+    "startDate": "2026-09-01",
     "endDate": null
   },
   {
@@ -1467,26 +1467,6 @@
     "startDate": "2014-09-01",
     "endDate": null,
     "arenaId": "fishers_event_center_fishers"
-  },
-  {
-    "teamName": "Iowa Heartlanders",
-    "teamCode": "IAH",
-    "arena": "Xtream Arena",
-    "city": "Coralville, Iowa",
-    "address": "200 E 9th St Suite 100, Coralville, IA 52241",
-    "website": "https://iowaheartlanders.com",
-    "latitude": 41.681,
-    "longitude": -91.5621,
-    "color": "Black",
-    "colorCode": "#000000",
-    "colorCode2": "#FFD100",
-    "colorCode3": "#5B6670",
-    "colorCode4": "#FFFFFF",
-    "league": "ECHL",
-    "timezone": "America/Chicago",
-    "startDate": "2021-09-01",
-    "endDate": null,
-    "arenaId": "xtream_arena_coralville"
   },
   {
     "teamName": "Jacksonville Icemen",
