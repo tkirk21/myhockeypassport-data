@@ -1910,7 +1910,7 @@
     "colorCode2": "#152650",
     "league": "SPHL",
     "timezone": "America/Chicago",
-    "startDate": "2016-09-01",
+    "startDate": "2021-09-01",
     "endDate": null,
     "arenaId": "ford_center_evansville"
   },
@@ -1928,7 +1928,7 @@
     "colorCode2": "#BE531C",
     "league": "SPHL",
     "timezone": "America/New_York",
-    "startDate": "2017-09-01",
+    "startDate": "2021-09-01",
     "endDate": null,
     "arenaId": "crown_coliseum_fayetteville"
   },
@@ -2039,7 +2039,7 @@
     "colorCode2": "#0E2240",
     "league": "SPHL",
     "timezone": "America/Chicago",
-    "startDate": "2013-09-01",
+    "startDate": "2021-09-01",
     "endDate": null,
     "arenaId": "peoria_civic_center_peoria"
   },
@@ -2058,7 +2058,7 @@
     "colorCode2": "#000000",
     "league": "SPHL",
     "timezone": "America/Chicago",
-    "startDate": "2018-09-01",
+    "startDate": "2021-09-01",
     "endDate": null
   },
   {
@@ -2075,7 +2075,7 @@
     "colorCode2": "#FFB81C",
     "league": "SPHL",
     "timezone": "America/New_York",
-    "startDate": "2016-09-01",
+    "startDate": "2021-09-01",
     "endDate": null,
     "arenaId": "berglund_center_roanoke"
   },
