@@ -8134,23 +8134,6 @@
     "arenaId": "eisarena_bremerhaven_bremerhaven"
   },
   {
-    "teamName": "Dresdner Eislöwen",
-    "teamCode": "DRE",
-    "arena": "Joynext Arena",
-    "city": "Dresden, Germany",
-    "address": "Magdeburger Str. 10, 01067 Dresden, Germany",
-    "website": "https://eisloewen.de/",
-    "latitude": 51.0623219247133,
-    "longitude": 13.7221517309854,
-    "colorCode": "#082355",
-    "colorCode2": "#FFFFFF",
-    "league": "DEL",
-    "timezone": "Europe/Berlin",
-    "arenaId": "joynext_arena_dresden"
-    "startDate": "2025-09-01",
-    "endDate": "2026-06-30",
-  },
-  {
     "teamName": "Löwen Frankfurt",
     "teamCode": "LF",
     "arena": "Eissporthalle Frankfurt",
@@ -8209,7 +8192,7 @@
     "colorCode2": "#FBDD14",
     "league": "DEL",
     "timezone": "Europe/Berlin",
-    "arenaId": "yayla_arena_krefeld"
+    "arenaId": "yayla_arena_krefeld",
     "startDate": "2026-09-01",
     "endDate": null,
   },
