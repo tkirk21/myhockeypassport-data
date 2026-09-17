@@ -14418,6 +14418,28 @@
     "endDate": "2026-05-20",
     "arenaId": "fogerty_ice_arena_blaine"
   },
+
+
+
+
+  {
+    "teamName": "Michigan State Spartans",
+    "teamCode": "MSU",
+    "arena": "Munn Ice Arena",
+    "city": "East Lansing, Michigan",
+    "address": "509 Birch Rd, East Lansing, MI 48824",
+    "website": "https://msuspartans.com/sports/mens-ice-hockey",
+    "latitude": 42.72825915,
+    "longitude": -84.48940046,
+    "color": "Green",
+    "colorCode2": "#FFFFFF",
+    "colorCode": "#18453b",
+    "league": "NCAA DIV II",
+    "timezone": "America/Detroit",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-25",
+    "arenaId": "munn_ice_arena_east_lansing"
+  },
   
 
 
