@@ -1,3 +1,291 @@
 [
+  {
+    "id": "del_20260917001",
+    "league": "DEL",
+    "team": "Eisbären Berlin",
+    "opponent": "Straubing Tigers",
+    "arena": "Uber Arena",
+    "city": "Berlin, Germany",
+    "date": "2026-09-17T17:30:00Z"
+  },
   
+  {
+    "id": "del_20260918002",
+    "league": "DEL",
+    "team": "Krefeld Pinguine",
+    "opponent": "Fischtown Pinguins",
+    "arena": "Yayla Arena",
+    "city": "Krefeld, Germany",
+    "date": "2026-09-18T17:15:00Z"
+  },
+  
+  {
+    "id": "del_20260918003",
+    "league": "DEL",
+    "team": "Kölner Haie",
+    "opponent": "Grizzlys Wolfsburg",
+    "arena": "Lanxess Arena",
+    "city": "Cologne, Germany",
+    "date": "2026-09-18T17:30:00Z"
+  },
+  
+  {
+    "id": "del_20260918004",
+    "league": "DEL",
+    "team": "Nürnberg Ice Tigers",
+    "opponent": "Augsburger Panther",
+    "arena": "PSD Bank Nürnberg Arena",
+    "city": "Nuremberg, Germany",
+    "date": "2026-09-18T17:30:00Z"
+  },
+  
+  {
+    "id": "del_20260918005",
+    "league": "DEL",
+    "team": "Iserlohn Roosters",
+    "opponent": "ERC Ingolstadt",
+    "arena": "Eissporthalle Iserlohn",
+    "city": "Iserlohn, Germany",
+    "date": "2026-09-18T17:30:00Z"
+  },
+  
+  {
+    "id": "del_20260918006",
+    "league": "DEL",
+    "team": "EHC Red Bull München",
+    "opponent": "Adler Mannheim",
+    "arena": "SAP Garden",
+    "city": "Munich, Germany",
+    "date": "2026-09-18T17:30:00Z"
+  },
+  
+  {
+    "id": "del_20260918007",
+    "league": "DEL",
+    "team": "Schwenninger Wild Wings",
+    "opponent": "Löwen Frankfurt",
+    "arena": "Helios Arena",
+    "city": "Villingen-Schwenningen, Germany",
+    "date": "2026-09-18T17:30:00Z"
+  },
+  
+  {
+    "id": "del_20260920008",
+    "league": "DEL",
+    "team": "Adler Mannheim",
+    "opponent": "Eisbären Berlin",
+    "arena": "SAP Arena",
+    "city": "Mannheim, Germany",
+    "date": "2026-09-20T12:00:00Z"
+  },
+  
+  {
+    "id": "del_20260920009",
+    "league": "DEL",
+    "team": "Fischtown Pinguins",
+    "opponent": "Iserlohn Roosters",
+    "arena": "Eisarena Bremerhaven",
+    "city": "Bremerhaven, Germany",
+    "date": "2026-09-20T12:00:00Z"
+  },
+  
+  {
+    "id": "del_20260920010",
+    "league": "DEL",
+    "team": "ERC Ingolstadt",
+    "opponent": "Nürnberg Ice Tigers",
+    "arena": "Saturn Arena",
+    "city": "Ingolstadt, Germany",
+    "date": "2026-09-20T12:00:00Z"
+  },
+  
+  {
+    "id": "del_20260920011",
+    "league": "DEL",
+    "team": "Augsburger Panther",
+    "opponent": "Schwenninger Wild Wings",
+    "arena": "Curt Frenzel Stadium",
+    "city": "Augsburg, Germany",
+    "date": "2026-09-20T14:30:00Z"
+  },
+  
+  {
+    "id": "del_20260920012",
+    "league": "DEL",
+    "team": "Straubing Tigers",
+    "opponent": "Krefeld Pinguine",
+    "arena": "Eisstadion am Pulverturm",
+    "city": "Straubing, Germany",
+    "date": "2026-09-20T14:30:00Z"
+  },
+  
+  {
+    "id": "del_20260920013",
+    "league": "DEL",
+    "team": "Grizzlys Wolfsburg",
+    "opponent": "EHC Red Bull München",
+    "arena": "Eis Arena Wolfsburg",
+    "city": "Wolfsburg, Germany",
+    "date": "2026-09-20T14:30:00Z"
+  },
+  
+  {
+    "id": "del_20260920014",
+    "league": "DEL",
+    "team": "Kölner Haie",
+    "opponent": "Löwen Frankfurt",
+    "arena": "Lanxess Arena",
+    "city": "Cologne, Germany",
+    "date": "2026-09-20T17:00:00Z"
+  },
+  
+  {
+    "id": "del_20260922015",
+    "league": "DEL",
+    "team": "Nürnberg Ice Tigers",
+    "opponent": "Adler Mannheim",
+    "arena": "PSD Bank Nürnberg Arena",
+    "city": "Nuremberg, Germany",
+    "date": "2026-09-22T17:30:00Z"
+  },
+  
+  {
+    "id": "del_20260924016",
+    "league": "DEL",
+    "team": "Iserlohn Roosters",
+    "opponent": "Augsburger Panther",
+    "arena": "Eissporthalle Iserlohn",
+    "city": "Iserlohn, Germany",
+    "date": "2026-09-24T17:30:00Z"
+  },
+  
+  {
+    "id": "del_20260925017",
+    "league": "DEL",
+    "team": "Kölner Haie",
+    "opponent": "Eisbären Berlin",
+    "arena": "Lanxess Arena",
+    "city": "Cologne, Germany",
+    "date": "2026-09-25T17:30:00Z"
+  },
+  
+  {
+    "id": "del_20260925018",
+    "league": "DEL",
+    "team": "Löwen Frankfurt",
+    "opponent": "Nürnberg Ice Tigers",
+    "arena": "Eissporthalle Frankfurt",
+    "city": "Frankfurt, Germany",
+    "date": "2026-09-25T17:30:00Z"
+  },
+  
+  {
+    "id": "del_20260925019",
+    "league": "DEL",
+    "team": "Adler Mannheim",
+    "opponent": "Krefeld Pinguine",
+    "arena": "SAP Arena",
+    "city": "Mannheim, Germany",
+    "date": "2026-09-25T17:30:00Z"
+  },
+  
+  {
+    "id": "del_20260925020",
+    "league": "DEL",
+    "team": "Fischtown Pinguins",
+    "opponent": "EHC Red Bull München",
+    "arena": "Eisarena Bremerhaven",
+    "city": "Bremerhaven, Germany",
+    "date": "2026-09-25T17:30:00Z"
+  },
+  
+  {
+    "id": "del_20260925021",
+    "league": "DEL",
+    "team": "Straubing Tigers",
+    "opponent": "ERC Ingolstadt",
+    "arena": "Eisstadion am Pulverturm",
+    "city": "Straubing, Germany",
+    "date": "2026-09-25T17:30:00Z"
+  },
+  
+  {
+    "id": "del_20260925022",
+    "league": "DEL",
+    "team": "Grizzlys Wolfsburg",
+    "opponent": "Schwenninger Wild Wings",
+    "arena": "Eis Arena Wolfsburg",
+    "city": "Wolfsburg, Germany",
+    "date": "2026-09-25T17:30:00Z"
+  },
+  
+  {
+    "id": "del_20260927023",
+    "league": "DEL",
+    "team": "Eisbären Berlin",
+    "opponent": "Iserlohn Roosters",
+    "arena": "Uber Arena",
+    "city": "Berlin, Germany",
+    "date": "2026-09-27T12:00:00Z"
+  },
+  
+  {
+    "id": "del_20260927024",
+    "league": "DEL",
+    "team": "EHC Red Bull München",
+    "opponent": "Löwen Frankfurt",
+    "arena": "SAP Garden",
+    "city": "Munich, Germany",
+    "date": "2026-09-27T12:00:00Z"
+  },
+  
+  {
+    "id": "del_20260927025",
+    "league": "DEL",
+    "team": "Grizzlys Wolfsburg",
+    "opponent": "Fischtown Pinguins",
+    "arena": "Eis Arena Wolfsburg",
+    "city": "Wolfsburg, Germany",
+    "date": "2026-09-27T12:00:00Z"
+  },
+  
+  {
+    "id": "del_20260927026",
+    "league": "DEL",
+    "team": "Nürnberg Ice Tigers",
+    "opponent": "Straubing Tigers",
+    "arena": "PSD Bank Nürnberg Arena",
+    "city": "Nuremberg, Germany",
+    "date": "2026-09-27T14:30:00Z"
+  },
+  
+  {
+    "id": "del_20260927027",
+    "league": "DEL",
+    "team": "Krefeld Pinguine",
+    "opponent": "Schwenninger Wild Wings",
+    "arena": "Yayla Arena",
+    "city": "Krefeld, Germany",
+    "date": "2026-09-27T14:30:00Z"
+  },
+  
+  {
+    "id": "del_20260927028",
+    "league": "DEL",
+    "team": "Augsburger Panther",
+    "opponent": "Kölner Haie",
+    "arena": "Curt Frenzel Stadium",
+    "city": "Augsburg, Germany",
+    "date": "2026-09-27T14:30:00Z"
+  },
+  
+  {
+    "id": "del_20260927029",
+    "league": "DEL",
+    "team": "ERC Ingolstadt",
+    "opponent": "Adler Mannheim",
+    "arena": "Saturn Arena",
+    "city": "Ingolstadt, Germany",
+    "date": "2026-09-27T17:00:00Z"
+  }
 ]
