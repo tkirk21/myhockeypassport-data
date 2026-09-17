@@ -110,67 +110,7 @@
   },
   
   {
-    "id": "nahl_2026092012",
-    "league": "NAHL",
-    "team": "New Jersey Titans",
-    "opponent": "Elmira Aviators",
-    "arena": "Middletown Sports Complex",
-    "city": "Middletown Township, New Jersey",
-    "date": "2026-09-20T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026091213",
-    "league": "NAHL",
-    "team": "New Mexico Ice Wolves",
-    "opponent": "Odessa Jackalopes",
-    "arena": "Outpost Ice Arena",
-    "city": "Albuquerque, New Mexico",
-    "date": "2026-09-12T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026091314",
-    "league": "NAHL",
-    "team": "New Mexico Ice Wolves",
-    "opponent": "Odessa Jackalopes",
-    "arena": "Outpost Ice Arena",
-    "city": "Albuquerque, New Mexico",
-    "date": "2026-09-13T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026091115",
-    "league": "NAHL",
-    "team": "Aberdeen Wings",
-    "opponent": "Watertown Shamrocks",
-    "arena": "Odde Ice Center",
-    "city": "Aberdeen, South Dakota",
-    "date": "2026-09-11T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026091916",
-    "league": "NAHL",
-    "team": "Fairbanks Ice Dogs",
-    "opponent": "Minnesota Mallards",
-    "arena": "Big Dipper Ice Arena",
-    "city": "Fairbanks, Alaska",
-    "date": "2026-09-19T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092017",
-    "league": "NAHL",
-    "team": "Janesville Jets",
-    "opponent": "Kenai River Brown Bears",
-    "arena": "Mercy Health Arena",
-    "city": "Janesville, Wisconsin",
-    "date": "2026-09-20T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026091918",
+    "id": "nahl_2026091912",
     "league": "NAHL",
     "team": "Grand Junction River Hawks",
     "opponent": "Billings Cattle Punchers",
@@ -180,7 +120,7 @@
   },
   
   {
-    "id": "nahl_2026092019",
+    "id": "nahl_2026092013",
     "league": "NAHL",
     "team": "Grand Junction River Hawks",
     "opponent": "Billings Cattle Punchers",
@@ -190,7 +130,7 @@
   },
   
   {
-    "id": "nahl_2026091220",
+    "id": "nahl_2026091214",
     "league": "NAHL",
     "team": "Maryland Black Bears",
     "opponent": "Philadelphia Rebels",
@@ -200,7 +140,7 @@
   },
   
   {
-    "id": "nahl_2026091921",
+    "id": "nahl_2026091915",
     "league": "NAHL",
     "team": "Janesville Jets",
     "opponent": "Springfield Jr. Blues",
@@ -210,7 +150,47 @@
   },
   
   {
-    "id": "nahl_2026092022",
+    "id": "nahl_2026092016",
+    "league": "NAHL",
+    "team": "New Jersey Titans",
+    "opponent": "Elmira Aviators",
+    "arena": "Middletown Sports Complex",
+    "city": "Middletown Township, New Jersey",
+    "date": "2026-09-20T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026091217",
+    "league": "NAHL",
+    "team": "New Mexico Ice Wolves",
+    "opponent": "Odessa Jackalopes",
+    "arena": "Outpost Ice Arena",
+    "city": "Albuquerque, New Mexico",
+    "date": "2026-09-12T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026091318",
+    "league": "NAHL",
+    "team": "New Mexico Ice Wolves",
+    "opponent": "Odessa Jackalopes",
+    "arena": "Outpost Ice Arena",
+    "city": "Albuquerque, New Mexico",
+    "date": "2026-09-13T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026091119",
+    "league": "NAHL",
+    "team": "Aberdeen Wings",
+    "opponent": "Watertown Shamrocks",
+    "arena": "Odde Ice Center",
+    "city": "Aberdeen, South Dakota",
+    "date": "2026-09-11T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092020",
     "league": "NAHL",
     "team": "Lone Star Brahmas",
     "opponent": "Houston Bulls",
@@ -220,7 +200,7 @@
   },
   
   {
-    "id": "nahl_2026091923",
+    "id": "nahl_2026091921",
     "league": "NAHL",
     "team": "New Hampshire Mountain Kings",
     "opponent": "Elmira Aviators",
@@ -230,7 +210,7 @@
   },
   
   {
-    "id": "nahl_2026091824",
+    "id": "nahl_2026091822",
     "league": "NAHL",
     "team": "Aberdeen Wings",
     "opponent": "Austin Bruins",
@@ -240,7 +220,7 @@
   },
   
   {
-    "id": "nahl_2026091125",
+    "id": "nahl_2026091123",
     "league": "NAHL",
     "team": "Wisconsin Windigo",
     "opponent": "Minnesota Wilderness",
@@ -250,7 +230,7 @@
   },
   
   {
-    "id": "nahl_2026091226",
+    "id": "nahl_2026091224",
     "league": "NAHL",
     "team": "Wisconsin Windigo",
     "opponent": "Minnesota Wilderness",
@@ -260,7 +240,7 @@
   },
   
   {
-    "id": "nahl_2026091127",
+    "id": "nahl_2026091125",
     "league": "NAHL",
     "team": "Shreveport Mudbugs",
     "opponent": "Pueblo Peppers",
@@ -270,7 +250,7 @@
   },
   
   {
-    "id": "nahl_2026092528",
+    "id": "nahl_2026092526",
     "league": "NAHL",
     "team": "Springfield Jr. Blues",
     "opponent": "Aberdeen Wings",
@@ -280,7 +260,7 @@
   },
   
   {
-    "id": "nahl_2026092329",
+    "id": "nahl_2026092327",
     "league": "NAHL",
     "team": "St. Cloud Norsemen",
     "opponent": "Minot Minotauros",
@@ -290,7 +270,7 @@
   },
   
   {
-    "id": "nahl_2026092430",
+    "id": "nahl_2026092428",
     "league": "NAHL",
     "team": "Watertown Shamrocks",
     "opponent": "Philadelphia Rebels",
@@ -300,7 +280,7 @@
   },
   
   {
-    "id": "nahl_2026092531",
+    "id": "nahl_2026092529",
     "league": "NAHL",
     "team": "St. Cloud Norsemen",
     "opponent": "New Mexico Ice Wolves",
@@ -310,7 +290,7 @@
   },
   
   {
-    "id": "nahl_2026092432",
+    "id": "nahl_2026092430",
     "league": "NAHL",
     "team": "Wisconsin Windigo",
     "opponent": "Danbury Hat Tricks",
@@ -320,13 +300,33 @@
   },
   
   {
-    "id": "nahl_2026092433",
+    "id": "nahl_2026092431",
     "league": "NAHL",
     "team": "St. Cloud Norsemen",
     "opponent": "Minot Minotauros",
     "arena": "St. Cloud Municipal Athletic Complex",
     "city": "St. Cloud, Minnesota",
     "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026091932",
+    "league": "NAHL",
+    "team": "Fairbanks Ice Dogs",
+    "opponent": "Minnesota Mallards",
+    "arena": "Big Dipper Ice Arena",
+    "city": "Fairbanks, Alaska",
+    "date": "2026-09-19T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092033",
+    "league": "NAHL",
+    "team": "Janesville Jets",
+    "opponent": "Kenai River Brown Bears",
+    "arena": "Mercy Health Arena",
+    "city": "Janesville, Wisconsin",
+    "date": "2026-09-20T00:00:00Z"
   },
   
   {
@@ -414,133 +414,13 @@
     "league": "NAHL",
     "team": "El Paso Rhinos",
     "opponent": "Corpus Christi IceRays",
-    "arena": "El Paso County Event Center",
+    "arena": "El Paso County Coliseum",
     "city": "El Paso, Texas",
     "date": "2026-09-23T00:00:00Z"
   },
   
   {
-    "id": "nahl_2026091943",
-    "league": "NAHL",
-    "team": "Corpus Christi IceRays",
-    "opponent": "Idaho Falls Spud Kings",
-    "arena": "American Bank Center",
-    "city": "Corpus Christi, Texas",
-    "date": "2026-09-19T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092544",
-    "league": "NAHL",
-    "team": "Corpus Christi IceRays",
-    "opponent": "Watertown Shamrocks",
-    "arena": "American Bank Center",
-    "city": "Corpus Christi, Texas",
-    "date": "2026-09-25T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092645",
-    "league": "NAHL",
-    "team": "Danbury Hat Tricks",
-    "opponent": "Grand Junction River Hawks",
-    "arena": "Danbury Arena",
-    "city": "Danbury, Connecticut",
-    "date": "2026-09-26T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092346",
-    "league": "NAHL",
-    "team": "Danbury Hat Tricks",
-    "opponent": "Minot Minotauros",
-    "arena": "Danbury Arena",
-    "city": "Danbury, Connecticut",
-    "date": "2026-09-23T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092547",
-    "league": "NAHL",
-    "team": "El Paso Rhinos",
-    "opponent": "Grand Junction River Hawks",
-    "arena": "El Paso County Event Center",
-    "city": "El Paso, Texas",
-    "date": "2026-09-25T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092648",
-    "league": "NAHL",
-    "team": "El Paso Rhinos",
-    "opponent": "New Jersey Titans",
-    "arena": "El Paso County Event Center",
-    "city": "El Paso, Texas",
-    "date": "2026-09-26T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092449",
-    "league": "NAHL",
-    "team": "Elmira Aviators",
-    "opponent": "Corpus Christi IceRays",
-    "arena": "LeCom Events Center",
-    "city": "Elmira, New York",
-    "date": "2026-09-24T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092450",
-    "league": "NAHL",
-    "team": "Fairbanks Ice Dogs",
-    "opponent": "USA NTDP",
-    "arena": "Big Dipper Ice Arena",
-    "city": "Fairbanks, Alaska",
-    "date": "2026-09-24T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092651",
-    "league": "NAHL",
-    "team": "Grand Junction River Hawks",
-    "opponent": "Johnstown Tomahawks",
-    "arena": "River City Sportplex",
-    "city": "Grand Junction, Colorado",
-    "date": "2026-09-26T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092552",
-    "league": "NAHL",
-    "team": "Houston Bulls",
-    "opponent": "New Hampshire Mountain Kings",
-    "arena": "Deep South Ice & Sports Center",
-    "city": "Richmond, Texas",
-    "date": "2026-09-25T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092453",
-    "league": "NAHL",
-    "team": "Maryland Black Bears",
-    "opponent": "Johnstown Tomahawks",
-    "arena": "Piney Orchard Ice Arena",
-    "city": "Odenton, Maryland",
-    "date": "2026-09-24T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026091854",
-    "league": "NAHL",
-    "team": "Watertown Shamrocks",
-    "opponent": "St. Cloud Norsemen",
-    "arena": "Prairie Lakes Ice Arena",
-    "city": "Watertown, South Dakota",
-    "date": "2026-09-18T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092655",
+    "id": "nahl_2026092643",
     "league": "NAHL",
     "team": "New Jersey Titans",
     "opponent": "New Hampshire Mountain Kings",
@@ -550,7 +430,7 @@
   },
   
   {
-    "id": "nahl_2026092356",
+    "id": "nahl_2026092344",
     "league": "NAHL",
     "team": "Billings Cattle Punchers",
     "opponent": "Grand Junction River Hawks",
@@ -560,7 +440,7 @@
   },
   
   {
-    "id": "nahl_2026092357",
+    "id": "nahl_2026092345",
     "league": "NAHL",
     "team": "Kenai River Brown Bears",
     "opponent": "Janesville Jets",
@@ -570,13 +450,133 @@
   },
   
   {
-    "id": "nahl_2026092458",
+    "id": "nahl_2026092446",
     "league": "NAHL",
     "team": "New Jersey Titans",
     "opponent": "Johnstown Tomahawks",
     "arena": "Middletown Sports Complex",
     "city": "Middletown Township, New Jersey",
     "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026091947",
+    "league": "NAHL",
+    "team": "Corpus Christi IceRays",
+    "opponent": "Idaho Falls Spud Kings",
+    "arena": "American Bank Center",
+    "city": "Corpus Christi, Texas",
+    "date": "2026-09-19T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092548",
+    "league": "NAHL",
+    "team": "Corpus Christi IceRays",
+    "opponent": "Watertown Shamrocks",
+    "arena": "American Bank Center",
+    "city": "Corpus Christi, Texas",
+    "date": "2026-09-25T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092649",
+    "league": "NAHL",
+    "team": "Danbury Hat Tricks",
+    "opponent": "Grand Junction River Hawks",
+    "arena": "Danbury Arena",
+    "city": "Danbury, Connecticut",
+    "date": "2026-09-26T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092350",
+    "league": "NAHL",
+    "team": "Danbury Hat Tricks",
+    "opponent": "Minot Minotauros",
+    "arena": "Danbury Arena",
+    "city": "Danbury, Connecticut",
+    "date": "2026-09-23T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092551",
+    "league": "NAHL",
+    "team": "El Paso Rhinos",
+    "opponent": "Grand Junction River Hawks",
+    "arena": "El Paso County Coliseum",
+    "city": "El Paso, Texas",
+    "date": "2026-09-25T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092652",
+    "league": "NAHL",
+    "team": "El Paso Rhinos",
+    "opponent": "New Jersey Titans",
+    "arena": "El Paso County Coliseum",
+    "city": "El Paso, Texas",
+    "date": "2026-09-26T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092453",
+    "league": "NAHL",
+    "team": "Elmira Aviators",
+    "opponent": "Corpus Christi IceRays",
+    "arena": "LeCom Events Center",
+    "city": "Elmira, New York",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092454",
+    "league": "NAHL",
+    "team": "Fairbanks Ice Dogs",
+    "opponent": "USA NTDP",
+    "arena": "Big Dipper Ice Arena",
+    "city": "Fairbanks, Alaska",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092655",
+    "league": "NAHL",
+    "team": "Grand Junction River Hawks",
+    "opponent": "Johnstown Tomahawks",
+    "arena": "River City Sportplex",
+    "city": "Grand Junction, Colorado",
+    "date": "2026-09-26T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092556",
+    "league": "NAHL",
+    "team": "Houston Bulls",
+    "opponent": "New Hampshire Mountain Kings",
+    "arena": "Deep South Ice & Sports Center",
+    "city": "Richmond, Texas",
+    "date": "2026-09-25T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092457",
+    "league": "NAHL",
+    "team": "Maryland Black Bears",
+    "opponent": "Johnstown Tomahawks",
+    "arena": "Piney Orchard Ice Arena",
+    "city": "Odenton, Maryland",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026091858",
+    "league": "NAHL",
+    "team": "Watertown Shamrocks",
+    "opponent": "St. Cloud Norsemen",
+    "arena": "Prairie Lakes Ice Arena",
+    "city": "Watertown, South Dakota",
+    "date": "2026-09-18T00:00:00Z"
   },
   
   {
@@ -620,17 +620,7 @@
   },
   
   {
-    "id": "nahl_2026091363",
-    "league": "NAHL",
-    "team": "Northeast Generals",
-    "opponent": "Johnstown Tomahawks",
-    "arena": "Canton Ice House",
-    "city": "Canton, Massachusetts",
-    "date": "2026-09-13T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026091264",
+    "id": "nahl_2026091263",
     "league": "NAHL",
     "team": "Elmira Aviators",
     "opponent": "Danbury Hat Tricks",
@@ -640,7 +630,7 @@
   },
   
   {
-    "id": "nahl_2026091265",
+    "id": "nahl_2026091264",
     "league": "NAHL",
     "team": "Janesville Jets",
     "opponent": "Springfield Jr. Blues",
@@ -650,7 +640,7 @@
   },
   
   {
-    "id": "nahl_2026091366",
+    "id": "nahl_2026091365",
     "league": "NAHL",
     "team": "Pueblo Peppers",
     "opponent": "Idaho Falls Spud Kings",
@@ -660,7 +650,7 @@
   },
   
   {
-    "id": "nahl_2026091967",
+    "id": "nahl_2026091966",
     "league": "NAHL",
     "team": "Austin Bruins",
     "opponent": "Watertown Shamrocks",
@@ -670,7 +660,7 @@
   },
   
   {
-    "id": "nahl_2026091968",
+    "id": "nahl_2026091967",
     "league": "NAHL",
     "team": "Ogden Mustangs",
     "opponent": "Billings Cattle Punchers",
@@ -680,7 +670,7 @@
   },
   
   {
-    "id": "nahl_2026091169",
+    "id": "nahl_2026091168",
     "league": "NAHL",
     "team": "New Jersey Titans",
     "opponent": "New Hampshire Mountain Kings",
@@ -690,7 +680,7 @@
   },
   
   {
-    "id": "nahl_2026091270",
+    "id": "nahl_2026091269",
     "league": "NAHL",
     "team": "Odessa Jackalopes",
     "opponent": "Lone Star Brahmas",
@@ -700,7 +690,7 @@
   },
   
   {
-    "id": "nahl_2026092071",
+    "id": "nahl_2026092070",
     "league": "NAHL",
     "team": "New Mexico Ice Wolves",
     "opponent": "Oklahoma Warriors",
@@ -710,127 +700,7 @@
   },
   
   {
-    "id": "nahl_2026091272",
-    "league": "NAHL",
-    "team": "Elmira Aviators",
-    "opponent": "Maryland Black Bears",
-    "arena": "LeCom Events Center",
-    "city": "Elmira, New York",
-    "date": "2026-09-12T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026091973",
-    "league": "NAHL",
-    "team": "Aberdeen Wings",
-    "opponent": "Minot Minotauros",
-    "arena": "Odde Ice Center",
-    "city": "Aberdeen, South Dakota",
-    "date": "2026-09-19T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092374",
-    "league": "NAHL",
-    "team": "Houston Bulls",
-    "opponent": "El Paso Rhinos",
-    "arena": "Deep South Ice & Sports Center",
-    "city": "Richmond, Texas",
-    "date": "2026-09-23T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092575",
-    "league": "NAHL",
-    "team": "New Mexico Ice Wolves",
-    "opponent": "Ogden Mustangs",
-    "arena": "Outpost Ice Arena",
-    "city": "Albuquerque, New Mexico",
-    "date": "2026-09-25T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092676",
-    "league": "NAHL",
-    "team": "Northeast Generals",
-    "opponent": "Kenai River Brown Bears",
-    "arena": "Canton Ice House",
-    "city": "Canton, Massachusetts",
-    "date": "2026-09-26T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092477",
-    "league": "NAHL",
-    "team": "Odessa Jackalopes",
-    "opponent": "Elmira Aviators",
-    "arena": "Ector County Coliseum",
-    "city": "Odessa, Texas",
-    "date": "2026-09-24T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092578",
-    "league": "NAHL",
-    "team": "Odessa Jackalopes",
-    "opponent": "Minnesota Mallards",
-    "arena": "Ector County Coliseum",
-    "city": "Odessa, Texas",
-    "date": "2026-09-25T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092479",
-    "league": "NAHL",
-    "team": "Ogden Mustangs",
-    "opponent": "Philadelphia Rebels",
-    "arena": "The Ice Sheet",
-    "city": "Ogden, Utah",
-    "date": "2026-09-24T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092380",
-    "league": "NAHL",
-    "team": "Oklahoma Warriors",
-    "opponent": "Billings Cattle Punchers",
-    "arena": "Blazers Ice Centre",
-    "city": "Oklahoma City, Oklahoma",
-    "date": "2026-09-23T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092581",
-    "league": "NAHL",
-    "team": "Philadelphia Rebels",
-    "opponent": "Fairbanks Ice Dogs",
-    "arena": "Hollydell Ice Arena",
-    "city": "Washington Township, New Jersey",
-    "date": "2026-09-25T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092482",
-    "league": "NAHL",
-    "team": "El Paso Rhinos",
-    "opponent": "New Mexico Ice Wolves",
-    "arena": "El Paso County Event Center",
-    "city": "El Paso, Texas",
-    "date": "2026-09-24T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092583",
-    "league": "NAHL",
-    "team": "Anchorage Wolverines",
-    "opponent": "Fairbanks Ice Dogs",
-    "arena": "Sullivan Arena",
-    "city": "Anchorage, Alaska",
-    "date": "2026-09-25T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_2026092684",
+    "id": "nahl_2026092671",
     "league": "NAHL",
     "team": "Grand Junction River Hawks",
     "opponent": "Pueblo Peppers",
@@ -840,7 +710,7 @@
   },
   
   {
-    "id": "nahl_2026092685",
+    "id": "nahl_2026092672",
     "league": "NAHL",
     "team": "Houston Bulls",
     "opponent": "Northeast Generals",
@@ -850,7 +720,7 @@
   },
   
   {
-    "id": "nahl_2026092586",
+    "id": "nahl_2026092573",
     "league": "NAHL",
     "team": "Janesville Jets",
     "opponent": "Maryland Black Bears",
@@ -860,7 +730,7 @@
   },
   
   {
-    "id": "nahl_2026092487",
+    "id": "nahl_2026092474",
     "league": "NAHL",
     "team": "Johnstown Tomahawks",
     "opponent": "Oklahoma Warriors",
@@ -870,7 +740,7 @@
   },
   
   {
-    "id": "nahl_2026092488",
+    "id": "nahl_2026092475",
     "league": "NAHL",
     "team": "Lone Star Brahmas",
     "opponent": "USA NTDP",
@@ -880,7 +750,7 @@
   },
   
   {
-    "id": "nahl_2026092589",
+    "id": "nahl_2026092576",
     "league": "NAHL",
     "team": "Corpus Christi IceRays",
     "opponent": "Shreveport Mudbugs",
@@ -890,27 +760,27 @@
   },
   
   {
-    "id": "nahl_2026092590",
+    "id": "nahl_2026092577",
     "league": "NAHL",
     "team": "El Paso Rhinos",
     "opponent": "Corpus Christi IceRays",
-    "arena": "El Paso County Event Center",
+    "arena": "El Paso County Coliseum",
     "city": "El Paso, Texas",
     "date": "2026-09-25T00:00:00Z"
   },
   
   {
-    "id": "nahl_2026092091",
+    "id": "nahl_2026092078",
     "league": "NAHL",
     "team": "El Paso Rhinos",
     "opponent": "Corpus Christi IceRays",
-    "arena": "El Paso County Event Center",
+    "arena": "El Paso County Coliseum",
     "city": "El Paso, Texas",
     "date": "2026-09-20T00:00:00Z"
   },
   
   {
-    "id": "nahl_2026091992",
+    "id": "nahl_2026091979",
     "league": "NAHL",
     "team": "Philadelphia Rebels",
     "opponent": "Elmira Aviators",
@@ -920,7 +790,27 @@
   },
   
   {
-    "id": "nahl_2026091993",
+    "id": "nahl_2026091280",
+    "league": "NAHL",
+    "team": "Elmira Aviators",
+    "opponent": "Maryland Black Bears",
+    "arena": "LeCom Events Center",
+    "city": "Elmira, New York",
+    "date": "2026-09-12T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026091981",
+    "league": "NAHL",
+    "team": "Aberdeen Wings",
+    "opponent": "Minot Minotauros",
+    "arena": "Odde Ice Center",
+    "city": "Aberdeen, South Dakota",
+    "date": "2026-09-19T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026091982",
     "league": "NAHL",
     "team": "Aberdeen Wings",
     "opponent": "Kenai River Brown Bears",
@@ -930,7 +820,7 @@
   },
   
   {
-    "id": "nahl_2026092694",
+    "id": "nahl_2026092683",
     "league": "NAHL",
     "team": "Amarillo Wranglers",
     "opponent": "Anchorage Wolverines",
@@ -940,7 +830,7 @@
   },
   
   {
-    "id": "nahl_2026092495",
+    "id": "nahl_2026092484",
     "league": "NAHL",
     "team": "Amarillo Wranglers",
     "opponent": "Austin Bruins",
@@ -950,7 +840,7 @@
   },
   
   {
-    "id": "nahl_2026092596",
+    "id": "nahl_2026092585",
     "league": "NAHL",
     "team": "Anchorage Wolverines",
     "opponent": "Idaho Falls Spud Kings",
@@ -960,7 +850,7 @@
   },
   
   {
-    "id": "nahl_2026092497",
+    "id": "nahl_2026092486",
     "league": "NAHL",
     "team": "St. Cloud Norsemen",
     "opponent": "Bismarck Bobcats",
@@ -970,7 +860,7 @@
   },
   
   {
-    "id": "nahl_2026092698",
+    "id": "nahl_2026092687",
     "league": "NAHL",
     "team": "Bismarck Bobcats",
     "opponent": "Anchorage Wolverines",
@@ -980,7 +870,7 @@
   },
   
   {
-    "id": "nahl_2026092699",
+    "id": "nahl_2026092688",
     "league": "NAHL",
     "team": "Billings Cattle Punchers",
     "opponent": "Odessa Jackalopes",
@@ -990,7 +880,7 @@
   },
   
   {
-    "id": "nahl_20260926100",
+    "id": "nahl_2026092689",
     "league": "NAHL",
     "team": "Bismarck Bobcats",
     "opponent": "Fairbanks Ice Dogs",
@@ -1000,7 +890,7 @@
   },
   
   {
-    "id": "nahl_20260923101",
+    "id": "nahl_2026092390",
     "league": "NAHL",
     "team": "Corpus Christi IceRays",
     "opponent": "New Mexico Ice Wolves",
@@ -1010,7 +900,7 @@
   },
   
   {
-    "id": "nahl_20260925102",
+    "id": "nahl_2026092591",
     "league": "NAHL",
     "team": "New Jersey Titans",
     "opponent": "Janesville Jets",
@@ -1020,7 +910,7 @@
   },
   
   {
-    "id": "nahl_20260923103",
+    "id": "nahl_2026092392",
     "league": "NAHL",
     "team": "Kenai River Brown Bears",
     "opponent": "Wisconsin Windigo",
@@ -1030,7 +920,7 @@
   },
   
   {
-    "id": "nahl_20260918104",
+    "id": "nahl_2026091893",
     "league": "NAHL",
     "team": "St. Cloud Norsemen",
     "opponent": "Watertown Shamrocks",
@@ -1040,7 +930,107 @@
   },
   
   {
-    "id": "nahl_20260919105",
+    "id": "nahl_2026092394",
+    "league": "NAHL",
+    "team": "Houston Bulls",
+    "opponent": "El Paso Rhinos",
+    "arena": "Deep South Ice & Sports Center",
+    "city": "Richmond, Texas",
+    "date": "2026-09-23T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092595",
+    "league": "NAHL",
+    "team": "New Mexico Ice Wolves",
+    "opponent": "Ogden Mustangs",
+    "arena": "Outpost Ice Arena",
+    "city": "Albuquerque, New Mexico",
+    "date": "2026-09-25T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092696",
+    "league": "NAHL",
+    "team": "Northeast Generals",
+    "opponent": "Kenai River Brown Bears",
+    "arena": "Canton Ice House",
+    "city": "Canton, Massachusetts",
+    "date": "2026-09-26T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092497",
+    "league": "NAHL",
+    "team": "Odessa Jackalopes",
+    "opponent": "Elmira Aviators",
+    "arena": "Ector County Coliseum",
+    "city": "Odessa, Texas",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092598",
+    "league": "NAHL",
+    "team": "Odessa Jackalopes",
+    "opponent": "Minnesota Mallards",
+    "arena": "Ector County Coliseum",
+    "city": "Odessa, Texas",
+    "date": "2026-09-25T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_2026092499",
+    "league": "NAHL",
+    "team": "Ogden Mustangs",
+    "opponent": "Philadelphia Rebels",
+    "arena": "The Ice Sheet",
+    "city": "Ogden, Utah",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260923100",
+    "league": "NAHL",
+    "team": "Oklahoma Warriors",
+    "opponent": "Billings Cattle Punchers",
+    "arena": "Blazers Ice Centre",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-09-23T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260925101",
+    "league": "NAHL",
+    "team": "Philadelphia Rebels",
+    "opponent": "Fairbanks Ice Dogs",
+    "arena": "Hollydell Ice Arena",
+    "city": "Washington Township, New Jersey",
+    "date": "2026-09-25T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260924102",
+    "league": "NAHL",
+    "team": "El Paso Rhinos",
+    "opponent": "New Mexico Ice Wolves",
+    "arena": "El Paso County Coliseum",
+    "city": "El Paso, Texas",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260925103",
+    "league": "NAHL",
+    "team": "Anchorage Wolverines",
+    "opponent": "Fairbanks Ice Dogs",
+    "arena": "Sullivan Arena",
+    "city": "Anchorage, Alaska",
+    "date": "2026-09-25T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260919104",
     "league": "NAHL",
     "team": "Northeast Generals",
     "opponent": "Maryland Black Bears",
@@ -1050,7 +1040,7 @@
   },
   
   {
-    "id": "nahl_20260919106",
+    "id": "nahl_20260919105",
     "league": "NAHL",
     "team": "Kenai River Brown Bears",
     "opponent": "Anchorage Wolverines",
@@ -1060,7 +1050,7 @@
   },
   
   {
-    "id": "nahl_20260920107",
+    "id": "nahl_20260920106",
     "league": "NAHL",
     "team": "Corpus Christi IceRays",
     "opponent": "El Paso Rhinos",
@@ -1070,7 +1060,7 @@
   },
   
   {
-    "id": "nahl_20260913108",
+    "id": "nahl_20260913107",
     "league": "NAHL",
     "team": "Corpus Christi IceRays",
     "opponent": "El Paso Rhinos",
@@ -1080,7 +1070,7 @@
   },
   
   {
-    "id": "nahl_20260912109",
+    "id": "nahl_20260912108",
     "league": "NAHL",
     "team": "Johnstown Tomahawks",
     "opponent": "Maryland Black Bears",
@@ -1090,72 +1080,442 @@
   },
   
   {
-    "id": "nahl_20260910110",
-    "league": "NAHL",
-    "team": "New Jersey Titans",
-    "opponent": "New Hampshire Mountain Kings",
-    "arena": "Middletown Sports Complex",
-    "city": "Middletown Township, New Jersey",
-    "date": "2026-09-10T00:00:00Z"
-  },
-  
-  {
-    "id": "nahl_20260911111",
+    "id": "nahl_20260917109",
     "league": "NAHL",
     "team": "Danbury Hat Tricks",
-    "opponent": "Elmira Aviators",
+    "opponent": "Northeast Generals",
     "arena": "Danbury Arena",
     "city": "Danbury, Connecticut",
-    "date": "2026-09-11T00:00:00Z"
+    "date": "2026-09-17T00:00:00Z"
   },
   
   {
-    "id": "nahl_20260911112",
+    "id": "nahl_20260918110",
+    "league": "NAHL",
+    "team": "New Hampshire Mountain Kings",
+    "opponent": "Elmira Aviators",
+    "arena": "Delta Dental Arena",
+    "city": "Hooksett, New Hampshire",
+    "date": "2026-09-18T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260918111",
+    "league": "NAHL",
+    "team": "Maryland Black Bears",
+    "opponent": "Johnstown Tomahawks",
+    "arena": "Piney Orchard Ice Arena",
+    "city": "Odenton, Maryland",
+    "date": "2026-09-18T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260918112",
+    "league": "NAHL",
+    "team": "Wisconsin Windigo",
+    "opponent": "Kenai River Brown Bears",
+    "arena": "The Ponds of Brookfield",
+    "city": "Brookfield, Wisconsin",
+    "date": "2026-09-18T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260918113",
     "league": "NAHL",
     "team": "Philadelphia Rebels",
-    "opponent": "Maryland Black Bears",
+    "opponent": "New Jersey Titans",
     "arena": "Hollydell Ice Arena",
     "city": "Washington Township, New Jersey",
-    "date": "2026-09-11T00:00:00Z"
+    "date": "2026-09-18T00:00:00Z"
   },
   
   {
-    "id": "nahl_20260911113",
+    "id": "nahl_20260918114",
     "league": "NAHL",
     "team": "Minnesota Mallards",
-    "opponent": "Kenai River Brown Bears",
+    "opponent": "Fairbanks Ice Dogs",
     "arena": "Forest Lake Sport Center",
     "city": "Forest Lake, Minnesota",
-    "date": "2026-09-11T00:00:00Z"
+    "date": "2026-09-18T00:00:00Z"
   },
   
   {
-    "id": "nahl_20260912114",
+    "id": "nahl_20260919115",
     "league": "NAHL",
-    "team": "Corpus Christi IceRays",
-    "opponent": "El Paso Rhinos",
-    "arena": "American Bank Center",
-    "city": "Corpus Christi, Texas",
-    "date": "2026-09-12T00:00:00Z"
+    "team": "Oklahoma Warriors",
+    "opponent": "New Mexico Ice Wolves",
+    "arena": "Blazers Ice Centre",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-09-19T00:00:00Z"
   },
   
   {
-    "id": "nahl_20260912115",
+    "id": "nahl_20260919116",
     "league": "NAHL",
-    "team": "Shreveport Mudbugs",
-    "opponent": "Houston Bulls",
-    "arena": "George's Pond",
-    "city": "Shreveport, Louisiana",
-    "date": "2026-09-12T00:00:00Z"
+    "team": "St. Cloud Norsemen",
+    "opponent": "Bismarck Bobcats",
+    "arena": "St. Cloud Municipal Athletic Complex",
+    "city": "St. Cloud, Minnesota",
+    "date": "2026-09-19T00:00:00Z"
   },
   
   {
-    "id": "nahl_20260912116",
+    "id": "nahl_20260919117",
+    "league": "NAHL",
+    "team": "Springfield Jr. Blues",
+    "opponent": "Anchorage Wolverines",
+    "arena": "Nelson Center",
+    "city": "Springfield, Illinois",
+    "date": "2026-09-19T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260919118",
     "league": "NAHL",
     "team": "Amarillo Wranglers",
-    "opponent": "Lone Star Brahmas",
+    "opponent": "Shreveport Mudbugs",
     "arena": "Budweiser Bull Pen",
     "city": "Amarillo, Texas",
-    "date": "2026-09-12T00:00:00Z"
+    "date": "2026-09-19T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260919119",
+    "league": "NAHL",
+    "team": "Lone Star Brahmas",
+    "opponent": "Houston Bulls",
+    "arena": "NYTEX Sports Centre",
+    "city": "North Richland Hills, Texas",
+    "date": "2026-09-19T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260919120",
+    "league": "NAHL",
+    "team": "El Paso Rhinos",
+    "opponent": "Corpus Christi IceRays",
+    "arena": "El Paso County Coliseum",
+    "city": "El Paso, Texas",
+    "date": "2026-09-19T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260919121",
+    "league": "NAHL",
+    "team": "Maryland Black Bears",
+    "opponent": "Johnstown Tomahawks",
+    "arena": "Piney Orchard Ice Arena",
+    "city": "Odenton, Maryland",
+    "date": "2026-09-19T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260919122",
+    "league": "NAHL",
+    "team": "Springfield Jr. Blues",
+    "opponent": "Kenai River Brown Bears",
+    "arena": "Nelson Center",
+    "city": "Springfield, Illinois",
+    "date": "2026-09-19T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260920123",
+    "league": "NAHL",
+    "team": "Minnesota Mallards",
+    "opponent": "Anchorage Wolverines",
+    "arena": "Forest Lake Sport Center",
+    "city": "Forest Lake, Minnesota",
+    "date": "2026-09-20T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260920124",
+    "league": "NAHL",
+    "team": "Janesville Jets",
+    "opponent": "Fairbanks Ice Dogs",
+    "arena": "Mercy Health Arena",
+    "city": "Janesville, Wisconsin",
+    "date": "2026-09-20T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260920125",
+    "league": "NAHL",
+    "team": "Amarillo Wranglers",
+    "opponent": "Shreveport Mudbugs",
+    "arena": "Budweiser Bull Pen",
+    "city": "Amarillo, Texas",
+    "date": "2026-09-20T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260920126",
+    "league": "NAHL",
+    "team": "Aberdeen Wings",
+    "opponent": "Minot Minotauros",
+    "arena": "Odde Ice Center",
+    "city": "Aberdeen, South Dakota",
+    "date": "2026-09-20T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260920127",
+    "league": "NAHL",
+    "team": "Minnesota Mallards",
+    "opponent": "Billings Cattle Punchers",
+    "arena": "Forest Lake Sport Center",
+    "city": "Forest Lake, Minnesota",
+    "date": "2026-09-20T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260923128",
+    "league": "NAHL",
+    "team": "Minnesota Wilderness",
+    "opponent": "Johnstown Tomahawks",
+    "arena": "Hippodrome",
+    "city": "Eveleth, Minnesota",
+    "date": "2026-09-23T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260923129",
+    "league": "NAHL",
+    "team": "Minot Minotauros",
+    "opponent": "Elmira Aviators",
+    "arena": "Pepsi Rink at Maysa Arena",
+    "city": "Minot, North Dakota",
+    "date": "2026-09-23T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260923130",
+    "league": "NAHL",
+    "team": "New Hampshire Mountain Kings",
+    "opponent": "St. Cloud Norsemen",
+    "arena": "Delta Dental Arena",
+    "city": "Hooksett, New Hampshire",
+    "date": "2026-09-23T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260923131",
+    "league": "NAHL",
+    "team": "New Jersey Titans",
+    "opponent": "Janesville Jets",
+    "arena": "Middletown Sports Complex",
+    "city": "Middletown Township, New Jersey",
+    "date": "2026-09-23T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260923132",
+    "league": "NAHL",
+    "team": "Lone Star Brahmas",
+    "opponent": "Northeast Generals",
+    "arena": "NYTEX Sports Centre",
+    "city": "North Richland Hills, Texas",
+    "date": "2026-09-23T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260923133",
+    "league": "NAHL",
+    "team": "Ogden Mustangs",
+    "opponent": "Philadelphia Rebels",
+    "arena": "The Ice Sheet",
+    "city": "Ogden, Utah",
+    "date": "2026-09-23T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260923134",
+    "league": "NAHL",
+    "team": "Kenai River Brown Bears",
+    "opponent": "Pueblo Peppers",
+    "arena": "Soldotna Regional Sports Complex",
+    "city": "Soldotna, Alaska",
+    "date": "2026-09-23T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260923135",
+    "league": "NAHL",
+    "team": "Danbury Hat Tricks",
+    "opponent": "Grand Junction River Hawks",
+    "arena": "Danbury Arena",
+    "city": "Danbury, Connecticut",
+    "date": "2026-09-23T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260923136",
+    "league": "NAHL",
+    "team": "Bismarck Bobcats",
+    "opponent": "Fairbanks Ice Dogs",
+    "arena": "VFW Sports Center",
+    "city": "Bismarck, North Dakota",
+    "date": "2026-09-23T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260923137",
+    "league": "NAHL",
+    "team": "Watertown Shamrocks",
+    "opponent": "Wisconsin Windigo",
+    "arena": "Prairie Lakes Ice Arena",
+    "city": "Watertown, South Dakota",
+    "date": "2026-09-23T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260923138",
+    "league": "NAHL",
+    "team": "Springfield Jr. Blues",
+    "opponent": "Aberdeen Wings",
+    "arena": "Nelson Center",
+    "city": "Springfield, Illinois",
+    "date": "2026-09-23T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260923139",
+    "league": "NAHL",
+    "team": "Anchorage Wolverines",
+    "opponent": "Idaho Falls Spud Kings",
+    "arena": "Sullivan Arena",
+    "city": "Anchorage, Alaska",
+    "date": "2026-09-23T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260924140",
+    "league": "NAHL",
+    "team": "Maryland Black Bears",
+    "opponent": "Austin Bruins",
+    "arena": "Piney Orchard Ice Arena",
+    "city": "Odenton, Maryland",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260924141",
+    "league": "NAHL",
+    "team": "Houston Bulls",
+    "opponent": "New Hampshire Mountain Kings",
+    "arena": "Deep South Ice & Sports Center",
+    "city": "Richmond, Texas",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260924142",
+    "league": "NAHL",
+    "team": "Odessa Jackalopes",
+    "opponent": "Minnesota Mallards",
+    "arena": "Ector County Coliseum",
+    "city": "Odessa, Texas",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260924143",
+    "league": "NAHL",
+    "team": "St. Cloud Norsemen",
+    "opponent": "New Mexico Ice Wolves",
+    "arena": "St. Cloud Municipal Athletic Complex",
+    "city": "St. Cloud, Minnesota",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260924144",
+    "league": "NAHL",
+    "team": "Northeast Generals",
+    "opponent": "Kenai River Brown Bears",
+    "arena": "Canton Ice House",
+    "city": "Canton, Massachusetts",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260924145",
+    "league": "NAHL",
+    "team": "Springfield Jr. Blues",
+    "opponent": "Ogden Mustangs",
+    "arena": "Nelson Center",
+    "city": "Springfield, Illinois",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260924146",
+    "league": "NAHL",
+    "team": "El Paso Rhinos",
+    "opponent": "New Jersey Titans",
+    "arena": "El Paso County Coliseum",
+    "city": "El Paso, Texas",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260924147",
+    "league": "NAHL",
+    "team": "Philadelphia Rebels",
+    "opponent": "Fairbanks Ice Dogs",
+    "arena": "Hollydell Ice Arena",
+    "city": "Washington Township, New Jersey",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260924148",
+    "league": "NAHL",
+    "team": "Janesville Jets",
+    "opponent": "Maryland Black Bears",
+    "arena": "Mercy Health Arena",
+    "city": "Janesville, Wisconsin",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260924149",
+    "league": "NAHL",
+    "team": "Amarillo Wranglers",
+    "opponent": "Anchorage Wolverines",
+    "arena": "Budweiser Bull Pen",
+    "city": "Amarillo, Texas",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260924150",
+    "league": "NAHL",
+    "team": "Shreveport Mudbugs",
+    "opponent": "Minnesota Wilderness",
+    "arena": "George's Pond",
+    "city": "Shreveport, Louisiana",
+    "date": "2026-09-24T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260925151",
+    "league": "NAHL",
+    "team": "Grand Junction River Hawks",
+    "opponent": "Johnstown Tomahawks",
+    "arena": "River City Sportplex",
+    "city": "Grand Junction, Colorado",
+    "date": "2026-09-25T00:00:00Z"
+  },
+  
+  {
+    "id": "nahl_20260925152",
+    "league": "NAHL",
+    "team": "Watertown Shamrocks",
+    "opponent": "Philadelphia Rebels",
+    "arena": "Prairie Lakes Ice Arena",
+    "city": "Watertown, South Dakota",
+    "date": "2026-09-25T00:00:00Z"
   }
 ]
