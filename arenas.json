@@ -8142,11 +8142,13 @@
     "website": "https://eisloewen.de/",
     "latitude": 51.0623219247133,
     "longitude": 13.7221517309854,
-    "color": "Ice Blue",
-    "colorCode": "#A9D6E5",
+    "colorCode": "#082355",
+    "colorCode2": "#FFFFFF",
     "league": "DEL",
     "timezone": "Europe/Berlin",
     "arenaId": "joynext_arena_dresden"
+    "startDate": "2025-09-01",
+    "endDate": "2026-06-30",
   },
   {
     "teamName": "Löwen Frankfurt",
@@ -8192,6 +8194,24 @@
     "league": "DEL",
     "timezone": "Europe/Berlin",
     "arenaId": "eissporthalle_iserlohn_iserlohn"
+    
+  },
+  {
+    "teamName": "Krefeld Pinguine",
+    "teamCode": "KRE",
+    "arena": "Yayla Arena",
+    "city": "Krefeld, Germany",
+    "address": "Westparkstraße 111, 47803 Krefeld, Germany",
+    "website": "https://haie.de/",
+    "latitude": 51.34096270425411, 
+    "longitude": 6.540186412884175,
+    "colorCode": "#000000",
+    "colorCode2": "#FBDD14",
+    "league": "DEL",
+    "timezone": "Europe/Berlin",
+    "arenaId": "yayla_arena_krefeld"
+    "startDate": "2026-09-01",
+    "endDate": null,
   },
   {
     "teamName": "Kölner Haie",
