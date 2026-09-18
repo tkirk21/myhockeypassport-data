@@ -5020,7 +5020,7 @@
     "colorCode4": "#00B7EB",
     "league": "NA3HL",
     "timezone": "America/Chicago",
-    "startDate": "20000-09-01",
+    "startDate": "2000-09-01",
     "endDate": null,
     "arenaId": "owens_center_peoria"
   },
@@ -6192,7 +6192,7 @@
     "color": "Navy Blue",
     "colorCode2": "#FFFFFF",
     "colorCode": "#00205b",
-    "colorCode3": "##AA182C",
+    "colorCode3": "#AA182C",
     "league": "NCAA DIV I",
     "timezone": "America/New_York",
     "startDate": "2023-09-01",
@@ -6612,7 +6612,7 @@
     "latitude": 46.0395861,
     "longitude": -73.10384363,
     "color": "Red",
-    "colorCode": "#c8102e ",
+    "colorCode": "#c8102e",
     "league": "LNAH",
     "timezone": "America/Toronto",
     "arenaId": "colise_cardin_soreltracy"
@@ -6627,7 +6627,7 @@
     "latitude": 46.0984174,
     "longitude": -71.30640504,
     "color": "Orange",
-    "colorCode": "#ff8200 ",
+    "colorCode": "#ff8200",
     "league": "LNAH",
     "timezone": "America/Toronto",
     "arenaId": "centre_mario_gosselin_thetford_mines"
