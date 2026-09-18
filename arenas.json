@@ -1403,7 +1403,7 @@
     "timezone": "America/New_York",
     "startDate": "2025-09-01",
     "endDate": null,
-    "arenaId": "first_horizon_coliseum_greenville"
+    "arenaId": "first_horizon_coliseum_greensboro"
   },
   {
     "teamName": "Greenville Swamp Rabbits",
@@ -3313,7 +3313,7 @@
     "teamCode": "TRI",
     "arena": "Toyota Center",
     "city": "Kennewick, Washington",
-    "address": "1510 Polk St, Houston, TX 77002",
+    "address": "7000 W Grandridge Blvd, Kennewick, WA 99336",
     "website": "https://chl.ca/whl-americans",
     "latitude": 46.21979449,
     "longitude": -119.2166464,
