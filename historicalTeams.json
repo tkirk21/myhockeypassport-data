@@ -14503,5 +14503,42 @@
     "startDate": "2026-05-22",
     "endDate": "2026-05-31",
     "arenaId": "prospera_place_kelowna"
-  }
+  },
+
+  {
+    "teamName": "South Auckland Swarm",
+    "teamCode": "SAS",
+    "arena": "Paradice Botany Downs",
+    "city": "Botany Downs, Auckland",
+    "address": "490 Ti Rakau Drive, Botany Downs, Auckland 2013, New Zealand",
+    "website": "botanyswarm.co.nz",
+    "latitude": -36.9281290779, 
+    "longitude": 174.91186892497186,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#800000",
+    "league": "NZIHL",
+    "timezone": "New Zealand/Auckland",
+    "arenaId": "paradise_botany_downs_auckland",
+    "startDate": "2005-01-01",
+    "endDate": "2006-12-31"
+  },
+
+  {
+    "teamName": "Southern Stampede",
+    "teamCode": "SCS",
+    "arena": "Queenstown Ice Arena",
+    "city": "Queenstown Gardens, Queenstown",
+    "address": "29 Park Street, Queenstown Gardens, Queenstown 9300, New Zealand",
+    "website": "www.skycitystampede.com",
+    "latitude": -45.03746731208895, 
+    "longitude": 168.6617133191459,
+    "colorCode": "#FFCA08",
+    "colorCode2": "#002B5E",
+    "colorCode3": "#FFFFFF",
+    "league": "NZIHL",
+    "timezone": "New Zealand/Auckland",
+    "arenaId": "queenstown_ice_arena_queenstown",
+    "startDate": "2005-01-01",
+    "endDate": "2015-12-31"
+  },
 ]
