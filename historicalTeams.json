@@ -365,7 +365,7 @@
     "league": "NHL",
     "timezone": "America/New_York",
     "startDate": "2024-10-04",
-    "endDate": "2008-01-05"
+    "endDate": "2024-01-05"
   },
   {
     "teamName": "Buffalo Sabres",
@@ -404,25 +404,6 @@
     "timezone": "America/New_York",
     "startDate": "2018-01-01",
     "endDate": "2018-01-02"
-  },
-  {
-    "teamName": "Buffalo Sabres",
-    "teamCode": "BUF",
-    "arena": "O2 Arena",
-    "arenaId": "o2_arena_prague",
-    "city": "Prague, Czech Republic",
-    "address": "Českomoravská 2345/17a, 190 00 Praha 9, Czechia",
-    "website": "https://nhl.com/sabres",
-    "latitude": 50.10478038677574,
-    "longitude": 14.49366018813908,
-    "color": "Royal Blue",
-    "colorCode": "#002C88",
-    "colorCode2": "#FFBB12",
-    "colorCode3": "#FFFFFF",
-    "league": "NHL",
-    "timezone": "America/New_York",
-    "startDate": "2024-10-04",
-    "endDate": "2008-01-05"
   },
   {
     "teamName": "Buffalo Sabres",
@@ -1350,7 +1331,7 @@
     "league": "NHL",
     "timezone": "America/Los_Angeles",
     "startDate": "1967-09-01",
-    "endDate": "1967-12-31'"
+    "endDate": "1967-12-31"
   },
   {
     "teamName": "Los Angeles Kings",
@@ -1368,7 +1349,7 @@
     "league": "NHL",
     "timezone": "America/Los_Angeles",
     "startDate": "1967-09-01",
-    "endDate": "1967-12-31'"
+    "endDate": "1967-12-31"
   },
   {
     "teamName": "Los Angeles Kings",
@@ -1386,7 +1367,7 @@
     "league": "NHL",
     "timezone": "America/Los_Angeles",
     "startDate": "1968-09-01",
-    "endDate": "1998-12-31'"
+    "endDate": "1998-12-31"
   },
   {
     "teamName": "Los Angeles Kings",
@@ -1404,7 +1385,7 @@
     "league": "NHL",
     "timezone": "America/Los_Angeles",
     "startDate": "2014-01-25",
-    "endDate": "2014-01-26'"
+    "endDate": "2014-01-26"
   },
   {
     "teamName": "Los Angeles Kings",
@@ -1789,8 +1770,8 @@
   {
     "teamName": "Nashville Predators",
     "teamCode": "NSH",
-    "arena": "Nashville, Tennessee",
-    "city": "Nissan Stadium",
+    "arena": "Nissan Stadium",
+    "city": "Nashville, Tennessee",
     "arenaId": "nashville_tennessee_nissan_stadium",
     "address": "1 Titans Wy, Nashville, TN 37213",
     "website": "https://nhl.com/predators",
@@ -3014,7 +2995,7 @@
     "league": "NHL",
     "timezone": "America/New_York",
     "startDate": "2015-01-01",
-    "endDate": "2015-02-31"
+    "endDate": "2015-01-02"
   },
   {
     "teamName": "Washington Capitals",
@@ -5924,7 +5905,7 @@
     "teamName": "Baton Rouge Kingfish",
     "teamCode": "BRK",
     "arena": "Riverside Centroplex Arena",
-    "city": "Victoria, British Columbia",
+    "city": "Baton Rouge, Louisiana",
     "address": "275 River Rd S, Baton Rouge, LA 70802",
     "website": "https://www.hockeydb.com/stte/baton-rouge-kingfish-4791.html",
     "latitude": 30.444923223520572,
@@ -6765,7 +6746,7 @@
     "longitude": -88.97451380199414,
     "color": "Red",
     "colorCode": "#C80815",
-    "colorCode2": "##00004D",
+    "colorCode2": "#00004D",
     "colorCode3": "#FFFFFF",
     "league": "ECHL",
     "timezone": "America/Dallas",
@@ -7828,7 +7809,7 @@
     "teamName": "Bloomington Thunder",
     "teamCode": "BLO",
     "arena": "U.S. Cellular Coliseum",
-    "city": "Southaven, Mississippi",
+    "city": "Bloomington, Illinois",
     "address": "101 South Madison Street, Bloomington, Illinois 60701",
     "website": "https://en.wikipedia.org/wiki/Bloomington_Thunder_(SPHL)",
     "latitude": 40.47819454409348,
@@ -11347,10 +11328,10 @@
     "teamName": "Hennepin Nordiques",
     "teamCode": "HEN",
     "arena": "New Hope Ice Arena",
-    "city": "Hennepin, Illinois",
-    "address": "125 Commercial St, Waterloo, IA 50703",
+    "city": "New Hope, Minnesota",
+    "address": "4949 Louisiana Ave N, New Hope, MN 55428",
     "website": "https://waterlooblackhawks.com",
-    "latitude": 45.044597312159596,
+    "latitude": 45.044839193013026, 
     "longitude": -93.37135602845453,
     "color": "Red",
     "colorCode": "#000000",
@@ -11574,7 +11555,7 @@
     "teamName": "River City Lancers",
     "teamCode": "OMA",
     "arena": "Mid-America Center",
-    "city": "Omaha, Nebraska",
+    "city": "Council Bluffs, Iowa",
     "address": "1 Arena Way, Council Bluffs, IA 51501",
     "website": "https://lancers.com",
     "latitude": 41.23768288438765,
