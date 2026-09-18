@@ -14521,5 +14521,46 @@
     "arenaId": "queenstown_ice_arena_queenstown",
     "startDate": "2005-01-01",
     "endDate": "2015-12-31"
+  },
+
+  {
+    "teamName": "USA Hockey National Team Development Program",
+    "teamCode": "USA",
+    "arena": "USA Hockey Arena",
+    "city": "Plymouth, Michigan",
+    "address": "14900 Beck Rd, Plymouth, MI 48170",
+    "website": "https://usahockeyntdp.com",
+    "latitude": 42.3892760674638,
+    "longitude": -83.5065043318544,
+    "color": "Navy Blue",
+    "colorCode": "#002868",
+    "colorCode2": "#BF0A30",
+    "colorCode3": "#00205b",
+    "league": "NCAA DIV I",
+    "timezone": "America/Detroit",
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-11,
+    "arenaId": "usa_hockey_arena_plymouth"
+  },
+
+  {
+    "teamName": "Waterloo Black Hawks",
+    "teamCode": "WAT",
+    "arena": "Young Arena",
+    "city": "Waterloo, Iowa",
+    "address": "125 Commercial St, Waterloo, IA 50703",
+    "website": "https://waterlooblackhawks.com",
+    "latitude": 42.4990088485537,
+    "longitude": -92.343670611916,
+    "color": "Red",
+    "colorCode": "#000000",
+    "colorCode2": "#c8102e",
+    "colorCode3": "#FFFFFF",
+    "league": "NCAA DIV I",
+    "timezone": "America/Chicago",
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-18",
+    "arenaId": "young_arena_waterloo"
   }
+  
 ]
