@@ -9068,7 +9068,7 @@
     "league": "NZIHL",
     "timezone": "New Zealand/Auckland",
     "arenaId": "paradise_botany_downs_auckland",
-    "startDate": "2005-01-01",
+    "startDate": "2007-01-01",
     "endDate": null
   },
   {
@@ -9103,6 +9103,43 @@
     "timezone": "New Zealand/Auckland",
     "arenaId": "alpine_ice_centre_christchurch",
     "startDate": "2008-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Skycity Stampede",
+    "teamCode": "SCS",
+    "arena": "Queenstown Ice Arena",
+    "city": "Queenstown Gardens, Queenstown",
+    "address": "29 Park Street, Queenstown Gardens, Queenstown 9300, New Zealand",
+    "website": "www.skycitystampede.com",
+    "latitude": -45.03746731208895, 
+    "longitude": 168.6617133191459,
+    "colorCode": "#FFCA08",
+    "colorCode2": "#002B5E",
+    "colorCode3": "#FFFFFF",
+    "league": "NZIHL",
+    "timezone": "New Zealand/Auckland",
+    "arenaId": "queenstown_ice_arena_queenstown",
+    "startDate": "2016-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "West Auckland Admirals",
+    "teamCode": "SCS",
+    "arena": "Paradice Avondale",
+    "city": "Avondale, Auckland",
+    "address": "150 Lansford Crescent, Avondale, Auckland 0600, New Zealand",
+    "website": "www.westaucklandadmirals.co.nz",
+    "latitude": -36.90552146284433, 
+    "longitude": 174.7001852531625,
+    "colorCode": "#485CC7",
+    "colorCode2": "#020381",
+    "colorCode3": "#020381",
+    "colorCode4": "#000000",
+    "league": "NZIHL",
+    "timezone": "New Zealand/Auckland",
+    "arenaId": "paradise_avondale_auckland",
+    "startDate": "2005-01-01",
     "endDate": null
   },
 
