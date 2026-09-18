@@ -5763,6 +5763,24 @@
     "arenaId": "harold_alfond_sports_arena_orono"
   },
   {
+  "teamName": "Manitoba Bisons",
+  "teamCode": "MAN",
+  "arena": "Wayne Fleming Arena",
+  "arenaId": "wayne_fleming_arena_winnipeg",
+  "city": "Winnipeg, Manitoba",
+  "address": "109 Sidney Smith St, Winnipeg, MB R3T 2M6, Canada",
+  "website": "https://gobisons.ca",
+  "latitude": 49.8090936,
+  "longitude": -97.139845,
+  "color": "Brown and Gold",
+  "colorCode": "#4d220e",
+  "colorCode2": "#F1C400",
+  "league": "NCAA DIV I",
+  "timezone": "America/Winnipeg",
+  "startDate": "2026-10-04",
+  "endDate": "2026-10-05"
+}
+  {
     "teamName": "Maryville Saints",
     "teamCode": "MAR",
     "arena": "Maryville University Hockey Center",
@@ -6306,6 +6324,24 @@
     "endDate": null,
     "arenaId": "bridgewater_ice_arena_easton"
   },
+  {
+  "teamName": "Toronto Varsity Blues",
+  "teamCode": "TOR",
+  "arena": "Varsity Arena",
+  "arenaId": "varsity_arena_toronto",
+  "city": "Toronto, Ontario",
+  "address": "299 Bloor St West, Toronto, ON M5S 1W2, Canada",
+  "website": "https://varsityblues.ca",
+  "latitude": 43.667083,
+  "longitude": -79.39611,
+  "color": "Navy Blue and White",
+  "colorCode": "#00205B",
+  "colorCode2": "#FFFFFF",
+  "league": "NCAA DIV I",
+  "timezone": "America/Toronto",
+  "startDate": "2026-10-03",
+  "endDate": "2026-10-04"
+}
   {
     "teamName": "UMass Lowell River Hawks",
     "teamCode": "UML",
