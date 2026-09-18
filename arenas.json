@@ -5779,8 +5779,8 @@
   "timezone": "America/Winnipeg",
   "startDate": "2026-10-04",
   "endDate": "2026-10-05"
-}
-  {
+},
+{
     "teamName": "Maryville Saints",
     "teamCode": "MAR",
     "arena": "Maryville University Hockey Center",
@@ -6341,7 +6341,7 @@
   "timezone": "America/Toronto",
   "startDate": "2026-10-03",
   "endDate": "2026-10-04"
-}
+},
   {
     "teamName": "UMass Lowell River Hawks",
     "teamCode": "UML",
