@@ -3095,6 +3095,23 @@
   {
     "teamName": "Winnipeg Jets",
     "teamCode": "WIN",
+    "arena": "Princess Auto Stadium",
+    "arenaId": "winnipeg_arena_winnipeg",
+    "city": "Winnipeg, Manitoba",
+    "address": "315 Chancellor Matheson Rd, Winnipeg, MB R3T 1Z2, Canada",
+    "website": "www.nhl.com/jets",
+    "latitude": 49.807857449249155, 
+    "longitude": -97.14299313765996,
+    "colorCode": "#012169",
+    "colorCode2": "#C8102E",
+    "league": "NHL",
+    "timezone": "America/Winnipeg",
+    "startDate": "2026-10-25",
+    "endDate": "2026-10-26"
+  },
+  {
+    "teamName": "Winnipeg Jets",
+    "teamCode": "WIN",
     "arena": "Winnipeg Arena",
     "arenaId": "winnipeg_arena_winnipeg",
     "city": "Winnipeg, Manitoba",
