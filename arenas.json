@@ -6628,6 +6628,23 @@
     "endDate": null
   },
   {
+    "teamName": "Saint-Hyacinthe Bataillon",
+    "teamCode": "SHB",
+    "arena": "Stade Louis-Philippe-Gaucher",
+    "city": "Saint-Hyacinthe, Quebec",
+    "address": "800 Rue Viger, Saint-Hyacinthe, QC, Canada",
+    "website": "https://national.lnah.com",
+    "latitude": 45.63429474052716, 
+    "longitude": -72.95333776624183,
+    "colorCode": "#56553C",
+    "colorCode2": "#000000",
+    "league": "LNAH",
+    "timezone": "America/Toronto",
+    "arenaId": "saint_hyacinthe_bataillon_saint_hyacinthe",
+    "startDate": "2024-09-01",
+    "endDate": null
+  },
+  {
     "teamName": "Sorel-Tracy Éperviers",
     "teamCode": "SOR",
     "arena": "Colisée Cardin",
