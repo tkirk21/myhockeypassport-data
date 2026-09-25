@@ -495,6 +495,31 @@
     "startDate": "1970-09-01",
     "endDate": "1976-05-31"
   },
+
+
+    
+
+
+
+  {
+    "teamName": "Carolina Hurricanes",
+    "arena": "Veikkaus Arena",
+    "arenaId": "veikkaus_arena_helsinki",
+    "city": "Helsinki, Finland",
+    "address": "Areenankuja 1, 00240 Helsinki, Finland",
+    "website": "https://nhl.com/hurricanes",
+    "latitude": 60.205780907722826,
+    "longitude": 24.92922600946772,
+    "colorCode": "#000000",
+    "colorCode2": "#b20f00",
+    "league": "NHL",
+    "timezone": "America/New_York",
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-15"
+  },
+
+
+  
   {
     "teamName": "Carolina Hurricanes",
     "arena": "Greensboro Coliseum",
@@ -2569,7 +2594,7 @@
     "address": "Areenankuja 1, 00240 Helsinki, Finland",
     "website": "https://nhl.com/kraken",
     "latitude": 60.205780907722826,
-    "longitude": 24.92922600946772
+    "longitude": 24.92922600946772,
     "colorCode": "#001425",
     "colorCode2": "#96D8D8",
     "colorCode3": "#3B4F5F",
