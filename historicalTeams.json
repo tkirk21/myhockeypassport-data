@@ -2563,6 +2563,26 @@
   {
     "teamName": "Seattle Kraken",
     "teamCode": "SEA",
+    "arena": "Veikkaus Arena",
+    "arenaId": "veikkaus_arena_helsinki",
+    "city": "Helsinki, Finland",
+    "address": "Areenankuja 1, 00240 Helsinki, Finland",
+    "website": "https://nhl.com/kraken",
+    "latitude": 60.205780907722826,
+    "longitude": 24.92922600946772
+    "colorCode": "#001425",
+    "colorCode2": "#96D8D8",
+    "colorCode3": "#3B4F5F",
+    "colorCode4": "#639FB6",
+    "colorCode5": "#C8102E",
+    "league": "NHL",
+    "timezone": "Finland/Helsinki",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-13"
+  },
+  {
+    "teamName": "Seattle Kraken",
+    "teamCode": "SEA",
     "arena": "T-Mobile Park",
     "arenaId": "tmobile_park_seattle",
     "city": "Seattle, Washington",
