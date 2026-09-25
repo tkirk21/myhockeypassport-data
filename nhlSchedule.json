@@ -1,345 +1,5 @@
 [
   {
-    "id": "nhl_2026091901",
-    "league": "NHL",
-    "team": "St. Louis Blues",
-    "opponent": "Dallas Stars",
-    "arena": "Enterprise Center",
-    "city": "St. Louis, Missouri",
-    "date": "2026-09-19T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026091902",
-    "league": "NHL",
-    "team": "Toronto Maple Leafs",
-    "opponent": "Montreal Canadiens",
-    "arena": "Scotiabank Arena",
-    "city": "Toronto, Ontario",
-    "date": "2026-09-19T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026091903",
-    "league": "NHL",
-    "team": "Montreal Canadiens",
-    "opponent": "Toronto Maple Leafs",
-    "arena": "Centre Bell",
-    "city": "Montreal, Quebec",
-    "date": "2026-09-19T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092004",
-    "league": "NHL",
-    "team": "Edmonton Oilers",
-    "opponent": "Winnipeg Jets",
-    "arena": "Rogers Place",
-    "city": "Edmonton, Alberta",
-    "date": "2026-09-20T00:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092005",
-    "league": "NHL",
-    "team": "Minnesota Wild",
-    "opponent": "Chicago Blackhawks",
-    "arena": "Grand Casino Arena",
-    "city": "Saint Paul, Minnesota",
-    "date": "2026-09-20T00:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092006",
-    "league": "NHL",
-    "team": "Los Angeles Kings",
-    "opponent": "Vegas Golden Knights",
-    "arena": "Toyota Arena",
-    "city": "Ontario, California",
-    "date": "2026-09-20T01:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092007",
-    "league": "NHL",
-    "team": "Seattle Kraken",
-    "opponent": "Vancouver Canucks",
-    "arena": "Climate Pledge Arena",
-    "city": "Seattle, Washington",
-    "date": "2026-09-20T02:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092008",
-    "league": "NHL",
-    "team": "New Jersey Devils",
-    "opponent": "New York Islanders",
-    "arena": "Prudential Center",
-    "city": "Newark, New Jersey",
-    "date": "2026-09-20T17:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092009",
-    "league": "NHL",
-    "team": "Anaheim Ducks",
-    "opponent": "San Jose Sharks",
-    "arena": "Honda Center",
-    "city": "Anaheim, California",
-    "date": "2026-09-20T20:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092010",
-    "league": "NHL",
-    "team": "Tampa Bay Lightning",
-    "opponent": "Nashville Predators",
-    "arena": "Benchmark International Arena",
-    "city": "Tampa, Florida",
-    "date": "2026-09-20T21:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092011",
-    "league": "NHL",
-    "team": "Boston Bruins",
-    "opponent": "Washington Capitals",
-    "arena": "TD Garden",
-    "city": "Boston, Massachusetts",
-    "date": "2026-09-20T21:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092012",
-    "league": "NHL",
-    "team": "Florida Panthers",
-    "opponent": "Carolina Hurricanes",
-    "arena": "Amerant Bank Arena",
-    "city": "Sunrise, Florida",
-    "date": "2026-09-20T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092013",
-    "league": "NHL",
-    "team": "Colorado Avalanche",
-    "opponent": "Utah Mammoth",
-    "arena": "Ball Arena",
-    "city": "Denver, Colorado",
-    "date": "2026-09-20T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092114",
-    "league": "NHL",
-    "team": "Calgary Flames",
-    "opponent": "Seattle Kraken",
-    "arena": "Scotiabank Saddledome",
-    "city": "Calgary, Alberta",
-    "date": "2026-09-21T00:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092115",
-    "league": "NHL",
-    "team": "Pittsburgh Penguins",
-    "opponent": "Buffalo Sabres",
-    "arena": "PPG Paints Arena",
-    "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-09-21T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092116",
-    "league": "NHL",
-    "team": "Columbus Blue Jackets",
-    "opponent": "Detroit Red Wings",
-    "arena": "Nationwide Arena",
-    "city": "Columbus, Ohio",
-    "date": "2026-09-21T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092117",
-    "league": "NHL",
-    "team": "New Jersey Devils",
-    "opponent": "New York Rangers",
-    "arena": "Prudential Center",
-    "city": "Newark, New Jersey",
-    "date": "2026-09-21T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092118",
-    "league": "NHL",
-    "team": "Washington Capitals",
-    "opponent": "Philadelphia Flyers",
-    "arena": "GIANT Center",
-    "city": "Hershey, Pennsylvania",
-    "date": "2026-09-21T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092119",
-    "league": "NHL",
-    "team": "Montreal Canadiens",
-    "opponent": "Ottawa Senators",
-    "arena": "Colisee Videotron",
-    "city": "Trois-Rivières, Quebec, Canada",
-    "date": "2026-09-21T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092220",
-    "league": "NHL",
-    "team": "Winnipeg Jets",
-    "opponent": "Colorado Avalanche",
-    "arena": "Canada Life Centre",
-    "city": "Winnipeg, Manitoba",
-    "date": "2026-09-22T00:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092221",
-    "league": "NHL",
-    "team": "Chicago Blackhawks",
-    "opponent": "Minnesota Wild",
-    "arena": "United Center",
-    "city": "Chicago, Illinois",
-    "date": "2026-09-22T00:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092222",
-    "league": "NHL",
-    "team": "Dallas Stars",
-    "opponent": "St. Louis Blues",
-    "arena": "American Airlines Center",
-    "city": "Dallas, Texas",
-    "date": "2026-09-22T00:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092223",
-    "league": "NHL",
-    "team": "Buffalo Sabres",
-    "opponent": "Columbus Blue Jackets",
-    "arena": "KeyBank Center",
-    "city": "Buffalo, New York",
-    "date": "2026-09-22T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092224",
-    "league": "NHL",
-    "team": "Pittsburgh Penguins",
-    "opponent": "Detroit Red Wings",
-    "arena": "PPG Paints Arena",
-    "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-09-22T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092225",
-    "league": "NHL",
-    "team": "Carolina Hurricanes",
-    "opponent": "Florida Panthers",
-    "arena": "Lenovo Center",
-    "city": "Raleigh, North Carolina",
-    "date": "2026-09-22T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092226",
-    "league": "NHL",
-    "team": "New York Rangers",
-    "opponent": "New York Islanders",
-    "arena": "Madison Square Garden",
-    "city": "New York, New York",
-    "date": "2026-09-22T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092227",
-    "league": "NHL",
-    "team": "Boston Bruins",
-    "opponent": "Philadelphia Flyers",
-    "arena": "TD Garden",
-    "city": "Boston, Massachusetts",
-    "date": "2026-09-22T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092328",
-    "league": "NHL",
-    "team": "Winnipeg Jets",
-    "opponent": "Edmonton Oilers",
-    "arena": "Canada Life Centre",
-    "city": "Winnipeg, Manitoba",
-    "date": "2026-09-23T00:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092329",
-    "league": "NHL",
-    "team": "Nashville Predators",
-    "opponent": "Tampa Bay Lightning",
-    "arena": "Bridgestone Arena",
-    "city": "Nashville, Tennessee",
-    "date": "2026-09-23T00:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092330",
-    "league": "NHL",
-    "team": "Calgary Flames",
-    "opponent": "Vancouver Canucks",
-    "arena": "Scotiabank Saddledome",
-    "city": "Calgary, Alberta",
-    "date": "2026-09-23T01:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092331",
-    "league": "NHL",
-    "team": "Los Angeles Kings",
-    "opponent": "Utah Mammoth",
-    "arena": "Crypto.com Arena",
-    "city": "Los Angeles, California",
-    "date": "2026-09-23T02:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092332",
-    "league": "NHL",
-    "team": "San Jose Sharks",
-    "opponent": "Vegas Golden Knights",
-    "arena": "SAP Center at San Jose",
-    "city": "San Jose, California",
-    "date": "2026-09-23T02:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092333",
-    "league": "NHL",
-    "team": "Toronto Maple Leafs",
-    "opponent": "Ottawa Senators",
-    "arena": "Scotiabank Arena",
-    "city": "Toronto, Ontario",
-    "date": "2026-09-23T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092334",
-    "league": "NHL",
-    "team": "Ottawa Senators",
-    "opponent": "Toronto Maple Leafs",
-    "arena": "Canadian Tire Centre",
-    "city": "Ottawa, Ontario",
-    "date": "2026-09-23T23:00:00Z"
-  },
-  
-  {
     "id": "nhl_2026092435",
     "league": "NHL",
     "team": "Dallas Stars",
@@ -717,5 +377,2154 @@
     "arena": "Scotiabank Arena",
     "city": "Toronto, Ontario",
     "date": "2026-09-30T23:30:00Z"
-  }
+  },
+  {
+  "id": "nhl_2026100101",
+  "league": "NHL",
+  "team": "New Jersey Devils",
+  "opponent": "Philadelphia Flyers",
+  "arena": "Prudential Center",
+  "city": "Newark, New Jersey",
+  "date": "2026-10-01T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100102",
+  "league": "NHL",
+  "team": "New York Rangers",
+  "opponent": "Tampa Bay Lightning",
+  "arena": "Madison Square Garden",
+  "city": "New York, New York",
+  "date": "2026-10-01T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100103",
+  "league": "NHL",
+  "team": "Columbus Blue Jackets",
+  "opponent": "Buffalo Sabres",
+  "arena": "Nationwide Arena",
+  "city": "Columbus, Ohio",
+  "date": "2026-10-01T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100204",
+  "league": "NHL",
+  "team": "Nashville Predators",
+  "opponent": "Minnesota Wild",
+  "arena": "Bridgestone Arena",
+  "city": "Nashville, Tennessee",
+  "date": "2026-10-02T00:00:00Z"
+},
+
+{
+  "id": "nhl_2026100205",
+  "league": "NHL",
+  "team": "Calgary Flames",
+  "opponent": "Seattle Kraken",
+  "arena": "Scotiabank Saddledome",
+  "city": "Calgary, Alberta",
+  "date": "2026-10-02T01:00:00Z"
+},
+
+{
+  "id": "nhl_2026100206",
+  "league": "NHL",
+  "team": "Utah Mammoth",
+  "opponent": "Chicago Blackhawks",
+  "arena": "Delta Center",
+  "city": "Salt Lake City, Utah",
+  "date": "2026-10-02T01:30:00Z"
+},
+
+{
+  "id": "nhl_2026100207",
+  "league": "NHL",
+  "team": "Vancouver Canucks",
+  "opponent": "Edmonton Oilers",
+  "arena": "Rogers Arena",
+  "city": "Vancouver, British Columbia",
+  "date": "2026-10-02T02:00:00Z"
+},
+
+{
+  "id": "nhl_2026100208",
+  "league": "NHL",
+  "team": "San Jose Sharks",
+  "opponent": "Florida Panthers",
+  "arena": "SAP Center at San Jose",
+  "city": "San Jose, California",
+  "date": "2026-10-02T02:00:00Z"
+},
+
+{
+  "id": "nhl_2026100209",
+  "league": "NHL",
+  "team": "Detroit Red Wings",
+  "opponent": "New York Rangers",
+  "arena": "Little Caesars Arena",
+  "city": "Detroit, Michigan",
+  "date": "2026-10-02T22:30:00Z"
+},
+
+{
+  "id": "nhl_2026100210",
+  "league": "NHL",
+  "team": "Carolina Hurricanes",
+  "opponent": "Washington Capitals",
+  "arena": "Lenovo Center",
+  "city": "Raleigh, North Carolina",
+  "date": "2026-10-02T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100311",
+  "league": "NHL",
+  "team": "Winnipeg Jets",
+  "opponent": "Boston Bruins",
+  "arena": "Canada Life Centre",
+  "city": "Winnipeg, Manitoba",
+  "date": "2026-10-03T00:00:00Z"
+},
+
+{
+  "id": "nhl_2026100312",
+  "league": "NHL",
+  "team": "Dallas Stars",
+  "opponent": "St. Louis Blues",
+  "arena": "American Airlines Center",
+  "city": "Dallas, Texas",
+  "date": "2026-10-03T01:00:00Z"
+},
+
+{
+  "id": "nhl_2026100313",
+  "league": "NHL",
+  "team": "Vegas Golden Knights",
+  "opponent": "Anaheim Ducks",
+  "arena": "T-Mobile Arena",
+  "city": "Paradise, Nevada",
+  "date": "2026-10-03T02:00:00Z"
+},
+
+{
+  "id": "nhl_2026100314",
+  "league": "NHL",
+  "team": "Buffalo Sabres",
+  "opponent": "Chicago Blackhawks",
+  "arena": "KeyBank Center",
+  "city": "Buffalo, New York",
+  "date": "2026-10-03T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100315",
+  "league": "NHL",
+  "team": "Toronto Maple Leafs",
+  "opponent": "Ottawa Senators",
+  "arena": "Scotiabank Arena",
+  "city": "Toronto, Ontario",
+  "date": "2026-10-03T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100316",
+  "league": "NHL",
+  "team": "Tampa Bay Lightning",
+  "opponent": "Washington Capitals",
+  "arena": "Benchmark International Arena",
+  "city": "Tampa, Florida",
+  "date": "2026-10-03T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100317",
+  "league": "NHL",
+  "team": "Philadelphia Flyers",
+  "opponent": "Carolina Hurricanes",
+  "arena": "Xfinity Mobile Arena",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2026-10-03T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100318",
+  "league": "NHL",
+  "team": "Pittsburgh Penguins",
+  "opponent": "Montreal Canadiens",
+  "arena": "PPG Paints Arena",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2026-10-03T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100319",
+  "league": "NHL",
+  "team": "Columbus Blue Jackets",
+  "opponent": "Utah Mammoth",
+  "arena": "Nationwide Arena",
+  "city": "Columbus, Ohio",
+  "date": "2026-10-03T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100320",
+  "league": "NHL",
+  "team": "Edmonton Oilers",
+  "opponent": "Seattle Kraken",
+  "arena": "Rogers Place",
+  "city": "Edmonton, Alberta",
+  "date": "2026-10-03T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100321",
+  "league": "NHL",
+  "team": "New York Islanders",
+  "opponent": "New Jersey Devils",
+  "arena": "UBS Arena",
+  "city": "Elmont, New York",
+  "date": "2026-10-03T23:30:00Z"
+},
+
+{
+  "id": "nhl_2026100422",
+  "league": "NHL",
+  "team": "Nashville Predators",
+  "opponent": "Dallas Stars",
+  "arena": "Bridgestone Arena",
+  "city": "Nashville, Tennessee",
+  "date": "2026-10-04T00:00:00Z"
+},
+
+{
+  "id": "nhl_2026100423",
+  "league": "NHL",
+  "team": "Minnesota Wild",
+  "opponent": "Boston Bruins",
+  "arena": "Grand Casino Arena",
+  "city": "Saint Paul, Minnesota",
+  "date": "2026-10-04T00:00:00Z"
+},
+
+{
+  "id": "nhl_2026100424",
+  "league": "NHL",
+  "team": "Colorado Avalanche",
+  "opponent": "St. Louis Blues",
+  "arena": "Ball Arena",
+  "city": "Denver, Colorado",
+  "date": "2026-10-04T01:00:00Z"
+},
+
+{
+  "id": "nhl_2026100425",
+  "league": "NHL",
+  "team": "Vancouver Canucks",
+  "opponent": "Calgary Flames",
+  "arena": "Rogers Arena",
+  "city": "Vancouver, British Columbia",
+  "date": "2026-10-04T02:00:00Z"
+},
+
+{
+  "id": "nhl_2026100426",
+  "league": "NHL",
+  "team": "San Jose Sharks",
+  "opponent": "Los Angeles Kings",
+  "arena": "SAP Center at San Jose",
+  "city": "San Jose, California",
+  "date": "2026-10-04T02:00:00Z"
+},
+
+{
+  "id": "nhl_2026100427",
+  "league": "NHL",
+  "team": "Detroit Red Wings",
+  "opponent": "Winnipeg Jets",
+  "arena": "Little Caesars Arena",
+  "city": "Detroit, Michigan",
+  "date": "2026-10-04T17:00:00Z"
+},
+
+{
+  "id": "nhl_2026100428",
+  "league": "NHL",
+  "team": "New York Rangers",
+  "opponent": "Utah Mammoth",
+  "arena": "Madison Square Garden",
+  "city": "New York, New York",
+  "date": "2026-10-04T22:00:00Z"
+},
+
+{
+  "id": "nhl_2026100529",
+  "league": "NHL",
+  "team": "Anaheim Ducks",
+  "opponent": "Florida Panthers",
+  "arena": "Honda Center",
+  "city": "Anaheim, California",
+  "date": "2026-10-05T00:00:00Z"
+},
+
+{
+  "id": "nhl_2026100530",
+  "league": "NHL",
+  "team": "Seattle Kraken",
+  "opponent": "Calgary Flames",
+  "arena": "Climate Pledge Arena",
+  "city": "Seattle, Washington",
+  "date": "2026-10-05T00:00:00Z"
+},
+
+{
+  "id": "nhl_2026100531",
+  "league": "NHL",
+  "team": "Vancouver Canucks",
+  "opponent": "Vegas Golden Knights",
+  "arena": "Rogers Arena",
+  "city": "Vancouver, British Columbia",
+  "date": "2026-10-05T01:00:00Z"
+},
+
+{
+  "id": "nhl_2026100532",
+  "league": "NHL",
+  "team": "Tampa Bay Lightning",
+  "opponent": "Philadelphia Flyers",
+  "arena": "Benchmark International Arena",
+  "city": "Tampa, Florida",
+  "date": "2026-10-05T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100533",
+  "league": "NHL",
+  "team": "Boston Bruins",
+  "opponent": "Ottawa Senators",
+  "arena": "TD Garden",
+  "city": "Boston, Massachusetts",
+  "date": "2026-10-05T23:30:00Z"
+},
+
+{
+  "id": "nhl_2026100534",
+  "league": "NHL",
+  "team": "Pittsburgh Penguins",
+  "opponent": "Winnipeg Jets",
+  "arena": "PPG Paints Arena",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2026-10-05T23:30:00Z"
+},
+
+{
+  "id": "nhl_2026100635",
+  "league": "NHL",
+  "team": "Dallas Stars",
+  "opponent": "San Jose Sharks",
+  "arena": "American Airlines Center",
+  "city": "Dallas, Texas",
+  "date": "2026-10-06T00:00:00Z"
+},
+
+{
+  "id": "nhl_2026100636",
+  "league": "NHL",
+  "team": "Toronto Maple Leafs",
+  "opponent": "Nashville Predators",
+  "arena": "Scotiabank Arena",
+  "city": "Toronto, Ontario",
+  "date": "2026-10-06T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100637",
+  "league": "NHL",
+  "team": "Montreal Canadiens",
+  "opponent": "Carolina Hurricanes",
+  "arena": "Centre Bell",
+  "city": "Montreal, Quebec",
+  "date": "2026-10-06T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100638",
+  "league": "NHL",
+  "team": "Detroit Red Wings",
+  "opponent": "Ottawa Senators",
+  "arena": "Little Caesars Arena",
+  "city": "Detroit, Michigan",
+  "date": "2026-10-06T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100639",
+  "league": "NHL",
+  "team": "New Jersey Devils",
+  "opponent": "Utah Mammoth",
+  "arena": "Prudential Center",
+  "city": "Newark, New Jersey",
+  "date": "2026-10-06T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100640",
+  "league": "NHL",
+  "team": "Buffalo Sabres",
+  "opponent": "Minnesota Wild",
+  "arena": "KeyBank Center",
+  "city": "Buffalo, New York",
+  "date": "2026-10-06T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100641",
+  "league": "NHL",
+  "team": "New York Rangers",
+  "opponent": "New York Islanders",
+  "arena": "Madison Square Garden",
+  "city": "New York, New York",
+  "date": "2026-10-06T23:30:00Z"
+},
+
+{
+  "id": "nhl_2026100742",
+  "league": "NHL",
+  "team": "Chicago Blackhawks",
+  "opponent": "St. Louis Blues",
+  "arena": "United Center",
+  "city": "Chicago, Illinois",
+  "date": "2026-10-07T00:00:00Z"
+},
+
+{
+  "id": "nhl_2026100743",
+  "league": "NHL",
+  "team": "Seattle Kraken",
+  "opponent": "Vegas Golden Knights",
+  "arena": "Climate Pledge Arena",
+  "city": "Seattle, Washington",
+  "date": "2026-10-07T01:40:00Z"
+},
+
+{
+  "id": "nhl_2026100744",
+  "league": "NHL",
+  "team": "Los Angeles Kings",
+  "opponent": "Florida Panthers",
+  "arena": "Crypto.com Arena",
+  "city": "Los Angeles, California",
+  "date": "2026-10-07T02:00:00Z"
+},
+
+{
+  "id": "nhl_2026100745",
+  "league": "NHL",
+  "team": "Washington Capitals",
+  "opponent": "Pittsburgh Penguins",
+  "arena": "Capital One Arena",
+  "city": "Washington, D.C",
+  "date": "2026-10-07T23:30:00Z"
+},
+
+{
+  "id": "nhl_2026100746",
+  "league": "NHL",
+  "team": "Winnipeg Jets",
+  "opponent": "Colorado Avalanche",
+  "arena": "Canada Life Centre",
+  "city": "Winnipeg, Manitoba",
+  "date": "2026-10-07T23:30:00Z"
+},
+
+{
+  "id": "nhl_2026100847",
+  "league": "NHL",
+  "team": "Anaheim Ducks",
+  "opponent": "Edmonton Oilers",
+  "arena": "Honda Center",
+  "city": "Anaheim, California",
+  "date": "2026-10-08T02:00:00Z"
+},
+
+{
+  "id": "nhl_2026100848",
+  "league": "NHL",
+  "team": "Boston Bruins",
+  "opponent": "Utah Mammoth",
+  "arena": "TD Garden",
+  "city": "Boston, Massachusetts",
+  "date": "2026-10-08T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100849",
+  "league": "NHL",
+  "team": "Buffalo Sabres",
+  "opponent": "Dallas Stars",
+  "arena": "KeyBank Center",
+  "city": "Buffalo, New York",
+  "date": "2026-10-08T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100850",
+  "league": "NHL",
+  "team": "Montreal Canadiens",
+  "opponent": "Nashville Predators",
+  "arena": "Centre Bell",
+  "city": "Montreal, Quebec",
+  "date": "2026-10-08T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100851",
+  "league": "NHL",
+  "team": "Ottawa Senators",
+  "opponent": "Philadelphia Flyers",
+  "arena": "Canadian Tire Centre",
+  "city": "Ottawa, Ontario",
+  "date": "2026-10-08T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100852",
+  "league": "NHL",
+  "team": "Tampa Bay Lightning",
+  "opponent": "Minnesota Wild",
+  "arena": "Benchmark International Arena",
+  "city": "Tampa, Florida",
+  "date": "2026-10-08T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100853",
+  "league": "NHL",
+  "team": "Carolina Hurricanes",
+  "opponent": "Vancouver Canucks",
+  "arena": "Lenovo Center",
+  "city": "Raleigh, North Carolina",
+  "date": "2026-10-08T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100854",
+  "league": "NHL",
+  "team": "New York Islanders",
+  "opponent": "Chicago Blackhawks",
+  "arena": "UBS Arena",
+  "city": "Elmont, New York",
+  "date": "2026-10-08T23:30:00Z"
+},
+
+{
+  "id": "nhl_2026100955",
+  "league": "NHL",
+  "team": "St. Louis Blues",
+  "opponent": "San Jose Sharks",
+  "arena": "Enterprise Center",
+  "city": "St. Louis, Missouri",
+  "date": "2026-10-09T00:00:00Z"
+},
+
+{
+  "id": "nhl_2026100956",
+  "league": "NHL",
+  "team": "Calgary Flames",
+  "opponent": "Colorado Avalanche",
+  "arena": "Scotiabank Saddledome",
+  "city": "Calgary, Alberta",
+  "date": "2026-10-09T01:00:00Z"
+},
+
+{
+  "id": "nhl_2026100957",
+  "league": "NHL",
+  "team": "Vegas Golden Knights",
+  "opponent": "Toronto Maple Leafs",
+  "arena": "T-Mobile Arena",
+  "city": "Paradise, Nevada",
+  "date": "2026-10-09T02:00:00Z"
+},
+
+{
+  "id": "nhl_2026100958",
+  "league": "NHL",
+  "team": "Detroit Red Wings",
+  "opponent": "Seattle Kraken",
+  "arena": "Little Caesars Arena",
+  "city": "Detroit, Michigan",
+  "date": "2026-10-09T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100959",
+  "league": "NHL",
+  "team": "Washington Capitals",
+  "opponent": "New York Rangers",
+  "arena": "Capital One Arena",
+  "city": "Washington, D.C",
+  "date": "2026-10-09T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026100960",
+  "league": "NHL",
+  "team": "Columbus Blue Jackets",
+  "opponent": "Pittsburgh Penguins",
+  "arena": "Nationwide Arena",
+  "city": "Columbus, Ohio",
+  "date": "2026-10-09T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026101061",
+  "league": "NHL",
+  "team": "Winnipeg Jets",
+  "opponent": "Anaheim Ducks",
+  "arena": "Canada Life Centre",
+  "city": "Winnipeg, Manitoba",
+  "date": "2026-10-10T00:00:00Z"
+},
+
+{
+  "id": "nhl_2026101062",
+  "league": "NHL",
+  "team": "Boston Bruins",
+  "opponent": "Philadelphia Flyers",
+  "arena": "TD Garden",
+  "city": "Boston, Massachusetts",
+  "date": "2026-10-10T17:00:00Z"
+},
+
+{
+  "id": "nhl_2026101063",
+  "league": "NHL",
+  "team": "New Jersey Devils",
+  "opponent": "Vancouver Canucks",
+  "arena": "Prudential Center",
+  "city": "Newark, New Jersey",
+  "date": "2026-10-10T19:30:00Z"
+},
+
+{
+  "id": "nhl_2026101064",
+  "league": "NHL",
+  "team": "San Jose Sharks",
+  "opponent": "Edmonton Oilers",
+  "arena": "SAP Center at San Jose",
+  "city": "San Jose, California",
+  "date": "2026-10-10T20:00:00Z"
+},
+
+{
+  "id": "nhl_2026101065",
+  "league": "NHL",
+  "team": "Florida Panthers",
+  "opponent": "Minnesota Wild",
+  "arena": "Amerant Bank Arena",
+  "city": "Sunrise, Florida",
+  "date": "2026-10-10T22:00:00Z"
+},
+
+{
+  "id": "nhl_2026101066",
+  "league": "NHL",
+  "team": "Buffalo Sabres",
+  "opponent": "Utah Mammoth",
+  "arena": "KeyBank Center",
+  "city": "Buffalo, New York",
+  "date": "2026-10-10T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026101067",
+  "league": "NHL",
+  "team": "Montreal Canadiens",
+  "opponent": "Detroit Red Wings",
+  "arena": "Centre Bell",
+  "city": "Montreal, Quebec",
+  "date": "2026-10-10T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026101068",
+  "league": "NHL",
+  "team": "Ottawa Senators",
+  "opponent": "Nashville Predators",
+  "arena": "Canadian Tire Centre",
+  "city": "Ottawa, Ontario",
+  "date": "2026-10-10T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026101069",
+  "league": "NHL",
+  "team": "Pittsburgh Penguins",
+  "opponent": "Dallas Stars",
+  "arena": "PPG Paints Arena",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2026-10-10T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026101070",
+  "league": "NHL",
+  "team": "Chicago Blackhawks",
+  "opponent": "Carolina Hurricanes",
+  "arena": "United Center",
+  "city": "Chicago, Illinois",
+  "date": "2026-10-10T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026101071",
+  "league": "NHL",
+  "team": "St. Louis Blues",
+  "opponent": "Columbus Blue Jackets",
+  "arena": "Enterprise Center",
+  "city": "St. Louis, Missouri",
+  "date": "2026-10-10T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026101072",
+  "league": "NHL",
+  "team": "Colorado Avalanche",
+  "opponent": "Toronto Maple Leafs",
+  "arena": "Ball Arena",
+  "city": "Denver, Colorado",
+  "date": "2026-10-10T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026101073",
+  "league": "NHL",
+  "team": "New York Islanders",
+  "opponent": "Tampa Bay Lightning",
+  "arena": "UBS Arena",
+  "city": "Elmont, New York",
+  "date": "2026-10-10T23:30:00Z"
+},
+
+{
+  "id": "nhl_2026101174",
+  "league": "NHL",
+  "team": "Calgary Flames",
+  "opponent": "Anaheim Ducks",
+  "arena": "Scotiabank Saddledome",
+  "city": "Calgary, Alberta",
+  "date": "2026-10-11T02:00:00Z"
+},
+
+{
+  "id": "nhl_2026101175",
+  "league": "NHL",
+  "team": "Vegas Golden Knights",
+  "opponent": "Los Angeles Kings",
+  "arena": "T-Mobile Arena",
+  "city": "Paradise, Nevada",
+  "date": "2026-10-11T02:00:00Z"
+},
+
+{
+  "id": "nhl_2026101176",
+  "league": "NHL",
+  "team": "Washington Capitals",
+  "opponent": "Seattle Kraken",
+  "arena": "Capital One Arena",
+  "city": "Washington, D.C",
+  "date": "2026-10-11T21:00:00Z"
+},
+
+{
+  "id": "nhl_2026101177",
+  "league": "NHL",
+  "team": "New York Rangers",
+  "opponent": "Vancouver Canucks",
+  "arena": "Madison Square Garden",
+  "city": "New York, New York",
+  "date": "2026-10-11T22:00:00Z"
+},
+
+{
+  "id": "nhl_2026101178",
+  "league": "NHL",
+  "team": "Philadelphia Flyers",
+  "opponent": "Carolina Hurricanes",
+  "arena": "Xfinity Mobile Arena",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2026-10-11T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026101279",
+  "league": "NHL",
+  "team": "Buffalo Sabres",
+  "opponent": "Florida Panthers",
+  "arena": "KeyBank Center",
+  "city": "Buffalo, New York",
+  "date": "2026-10-12T17:00:00Z"
+},
+
+{
+  "id": "nhl_2026101280",
+  "league": "NHL",
+  "team": "New Jersey Devils",
+  "opponent": "Ottawa Senators",
+  "arena": "Prudential Center",
+  "city": "Newark, New Jersey",
+  "date": "2026-10-12T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026101381",
+  "league": "NHL",
+  "team": "Minnesota Wild",
+  "opponent": "Vegas Golden Knights",
+  "arena": "Grand Casino Arena",
+  "city": "Saint Paul, Minnesota",
+  "date": "2026-10-13T00:00:00Z"
+},
+
+{
+  "id": "nhl_2026101382",
+  "league": "NHL",
+  "team": "Detroit Red Wings",
+  "opponent": "New Jersey Devils",
+  "arena": "Little Caesars Arena",
+  "city": "Detroit, Michigan",
+  "date": "2026-10-13T22:00:00Z"
+},
+
+{
+  "id": "nhl_2026101383",
+  "league": "NHL",
+  "team": "Columbus Blue Jackets",
+  "opponent": "Florida Panthers",
+  "arena": "Nationwide Arena",
+  "city": "Columbus, Ohio",
+  "date": "2026-10-13T22:15:00Z"
+},
+
+{
+  "id": "nhl_2026101384",
+  "league": "NHL",
+  "team": "Montreal Canadiens",
+  "opponent": "Buffalo Sabres",
+  "arena": "Centre Bell",
+  "city": "Montreal, Quebec",
+  "date": "2026-10-13T22:30:00Z"
+},
+
+{
+  "id": "nhl_2026101385",
+  "league": "NHL",
+  "team": "Carolina Hurricanes",
+  "opponent": "Washington Capitals",
+  "arena": "Lenovo Center",
+  "city": "Raleigh, North Carolina",
+  "date": "2026-10-13T22:45:00Z"
+},
+
+{
+  "id": "nhl_2026101386",
+  "league": "NHL",
+  "team": "Philadelphia Flyers",
+  "opponent": "Seattle Kraken",
+  "arena": "Xfinity Mobile Arena",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2026-10-13T23:00:00Z"
+},
+
+{
+  "id": "nhl_2026101387",
+  "league": "NHL",
+  "team": "New York Rangers",
+  "opponent": "Tampa Bay Lightning",
+  "arena": "Madison Square Garden",
+  "city": "New York, New York",
+  "date": "2026-10-13T23:15:00Z"
+},
+
+{
+  "id": "nhl_2026101388",
+  "league": "NHL",
+  "team": "Ottawa Senators",
+  "opponent": "St. Louis Blues",
+  "arena": "Canadian Tire Centre",
+  "city": "Ottawa, Ontario",
+  "date": "2026-10-13T23:30:00Z"
+},
+
+{
+  "id": "nhl_2026101389",
+  "league": "NHL",
+  "team": "New York Islanders",
+  "opponent": "Vancouver Canucks",
+  "arena": "UBS Arena",
+  "city": "Elmont, New York",
+  "date": "2026-10-13T23:45:00Z"
+},
+
+{
+  "id": "nhl_2026101490",
+  "league": "NHL",
+  "team": "Chicago Blackhawks",
+  "opponent": "Pittsburgh Penguins",
+  "arena": "United Center",
+  "city": "Chicago, Illinois",
+  "date": "2026-10-14T00:00:00Z"
+},
+
+{
+  "id": "nhl_2026101491",
+  "league": "NHL",
+  "team": "Winnipeg Jets",
+  "opponent": "Minnesota Wild",
+  "arena": "Canada Life Centre",
+  "city": "Winnipeg, Manitoba",
+  "date": "2026-10-14T00:15:00Z"
+},
+
+{
+  "id": "nhl_2026101492",
+  "league": "NHL",
+  "team": "Dallas Stars",
+  "opponent": "Colorado Avalanche",
+  "arena": "American Airlines Center",
+  "city": "Dallas, Texas",
+  "date": "2026-10-14T00:30:00Z"
+},
+
+{
+  "id": "nhl_2026101493",
+  "league": "NHL",
+  "team": "Nashville Predators",
+  "opponent": "Vegas Golden Knights",
+  "arena": "Bridgestone Arena",
+  "city": "Nashville, Tennessee",
+  "date": "2026-10-14T00:45:00Z"
+},
+
+{
+  "id": "nhl_2026101494",
+  "league": "NHL",
+  "team": "Utah Mammoth",
+  "opponent": "Toronto Maple Leafs",
+  "arena": "Delta Center",
+  "city": "Salt Lake City, Utah",
+  "date": "2026-10-14T01:00:00Z"
+},
+
+{
+  "id": "nhl_2026101495",
+  "league": "NHL",
+  "team": "Anaheim Ducks",
+  "opponent": "Calgary Flames",
+  "arena": "Honda Center",
+  "city": "Anaheim, California",
+  "date": "2026-10-14T01:45:00Z"
+},
+
+{
+  "id": "nhl_2026101496",
+  "league": "NHL",
+  "team": "Los Angeles Kings",
+  "opponent": "Edmonton Oilers",
+  "arena": "Crypto.com Arena",
+  "city": "Los Angeles, California",
+  "date": "2026-10-14T02:30:00Z"
+},
+
+{
+  "id": "nhl_2026101497",
+  "league": "NHL",
+  "team": "San Jose Sharks",
+  "opponent": "Boston Bruins",
+  "arena": "SAP Center at San Jose",
+  "city": "San Jose, California",
+  "date": "2026-10-14T03:00:00Z"
+},
+
+{
+  "id": "nhl_2026101498",
+  "league": "NHL",
+  "team": "Washington Capitals",
+  "opponent": "Montreal Canadiens",
+  "arena": "Capital One Arena",
+  "city": "Washington, D.C",
+  "date": "2026-10-14T23:30:00Z"
+},
+
+{
+  "id": "nhl_2026101599",
+  "league": "NHL",
+  "team": "Colorado Avalanche",
+  "opponent": "Dallas Stars",
+  "arena": "Ball Arena",
+  "city": "Denver, Colorado",
+  "date": "2026-10-15T00:30:00Z"
+},
+
+{
+  "id": "nhl_20261015100",
+  "league": "NHL",
+  "team": "Toronto Maple Leafs",
+  "opponent": "Buffalo Sabres",
+  "arena": "Scotiabank Arena",
+  "city": "Toronto, Ontario",
+  "date": "2026-10-15T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261015101",
+  "league": "NHL",
+  "team": "Ottawa Senators",
+  "opponent": "New York Islanders",
+  "arena": "Canadian Tire Centre",
+  "city": "Ottawa, Ontario",
+  "date": "2026-10-15T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261015102",
+  "league": "NHL",
+  "team": "Tampa Bay Lightning",
+  "opponent": "Seattle Kraken",
+  "arena": "Benchmark International Arena",
+  "city": "Tampa, Florida",
+  "date": "2026-10-15T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261015103",
+  "league": "NHL",
+  "team": "Florida Panthers",
+  "opponent": "Vancouver Canucks",
+  "arena": "Amerant Bank Arena",
+  "city": "Sunrise, Florida",
+  "date": "2026-10-15T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261015104",
+  "league": "NHL",
+  "team": "New Jersey Devils",
+  "opponent": "New York Rangers",
+  "arena": "Prudential Center",
+  "city": "Newark, New Jersey",
+  "date": "2026-10-15T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261015105",
+  "league": "NHL",
+  "team": "Detroit Red Wings",
+  "opponent": "Philadelphia Flyers",
+  "arena": "Little Caesars Arena",
+  "city": "Detroit, Michigan",
+  "date": "2026-10-15T23:30:00Z"
+},
+
+{
+  "id": "nhl_20261016106",
+  "league": "NHL",
+  "team": "Chicago Blackhawks",
+  "opponent": "Winnipeg Jets",
+  "arena": "United Center",
+  "city": "Chicago, Illinois",
+  "date": "2026-10-16T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261016107",
+  "league": "NHL",
+  "team": "Nashville Predators",
+  "opponent": "San Jose Sharks",
+  "arena": "Bridgestone Arena",
+  "city": "Nashville, Tennessee",
+  "date": "2026-10-16T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261016108",
+  "league": "NHL",
+  "team": "Minnesota Wild",
+  "opponent": "St. Louis Blues",
+  "arena": "Grand Casino Arena",
+  "city": "Saint Paul, Minnesota",
+  "date": "2026-10-16T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261016109",
+  "league": "NHL",
+  "team": "Edmonton Oilers",
+  "opponent": "Utah Mammoth",
+  "arena": "Rogers Place",
+  "city": "Edmonton, Alberta",
+  "date": "2026-10-16T01:00:00Z"
+},
+
+{
+  "id": "nhl_20261016110",
+  "league": "NHL",
+  "team": "Vegas Golden Knights",
+  "opponent": "Calgary Flames",
+  "arena": "T-Mobile Arena",
+  "city": "Paradise, Nevada",
+  "date": "2026-10-16T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261017111",
+  "league": "NHL",
+  "team": "Colorado Avalanche",
+  "opponent": "Pittsburgh Penguins",
+  "arena": "Ball Arena",
+  "city": "Denver, Colorado",
+  "date": "2026-10-17T01:00:00Z"
+},
+
+{
+  "id": "nhl_20261017112",
+  "league": "NHL",
+  "team": "Anaheim Ducks",
+  "opponent": "Boston Bruins",
+  "arena": "Honda Center",
+  "city": "Anaheim, California",
+  "date": "2026-10-17T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261017113",
+  "league": "NHL",
+  "team": "Washington Capitals",
+  "opponent": "New Jersey Devils",
+  "arena": "Capital One Arena",
+  "city": "Washington, D.C",
+  "date": "2026-10-17T17:00:00Z"
+},
+
+{
+  "id": "nhl_20261017114",
+  "league": "NHL",
+  "team": "Winnipeg Jets",
+  "opponent": "Carolina Hurricanes",
+  "arena": "Canada Life Centre",
+  "city": "Winnipeg, Manitoba",
+  "date": "2026-10-17T19:30:00Z"
+},
+
+{
+  "id": "nhl_20261017115",
+  "league": "NHL",
+  "team": "Tampa Bay Lightning",
+  "opponent": "Vancouver Canucks",
+  "arena": "Benchmark International Arena",
+  "city": "Tampa, Florida",
+  "date": "2026-10-17T20:00:00Z"
+},
+
+{
+  "id": "nhl_20261017116",
+  "league": "NHL",
+  "team": "Florida Panthers",
+  "opponent": "Seattle Kraken",
+  "arena": "Amerant Bank Arena",
+  "city": "Sunrise, Florida",
+  "date": "2026-10-17T22:00:00Z"
+},
+
+{
+  "id": "nhl_20261017117",
+  "league": "NHL",
+  "team": "Toronto Maple Leafs",
+  "opponent": "New York Islanders",
+  "arena": "Scotiabank Arena",
+  "city": "Toronto, Ontario",
+  "date": "2026-10-17T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261017118",
+  "league": "NHL",
+  "team": "Montreal Canadiens",
+  "opponent": "Buffalo Sabres",
+  "arena": "Centre Bell",
+  "city": "Montreal, Quebec",
+  "date": "2026-10-17T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261017119",
+  "league": "NHL",
+  "team": "Detroit Red Wings",
+  "opponent": "San Jose Sharks",
+  "arena": "Little Caesars Arena",
+  "city": "Detroit, Michigan",
+  "date": "2026-10-17T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261017120",
+  "league": "NHL",
+  "team": "Philadelphia Flyers",
+  "opponent": "Ottawa Senators",
+  "arena": "Xfinity Mobile Arena",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2026-10-17T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261017121",
+  "league": "NHL",
+  "team": "Columbus Blue Jackets",
+  "opponent": "New York Rangers",
+  "arena": "Nationwide Arena",
+  "city": "Columbus, Ohio",
+  "date": "2026-10-17T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261017122",
+  "league": "NHL",
+  "team": "Chicago Blackhawks",
+  "opponent": "Dallas Stars",
+  "arena": "United Center",
+  "city": "Chicago, Illinois",
+  "date": "2026-10-17T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261018123",
+  "league": "NHL",
+  "team": "Nashville Predators",
+  "opponent": "St. Louis Blues",
+  "arena": "Bridgestone Arena",
+  "city": "Nashville, Tennessee",
+  "date": "2026-10-18T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261018124",
+  "league": "NHL",
+  "team": "Los Angeles Kings",
+  "opponent": "Boston Bruins",
+  "arena": "Crypto.com Arena",
+  "city": "Los Angeles, California",
+  "date": "2026-10-18T01:00:00Z"
+},
+
+{
+  "id": "nhl_20261018125",
+  "league": "NHL",
+  "team": "Utah Mammoth",
+  "opponent": "Edmonton Oilers",
+  "arena": "Delta Center",
+  "city": "Salt Lake City, Utah",
+  "date": "2026-10-18T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261018126",
+  "league": "NHL",
+  "team": "Vegas Golden Knights",
+  "opponent": "Pittsburgh Penguins",
+  "arena": "T-Mobile Arena",
+  "city": "Paradise, Nevada",
+  "date": "2026-10-18T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261018127",
+  "league": "NHL",
+  "team": "Minnesota Wild",
+  "opponent": "Columbus Blue Jackets",
+  "arena": "Grand Casino Arena",
+  "city": "Saint Paul, Minnesota",
+  "date": "2026-10-18T22:00:00Z"
+},
+
+{
+  "id": "nhl_20261019128",
+  "league": "NHL",
+  "team": "Calgary Flames",
+  "opponent": "Carolina Hurricanes",
+  "arena": "Scotiabank Saddledome",
+  "city": "Calgary, Alberta",
+  "date": "2026-10-19T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261019129",
+  "league": "NHL",
+  "team": "New York Rangers",
+  "opponent": "Anaheim Ducks",
+  "arena": "Madison Square Garden",
+  "city": "New York, New York",
+  "date": "2026-10-19T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261019130",
+  "league": "NHL",
+  "team": "Philadelphia Flyers",
+  "opponent": "Colorado Avalanche",
+  "arena": "Xfinity Mobile Arena",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2026-10-19T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261019131",
+  "league": "NHL",
+  "team": "Toronto Maple Leafs",
+  "opponent": "San Jose Sharks",
+  "arena": "Scotiabank Arena",
+  "city": "Toronto, Ontario",
+  "date": "2026-10-19T23:30:00Z"
+},
+
+{
+  "id": "nhl_20261020132",
+  "league": "NHL",
+  "team": "Utah Mammoth",
+  "opponent": "Pittsburgh Penguins",
+  "arena": "Delta Center",
+  "city": "Salt Lake City, Utah",
+  "date": "2026-10-20T01:00:00Z"
+},
+
+{
+  "id": "nhl_20261020133",
+  "league": "NHL",
+  "team": "Montreal Canadiens",
+  "opponent": "San Jose Sharks",
+  "arena": "Centre Bell",
+  "city": "Montreal, Quebec",
+  "date": "2026-10-20T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261020134",
+  "league": "NHL",
+  "team": "New Jersey Devils",
+  "opponent": "Colorado Avalanche",
+  "arena": "Prudential Center",
+  "city": "Newark, New Jersey",
+  "date": "2026-10-20T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261020135",
+  "league": "NHL",
+  "team": "New York Islanders",
+  "opponent": "Anaheim Ducks",
+  "arena": "UBS Arena",
+  "city": "Elmont, New York",
+  "date": "2026-10-20T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261020136",
+  "league": "NHL",
+  "team": "Washington Capitals",
+  "opponent": "Los Angeles Kings",
+  "arena": "Capital One Arena",
+  "city": "Washington, D.C",
+  "date": "2026-10-20T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261020137",
+  "league": "NHL",
+  "team": "Columbus Blue Jackets",
+  "opponent": "Toronto Maple Leafs",
+  "arena": "Nationwide Arena",
+  "city": "Columbus, Ohio",
+  "date": "2026-10-20T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261021138",
+  "league": "NHL",
+  "team": "St. Louis Blues",
+  "opponent": "Winnipeg Jets",
+  "arena": "Enterprise Center",
+  "city": "St. Louis, Missouri",
+  "date": "2026-10-21T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261021139",
+  "league": "NHL",
+  "team": "Dallas Stars",
+  "opponent": "Boston Bruins",
+  "arena": "American Airlines Center",
+  "city": "Dallas, Texas",
+  "date": "2026-10-21T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261021140",
+  "league": "NHL",
+  "team": "Edmonton Oilers",
+  "opponent": "Minnesota Wild",
+  "arena": "Rogers Place",
+  "city": "Edmonton, Alberta",
+  "date": "2026-10-21T01:00:00Z"
+},
+
+{
+  "id": "nhl_20261021141",
+  "league": "NHL",
+  "team": "Seattle Kraken",
+  "opponent": "Detroit Red Wings",
+  "arena": "Climate Pledge Arena",
+  "city": "Seattle, Washington",
+  "date": "2026-10-21T01:40:00Z"
+},
+
+{
+  "id": "nhl_20261021142",
+  "league": "NHL",
+  "team": "Vancouver Canucks",
+  "opponent": "Carolina Hurricanes",
+  "arena": "Rogers Arena",
+  "city": "Vancouver, British Columbia",
+  "date": "2026-10-21T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261021143",
+  "league": "NHL",
+  "team": "Vegas Golden Knights",
+  "opponent": "Tampa Bay Lightning",
+  "arena": "T-Mobile Arena",
+  "city": "Paradise, Nevada",
+  "date": "2026-10-21T02:30:00Z"
+},
+
+{
+  "id": "nhl_20261021144",
+  "league": "NHL",
+  "team": "Buffalo Sabres",
+  "opponent": "Philadelphia Flyers",
+  "arena": "KeyBank Center",
+  "city": "Buffalo, New York",
+  "date": "2026-10-21T23:30:00Z"
+},
+
+{
+  "id": "nhl_20261021145",
+  "league": "NHL",
+  "team": "Ottawa Senators",
+  "opponent": "Florida Panthers",
+  "arena": "Canadian Tire Centre",
+  "city": "Ottawa, Ontario",
+  "date": "2026-10-21T23:30:00Z"
+},
+
+{
+  "id": "nhl_20261022146",
+  "league": "NHL",
+  "team": "Boston Bruins",
+  "opponent": "Nashville Predators",
+  "arena": "TD Garden",
+  "city": "Boston, Massachusetts",
+  "date": "2026-10-22T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261022147",
+  "league": "NHL",
+  "team": "Toronto Maple Leafs",
+  "opponent": "New York Rangers",
+  "arena": "Scotiabank Arena",
+  "city": "Toronto, Ontario",
+  "date": "2026-10-22T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261022148",
+  "league": "NHL",
+  "team": "Ottawa Senators",
+  "opponent": "San Jose Sharks",
+  "arena": "Canadian Tire Centre",
+  "city": "Ottawa, Ontario",
+  "date": "2026-10-22T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261022149",
+  "league": "NHL",
+  "team": "New Jersey Devils",
+  "opponent": "Anaheim Ducks",
+  "arena": "Prudential Center",
+  "city": "Newark, New Jersey",
+  "date": "2026-10-22T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261022150",
+  "league": "NHL",
+  "team": "Pittsburgh Penguins",
+  "opponent": "Florida Panthers",
+  "arena": "PPG Paints Arena",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2026-10-22T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261022151",
+  "league": "NHL",
+  "team": "New York Islanders",
+  "opponent": "Los Angeles Kings",
+  "arena": "UBS Arena",
+  "city": "Elmont, New York",
+  "date": "2026-10-22T23:30:00Z"
+},
+
+{
+  "id": "nhl_20261023152",
+  "league": "NHL",
+  "team": "St. Louis Blues",
+  "opponent": "Vegas Golden Knights",
+  "arena": "Enterprise Center",
+  "city": "St. Louis, Missouri",
+  "date": "2026-10-23T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261023153",
+  "league": "NHL",
+  "team": "Dallas Stars",
+  "opponent": "Winnipeg Jets",
+  "arena": "American Airlines Center",
+  "city": "Dallas, Texas",
+  "date": "2026-10-23T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261023154",
+  "league": "NHL",
+  "team": "Calgary Flames",
+  "opponent": "Minnesota Wild",
+  "arena": "Scotiabank Saddledome",
+  "city": "Calgary, Alberta",
+  "date": "2026-10-23T01:00:00Z"
+},
+
+{
+  "id": "nhl_20261023155",
+  "league": "NHL",
+  "team": "Edmonton Oilers",
+  "opponent": "Carolina Hurricanes",
+  "arena": "Rogers Place",
+  "city": "Edmonton, Alberta",
+  "date": "2026-10-23T01:00:00Z"
+},
+
+{
+  "id": "nhl_20261023156",
+  "league": "NHL",
+  "team": "Seattle Kraken",
+  "opponent": "Utah Mammoth",
+  "arena": "Climate Pledge Arena",
+  "city": "Seattle, Washington",
+  "date": "2026-10-23T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261023157",
+  "league": "NHL",
+  "team": "Vancouver Canucks",
+  "opponent": "Detroit Red Wings",
+  "arena": "Rogers Arena",
+  "city": "Vancouver, British Columbia",
+  "date": "2026-10-23T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261024158",
+  "league": "NHL",
+  "team": "Chicago Blackhawks",
+  "opponent": "Montreal Canadiens",
+  "arena": "United Center",
+  "city": "Chicago, Illinois",
+  "date": "2026-10-24T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261024159",
+  "league": "NHL",
+  "team": "Colorado Avalanche",
+  "opponent": "Tampa Bay Lightning",
+  "arena": "Ball Arena",
+  "city": "Denver, Colorado",
+  "date": "2026-10-24T01:00:00Z"
+},
+
+{
+  "id": "nhl_20261024160",
+  "league": "NHL",
+  "team": "Philadelphia Flyers",
+  "opponent": "Anaheim Ducks",
+  "arena": "Xfinity Mobile Arena",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2026-10-24T17:00:00Z"
+},
+
+{
+  "id": "nhl_20261024161",
+  "league": "NHL",
+  "team": "New Jersey Devils",
+  "opponent": "Los Angeles Kings",
+  "arena": "Prudential Center",
+  "city": "Newark, New Jersey",
+  "date": "2026-10-24T19:30:00Z"
+},
+
+{
+  "id": "nhl_20261024162",
+  "league": "NHL",
+  "team": "Boston Bruins",
+  "opponent": "San Jose Sharks",
+  "arena": "TD Garden",
+  "city": "Boston, Massachusetts",
+  "date": "2026-10-24T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261024163",
+  "league": "NHL",
+  "team": "Ottawa Senators",
+  "opponent": "New York Rangers",
+  "arena": "Canadian Tire Centre",
+  "city": "Ottawa, Ontario",
+  "date": "2026-10-24T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261024164",
+  "league": "NHL",
+  "team": "Pittsburgh Penguins",
+  "opponent": "Nashville Predators",
+  "arena": "PPG Paints Arena",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2026-10-24T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261024165",
+  "league": "NHL",
+  "team": "Washington Capitals",
+  "opponent": "Buffalo Sabres",
+  "arena": "Capital One Arena",
+  "city": "Washington, D.C",
+  "date": "2026-10-24T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261024166",
+  "league": "NHL",
+  "team": "Columbus Blue Jackets",
+  "opponent": "Vegas Golden Knights",
+  "arena": "Nationwide Arena",
+  "city": "Columbus, Ohio",
+  "date": "2026-10-24T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261024167",
+  "league": "NHL",
+  "team": "St. Louis Blues",
+  "opponent": "Carolina Hurricanes",
+  "arena": "Enterprise Center",
+  "city": "St. Louis, Missouri",
+  "date": "2026-10-24T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261024168",
+  "league": "NHL",
+  "team": "Edmonton Oilers",
+  "opponent": "Toronto Maple Leafs",
+  "arena": "Rogers Place",
+  "city": "Edmonton, Alberta",
+  "date": "2026-10-24T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261025169",
+  "league": "NHL",
+  "team": "Utah Mammoth",
+  "opponent": "Tampa Bay Lightning",
+  "arena": "Delta Center",
+  "city": "Salt Lake City, Utah",
+  "date": "2026-10-25T01:00:00Z"
+},
+
+{
+  "id": "nhl_20261025170",
+  "league": "NHL",
+  "team": "Calgary Flames",
+  "opponent": "Detroit Red Wings",
+  "arena": "Scotiabank Saddledome",
+  "city": "Calgary, Alberta",
+  "date": "2026-10-25T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261025171",
+  "league": "NHL",
+  "team": "Seattle Kraken",
+  "opponent": "Minnesota Wild",
+  "arena": "Climate Pledge Arena",
+  "city": "Seattle, Washington",
+  "date": "2026-10-25T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261025172",
+  "league": "NHL",
+  "team": "Chicago Blackhawks",
+  "opponent": "Florida Panthers",
+  "arena": "United Center",
+  "city": "Chicago, Illinois",
+  "date": "2026-10-25T19:00:00Z"
+},
+
+{
+  "id": "nhl_20261025173",
+  "league": "NHL",
+  "team": "Dallas Stars",
+  "opponent": "New York Islanders",
+  "arena": "American Airlines Center",
+  "city": "Dallas, Texas",
+  "date": "2026-10-25T22:00:00Z"
+},
+
+{
+  "id": "nhl_20261026174",
+  "league": "NHL",
+  "team": "Nashville Predators",
+  "opponent": "Colorado Avalanche",
+  "arena": "Bridgestone Arena",
+  "city": "Nashville, Tennessee",
+  "date": "2026-10-26T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261026175",
+  "league": "NHL",
+  "team": "Vancouver Canucks",
+  "opponent": "Minnesota Wild",
+  "arena": "Rogers Arena",
+  "city": "Vancouver, British Columbia",
+  "date": "2026-10-26T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261026176",
+  "league": "NHL",
+  "team": "New York Rangers",
+  "opponent": "Los Angeles Kings",
+  "arena": "Madison Square Garden",
+  "city": "New York, New York",
+  "date": "2026-10-26T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261027177",
+  "league": "NHL",
+  "team": "Calgary Flames",
+  "opponent": "Toronto Maple Leafs",
+  "arena": "Scotiabank Saddledome",
+  "city": "Calgary, Alberta",
+  "date": "2026-10-27T00:30:00Z"
+},
+
+{
+  "id": "nhl_20261027178",
+  "league": "NHL",
+  "team": "Edmonton Oilers",
+  "opponent": "Detroit Red Wings",
+  "arena": "Rogers Place",
+  "city": "Edmonton, Alberta",
+  "date": "2026-10-27T01:30:00Z"
+},
+
+{
+  "id": "nhl_20261027179",
+  "league": "NHL",
+  "team": "Philadelphia Flyers",
+  "opponent": "Columbus Blue Jackets",
+  "arena": "Xfinity Mobile Arena",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2026-10-27T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261028180",
+  "league": "NHL",
+  "team": "Carolina Hurricanes",
+  "opponent": "Boston Bruins",
+  "arena": "Lenovo Center",
+  "city": "Raleigh, North Carolina",
+  "date": "2026-10-28T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261028181",
+  "league": "NHL",
+  "team": "Chicago Blackhawks",
+  "opponent": "Los Angeles Kings",
+  "arena": "United Center",
+  "city": "Chicago, Illinois",
+  "date": "2026-10-28T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261028182",
+  "league": "NHL",
+  "team": "St. Louis Blues",
+  "opponent": "Montreal Canadiens",
+  "arena": "Enterprise Center",
+  "city": "St. Louis, Missouri",
+  "date": "2026-10-28T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261028183",
+  "league": "NHL",
+  "team": "Nashville Predators",
+  "opponent": "New York Islanders",
+  "arena": "Bridgestone Arena",
+  "city": "Nashville, Tennessee",
+  "date": "2026-10-28T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261028184",
+  "league": "NHL",
+  "team": "Dallas Stars",
+  "opponent": "New Jersey Devils",
+  "arena": "American Airlines Center",
+  "city": "Dallas, Texas",
+  "date": "2026-10-28T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261028185",
+  "league": "NHL",
+  "team": "Winnipeg Jets",
+  "opponent": "Florida Panthers",
+  "arena": "Canada Life Centre",
+  "city": "Winnipeg, Manitoba",
+  "date": "2026-10-28T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261028186",
+  "league": "NHL",
+  "team": "Utah Mammoth",
+  "opponent": "Minnesota Wild",
+  "arena": "Delta Center",
+  "city": "Salt Lake City, Utah",
+  "date": "2026-10-28T01:00:00Z"
+},
+
+{
+  "id": "nhl_20261028187",
+  "league": "NHL",
+  "team": "Vegas Golden Knights",
+  "opponent": "Ottawa Senators",
+  "arena": "T-Mobile Arena",
+  "city": "Paradise, Nevada",
+  "date": "2026-10-28T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261028188",
+  "league": "NHL",
+  "team": "Anaheim Ducks",
+  "opponent": "Vancouver Canucks",
+  "arena": "Honda Center",
+  "city": "Anaheim, California",
+  "date": "2026-10-28T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261028189",
+  "league": "NHL",
+  "team": "San Jose Sharks",
+  "opponent": "Buffalo Sabres",
+  "arena": "SAP Center at San Jose",
+  "city": "San Jose, California",
+  "date": "2026-10-28T02:30:00Z"
+},
+
+{
+  "id": "nhl_20261028190",
+  "league": "NHL",
+  "team": "Washington Capitals",
+  "opponent": "Philadelphia Flyers",
+  "arena": "Capital One Arena",
+  "city": "Washington, D.C",
+  "date": "2026-10-28T23:30:00Z"
+},
+
+{
+  "id": "nhl_20261029191",
+  "league": "NHL",
+  "team": "Edmonton Oilers",
+  "opponent": "Calgary Flames",
+  "arena": "Rogers Place",
+  "city": "Edmonton, Alberta",
+  "date": "2026-10-29T00:30:00Z"
+},
+
+{
+  "id": "nhl_20261029192",
+  "league": "NHL",
+  "team": "Colorado Avalanche",
+  "opponent": "New Jersey Devils",
+  "arena": "Ball Arena",
+  "city": "Denver, Colorado",
+  "date": "2026-10-29T01:00:00Z"
+},
+
+{
+  "id": "nhl_20261029193",
+  "league": "NHL",
+  "team": "Seattle Kraken",
+  "opponent": "Toronto Maple Leafs",
+  "arena": "Climate Pledge Arena",
+  "city": "Seattle, Washington",
+  "date": "2026-10-29T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261029194",
+  "league": "NHL",
+  "team": "Tampa Bay Lightning",
+  "opponent": "Winnipeg Jets",
+  "arena": "Benchmark International Arena",
+  "city": "Tampa, Florida",
+  "date": "2026-10-29T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261029195",
+  "league": "NHL",
+  "team": "Pittsburgh Penguins",
+  "opponent": "Utah Mammoth",
+  "arena": "PPG Paints Arena",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2026-10-29T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261029196",
+  "league": "NHL",
+  "team": "Carolina Hurricanes",
+  "opponent": "Columbus Blue Jackets",
+  "arena": "Lenovo Center",
+  "city": "Raleigh, North Carolina",
+  "date": "2026-10-29T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261029197",
+  "league": "NHL",
+  "team": "Detroit Red Wings",
+  "opponent": "Chicago Blackhawks",
+  "arena": "Little Caesars Arena",
+  "city": "Detroit, Michigan",
+  "date": "2026-10-29T23:30:00Z"
+},
+
+{
+  "id": "nhl_20261030198",
+  "league": "NHL",
+  "team": "St. Louis Blues",
+  "opponent": "Boston Bruins",
+  "arena": "Enterprise Center",
+  "city": "St. Louis, Missouri",
+  "date": "2026-10-30T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261030199",
+  "league": "NHL",
+  "team": "Nashville Predators",
+  "opponent": "Washington Capitals",
+  "arena": "Bridgestone Arena",
+  "city": "Nashville, Tennessee",
+  "date": "2026-10-30T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261030200",
+  "league": "NHL",
+  "team": "Dallas Stars",
+  "opponent": "Montreal Canadiens",
+  "arena": "American Airlines Center",
+  "city": "Dallas, Texas",
+  "date": "2026-10-30T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261030201",
+  "league": "NHL",
+  "team": "Minnesota Wild",
+  "opponent": "New York Islanders",
+  "arena": "Grand Casino Arena",
+  "city": "Saint Paul, Minnesota",
+  "date": "2026-10-30T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261030202",
+  "league": "NHL",
+  "team": "Anaheim Ducks",
+  "opponent": "Buffalo Sabres",
+  "arena": "Honda Center",
+  "city": "Anaheim, California",
+  "date": "2026-10-30T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261030203",
+  "league": "NHL",
+  "team": "Los Angeles Kings",
+  "opponent": "Ottawa Senators",
+  "arena": "Crypto.com Arena",
+  "city": "Los Angeles, California",
+  "date": "2026-10-30T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261030204",
+  "league": "NHL",
+  "team": "San Jose Sharks",
+  "opponent": "Vancouver Canucks",
+  "arena": "SAP Center at San Jose",
+  "city": "San Jose, California",
+  "date": "2026-10-30T02:00:00Z"
+},
+
+{
+  "id": "nhl_20261030205",
+  "league": "NHL",
+  "team": "Vegas Golden Knights",
+  "opponent": "New Jersey Devils",
+  "arena": "T-Mobile Arena",
+  "city": "Paradise, Nevada",
+  "date": "2026-10-30T22:00:00Z"
+},
+
+{
+  "id": "nhl_20261030206",
+  "league": "NHL",
+  "team": "Florida Panthers",
+  "opponent": "Winnipeg Jets",
+  "arena": "Amerant Bank Arena",
+  "city": "Sunrise, Florida",
+  "date": "2026-10-30T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261031207",
+  "league": "NHL",
+  "team": "Calgary Flames",
+  "opponent": "Seattle Kraken",
+  "arena": "Scotiabank Saddledome",
+  "city": "Calgary, Alberta",
+  "date": "2026-10-31T00:00:00Z"
+},
+
+{
+  "id": "nhl_20261031208",
+  "league": "NHL",
+  "team": "Boston Bruins",
+  "opponent": "Chicago Blackhawks",
+  "arena": "TD Garden",
+  "city": "Boston, Massachusetts",
+  "date": "2026-10-31T17:00:00Z"
+},
+
+{
+  "id": "nhl_20261031209",
+  "league": "NHL",
+  "team": "Detroit Red Wings",
+  "opponent": "St. Louis Blues",
+  "arena": "Little Caesars Arena",
+  "city": "Detroit, Michigan",
+  "date": "2026-10-31T17:00:00Z"
+},
+
+{
+  "id": "nhl_20261031210",
+  "league": "NHL",
+  "team": "Nashville Predators",
+  "opponent": "Tampa Bay Lightning",
+  "arena": "Bridgestone Arena",
+  "city": "Nashville, Tennessee",
+  "date": "2026-10-31T18:00:00Z"
+},
+
+{
+  "id": "nhl_20261031211",
+  "league": "NHL",
+  "team": "New York Islanders",
+  "opponent": "Edmonton Oilers",
+  "arena": "UBS Arena",
+  "city": "Elmont, New York",
+  "date": "2026-10-31T18:00:00Z"
+},
+
+{
+  "id": "nhl_20261031212",
+  "league": "NHL",
+  "team": "Los Angeles Kings",
+  "opponent": "Buffalo Sabres",
+  "arena": "Crypto.com Arena",
+  "city": "Los Angeles, California",
+  "date": "2026-10-31T20:00:00Z"
+},
+
+{
+  "id": "nhl_20261031213",
+  "league": "NHL",
+  "team": "San Jose Sharks",
+  "opponent": "Ottawa Senators",
+  "arena": "SAP Center at San Jose",
+  "city": "San Jose, California",
+  "date": "2026-10-31T20:00:00Z"
+},
+
+{
+  "id": "nhl_20261031214",
+  "league": "NHL",
+  "team": "Montreal Canadiens",
+  "opponent": "Pittsburgh Penguins",
+  "arena": "Centre Bell",
+  "city": "Montreal, Quebec",
+  "date": "2026-10-31T23:00:00Z"
+},
+
+{
+  "id": "nhl_20261031215",
+  "league": "NHL",
+  "team": "Vancouver Canucks",
+  "opponent": "Toronto Maple Leafs",
+  "arena": "Rogers Arena",
+  "city": "Vancouver, British Columbia",
+  "date": "2026-10-31T23:00:00Z"
+}
 ]
