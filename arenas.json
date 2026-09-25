@@ -1194,8 +1194,8 @@
   {
     "teamName": "Tucson Roadrunners",
     "teamCode": "TUC",
-    "arena": "Tucson Convention Center Arena",
-    "arenaId": "tucson_convention_center_arena_tucson",
+    "arena": "Tucson Convention Center",
+    "arenaId": "tucson_convention_center_tucson",
     "city": "Tucson, Arizona",
     "address": "260 S Church Ave, Tucson, AZ 85701",
     "website": "https://tucsonroadrunners.com",
