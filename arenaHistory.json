@@ -521,25 +521,23 @@
     ]
   },
   {
-    "currentArena": "MVP Arena",
+    "currentArena": "Times Union Center",
     "teamName": "Albany River Rats",
     "league": "AHL",
     "history": [
       { "name": "Knickerbocker Arena", "from": "1990-09-01", "to": "1997-05-31" },
       { "name": "Pepsi Arena", "from": "1997-09-01", "to": "2007-05-31" },
-      { "name": "Times Union Center", "from": "2007-09-01", "to": "2021-10-14" },
-      { "name": "MVP Arena", "from": "2021-10-15", "to": null }
+      { "name": "Times Union Center", "from": "2007-09-01", "to": "2010-06-30" },
     ]
   },
   {
-    "currentArena": "MVP Arena",
+    "currentArena": "Times Union Center",
     "teamName": "Albany Devils",
     "league": "AHL",
     "history": [
       { "name": "Knickerbocker Arena", "from": "1990-09-01", "to": "1997-05-31" },
       { "name": "Pepsi Arena", "from": "1997-09-01", "to": "2007-05-31" },
-      { "name": "Times Union Center", "from": "2007-09-01", "to": "2021-10-14" },
-      { "name": "MVP Arena", "from": "2021-10-15", "to": null }
+      { "name": "Times Union Center", "from": "2007-09-01", "to": "2017-06-30" },
     ]
   },
   {
