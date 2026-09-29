@@ -7147,7 +7147,7 @@
     "colorCode2": "#F0D300",
     "league": "SHL",
     "timezone": "Europe/Stockholm",
-    "arenaId": "winpos_arena_ume"
+    "arenaId": "winpos_arena_ume",
     "startDate": "2026-09-01",
     "endDate": null
   },
@@ -7181,7 +7181,7 @@
     "colorCode3": "#0568AF",
     "league": "SHL",
     "timezone": "Europe/Stockholm",
-    "arenaId": "hovet_stockholm"
+    "arenaId": "hovet_stockholm",
     "startDate": "2026-09-01",
     "endDate": null
   },
