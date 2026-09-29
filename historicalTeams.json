@@ -15906,6 +15906,41 @@
     "arenaId": "plivit_arena_vstervik",
    "startDate": "2016-09-01",
     "endDate": "2024-06-30"
+  },
+  {
+    "teamName": "Lørenskog",
+    "teamCode": "Lør",
+    "arena": "Lørenskog Ishall",
+    "city": "Lørenskog, Norway",
+    "address": "Boecks Gate 5, 1473 Lørenskog, Norway",
+    "website": "https://lik.no",
+    "latitude": 59.9259879499042,
+    "longitude": 10.9602348271801,
+    "colorCode": "#CF142B",
+    "colorCode2": "#003876",
+    "colorCode3": "#003876",
+    "league": "EHL",
+    "timezone": "Europe/Oslo",
+    "arenaId": "lrenskog_ishall_lrenskog"
+    "startDate": "2013-09-01",
+    "endDate": "2018-06-30"
+  },
+  {
+    "teamName": "Sparta Sarpsborg",
+    "teamCode": "SPA",
+    "arena": "Sparta Amfi",
+    "city": "Sarpsborg, Norway",
+    "address": "Sarpsborgveien 10, 1711 Sarpsborg, Norway",
+    "website": "https://sparta.no/",
+    "latitude": 59.2806985774416,
+    "longitude": 11.0873384477858,
+    "color": "Royal Blue",
+    "colorCode": "#005BAC",
+    "league": "EHL",
+    "timezone": "Europe/Oslo",
+    "arenaId": "sparta_amfi_sarpsborg"
+     "startDate": "2012-09-01",
+    "endDate": "2026-06-30"
   }
   
 
