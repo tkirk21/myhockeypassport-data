@@ -15800,7 +15800,7 @@
     "colorCode3": "#FFD400",
     "league": "SHL",
     "timezone": "Europe/Stockholm",
-    "arenaId": "tegera_arena_leksand"
+    "arenaId": "tegera_arena_leksand",
    "startDate": "2019-09-01",
     "endDate": "2026-06-30"
   },
@@ -15818,7 +15818,7 @@
     "colorCode3": "#FFFFFF",
     "league": "SHL",
     "timezone": "Europe/Stockholm",
-    "arenaId": "hgglunds_arena_rnskldsvik"
+    "arenaId": "hgglunds_arena_rnskldsvik",
     "startDate": "2023-09-01",
     "endDate": "2026-06-30"
   },
@@ -15833,7 +15833,7 @@
     "colorCode2": "#F0D300",
     "league": "HockeyAllsvenskan",
     "timezone": "Europe/Stockholm",
-    "arenaId": "winpos_arena_ume"
+    "arenaId": "winpos_arena_ume",
     "startDate": "2013-09-01",
     "endDate": "2026-06-30"
   },
@@ -15851,7 +15851,7 @@
     "colorCode3": "#FFCC00",
     "league": "HockeyAllsvenskan",
     "timezone": "Europe/Stockholm",
-    "arenaId": "monitor_erp_arena_gvle"
+    "arenaId": "monitor_erp_arena_gvle",
     "startDate": "2025-09-01",
     "endDate": "2026-06-30"
   },
@@ -15869,7 +15869,7 @@
     "colorCode3": "#0568AF",
     "league": "HockeyAllsvenskan",
     "timezone": "Europe/Stockholm",
-    "arenaId": "hovet_stockholm"
+    "arenaId": "hovet_stockholm",
     "startDate": "2025-09-01",
     "endDate": "2026-06-30"
   },
@@ -15886,7 +15886,7 @@
     "colorCode": "#FFFFFF",
     "league": "HockeyAllsvenskan",
     "timezone": "Europe/Stockholm",
-    "arenaId": "dackehallen_tingsryd"
+    "arenaId": "dackehallen_tingsryd",
     "startDate": "2015-09-01",
     "endDate": "2025-06-30"
   },
@@ -15903,7 +15903,7 @@
     "colorCode2": "#002654",
     "league": "HockeyAllsvenskan",
     "timezone": "Europe/Stockholm",
-    "arenaId": "plivit_arena_vstervik"
+    "arenaId": "plivit_arena_vstervik",
    "startDate": "2016-09-01",
     "endDate": "2024-06-30"
   }
