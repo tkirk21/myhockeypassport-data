@@ -1,3 +1,365 @@
 [
+  {
+    "id": "ehl_2026100101",
+    "league": "EHL",
+    "team": "Stavanger Oilers",
+    "opponent": "Ringerike",
+    "arena": "DNB Arena",
+    "city": "Stavanger. Norway",
+    "date": "2026-10-01T16:00:00Z"
+  },
   
+  {
+    "id": "ehl_2026100102",
+    "league": "EHL",
+    "team": "Frisk Asker",
+    "opponent": "Lillehammer",
+    "arena": "Varner Arena",
+    "city": "Asker,Norway",
+    "date": "2026-10-01T16:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026100103",
+    "league": "EHL",
+    "team": "Nidaros",
+    "opponent": "Storhamar",
+    "arena": "Leangen Ishall",
+    "city": "Trondheim, Norway",
+    "date": "2026-10-01T16:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026100104",
+    "league": "EHL",
+    "team": "Stjernen",
+    "opponent": "Vålerenga",
+    "arena": "Stjernehallen",
+    "city": "Fredrikstad, Norway",
+    "date": "2026-10-01T16:30:00Z"
+  },
+  
+  Missing arena: Ringerike
+  {
+    "id": "ehl_2026100305",
+    "league": "EHL",
+    "team": "Narvik",
+    "opponent": "Lillehammer",
+    "arena": "Nordkraft Arena",
+    "city": "Narvik, Norway",
+    "date": "2026-10-03T14:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026100306",
+    "league": "EHL",
+    "team": "Stjernen",
+    "opponent": "Frisk Asker",
+    "arena": "Stjernehallen",
+    "city": "Fredrikstad, Norway",
+    "date": "2026-10-03T14:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026100307",
+    "league": "EHL",
+    "team": "Storhamar",
+    "opponent": "Vålerenga",
+    "arena": "CC Amfi",
+    "city": "Hamar, Norway",
+    "date": "2026-10-03T14:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026100808",
+    "league": "EHL",
+    "team": "Lillehammer",
+    "opponent": "Stjernen",
+    "arena": "Eidsiva Arena",
+    "city": "Lillehammer, Norway",
+    "date": "2026-10-08T16:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026100809",
+    "league": "EHL",
+    "team": "Stavanger Oilers",
+    "opponent": "Narvik",
+    "arena": "DNB Arena",
+    "city": "Stavanger. Norway",
+    "date": "2026-10-08T16:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026100810",
+    "league": "EHL",
+    "team": "Vålerenga",
+    "opponent": "Nidaros",
+    "arena": "Nye Jordal Amfi",
+    "city": "Oslo, Norway",
+    "date": "2026-10-08T16:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026101011",
+    "league": "EHL",
+    "team": "Nidaros",
+    "opponent": "Narvik",
+    "arena": "Leangen Ishall",
+    "city": "Trondheim, Norway",
+    "date": "2026-10-10T14:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026101012",
+    "league": "EHL",
+    "team": "Vålerenga",
+    "opponent": "Lillehammer",
+    "arena": "Nye Jordal Amfi",
+    "city": "Oslo, Norway",
+    "date": "2026-10-10T14:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026101013",
+    "league": "EHL",
+    "team": "Frisk Asker",
+    "opponent": "Ringerike",
+    "arena": "Varner Arena",
+    "city": "Asker,Norway",
+    "date": "2026-10-10T15:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026101014",
+    "league": "EHL",
+    "team": "Storhamar",
+    "opponent": "Stavanger Oilers",
+    "arena": "CC Amfi",
+    "city": "Hamar, Norway",
+    "date": "2026-10-10T16:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026101515",
+    "league": "EHL",
+    "team": "Lillehammer",
+    "opponent": "Frisk Asker",
+    "arena": "Eidsiva Arena",
+    "city": "Lillehammer, Norway",
+    "date": "2026-10-15T16:30:00Z"
+  },
+  
+  Missing arena: Ringerike
+  {
+    "id": "ehl_2026101516",
+    "league": "EHL",
+    "team": "Stavanger Oilers",
+    "opponent": "Stjernen",
+    "arena": "DNB Arena",
+    "city": "Stavanger. Norway",
+    "date": "2026-10-15T16:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026101717",
+    "league": "EHL",
+    "team": "Narvik",
+    "opponent": "Ringerike",
+    "arena": "Nordkraft Arena",
+    "city": "Narvik, Norway",
+    "date": "2026-10-17T14:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026101718",
+    "league": "EHL",
+    "team": "Nidaros",
+    "opponent": "Lillehammer",
+    "arena": "Leangen Ishall",
+    "city": "Trondheim, Norway",
+    "date": "2026-10-17T14:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026101719",
+    "league": "EHL",
+    "team": "Storhamar",
+    "opponent": "Stjernen",
+    "arena": "CC Amfi",
+    "city": "Hamar, Norway",
+    "date": "2026-10-17T14:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026101720",
+    "league": "EHL",
+    "team": "Frisk Asker",
+    "opponent": "Stavanger Oilers",
+    "arena": "Varner Arena",
+    "city": "Asker,Norway",
+    "date": "2026-10-17T15:00:00Z"
+  },
+  
+  Missing arena: Ringerike
+  {
+    "id": "ehl_2026102221",
+    "league": "EHL",
+    "team": "Lillehammer",
+    "opponent": "Stavanger Oilers",
+    "arena": "Eidsiva Arena",
+    "city": "Lillehammer, Norway",
+    "date": "2026-10-22T16:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026102222",
+    "league": "EHL",
+    "team": "Nidaros",
+    "opponent": "Ringerike",
+    "arena": "Leangen Ishall",
+    "city": "Trondheim, Norway",
+    "date": "2026-10-22T16:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026102223",
+    "league": "EHL",
+    "team": "Stjernen",
+    "opponent": "Narvik",
+    "arena": "Stjernehallen",
+    "city": "Fredrikstad, Norway",
+    "date": "2026-10-22T16:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026102224",
+    "league": "EHL",
+    "team": "Vålerenga",
+    "opponent": "Frisk Asker",
+    "arena": "Nye Jordal Amfi",
+    "city": "Oslo, Norway",
+    "date": "2026-10-22T17:00:00Z"
+  },
+  
+  Missing arena: Ringerike
+  {
+    "id": "ehl_2026102425",
+    "league": "EHL",
+    "team": "Nidaros",
+    "opponent": "Stjernen",
+    "arena": "Leangen Ishall",
+    "city": "Trondheim, Norway",
+    "date": "2026-10-24T14:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026102426",
+    "league": "EHL",
+    "team": "Lillehammer",
+    "opponent": "Storhamar",
+    "arena": "Eidsiva Arena",
+    "city": "Lillehammer, Norway",
+    "date": "2026-10-24T16:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026102427",
+    "league": "EHL",
+    "team": "Stavanger Oilers",
+    "opponent": "Vålerenga",
+    "arena": "DNB Arena",
+    "city": "Stavanger. Norway",
+    "date": "2026-10-24T16:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026102728",
+    "league": "EHL",
+    "team": "Narvik",
+    "opponent": "Storhamar",
+    "arena": "Nordkraft Arena",
+    "city": "Narvik, Norway",
+    "date": "2026-10-27T17:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026102929",
+    "league": "EHL",
+    "team": "Frisk Asker",
+    "opponent": "Stjernen",
+    "arena": "Varner Arena",
+    "city": "Asker,Norway",
+    "date": "2026-10-29T17:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026102930",
+    "league": "EHL",
+    "team": "Narvik",
+    "opponent": "Stavanger Oilers",
+    "arena": "Nordkraft Arena",
+    "city": "Narvik, Norway",
+    "date": "2026-10-29T17:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026102931",
+    "league": "EHL",
+    "team": "Vålerenga",
+    "opponent": "Ringerike",
+    "arena": "Nye Jordal Amfi",
+    "city": "Oslo, Norway",
+    "date": "2026-10-29T17:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026102932",
+    "league": "EHL",
+    "team": "Storhamar",
+    "opponent": "Nidaros",
+    "arena": "CC Amfi",
+    "city": "Hamar, Norway",
+    "date": "2026-10-29T18:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026103133",
+    "league": "EHL",
+    "team": "Lillehammer",
+    "opponent": "Vålerenga",
+    "arena": "Eidsiva Arena",
+    "city": "Lillehammer, Norway",
+    "date": "2026-10-31T15:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026103134",
+    "league": "EHL",
+    "team": "Narvik",
+    "opponent": "Nidaros",
+    "arena": "Nordkraft Arena",
+    "city": "Narvik, Norway",
+    "date": "2026-10-31T15:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026103135",
+    "league": "EHL",
+    "team": "Stavanger Oilers",
+    "opponent": "Frisk Asker",
+    "arena": "DNB Arena",
+    "city": "Stavanger. Norway",
+    "date": "2026-10-31T15:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026103136",
+    "league": "EHL",
+    "team": "Stjernen",
+    "opponent": "Storhamar",
+    "arena": "Stjernehallen",
+    "city": "Fredrikstad, Norway",
+    "date": "2026-10-31T15:00:00Z"
+  }
 ]
