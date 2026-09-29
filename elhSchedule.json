@@ -1,3 +1,701 @@
 [
+  {
+    "id": "elh_2026101501",
+    "league": "ELH",
+    "team": "Verva Litvínov",
+    "opponent": "Mountfield HK",
+    "arena": "Ivan Hlinka Stadion",
+    "city": "Litvínov, Czech Republic",
+    "date": "2026-10-15T15:30:00Z"
+  },
   
+  {
+    "id": "elh_2026101602",
+    "league": "ELH",
+    "team": "Oceláři Třinec",
+    "opponent": "BK Mladá Boleslav",
+    "arena": "Werk Arena",
+    "city": "Třinec, Czech Republic",
+    "date": "2026-10-16T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026101603",
+    "league": "ELH",
+    "team": "Škoda Plzeň",
+    "opponent": "Sparta Praha",
+    "arena": "Logspeed CZ Arena",
+    "city": "Plzeň, Czech Republic",
+    "date": "2026-10-16T15:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026101604",
+    "league": "ELH",
+    "team": "Vítkovice Ridera",
+    "opponent": "HC Motor České Budějovice",
+    "arena": "Ostravar Aréna",
+    "city": "Ostrava, Czech Republic",
+    "date": "2026-10-16T15:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026101605",
+    "league": "ELH",
+    "team": "HC Olomouc",
+    "opponent": "Energie Karlovy Vary",
+    "arena": "Zimní stadion Olomouc",
+    "city": "Olomouc, Czech Republic",
+    "date": "2026-10-16T16:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026101606",
+    "league": "ELH",
+    "team": "Rytíři Kladno",
+    "opponent": "Kometa Brno",
+    "arena": "ČEZ Stadion",
+    "city": "Kladno, Czech Republic",
+    "date": "2026-10-16T16:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102007",
+    "league": "ELH",
+    "team": "Energie Karlovy Vary",
+    "opponent": "Kometa Brno",
+    "arena": "KV Arena",
+    "city": "Karlovy Vary, Czech Republic",
+    "date": "2026-10-20T16:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026100108",
+    "league": "ELH",
+    "team": "Sparta Praha",
+    "opponent": "HC Motor České Budějovice",
+    "arena": "O2 Arena",
+    "city": "Prague, Czech Republic",
+    "date": "2026-10-01T16:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026100209",
+    "league": "ELH",
+    "team": "Oceláři Třinec",
+    "opponent": "Verva Litvínov",
+    "arena": "Werk Arena",
+    "city": "Třinec, Czech Republic",
+    "date": "2026-10-02T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026100210",
+    "league": "ELH",
+    "team": "Vítkovice Ridera",
+    "opponent": "Energie Karlovy Vary",
+    "arena": "Ostravar Aréna",
+    "city": "Ostrava, Czech Republic",
+    "date": "2026-10-02T15:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026100211",
+    "league": "ELH",
+    "team": "Rytíři Kladno",
+    "opponent": "Mountfield HK",
+    "arena": "ČEZ Stadion",
+    "city": "Kladno, Czech Republic",
+    "date": "2026-10-02T16:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026100212",
+    "league": "ELH",
+    "team": "Dynamo Pardubice",
+    "opponent": "Škoda Plzeň",
+    "arena": "Enteria Arena",
+    "city": "Pardubice, Czech Republic",
+    "date": "2026-10-02T16:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026100213",
+    "league": "ELH",
+    "team": "Bílí Tygři Liberec",
+    "opponent": "HC Olomouc",
+    "arena": "Tipsport Arena",
+    "city": "Liberec, Czech Republic",
+    "date": "2026-10-02T16:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026100214",
+    "league": "ELH",
+    "team": "Kometa Brno",
+    "opponent": "BK Mladá Boleslav",
+    "arena": "Winning Group Arena",
+    "city": "Brno, Czech Republic",
+    "date": "2026-10-02T16:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026100415",
+    "league": "ELH",
+    "team": "BK Mladá Boleslav",
+    "opponent": "Bílí Tygři Liberec",
+    "arena": "Ško-Energo Aréna",
+    "city": "Mladá Boleslav, Czech Republic",
+    "date": "2026-10-04T14:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026100416",
+    "league": "ELH",
+    "team": "Energie Karlovy Vary",
+    "opponent": "Škoda Plzeň",
+    "arena": "KV Arena",
+    "city": "Karlovy Vary, Czech Republic",
+    "date": "2026-10-04T14:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026100417",
+    "league": "ELH",
+    "team": "HC Olomouc",
+    "opponent": "Oceláři Třinec",
+    "arena": "Zimní stadion Olomouc",
+    "city": "Olomouc, Czech Republic",
+    "date": "2026-10-04T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026100418",
+    "league": "ELH",
+    "team": "Mountfield HK",
+    "opponent": "Vítkovice Ridera",
+    "arena": "ČPP Arena",
+    "city": "Hradec Králové, Czech Republic",
+    "date": "2026-10-04T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026100419",
+    "league": "ELH",
+    "team": "Verva Litvínov",
+    "opponent": "Rytíři Kladno",
+    "arena": "Ivan Hlinka Stadion",
+    "city": "Litvínov, Czech Republic",
+    "date": "2026-10-04T15:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026100420",
+    "league": "ELH",
+    "team": "Dynamo Pardubice",
+    "opponent": "Sparta Praha",
+    "arena": "Enteria Arena",
+    "city": "Pardubice, Czech Republic",
+    "date": "2026-10-04T16:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026100521",
+    "league": "ELH",
+    "team": "HC Motor České Budějovice",
+    "opponent": "Kometa Brno",
+    "arena": "Budvar Arena",
+    "city": "České Budějovice, Czech Republic",
+    "date": "2026-10-05T15:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026100822",
+    "league": "ELH",
+    "team": "Škoda Plzeň",
+    "opponent": "HC Motor České Budějovice",
+    "arena": "Logspeed CZ Arena",
+    "city": "Plzeň, Czech Republic",
+    "date": "2026-10-08T15:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026100823",
+    "league": "ELH",
+    "team": "Sparta Praha",
+    "opponent": "Kometa Brno",
+    "arena": "O2 Arena",
+    "city": "Prague, Czech Republic",
+    "date": "2026-10-08T16:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026100924",
+    "league": "ELH",
+    "team": "Oceláři Třinec",
+    "opponent": "Mountfield HK",
+    "arena": "Werk Arena",
+    "city": "Třinec, Czech Republic",
+    "date": "2026-10-09T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026100925",
+    "league": "ELH",
+    "team": "Verva Litvínov",
+    "opponent": "HC Olomouc",
+    "arena": "Ivan Hlinka Stadion",
+    "city": "Litvínov, Czech Republic",
+    "date": "2026-10-09T15:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026100926",
+    "league": "ELH",
+    "team": "Vítkovice Ridera",
+    "opponent": "Dynamo Pardubice",
+    "arena": "Ostravar Aréna",
+    "city": "Ostrava, Czech Republic",
+    "date": "2026-10-09T15:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026100927",
+    "league": "ELH",
+    "team": "Rytíři Kladno",
+    "opponent": "BK Mladá Boleslav",
+    "arena": "ČEZ Stadion",
+    "city": "Kladno, Czech Republic",
+    "date": "2026-10-09T16:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026100928",
+    "league": "ELH",
+    "team": "Bílí Tygři Liberec",
+    "opponent": "Energie Karlovy Vary",
+    "arena": "Tipsport Arena",
+    "city": "Liberec, Czech Republic",
+    "date": "2026-10-09T16:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026101129",
+    "league": "ELH",
+    "team": "Sparta Praha",
+    "opponent": "Vítkovice Ridera",
+    "arena": "O2 Arena",
+    "city": "Prague, Czech Republic",
+    "date": "2026-10-11T13:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026101130",
+    "league": "ELH",
+    "team": "BK Mladá Boleslav",
+    "opponent": "Verva Litvínov",
+    "arena": "Ško-Energo Aréna",
+    "city": "Mladá Boleslav, Czech Republic",
+    "date": "2026-10-11T14:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026101131",
+    "league": "ELH",
+    "team": "HC Motor České Budějovice",
+    "opponent": "Bílí Tygři Liberec",
+    "arena": "Budvar Arena",
+    "city": "České Budějovice, Czech Republic",
+    "date": "2026-10-11T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026101132",
+    "league": "ELH",
+    "team": "Mountfield HK",
+    "opponent": "HC Olomouc",
+    "arena": "ČPP Arena",
+    "city": "Hradec Králové, Czech Republic",
+    "date": "2026-10-11T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026101133",
+    "league": "ELH",
+    "team": "Energie Karlovy Vary",
+    "opponent": "Rytíři Kladno",
+    "arena": "KV Arena",
+    "city": "Karlovy Vary, Czech Republic",
+    "date": "2026-10-11T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026101134",
+    "league": "ELH",
+    "team": "Kometa Brno",
+    "opponent": "Škoda Plzeň",
+    "arena": "Winning Group Arena",
+    "city": "Brno, Czech Republic",
+    "date": "2026-10-11T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026101135",
+    "league": "ELH",
+    "team": "Dynamo Pardubice",
+    "opponent": "Oceláři Třinec",
+    "arena": "Enteria Arena",
+    "city": "Pardubice, Czech Republic",
+    "date": "2026-10-11T16:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026101836",
+    "league": "ELH",
+    "team": "BK Mladá Boleslav",
+    "opponent": "Mountfield HK",
+    "arena": "Ško-Energo Aréna",
+    "city": "Mladá Boleslav, Czech Republic",
+    "date": "2026-10-18T14:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026101837",
+    "league": "ELH",
+    "team": "Sparta Praha",
+    "opponent": "Oceláři Třinec",
+    "arena": "O2 Arena",
+    "city": "Prague, Czech Republic",
+    "date": "2026-10-18T14:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026101838",
+    "league": "ELH",
+    "team": "Škoda Plzeň",
+    "opponent": "Vítkovice Ridera",
+    "arena": "Logspeed CZ Arena",
+    "city": "Plzeň, Czech Republic",
+    "date": "2026-10-18T14:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026101839",
+    "league": "ELH",
+    "team": "HC Olomouc",
+    "opponent": "Dynamo Pardubice",
+    "arena": "Zimní stadion Olomouc",
+    "city": "Olomouc, Czech Republic",
+    "date": "2026-10-18T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026101840",
+    "league": "ELH",
+    "team": "HC Motor České Budějovice",
+    "opponent": "Rytíři Kladno",
+    "arena": "Budvar Arena",
+    "city": "České Budějovice, Czech Republic",
+    "date": "2026-10-18T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026101841",
+    "league": "ELH",
+    "team": "Kometa Brno",
+    "opponent": "Bílí Tygři Liberec",
+    "arena": "Winning Group Arena",
+    "city": "Brno, Czech Republic",
+    "date": "2026-10-18T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026101842",
+    "league": "ELH",
+    "team": "Verva Litvínov",
+    "opponent": "Energie Karlovy Vary",
+    "arena": "Ivan Hlinka Stadion",
+    "city": "Litvínov, Czech Republic",
+    "date": "2026-10-18T15:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026102043",
+    "league": "ELH",
+    "team": "Vítkovice Ridera",
+    "opponent": "Bílí Tygři Liberec",
+    "arena": "Ostravar Aréna",
+    "city": "Ostrava, Czech Republic",
+    "date": "2026-10-20T15:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026102744",
+    "league": "ELH",
+    "team": "HC Motor České Budějovice",
+    "opponent": "Mountfield HK",
+    "arena": "Budvar Arena",
+    "city": "České Budějovice, Czech Republic",
+    "date": "2026-10-27T16:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026102745",
+    "league": "ELH",
+    "team": "Škoda Plzeň",
+    "opponent": "HC Olomouc",
+    "arena": "Logspeed CZ Arena",
+    "city": "Plzeň, Czech Republic",
+    "date": "2026-10-27T16:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026102746",
+    "league": "ELH",
+    "team": "Energie Karlovy Vary",
+    "opponent": "BK Mladá Boleslav",
+    "arena": "KV Arena",
+    "city": "Karlovy Vary, Czech Republic",
+    "date": "2026-10-27T17:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102747",
+    "league": "ELH",
+    "team": "Rytíři Kladno",
+    "opponent": "Sparta Praha",
+    "arena": "ČEZ Stadion",
+    "city": "Kladno, Czech Republic",
+    "date": "2026-10-27T17:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102748",
+    "league": "ELH",
+    "team": "Dynamo Pardubice",
+    "opponent": "Verva Litvínov",
+    "arena": "Enteria Arena",
+    "city": "Pardubice, Czech Republic",
+    "date": "2026-10-27T17:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102849",
+    "league": "ELH",
+    "team": "Kometa Brno",
+    "opponent": "Oceláři Třinec",
+    "arena": "Winning Group Arena",
+    "city": "Brno, Czech Republic",
+    "date": "2026-10-28T17:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102250",
+    "league": "ELH",
+    "team": "HC Olomouc",
+    "opponent": "BK Mladá Boleslav",
+    "arena": "Zimní stadion Olomouc",
+    "city": "Olomouc, Czech Republic",
+    "date": "2026-10-22T16:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102351",
+    "league": "ELH",
+    "team": "Oceláři Třinec",
+    "opponent": "HC Motor České Budějovice",
+    "arena": "Werk Arena",
+    "city": "Třinec, Czech Republic",
+    "date": "2026-10-23T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102352",
+    "league": "ELH",
+    "team": "Verva Litvínov",
+    "opponent": "Škoda Plzeň",
+    "arena": "Ivan Hlinka Stadion",
+    "city": "Litvínov, Czech Republic",
+    "date": "2026-10-23T15:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026102353",
+    "league": "ELH",
+    "team": "Vítkovice Ridera",
+    "opponent": "Kometa Brno",
+    "arena": "Ostravar Aréna",
+    "city": "Ostrava, Czech Republic",
+    "date": "2026-10-23T15:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026102354",
+    "league": "ELH",
+    "team": "Rytíři Kladno",
+    "opponent": "Dynamo Pardubice",
+    "arena": "ČEZ Stadion",
+    "city": "Kladno, Czech Republic",
+    "date": "2026-10-23T16:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102355",
+    "league": "ELH",
+    "team": "Bílí Tygři Liberec",
+    "opponent": "Sparta Praha",
+    "arena": "Tipsport Arena",
+    "city": "Liberec, Czech Republic",
+    "date": "2026-10-23T16:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102356",
+    "league": "ELH",
+    "team": "Mountfield HK",
+    "opponent": "Energie Karlovy Vary",
+    "arena": "ČPP Arena",
+    "city": "Hradec Králové, Czech Republic",
+    "date": "2026-10-23T16:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102457",
+    "league": "ELH",
+    "team": "Sparta Praha",
+    "opponent": "HC Olomouc",
+    "arena": "O2 Arena",
+    "city": "Prague, Czech Republic",
+    "date": "2026-10-24T14:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102558",
+    "league": "ELH",
+    "team": "BK Mladá Boleslav",
+    "opponent": "HC Motor České Budějovice",
+    "arena": "Ško-Energo Aréna",
+    "city": "Mladá Boleslav, Czech Republic",
+    "date": "2026-10-25T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102559",
+    "league": "ELH",
+    "team": "Rytíři Kladno",
+    "opponent": "Vítkovice Ridera",
+    "arena": "ČEZ Stadion",
+    "city": "Kladno, Czech Republic",
+    "date": "2026-10-25T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102560",
+    "league": "ELH",
+    "team": "Bílí Tygři Liberec",
+    "opponent": "Škoda Plzeň",
+    "arena": "Tipsport Arena",
+    "city": "Liberec, Czech Republic",
+    "date": "2026-10-25T15:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102561",
+    "league": "ELH",
+    "team": "Mountfield HK",
+    "opponent": "Dynamo Pardubice",
+    "arena": "ČPP Arena",
+    "city": "Hradec Králové, Czech Republic",
+    "date": "2026-10-25T16:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102562",
+    "league": "ELH",
+    "team": "Oceláři Třinec",
+    "opponent": "Energie Karlovy Vary",
+    "arena": "Werk Arena",
+    "city": "Třinec, Czech Republic",
+    "date": "2026-10-25T16:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026102563",
+    "league": "ELH",
+    "team": "Verva Litvínov",
+    "opponent": "Kometa Brno",
+    "arena": "Ivan Hlinka Stadion",
+    "city": "Litvínov, Czech Republic",
+    "date": "2026-10-25T16:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026103064",
+    "league": "ELH",
+    "team": "Škoda Plzeň",
+    "opponent": "Oceláři Třinec",
+    "arena": "Logspeed CZ Arena",
+    "city": "Plzeň, Czech Republic",
+    "date": "2026-10-30T16:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026103065",
+    "league": "ELH",
+    "team": "BK Mladá Boleslav",
+    "opponent": "Sparta Praha",
+    "arena": "Ško-Energo Aréna",
+    "city": "Mladá Boleslav, Czech Republic",
+    "date": "2026-10-30T16:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026103066",
+    "league": "ELH",
+    "team": "Verva Litvínov",
+    "opponent": "Vítkovice Ridera",
+    "arena": "Ivan Hlinka Stadion",
+    "city": "Litvínov, Czech Republic",
+    "date": "2026-10-30T16:30:00Z"
+  },
+  
+  {
+    "id": "elh_2026103067",
+    "league": "ELH",
+    "team": "Mountfield HK",
+    "opponent": "Kometa Brno",
+    "arena": "ČPP Arena",
+    "city": "Hradec Králové, Czech Republic",
+    "date": "2026-10-30T17:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026103068",
+    "league": "ELH",
+    "team": "Energie Karlovy Vary",
+    "opponent": "Dynamo Pardubice",
+    "arena": "KV Arena",
+    "city": "Karlovy Vary, Czech Republic",
+    "date": "2026-10-30T17:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026103069",
+    "league": "ELH",
+    "team": "HC Olomouc",
+    "opponent": "HC Motor České Budějovice",
+    "arena": "Zimní stadion Olomouc",
+    "city": "Olomouc, Czech Republic",
+    "date": "2026-10-30T17:00:00Z"
+  },
+  
+  {
+    "id": "elh_2026103070",
+    "league": "ELH",
+    "team": "Rytíři Kladno",
+    "opponent": "Bílí Tygři Liberec",
+    "arena": "ČEZ Stadion",
+    "city": "Kladno, Czech Republic",
+    "date": "2026-10-30T17:00:00Z"
+  }
 ]
