@@ -3,7 +3,7 @@
     "id": "ehl_2026100101",
     "league": "EHL",
     "team": "Stavanger Oilers",
-    "opponent": "Ringerike",
+    "opponent": "Ringerike Panthers",
     "arena": "DNB Arena",
     "city": "Stavanger. Norway",
     "date": "2026-10-01T16:00:00Z"
@@ -42,6 +42,16 @@
   {
     "id": "ehl_2026100305",
     "league": "EHL",
+    "team": "Ringerike Panthers",
+    "opponent": "Nidaros",
+    "arena": "Schjongshallen",
+    "city": "Hønefoss, Norway",
+    "date": "2026-10-03T14:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026100306",
+    "league": "EHL",
     "team": "Narvik",
     "opponent": "Lillehammer",
     "arena": "Nordkraft Arena",
@@ -50,7 +60,7 @@
   },
   
   {
-    "id": "ehl_2026100306",
+    "id": "ehl_2026100307",
     "league": "EHL",
     "team": "Stjernen",
     "opponent": "Frisk Asker",
@@ -60,7 +70,7 @@
   },
   
   {
-    "id": "ehl_2026100307",
+    "id": "ehl_2026100308",
     "league": "EHL",
     "team": "Storhamar",
     "opponent": "Vålerenga",
@@ -70,7 +80,7 @@
   },
   
   {
-    "id": "ehl_2026100808",
+    "id": "ehl_2026100809",
     "league": "EHL",
     "team": "Lillehammer",
     "opponent": "Stjernen",
@@ -80,7 +90,7 @@
   },
   
   {
-    "id": "ehl_2026100809",
+    "id": "ehl_2026100810",
     "league": "EHL",
     "team": "Stavanger Oilers",
     "opponent": "Narvik",
@@ -90,7 +100,7 @@
   },
   
   {
-    "id": "ehl_2026100810",
+    "id": "ehl_2026100811",
     "league": "EHL",
     "team": "Vålerenga",
     "opponent": "Nidaros",
@@ -100,7 +110,7 @@
   },
   
   {
-    "id": "ehl_2026101011",
+    "id": "ehl_2026101012",
     "league": "EHL",
     "team": "Nidaros",
     "opponent": "Narvik",
@@ -110,7 +120,7 @@
   },
   
   {
-    "id": "ehl_2026101012",
+    "id": "ehl_2026101013",
     "league": "EHL",
     "team": "Vålerenga",
     "opponent": "Lillehammer",
@@ -120,17 +130,17 @@
   },
   
   {
-    "id": "ehl_2026101013",
+    "id": "ehl_2026101014",
     "league": "EHL",
     "team": "Frisk Asker",
-    "opponent": "Ringerike",
+    "opponent": "Ringerike Panthers",
     "arena": "Varner Arena",
     "city": "Asker,Norway",
     "date": "2026-10-10T15:00:00Z"
   },
   
   {
-    "id": "ehl_2026101014",
+    "id": "ehl_2026101015",
     "league": "EHL",
     "team": "Storhamar",
     "opponent": "Stavanger Oilers",
@@ -140,7 +150,7 @@
   },
   
   {
-    "id": "ehl_2026101515",
+    "id": "ehl_2026101516",
     "league": "EHL",
     "team": "Lillehammer",
     "opponent": "Frisk Asker",
@@ -149,9 +159,18 @@
     "date": "2026-10-15T16:30:00Z"
   },
   
-
   {
-    "id": "ehl_2026101516",
+    "id": "ehl_2026101517",
+    "league": "EHL",
+    "team": "Ringerike Panthers",
+    "opponent": "Vålerenga",
+    "arena": "Schjongshallen",
+    "city": "Hønefoss, Norway",
+    "date": "2026-10-15T16:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026101518",
     "league": "EHL",
     "team": "Stavanger Oilers",
     "opponent": "Stjernen",
@@ -161,17 +180,17 @@
   },
   
   {
-    "id": "ehl_2026101717",
+    "id": "ehl_2026101719",
     "league": "EHL",
     "team": "Narvik",
-    "opponent": "Ringerike",
+    "opponent": "Ringerike Panthers",
     "arena": "Nordkraft Arena",
     "city": "Narvik, Norway",
     "date": "2026-10-17T14:00:00Z"
   },
   
   {
-    "id": "ehl_2026101718",
+    "id": "ehl_2026101720",
     "league": "EHL",
     "team": "Nidaros",
     "opponent": "Lillehammer",
@@ -181,7 +200,7 @@
   },
   
   {
-    "id": "ehl_2026101719",
+    "id": "ehl_2026101721",
     "league": "EHL",
     "team": "Storhamar",
     "opponent": "Stjernen",
@@ -191,7 +210,7 @@
   },
   
   {
-    "id": "ehl_2026101720",
+    "id": "ehl_2026101722",
     "league": "EHL",
     "team": "Frisk Asker",
     "opponent": "Stavanger Oilers",
@@ -201,7 +220,17 @@
   },
   
   {
-    "id": "ehl_2026102221",
+    "id": "ehl_2026102023",
+    "league": "EHL",
+    "team": "Ringerike Panthers",
+    "opponent": "Storhamar",
+    "arena": "Schjongshallen",
+    "city": "Hønefoss, Norway",
+    "date": "2026-10-20T16:30:00Z"
+  },
+  
+  {
+    "id": "ehl_2026102224",
     "league": "EHL",
     "team": "Lillehammer",
     "opponent": "Stavanger Oilers",
@@ -211,17 +240,17 @@
   },
   
   {
-    "id": "ehl_2026102222",
+    "id": "ehl_2026102225",
     "league": "EHL",
     "team": "Nidaros",
-    "opponent": "Ringerike",
+    "opponent": "Ringerike Panthers",
     "arena": "Leangen Ishall",
     "city": "Trondheim, Norway",
     "date": "2026-10-22T16:30:00Z"
   },
   
   {
-    "id": "ehl_2026102223",
+    "id": "ehl_2026102226",
     "league": "EHL",
     "team": "Stjernen",
     "opponent": "Narvik",
@@ -231,7 +260,7 @@
   },
   
   {
-    "id": "ehl_2026102224",
+    "id": "ehl_2026102227",
     "league": "EHL",
     "team": "Vålerenga",
     "opponent": "Frisk Asker",
@@ -240,9 +269,18 @@
     "date": "2026-10-22T17:00:00Z"
   },
   
-
   {
-    "id": "ehl_2026102425",
+    "id": "ehl_2026102428",
+    "league": "EHL",
+    "team": "Ringerike Panthers",
+    "opponent": "Frisk Asker",
+    "arena": "Schjongshallen",
+    "city": "Hønefoss, Norway",
+    "date": "2026-10-24T14:00:00Z"
+  },
+  
+  {
+    "id": "ehl_2026102429",
     "league": "EHL",
     "team": "Nidaros",
     "opponent": "Stjernen",
@@ -252,7 +290,7 @@
   },
   
   {
-    "id": "ehl_2026102426",
+    "id": "ehl_2026102430",
     "league": "EHL",
     "team": "Lillehammer",
     "opponent": "Storhamar",
@@ -262,7 +300,7 @@
   },
   
   {
-    "id": "ehl_2026102427",
+    "id": "ehl_2026102431",
     "league": "EHL",
     "team": "Stavanger Oilers",
     "opponent": "Vålerenga",
@@ -272,7 +310,7 @@
   },
   
   {
-    "id": "ehl_2026102728",
+    "id": "ehl_2026102732",
     "league": "EHL",
     "team": "Narvik",
     "opponent": "Storhamar",
@@ -282,7 +320,7 @@
   },
   
   {
-    "id": "ehl_2026102929",
+    "id": "ehl_2026102933",
     "league": "EHL",
     "team": "Frisk Asker",
     "opponent": "Stjernen",
@@ -292,7 +330,7 @@
   },
   
   {
-    "id": "ehl_2026102930",
+    "id": "ehl_2026102934",
     "league": "EHL",
     "team": "Narvik",
     "opponent": "Stavanger Oilers",
@@ -302,17 +340,17 @@
   },
   
   {
-    "id": "ehl_2026102931",
+    "id": "ehl_2026102935",
     "league": "EHL",
     "team": "Vålerenga",
-    "opponent": "Ringerike",
+    "opponent": "Ringerike Panthers",
     "arena": "Nye Jordal Amfi",
     "city": "Oslo, Norway",
     "date": "2026-10-29T17:30:00Z"
   },
   
   {
-    "id": "ehl_2026102932",
+    "id": "ehl_2026102936",
     "league": "EHL",
     "team": "Storhamar",
     "opponent": "Nidaros",
@@ -322,7 +360,7 @@
   },
   
   {
-    "id": "ehl_2026103133",
+    "id": "ehl_2026103137",
     "league": "EHL",
     "team": "Lillehammer",
     "opponent": "Vålerenga",
@@ -332,7 +370,7 @@
   },
   
   {
-    "id": "ehl_2026103134",
+    "id": "ehl_2026103138",
     "league": "EHL",
     "team": "Narvik",
     "opponent": "Nidaros",
@@ -342,7 +380,7 @@
   },
   
   {
-    "id": "ehl_2026103135",
+    "id": "ehl_2026103139",
     "league": "EHL",
     "team": "Stavanger Oilers",
     "opponent": "Frisk Asker",
@@ -352,7 +390,7 @@
   },
   
   {
-    "id": "ehl_2026103136",
+    "id": "ehl_2026103140",
     "league": "EHL",
     "team": "Stjernen",
     "opponent": "Storhamar",
