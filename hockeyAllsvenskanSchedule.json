@@ -1,3 +1,814 @@
 [
+  {
+   "id": "ha_2026092834",
+   "league": "HockeyAllsvenskan",
+   "team": "Nybro Vikings",
+   "opponent": "Modo Hockey",
+   "arena": "Liljas Arena",
+   "city": "Nybro, Sweden",
+   "date": "2026-09-28T17:00:00Z"
+ },
+ 
+ {
+   "id": "ha_2026092835",
+   "league": "HockeyAllsvenskan",
+   "team": "Västerås IK",
+   "opponent": "Kalmar HC",
+   "arena": "ABB Arena Nord",
+   "city": "Västerås, Sweden",
+   "date": "2026-09-28T17:00:00Z"
+ },
+ 
+ {
+   "id": "ha_2026093036",
+   "league": "HockeyAllsvenskan",
+   "team": "AIK",
+   "opponent": "Visby Roma HK",
+   "arena": "Hovet",
+   "city": "Stockholm, Sweden",
+   "date": "2026-09-30T17:00:00Z"
+ },
+ 
+ {
+   "id": "ha_2026093037",
+   "league": "HockeyAllsvenskan",
+   "team": "Almtuna IS",
+   "opponent": "Södertälje SK",
+   "arena": "Upplands Bilforum Arena",
+   "city": "Uppsala, Sweden",
+   "date": "2026-09-30T17:00:00Z"
+ },
+ 
+ {
+   "id": "ha_2026093038",
+   "league": "HockeyAllsvenskan",
+   "team": "IK Oskarshamn",
+   "opponent": "BIK Karlskoga",
+   "arena": "Be-Ge Hockey Center",
+   "city": "Oskarshamn, Sweden",
+   "date": "2026-09-30T17:00:00Z"
+ },
+ 
+ {
+   "id": "ha_2026093039",
+   "league": "HockeyAllsvenskan",
+   "team": "Leksands IF",
+   "opponent": "Västerås IK",
+   "arena": "Tegera Arena",
+   "city": "Leksand, Sweden",
+   "date": "2026-09-30T17:00:00Z"
+ },
+ 
+ {
+   "id": "ha_2026093040",
+   "league": "HockeyAllsvenskan",
+   "team": "Mora IK",
+   "opponent": "Nybro Vikings",
+   "arena": "Smidjegrav Arena",
+   "city": "Mora, Sweden",
+   "date": "2026-09-30T17:00:00Z"
+ },
+ 
+ {
+   "id": "ha_2026093041",
+   "league": "HockeyAllsvenskan",
+   "team": "Vimmerby HC",
+   "opponent": "Modo Hockey",
+   "arena": "VBO Arena",
+   "city": "Vimmerby, Sweden",
+   "date": "2026-09-30T17:00:00Z"
+ },
+ 
+ {
+   "id": "ha_2026093042",
+   "league": "HockeyAllsvenskan",
+   "team": "Östersunds IK",
+   "opponent": "Kalmar HC",
+   "arena": "Östersund Arena",
+   "city": "Östersund, Sweden",
+   "date": "2026-09-30T17:00:00Z"
+ },
+
+ {
+  "id": "ha_2026100201",
+  "league": "HockeyAllsvenskan",
+  "team": "BIK Karlskoga",
+  "opponent": "Leksands IF",
+  "arena": "Nobelhallen",
+  "city": "Karlskoga, Sweden",
+  "date": "2026-10-02T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100202",
+  "league": "HockeyAllsvenskan",
+  "team": "Kalmar HC",
+  "opponent": "Mora IK",
+  "arena": "Hatstore Arena",
+  "city": "Kalmar, Sweden",
+  "date": "2026-10-02T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100203",
+  "league": "HockeyAllsvenskan",
+  "team": "Nybro Vikings",
+  "opponent": "AIK",
+  "arena": "Liljas Arena",
+  "city": "Nybro, Sweden",
+  "date": "2026-10-02T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100204",
+  "league": "HockeyAllsvenskan",
+  "team": "Södertälje SK",
+  "opponent": "Östersunds IK",
+  "arena": "Scaniarinken",
+  "city": "Södertälje, Sweden",
+  "date": "2026-10-02T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100205",
+  "league": "HockeyAllsvenskan",
+  "team": "Vimmerby HC",
+  "opponent": "Almtuna IS",
+  "arena": "VBO Arena",
+  "city": "Vimmerby, Sweden",
+  "date": "2026-10-02T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100206",
+  "league": "HockeyAllsvenskan",
+  "team": "Visby Roma HK",
+  "opponent": "Modo Hockey",
+  "arena": "Visby ishall",
+  "city": "Visby, Sweden",
+  "date": "2026-10-02T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100207",
+  "league": "HockeyAllsvenskan",
+  "team": "Västerås IK",
+  "opponent": "IK Oskarshamn",
+  "arena": "ABB Arena Nord",
+  "city": "Västerås, Sweden",
+  "date": "2026-10-02T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100308",
+  "league": "HockeyAllsvenskan",
+  "team": "Leksands IF",
+  "opponent": "IK Oskarshamn",
+  "arena": "Tegera Arena",
+  "city": "Leksand, Sweden",
+  "date": "2026-10-03T16:00:00Z"
+},
+
+{
+  "id": "ha_2026100709",
+  "league": "HockeyAllsvenskan",
+  "team": "Almtuna IS",
+  "opponent": "Visby Roma HK",
+  "arena": "Upplands Bilforum Arena",
+  "city": "Uppsala, Sweden",
+  "date": "2026-10-07T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100710",
+  "league": "HockeyAllsvenskan",
+  "team": "BIK Karlskoga",
+  "opponent": "Mora IK",
+  "arena": "Nobelhallen",
+  "city": "Karlskoga, Sweden",
+  "date": "2026-10-07T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100711",
+  "league": "HockeyAllsvenskan",
+  "team": "IK Oskarshamn",
+  "opponent": "AIK",
+  "arena": "Be-Ge Hockey Center",
+  "city": "Oskarshamn, Sweden",
+  "date": "2026-10-07T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100712",
+  "league": "HockeyAllsvenskan",
+  "team": "Leksands IF",
+  "opponent": "Nybro Vikings",
+  "arena": "Tegera Arena",
+  "city": "Leksand, Sweden",
+  "date": "2026-10-07T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100713",
+  "league": "HockeyAllsvenskan",
+  "team": "Modo Hockey",
+  "opponent": "Södertälje SK",
+  "arena": "Hägglunds Arena",
+  "city": "Örnsköldsvik, Sweden",
+  "date": "2026-10-07T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100714",
+  "league": "HockeyAllsvenskan",
+  "team": "Vimmerby HC",
+  "opponent": "Kalmar HC",
+  "arena": "VBO Arena",
+  "city": "Vimmerby, Sweden",
+  "date": "2026-10-07T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100715",
+  "league": "HockeyAllsvenskan",
+  "team": "Västerås IK",
+  "opponent": "Östersunds IK",
+  "arena": "ABB Arena Nord",
+  "city": "Västerås, Sweden",
+  "date": "2026-10-07T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100916",
+  "league": "HockeyAllsvenskan",
+  "team": "AIK",
+  "opponent": "BIK Karlskoga",
+  "arena": "Hovet",
+  "city": "Stockholm, Sweden",
+  "date": "2026-10-09T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100917",
+  "league": "HockeyAllsvenskan",
+  "team": "Kalmar HC",
+  "opponent": "Almtuna IS",
+  "arena": "Hatstore Arena",
+  "city": "Kalmar, Sweden",
+  "date": "2026-10-09T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100918",
+  "league": "HockeyAllsvenskan",
+  "team": "Mora IK",
+  "opponent": "IK Oskarshamn",
+  "arena": "Smidjegrav Arena",
+  "city": "Mora, Sweden",
+  "date": "2026-10-09T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100919",
+  "league": "HockeyAllsvenskan",
+  "team": "Nybro Vikings",
+  "opponent": "Västerås IK",
+  "arena": "Liljas Arena",
+  "city": "Nybro, Sweden",
+  "date": "2026-10-09T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100920",
+  "league": "HockeyAllsvenskan",
+  "team": "Södertälje SK",
+  "opponent": "Vimmerby HC",
+  "arena": "Scaniarinken",
+  "city": "Södertälje, Sweden",
+  "date": "2026-10-09T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100921",
+  "league": "HockeyAllsvenskan",
+  "team": "Visby Roma HK",
+  "opponent": "Leksands IF",
+  "arena": "Visby ishall",
+  "city": "Visby, Sweden",
+  "date": "2026-10-09T17:00:00Z"
+},
+
+{
+  "id": "ha_2026100922",
+  "league": "HockeyAllsvenskan",
+  "team": "Östersunds IK",
+  "opponent": "Modo Hockey",
+  "arena": "Östersund Arena",
+  "city": "Östersund, Sweden",
+  "date": "2026-10-09T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101123",
+  "league": "HockeyAllsvenskan",
+  "team": "Almtuna IS",
+  "opponent": "Nybro Vikings",
+  "arena": "Upplands Bilforum Arena",
+  "city": "Uppsala, Sweden",
+  "date": "2026-10-11T12:00:00Z"
+},
+
+{
+  "id": "ha_2026101124",
+  "league": "HockeyAllsvenskan",
+  "team": "Modo Hockey",
+  "opponent": "BIK Karlskoga",
+  "arena": "Hägglunds Arena",
+  "city": "Örnsköldsvik, Sweden",
+  "date": "2026-10-11T14:30:00Z"
+},
+
+{
+  "id": "ha_2026101125",
+  "league": "HockeyAllsvenskan",
+  "team": "Södertälje SK",
+  "opponent": "Mora IK",
+  "arena": "Scaniarinken",
+  "city": "Södertälje, Sweden",
+  "date": "2026-10-11T14:30:00Z"
+},
+
+{
+  "id": "ha_2026101126",
+  "league": "HockeyAllsvenskan",
+  "team": "Visby Roma HK",
+  "opponent": "Västerås IK",
+  "arena": "Visby ishall",
+  "city": "Visby, Sweden",
+  "date": "2026-10-11T15:00:00Z"
+},
+
+{
+  "id": "ha_2026101227",
+  "league": "HockeyAllsvenskan",
+  "team": "AIK",
+  "opponent": "Östersunds IK",
+  "arena": "Hovet",
+  "city": "Stockholm, Sweden",
+  "date": "2026-10-12T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101428",
+  "league": "HockeyAllsvenskan",
+  "team": "Almtuna IS",
+  "opponent": "AIK",
+  "arena": "Upplands Bilforum Arena",
+  "city": "Uppsala, Sweden",
+  "date": "2026-10-14T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101429",
+  "league": "HockeyAllsvenskan",
+  "team": "BIK Karlskoga",
+  "opponent": "Östersunds IK",
+  "arena": "Nobelhallen",
+  "city": "Karlskoga, Sweden",
+  "date": "2026-10-14T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101430",
+  "league": "HockeyAllsvenskan",
+  "team": "Kalmar HC",
+  "opponent": "Södertälje SK",
+  "arena": "Hatstore Arena",
+  "city": "Kalmar, Sweden",
+  "date": "2026-10-14T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101431",
+  "league": "HockeyAllsvenskan",
+  "team": "Leksands IF",
+  "opponent": "Vimmerby HC",
+  "arena": "Tegera Arena",
+  "city": "Leksand, Sweden",
+  "date": "2026-10-14T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101432",
+  "league": "HockeyAllsvenskan",
+  "team": "Mora IK",
+  "opponent": "Visby Roma HK",
+  "arena": "Smidjegrav Arena",
+  "city": "Mora, Sweden",
+  "date": "2026-10-14T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101433",
+  "league": "HockeyAllsvenskan",
+  "team": "Nybro Vikings",
+  "opponent": "IK Oskarshamn",
+  "arena": "Liljas Arena",
+  "city": "Nybro, Sweden",
+  "date": "2026-10-14T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101434",
+  "league": "HockeyAllsvenskan",
+  "team": "Västerås IK",
+  "opponent": "Modo Hockey",
+  "arena": "ABB Arena Nord",
+  "city": "Västerås, Sweden",
+  "date": "2026-10-14T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101635",
+  "league": "HockeyAllsvenskan",
+  "team": "AIK",
+  "opponent": "Västerås IK",
+  "arena": "Hovet",
+  "city": "Stockholm, Sweden",
+  "date": "2026-10-16T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101636",
+  "league": "HockeyAllsvenskan",
+  "team": "IK Oskarshamn",
+  "opponent": "Almtuna IS",
+  "arena": "Be-Ge Hockey Center",
+  "city": "Oskarshamn, Sweden",
+  "date": "2026-10-16T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101637",
+  "league": "HockeyAllsvenskan",
+  "team": "Kalmar HC",
+  "opponent": "Modo Hockey",
+  "arena": "Hatstore Arena",
+  "city": "Kalmar, Sweden",
+  "date": "2026-10-16T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101638",
+  "league": "HockeyAllsvenskan",
+  "team": "Södertälje SK",
+  "opponent": "Nybro Vikings",
+  "arena": "Scaniarinken",
+  "city": "Södertälje, Sweden",
+  "date": "2026-10-16T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101639",
+  "league": "HockeyAllsvenskan",
+  "team": "Vimmerby HC",
+  "opponent": "Mora IK",
+  "arena": "VBO Arena",
+  "city": "Vimmerby, Sweden",
+  "date": "2026-10-16T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101640",
+  "league": "HockeyAllsvenskan",
+  "team": "Visby Roma HK",
+  "opponent": "BIK Karlskoga",
+  "arena": "Visby ishall",
+  "city": "Visby, Sweden",
+  "date": "2026-10-16T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101641",
+  "league": "HockeyAllsvenskan",
+  "team": "Östersunds IK",
+  "opponent": "Leksands IF",
+  "arena": "Östersund Arena",
+  "city": "Östersund, Sweden",
+  "date": "2026-10-16T17:00:00Z"
+},
+
+{
+  "id": "ha_2026101742",
+  "league": "HockeyAllsvenskan",
+  "team": "IK Oskarshamn",
+  "opponent": "Kalmar HC",
+  "arena": "Be-Ge Hockey Center",
+  "city": "Oskarshamn, Sweden",
+  "date": "2026-10-17T16:00:00Z"
+},
+
+{
+  "id": "ha_2026102143",
+  "league": "HockeyAllsvenskan",
+  "team": "Leksands IF",
+  "opponent": "Kalmar HC",
+  "arena": "Tegera Arena",
+  "city": "Leksand, Sweden",
+  "date": "2026-10-21T17:00:00Z"
+},
+
+{
+  "id": "ha_2026102144",
+  "league": "HockeyAllsvenskan",
+  "team": "Modo Hockey",
+  "opponent": "IK Oskarshamn",
+  "arena": "Hägglunds Arena",
+  "city": "Örnsköldsvik, Sweden",
+  "date": "2026-10-21T17:00:00Z"
+},
+
+{
+  "id": "ha_2026102145",
+  "league": "HockeyAllsvenskan",
+  "team": "Mora IK",
+  "opponent": "Almtuna IS",
+  "arena": "Smidjegrav Arena",
+  "city": "Mora, Sweden",
+  "date": "2026-10-21T17:00:00Z"
+},
+
+{
+  "id": "ha_2026102146",
+  "league": "HockeyAllsvenskan",
+  "team": "Nybro Vikings",
+  "opponent": "Visby Roma HK",
+  "arena": "Liljas Arena",
+  "city": "Nybro, Sweden",
+  "date": "2026-10-21T17:00:00Z"
+},
+
+{
+  "id": "ha_2026102147",
+  "league": "HockeyAllsvenskan",
+  "team": "Södertälje SK",
+  "opponent": "BIK Karlskoga",
+  "arena": "Scaniarinken",
+  "city": "Södertälje, Sweden",
+  "date": "2026-10-21T17:00:00Z"
+},
+
+{
+  "id": "ha_2026102148",
+  "league": "HockeyAllsvenskan",
+  "team": "Vimmerby HC",
+  "opponent": "Västerås IK",
+  "arena": "VBO Arena",
+  "city": "Vimmerby, Sweden",
+  "date": "2026-10-21T17:00:00Z"
+},
+
+{
+  "id": "ha_2026102149",
+  "league": "HockeyAllsvenskan",
+  "team": "Östersunds IK",
+  "opponent": "AIK",
+  "arena": "Östersund Arena",
+  "city": "Östersund, Sweden",
+  "date": "2026-10-21T17:00:00Z"
+},
+
+{
+  "id": "ha_2026102350",
+  "league": "HockeyAllsvenskan",
+  "team": "Modo Hockey",
+  "opponent": "AIK",
+  "arena": "Hägglunds Arena",
+  "city": "Örnsköldsvik, Sweden",
+  "date": "2026-10-23T16:00:00Z"
+},
+
+{
+  "id": "ha_2026102351",
+  "league": "HockeyAllsvenskan",
+  "team": "Almtuna IS",
+  "opponent": "Vimmerby HC",
+  "arena": "Upplands Bilforum Arena",
+  "city": "Uppsala, Sweden",
+  "date": "2026-10-23T17:00:00Z"
+},
+
+{
+  "id": "ha_2026102352",
+  "league": "HockeyAllsvenskan",
+  "team": "BIK Karlskoga",
+  "opponent": "Visby Roma HK",
+  "arena": "Nobelhallen",
+  "city": "Karlskoga, Sweden",
+  "date": "2026-10-23T17:00:00Z"
+},
+
+{
+  "id": "ha_2026102353",
+  "league": "HockeyAllsvenskan",
+  "team": "IK Oskarshamn",
+  "opponent": "Mora IK",
+  "arena": "Be-Ge Hockey Center",
+  "city": "Oskarshamn, Sweden",
+  "date": "2026-10-23T17:00:00Z"
+},
+
+{
+  "id": "ha_2026102354",
+  "league": "HockeyAllsvenskan",
+  "team": "Nybro Vikings",
+  "opponent": "Södertälje SK",
+  "arena": "Liljas Arena",
+  "city": "Nybro, Sweden",
+  "date": "2026-10-23T17:00:00Z"
+},
+
+{
+  "id": "ha_2026102355",
+  "league": "HockeyAllsvenskan",
+  "team": "Östersunds IK",
+  "opponent": "Västerås IK",
+  "arena": "Östersund Arena",
+  "city": "Östersund, Sweden",
+  "date": "2026-10-23T17:00:00Z"
+},
+
+{
+  "id": "ha_2026102356",
+  "league": "HockeyAllsvenskan",
+  "team": "Kalmar HC",
+  "opponent": "Leksands IF",
+  "arena": "Hatstore Arena",
+  "city": "Kalmar, Sweden",
+  "date": "2026-10-23T18:30:00Z"
+},
+
+{
+  "id": "ha_2026102857",
+  "league": "HockeyAllsvenskan",
+  "team": "AIK",
+  "opponent": "Vimmerby HC",
+  "arena": "Hovet",
+  "city": "Stockholm, Sweden",
+  "date": "2026-10-28T18:00:00Z"
+},
+
+{
+  "id": "ha_2026102858",
+  "league": "HockeyAllsvenskan",
+  "team": "Almtuna IS",
+  "opponent": "Västerås IK",
+  "arena": "Upplands Bilforum Arena",
+  "city": "Uppsala, Sweden",
+  "date": "2026-10-28T18:00:00Z"
+},
+
+{
+  "id": "ha_2026102859",
+  "league": "HockeyAllsvenskan",
+  "team": "Kalmar HC",
+  "opponent": "Östersunds IK",
+  "arena": "Hatstore Arena",
+  "city": "Kalmar, Sweden",
+  "date": "2026-10-28T18:00:00Z"
+},
+
+{
+  "id": "ha_2026102860",
+  "league": "HockeyAllsvenskan",
+  "team": "Leksands IF",
+  "opponent": "BIK Karlskoga",
+  "arena": "Tegera Arena",
+  "city": "Leksand, Sweden",
+  "date": "2026-10-28T18:00:00Z"
+},
+
+{
+  "id": "ha_2026102861",
+  "league": "HockeyAllsvenskan",
+  "team": "Mora IK",
+  "opponent": "Södertälje SK",
+  "arena": "Smidjegrav Arena",
+  "city": "Mora, Sweden",
+  "date": "2026-10-28T18:00:00Z"
+},
+
+{
+  "id": "ha_2026102862",
+  "league": "HockeyAllsvenskan",
+  "team": "Nybro Vikings",
+  "opponent": "Modo Hockey",
+  "arena": "Liljas Arena",
+  "city": "Nybro, Sweden",
+  "date": "2026-10-28T18:00:00Z"
+},
+
+{
+  "id": "ha_2026102863",
+  "league": "HockeyAllsvenskan",
+  "team": "Visby Roma HK",
+  "opponent": "IK Oskarshamn",
+  "arena": "Visby ishall",
+  "city": "Visby, Sweden",
+  "date": "2026-10-28T18:00:00Z"
+},
+
+{
+  "id": "ha_2026103064",
+  "league": "HockeyAllsvenskan",
+  "team": "AIK",
+  "opponent": "Leksands IF",
+  "arena": "Hovet",
+  "city": "Stockholm, Sweden",
+  "date": "2026-10-30T18:00:00Z"
+},
+
+{
+  "id": "ha_2026103065",
+  "league": "HockeyAllsvenskan",
+  "team": "BIK Karlskoga",
+  "opponent": "Nybro Vikings",
+  "arena": "Nobelhallen",
+  "city": "Karlskoga, Sweden",
+  "date": "2026-10-30T18:00:00Z"
+},
+
+{
+  "id": "ha_2026103066",
+  "league": "HockeyAllsvenskan",
+  "team": "IK Oskarshamn",
+  "opponent": "Östersunds IK",
+  "arena": "Be-Ge Hockey Center",
+  "city": "Oskarshamn, Sweden",
+  "date": "2026-10-30T18:00:00Z"
+},
+
+{
+  "id": "ha_2026103067",
+  "league": "HockeyAllsvenskan",
+  "team": "Mora IK",
+  "opponent": "Almtuna IS",
+  "arena": "Smidjegrav Arena",
+  "city": "Mora, Sweden",
+  "date": "2026-10-30T18:00:00Z"
+},
+
+{
+  "id": "ha_2026103068",
+  "league": "HockeyAllsvenskan",
+  "team": "Vimmerby HC",
+  "opponent": "Modo Hockey",
+  "arena": "VBO Arena",
+  "city": "Vimmerby, Sweden",
+  "date": "2026-10-30T18:00:00Z"
+},
+
+{
+  "id": "ha_2026103069",
+  "league": "HockeyAllsvenskan",
+  "team": "Visby Roma HK",
+  "opponent": "Södertälje SK",
+  "arena": "Visby ishall",
+  "city": "Visby, Sweden",
+  "date": "2026-10-30T18:00:00Z"
+},
+
+{
+  "id": "ha_2026103070",
+  "league": "HockeyAllsvenskan",
+  "team": "Västerås IK",
+  "opponent": "Kalmar HC",
+  "arena": "ABB Arena Nord",
+  "city": "Västerås, Sweden",
+  "date": "2026-10-30T18:00:00Z"
+},
+
+{
+  "id": "ha_2026103171",
+  "league": "HockeyAllsvenskan",
+  "team": "IK Oskarshamn",
+  "opponent": "Modo Hockey",
+  "arena": "Be-Ge Hockey Center",
+  "city": "Oskarshamn, Sweden",
+  "date": "2026-10-31T14:00:00Z"
+},
+
+{
+  "id": "ha_2026103172",
+  "league": "HockeyAllsvenskan",
+  "team": "Almtuna IS",
+  "opponent": "AIK",
+  "arena": "Upplands Bilforum Arena",
+  "city": "Uppsala, Sweden",
+  "date": "2026-10-31T17:00:00Z"
+}
+
+
  
 ]
