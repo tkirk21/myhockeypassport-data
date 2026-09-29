@@ -15784,8 +15784,98 @@
     "startDate": "2026-10-17",
     "endDate": "2026-10-18",
     "arenaId": "young_arena_waterloo"
-  }
+  },
 
+  
+  {
+    "teamName": "Modo Hockey",
+    "teamCode": "MODO",
+    "arena": "Hägglunds Arena",
+    "city": "Örnsköldsvik, Sweden",
+    "address": "Viktoriaesplanaden 1, 891 39 Örnsköldsvik, Sweden",
+    "website": "https://www.modohockey.se",
+    "latitude": 63.2838226634512,
+    "longitude": 18.7248925784592,
+    "colorCode": "#E01C21",
+    "colorCode2": "#007C30",
+    "colorCode3": "#FFFFFF",
+    "league": "SHL",
+    "timezone": "Europe/Stockholm",
+    "arenaId": "hgglunds_arena_rnskldsvik"
+    "startDate": "2023-09-01",
+    "endDate": "2026-06-30"
+  },
+  {
+    "teamName": "Brynäs IF",
+    "teamCode": "BIF",
+    "arena": "Monitor ERP Arena",
+    "city": "Gävle, Sweden",
+    "address": "Gavlehovsvägen 13, 806 33 Gävle, Sweden",
+    "website": "https://brynas.se",
+    "latitude": 60.6911694262979,
+    "longitude": 17.1325930102109,
+    "colorCode": "#000000",
+    "colorCode2": "#FF0000",
+    "colorCode3": "#FFCC00",
+    "league": "HockeyAllsvenskan",
+    "timezone": "Europe/Stockholm",
+    "arenaId": "monitor_erp_arena_gvle"
+    "startDate": "2025-09-01",
+    "endDate": "2026-06-30"
+  },
+  {
+    "teamName": "Djurgårdens IF",
+    "teamCode": "DIF",
+    "arena": "Hovet",
+    "city": "Stockholm, Sweden",
+    "address": "Arenaslingan 9, 121 77 Johanneshov, Sweden",
+    "website": "https://difhockey.se",
+    "latitude": 59.2946098550533,
+    "longitude": 18.0818175800473,
+    "colorCode": "#FFEC0D",
+    "colorCode2": "#E21F26",
+    "colorCode3": "#0568AF",
+    "league": "HockeyAllsvenskan",
+    "timezone": "Europe/Stockholm",
+    "arenaId": "hovet_stockholm"
+    "startDate": "2025-09-01",
+    "endDate": "2026-06-30"
+  },
+  {
+    "teamName": "Tingsryds AIF",
+    "teamCode": "TAIF",
+    "arena": "Dackehallen",
+    "city": "Tingsryd, Sweden",
+    "address": "Torggatan 32A, 362 30 Tingsryd, Sweden",
+    "website": "https://taif.nu",
+    "latitude": 56.5303484400746,
+    "longitude": 14.9824173722592,
+    "colorCode": "#007E53",
+    "colorCode": "#FFFFFF",
+    "league": "HockeyAllsvenskan",
+    "timezone": "Europe/Stockholm",
+    "arenaId": "dackehallen_tingsryd"
+    "startDate": "2015-09-01",
+    "endDate": "2025-06-30"
+  },
+  {
+    "teamName": "Västerviks IK",
+    "teamCode": "VäIK",
+    "arena": "Plivit Arena",
+    "city": "Västervik, Sweden",
+    "address": "Östersjövägen, 593 53 Västervik, Sweden",
+    "website": "https://vikhockey.se",
+    "latitude": 57.7475518335159,
+    "longitude": 16.6448206460208,
+    "colorCode": "#D11E24",
+    "colorCode2": "#002654",
+    "league": "HockeyAllsvenskan",
+    "timezone": "Europe/Stockholm",
+    "arenaId": "plivit_arena_vstervik"
+   "startDate": "2016-09-01",
+    "endDate": "2024-06-30"
+  }
+  
 
   
   
