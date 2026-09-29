@@ -7144,11 +7144,30 @@
     "website": "https://www.brynas.se",
     "latitude": 60.6911312627921,
     "longitude": 17.1325013582942,
-    "color": "Black",
     "colorCode": "#000000",
+    "colorCode2": "#FF0000",
+    "colorCode3": "#FFCC00",
     "league": "SHL",
     "timezone": "Europe/Stockholm",
     "arenaId": "monitor_erp_arena_gvle"
+  },
+  {
+    "teamName": "Djurgårdens IF",
+    "teamCode": "DIF",
+    "arena": "Hovet",
+    "city": "Stockholm, Sweden",
+    "address": "Arenaslingan 9, 121 77 Johanneshov, Sweden",
+    "website": "https://difhockey.se",
+    "latitude": 59.2946098550533,
+    "longitude": 18.0818175800473,
+    "colorCode": "#FFEC0D",
+    "colorCode2": "#E21F26",
+    "colorCode3": "#0568AF",
+    "league": "SHL",
+    "timezone": "Europe/Stockholm",
+    "arenaId": "hovet_stockholm"
+    "startDate": "2026-09-01",
+    "endDate": null
   },
   {
     "teamName": "Färjestad BK",
@@ -7195,21 +7214,7 @@
     "timezone": "Europe/Stockholm",
     "arenaId": "husqvarna_garden_jnkping"
   },
-  {
-    "teamName": "Leksands IF",
-    "teamCode": "LIF",
-    "arena": "Tegera Arena",
-    "city": "Leksand, Sweden",
-    "address": "Arenatorget, 793 31 Leksand, Sweden",
-    "website": "https://www.leksandsif.se",
-    "latitude": 60.7351650045888,
-    "longitude": 14.9864673946048,
-    "color": "Blue",
-    "colorCode": "#005BAC",
-    "league": "SHL",
-    "timezone": "Europe/Stockholm",
-    "arenaId": "tegera_arena_leksand"
-  },
+  
   {
     "teamName": "Linköping HC",
     "teamCode": "LHC",
@@ -7254,21 +7259,6 @@
     "league": "SHL",
     "timezone": "Europe/Stockholm",
     "arenaId": "malm_arena_malm"
-  },
-  {
-    "teamName": "Modo Hockey",
-    "teamCode": "MODO",
-    "arena": "Hägglunds Arena",
-    "city": "Örnsköldsvik, Sweden",
-    "address": "Viktoriaesplanaden 1, 891 39 Örnsköldsvik, Sweden",
-    "website": "https://www.modohockey.se",
-    "latitude": 63.2838226634512,
-    "longitude": 18.7248925784592,
-    "color": "Red",
-    "colorCode": "#E30613",
-    "league": "SHL",
-    "timezone": "Europe/Stockholm",
-    "arenaId": "hgglunds_arena_rnskldsvik"
   },
   {
     "teamName": "Örebro HK",
@@ -7354,11 +7344,13 @@
     "website": "https://aikhockey.se",
     "latitude": 59.3659523068496,
     "longitude": 18.0131988171143,
-    "color": "Black",
     "colorCode": "#000000",
+    "colorCode2": "#FFCC00",
     "league": "HockeyAllsvenskan",
     "timezone": "Europe/Stockholm",
     "arenaId": "hovet_stockholm"
+    "startDate": "2014-09-01",
+    "endDate": null
   },
   {
     "teamName": "Almtuna IS",
@@ -7369,11 +7361,14 @@
     "website": "https://almtuna.com",
     "latitude": 59.880388806175,
     "longitude": 17.6564223658162,
-    "color": "Red",
-    "colorCode": "#D90429",
+    "colorCode": "#E92039",
+    "colorCode2": "#FFFFFF",
+    "colorCode3": "#FFDE00",
     "league": "HockeyAllsvenskan",
     "timezone": "Europe/Stockholm",
     "arenaId": "upplands_bilforum_arena_uppsala"
+    "startDate": "2010-09-01",
+    "endDate": null
   },
   {
     "teamName": "IF Björklöven",
@@ -7382,28 +7377,13 @@
     "city": "Umeå, Sweden",
     "address": "Tegsvägen 20, 904 33 Umeå, Sweden",
     "website": "https://bjorkloven.com",
-    "latitude": 63.8153049477612,
-    "longitude": 20.2421917967112,
-    "color": "Forest Green",
-    "colorCode": "#1E5631",
+    "colorCode": "#006241",
+    "colorCode2": "#F0D300",
     "league": "HockeyAllsvenskan",
     "timezone": "Europe/Stockholm",
     "arenaId": "winpos_arena_ume"
-  },
-  {
-    "teamName": "Brynäs IF",
-    "teamCode": "BIF",
-    "arena": "Monitor ERP Arena",
-    "city": "Gävle, Sweden",
-    "address": "Gavlehovsvägen 13, 806 33 Gävle, Sweden",
-    "website": "https://brynas.se",
-    "latitude": 60.6911694262979,
-    "longitude": 17.1325930102109,
-    "color": "Black",
-    "colorCode": "#000000",
-    "league": "HockeyAllsvenskan",
-    "timezone": "Europe/Stockholm",
-    "arenaId": "monitor_erp_arena_gvle"
+    "startDate": "2013-09-01",
+    "endDate": null
   },
   {
     "teamName": "BIK Karlskoga",
@@ -7414,27 +7394,15 @@
     "website": "https://bikkarlskoga.se",
     "latitude": 59.3365784434837,
     "longitude": 14.5202737482417,
-    "color": "Royal Blue",
-    "colorCode": "#005BAC",
+    "colorCode": "#006DBD",
+    "colorCode2": "#FFFFFF",
     "league": "HockeyAllsvenskan",
     "timezone": "Europe/Stockholm",
     "arenaId": "nobelhallen_karlskoga"
+    "startDate": "2011-09-01",
+    "endDate": null
   },
-  {
-    "teamName": "Djurgårdens IF",
-    "teamCode": "DIF",
-    "arena": "Hovet",
-    "city": "Stockholm, Sweden",
-    "address": "Arenaslingan 9, 121 77 Johanneshov, Sweden",
-    "website": "https://difhockey.se",
-    "latitude": 59.2946098550533,
-    "longitude": 18.0818175800473,
-    "color": "Navy Blue",
-    "colorCode": "#002F6C",
-    "league": "HockeyAllsvenskan",
-    "timezone": "Europe/Stockholm",
-    "arenaId": "hovet_stockholm"
-  },
+  
   {
     "teamName": "Kalmar HC",
     "teamCode": "KHC",
@@ -7444,11 +7412,49 @@
     "website": "https://kalmarhockey.com",
     "latitude": 56.6684378745468,
     "longitude": 16.3474923936285,
-    "color": "Red",
-    "colorCode": "#C8102E",
+    "colorCode": "#B20D0B",
+    "colorCode2": "#FDC800",
     "league": "HockeyAllsvenskan",
     "timezone": "Europe/Stockholm",
     "arenaId": "hatstore_arena_kalmar"
+    "startDate": "2023-09-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Leksands IF",
+    "teamCode": "LEK",
+    "arena": "Tegera Arena",
+    "city": "Leksand, Sweden",
+    "address": "Arenatorget, 793 31 Leksand, Sweden",
+    "website": "https://www.leksandsif.se",
+    "latitude": 60.7351650045888,
+    "longitude": 14.9864673946048,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#001489",
+    "colorCode3": "#FFD400",
+    "league": "HockeyAllsvenskan",
+    "timezone": "Europe/Stockholm",
+    "arenaId": "tegera_arena_leksand"
+  "startDate": "2026-09-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Modo Hockey",
+    "teamCode": "MODO",
+    "arena": "Hägglunds Arena",
+    "city": "Örnsköldsvik, Sweden",
+    "address": "Viktoriaesplanaden 1, 891 39 Örnsköldsvik, Sweden",
+    "website": "https://www.modohockey.se",
+    "latitude": 63.2838226634512,
+    "longitude": 18.7248925784592,
+    "colorCode": "#E01C21",
+    "colorCode2": "#007C30",
+    "colorCode3": "#FFFFFF",
+    "league": "HockeyAllsvenskan",
+    "timezone": "Europe/Stockholm",
+    "arenaId": "hgglunds_arena_rnskldsvik"
+    "startDate": "2026-09-01",
+    "endDate": null
   },
   {
     "teamName": "Mora IK",
@@ -7459,11 +7465,14 @@
     "website": "https://moraik.se",
     "latitude": 61.0069551990798,
     "longitude": 14.5307467181601,
-    "color": "Red",
-    "colorCode": "#DA291C",
+    "colorCode": "#E01C21",
+    "colorCode2": "#007C30",
+    "colorCode3": "#FFFFFF",
     "league": "HockeyAllsvenskan",
     "timezone": "Europe/Stockholm",
     "arenaId": "smidjegrav_arena_mora_sweden"
+    "startDate": "2019-09-01",
+    "endDate": null
   },
   {
     "teamName": "Nybro Vikings",
@@ -7474,12 +7483,50 @@
     "website": "https://nybrovikings.com",
     "latitude": 56.7381003877307,
     "longitude": 15.9122925897984,
-    "color": "Red",
     "colorCode": "#D22730",
+    "colorCode2": "#000000",
+    "colorCode3": "#FFFFFF",
     "league": "HockeyAllsvenskan",
     "timezone": "Europe/Stockholm",
     "arenaId": "liljas_arena_nybro"
-  },
+    "startDate": "2023-09-01",
+    "endDate": null
+  },  
+  {
+    "teamName": "IK Oskarshamn",
+    "teamCode": "OSK",
+    "arena": "Be-Ge Hockey Center",
+    "city": "Oskarshamn, Sweden",
+    "address": "Döderhultsvägen 5, 572 31 Oskarshamn, Sweden",
+    "website": "ikoskarshamn.se",
+    "latitude": 57.26378913082776, 
+    "longitude": 16.435744956025495,
+    "colorCode": "#0D4082",
+    "colorCode2": "#FFFFFF",
+    "colorCode3": "#EE1229",
+    "league": "HockeyAllsvenskan",
+    "timezone": "Europe/Stockholm",
+    "arenaId": "be-ge_hockey_center_oskarshamn"
+    "startDate": "2024-09-01",
+    "endDate": null
+  },  
+  {
+    "teamName": "Östersunds IK",
+    "teamCode": "ÖIK",
+    "arena": "Östersund Arena",
+    "city": "Östersund, Sweden",
+    "address": "Arenavägen 27, 831 58 Östersund, Sweden",
+    "website": "https://ostersundik.com",
+    "latitude": 63.1958976013493,
+    "longitude": 14.6612058187866,
+    "colorCode": "#00A850",
+    "colorCode2": "#FFF200",
+    "league": "HockeyAllsvenskan",
+    "timezone": "Europe/Stockholm",
+    "arenaId": "stersund_arena_stersund"
+    "startDate": "2022-09-01",
+    "endDate": null
+  },  
   {
     "teamName": "Södertälje SK",
     "teamCode": "SöSK",
@@ -7490,41 +7537,14 @@
     "website": "https://sodertaljesk.se",
     "latitude": 59.189350272293,
     "longitude": 17.5703244498854,
-    "color": "Blue",
-    "colorCode": "#002F6C",
+    "colorCode": "#0064B0",
+    "colorCode2": "#FFDF00",
+    "colorCode3": "#FFFFFF",
     "league": "HockeyAllsvenskan",
     "timezone": "Europe/Stockholm"
-  },
-  {
-    "teamName": "Tingsryds AIF",
-    "teamCode": "TAIF",
-    "arena": "Dackehallen",
-    "city": "Tingsryd, Sweden",
-    "address": "Torggatan 32A, 362 30 Tingsryd, Sweden",
-    "website": "https://taif.nu",
-    "latitude": 56.5303484400746,
-    "longitude": 14.9824173722592,
-    "color": "Green",
-    "colorCode": "#0A5E2A",
-    "league": "HockeyAllsvenskan",
-    "timezone": "Europe/Stockholm",
-    "arenaId": "dackehallen_tingsryd"
-  },
-  {
-    "teamName": "Västerviks IK",
-    "teamCode": "VäIK",
-    "arena": "Plivit Arena",
-    "city": "Västervik, Sweden",
-    "address": "Östersjövägen, 593 53 Västervik, Sweden",
-    "website": "https://vikhockey.se",
-    "latitude": 57.7475518335159,
-    "longitude": 16.6448206460208,
-    "color": "Red",
-    "colorCode": "#C8102E",
-    "league": "HockeyAllsvenskan",
-    "timezone": "Europe/Stockholm",
-    "arenaId": "plivit_arena_vstervik"
-  },
+    "startDate": "2016-09-01",
+    "endDate": null
+  },  
   {
     "teamName": "Västerås IK",
     "teamCode": "VäIK",
@@ -7534,27 +7554,51 @@
     "website": "https://vik.se",
     "latitude": 59.6264373780874,
     "longitude": 16.5286980685073,
-    "color": "Black",
-    "colorCode": "#000000",
+    "colorCode": "#FDDD00",
+    "colorCode2": "#000000",
     "league": "HockeyAllsvenskan",
     "timezone": "Europe/Stockholm",
     "arenaId": "abb_arena_nord_vsters"
-  },
+    "startDate": "2019-09-01",
+    "endDate": null
+  },  
   {
-    "teamName": "Östersunds IK",
-    "teamCode": "ÖIK",
-    "arena": "Östersund Arena",
-    "city": "Östersund, Sweden",
-    "address": "Arenavägen 27, 831 58 Östersund, Sweden",
-    "website": "https://ostersundik.com",
-    "latitude": 63.1958976013493,
-    "longitude": 14.6612058187866,
-    "color": "Maroon",
-    "colorCode": "#800000",
+    "teamName": "Vimmerby HC",
+    "teamCode": "VIM",
+    "arena": "VBO Arena",
+    "city": "Vimmerby, Sweden",
+    "address": "Kungsgatan 52, 598 35 Vimmerby, Sweden",
+    "website": "vimmerbyhc.se",
+    "latitude": 57.671965029290476, 
+    "longitude": 15.871468056676715,
+    "colorCode": "#000000",
+    "colorCode2": "#FFFF00",
     "league": "HockeyAllsvenskan",
     "timezone": "Europe/Stockholm",
-    "arenaId": "stersund_arena_stersund"
+    "arenaId": "vbo_arena_vimmerby"
+    "startDate": "2024-09-01",
+    "endDate": null
   },
+  {
+    "teamName": "Visby Roma HK",
+    "teamCode": "VIS",
+    "arena": "Visby ishall",
+    "city": "Visby, Sweden",
+    "address": "Unnamed Road, 621 43 Visby, Sweden",
+    "website": "vimmerbyhc.se",
+    "latitude": 57.62622977104841, 
+    "longitude": 18.32948144569093,
+    "colorCode": "#000000",
+    "colorCode2": "#FFD700",
+    "colorCode3": "#C0C0C0",
+    "league": "HockeyAllsvenskan",
+    "timezone": "Europe/Stockholm",
+    "arenaId": "visby_ishall_visby"
+    "startDate": "2026-09-01",
+    "endDate": null
+  },
+
+  
   {
     "teamName": "Frisk Asker",
     "teamCode": "FRI",
