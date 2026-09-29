@@ -15786,7 +15786,24 @@
     "arenaId": "young_arena_waterloo"
   },
 
-  
+  {
+    "teamName": "Leksands IF",
+    "teamCode": "LEK",
+    "arena": "Tegera Arena",
+    "city": "Leksand, Sweden",
+    "address": "Arenatorget, 793 31 Leksand, Sweden",
+    "website": "https://www.leksandsif.se",
+    "latitude": 60.7351650045888,
+    "longitude": 14.9864673946048,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#001489",
+    "colorCode3": "#FFD400",
+    "league": "SHL",
+    "timezone": "Europe/Stockholm",
+    "arenaId": "tegera_arena_leksand"
+   "startDate": "2019-09-01",
+    "endDate": "2026-06-30"
+  },
   {
     "teamName": "Modo Hockey",
     "teamCode": "MODO",
