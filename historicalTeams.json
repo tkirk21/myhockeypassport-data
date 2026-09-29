@@ -15823,6 +15823,21 @@
     "endDate": "2026-06-30"
   },
   {
+    "teamName": "IF Björklöven",
+    "teamCode": "IFB",
+    "arena": "Winpos Arena",
+    "city": "Umeå, Sweden",
+    "address": "Tegsvägen 20, 904 33 Umeå, Sweden",
+    "website": "https://bjorkloven.com",
+    "colorCode": "#006241",
+    "colorCode2": "#F0D300",
+    "league": "HockeyAllsvenskan",
+    "timezone": "Europe/Stockholm",
+    "arenaId": "winpos_arena_ume"
+    "startDate": "2013-09-01",
+    "endDate": "2026-06-30"
+  },
+  {
     "teamName": "Brynäs IF",
     "teamCode": "BIF",
     "arena": "Monitor ERP Arena",
