@@ -1,3 +1,820 @@
 [
+  {
+    "id": "icehl_2026093033",
+    "league": "ICEHL",
+    "team": "Ferencvárosi TC",
+    "opponent": "Steinbach Black Wings Linz",
+    "arena": "Tüskecsarnok",
+    "city": "Budapest, Hungary",
+    "date": "2026-09-30T16:30:00Z"
+  },
   
+  {
+    "id": "icehl_2026093034",
+    "league": "ICEHL",
+    "team": "Graz99ers",
+    "opponent": "HC Pustertal Wölfe",
+    "arena": "Eisstadion Liebenau",
+    "city": " Graz, Austria",
+    "date": "2026-09-30T16:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026093035",
+    "league": "ICEHL",
+    "team": "EC KAC",
+    "opponent": "Milano Hockey Club",
+    "arena": "Stadthalle Klagenfurt",
+    "city": "Klagenfurt, Austria",
+    "date": "2026-09-30T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026093036",
+    "league": "ICEHL",
+    "team": "EC Red Bull Salzburg",
+    "opponent": "HC Bozen–Bolzano",
+    "arena": "Eisarena Salzburg",
+    "city": "Salzburg, Austria",
+    "date": "2026-09-30T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026093037",
+    "league": "ICEHL",
+    "team": "Fehérvár AV19",
+    "opponent": "EC iDM Wärmepumpen VSV",
+    "arena": "Alba Aréna",
+    "city": "Székesfehérvár,Hungary",
+    "date": "2026-09-30T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026093038",
+    "league": "ICEHL",
+    "team": "HC TIWAG Innsbruck",
+    "opponent": "Pioneers Vorarlberg",
+    "arena": "TIWAG Arena",
+    "city": "Innsbruck, Austria",
+    "date": "2026-09-30T17:15:00Z"
+  },
+  {
+    "id": "icehl_2026100201",
+    "league": "ICEHL",
+    "team": "EC iDM Wärmepumpen VSV",
+    "opponent": "Milano Hockey Club",
+    "arena": "Stadthalle Villach",
+    "city": "Villach, Austria",
+    "date": "2026-10-02T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100202",
+    "league": "ICEHL",
+    "team": "Fehérvár AV19",
+    "opponent": "Ferencvárosi TC",
+    "arena": "Alba Aréna",
+    "city": "Székesfehérvár,Hungary",
+    "date": "2026-10-02T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100203",
+    "league": "ICEHL",
+    "team": "Steinbach Black Wings Linz",
+    "opponent": "Graz99ers",
+    "arena": "Linz AG Eisarena",
+    "city": "Linz, Austria",
+    "date": "2026-10-02T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100204",
+    "league": "ICEHL",
+    "team": "Vienna Capitals",
+    "opponent": "HC TIWAG Innsbruck",
+    "arena": "Erste Bank Arena",
+    "city": "Vienna, Austria",
+    "date": "2026-10-02T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100205",
+    "league": "ICEHL",
+    "team": "Pioneers Vorarlberg",
+    "opponent": "EC Red Bull Salzburg",
+    "arena": "Vorarlberghalle",
+    "city": "Feldkirch, Austria",
+    "date": "2026-10-02T17:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100206",
+    "league": "ICEHL",
+    "team": "HC Bozen–Bolzano",
+    "opponent": "EC KAC",
+    "arena": "Sparkasse Arena",
+    "city": "Bolzano, Italy",
+    "date": "2026-10-02T17:45:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100207",
+    "league": "ICEHL",
+    "team": "HC Pustertal Wölfe",
+    "opponent": "HK Olimpija Ljubljana",
+    "arena": "Intercable Arena",
+    "city": "Bruneck, Italy",
+    "date": "2026-10-02T17:45:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100308",
+    "league": "ICEHL",
+    "team": "Graz99ers",
+    "opponent": "HC TIWAG Innsbruck",
+    "arena": "Eisstadion Liebenau",
+    "city": " Graz, Austria",
+    "date": "2026-10-03T15:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100409",
+    "league": "ICEHL",
+    "team": "EC Red Bull Salzburg",
+    "opponent": "Milano Hockey Club",
+    "arena": "Eisarena Salzburg",
+    "city": "Salzburg, Austria",
+    "date": "2026-10-04T13:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100410",
+    "league": "ICEHL",
+    "team": "HC Bozen–Bolzano",
+    "opponent": "Ferencvárosi TC",
+    "arena": "Sparkasse Arena",
+    "city": "Bolzano, Italy",
+    "date": "2026-10-04T14:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100411",
+    "league": "ICEHL",
+    "team": "HK Olimpija Ljubljana",
+    "opponent": "Pioneers Vorarlberg",
+    "arena": "Tivoli Hall",
+    "city": "Ljubljana, Slovenia",
+    "date": "2026-10-04T14:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100412",
+    "league": "ICEHL",
+    "team": "HC Pustertal Wölfe",
+    "opponent": "Fehérvár AV19",
+    "arena": "Intercable Arena",
+    "city": "Bruneck, Italy",
+    "date": "2026-10-04T15:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100413",
+    "league": "ICEHL",
+    "team": "EC iDM Wärmepumpen VSV",
+    "opponent": "Vienna Capitals",
+    "arena": "Stadthalle Villach",
+    "city": "Villach, Austria",
+    "date": "2026-10-04T15:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100414",
+    "league": "ICEHL",
+    "team": "Steinbach Black Wings Linz",
+    "opponent": "EC KAC",
+    "arena": "Linz AG Eisarena",
+    "city": "Linz, Austria",
+    "date": "2026-10-04T15:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100915",
+    "league": "ICEHL",
+    "team": "Ferencvárosi TC",
+    "opponent": "Vienna Capitals",
+    "arena": "Tüskecsarnok",
+    "city": "Budapest, Hungary",
+    "date": "2026-10-09T16:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100916",
+    "league": "ICEHL",
+    "team": "Graz99ers",
+    "opponent": "HK Olimpija Ljubljana",
+    "arena": "Eisstadion Liebenau",
+    "city": " Graz, Austria",
+    "date": "2026-10-09T16:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100917",
+    "league": "ICEHL",
+    "team": "EC iDM Wärmepumpen VSV",
+    "opponent": "HC Bozen–Bolzano",
+    "arena": "Stadthalle Villach",
+    "city": "Villach, Austria",
+    "date": "2026-10-09T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100918",
+    "league": "ICEHL",
+    "team": "Fehérvár AV19",
+    "opponent": "EC Red Bull Salzburg",
+    "arena": "Alba Aréna",
+    "city": "Székesfehérvár,Hungary",
+    "date": "2026-10-09T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100919",
+    "league": "ICEHL",
+    "team": "Steinbach Black Wings Linz",
+    "opponent": "HC Pustertal Wölfe",
+    "arena": "Linz AG Eisarena",
+    "city": "Linz, Austria",
+    "date": "2026-10-09T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100920",
+    "league": "ICEHL",
+    "team": "Pioneers Vorarlberg",
+    "opponent": "EC KAC",
+    "arena": "Vorarlberghalle",
+    "city": "Feldkirch, Austria",
+    "date": "2026-10-09T17:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026100921",
+    "league": "ICEHL",
+    "team": "Milano Hockey Club",
+    "opponent": "HC TIWAG Innsbruck",
+    "arena": "Fiera Ice Arena",
+    "city": "Rho, Italy",
+    "date": "2026-10-09T17:45:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101122",
+    "league": "ICEHL",
+    "team": "Fehérvár AV19",
+    "opponent": "Graz99ers",
+    "arena": "Alba Aréna",
+    "city": "Székesfehérvár,Hungary",
+    "date": "2026-10-11T14:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101123",
+    "league": "ICEHL",
+    "team": "HK Olimpija Ljubljana",
+    "opponent": "Ferencvárosi TC",
+    "arena": "Tivoli Hall",
+    "city": "Ljubljana, Slovenia",
+    "date": "2026-10-11T14:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101124",
+    "league": "ICEHL",
+    "team": "Vienna Capitals",
+    "opponent": "HC Pustertal Wölfe",
+    "arena": "Erste Bank Arena",
+    "city": "Vienna, Austria",
+    "date": "2026-10-11T14:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101125",
+    "league": "ICEHL",
+    "team": "Milano Hockey Club",
+    "opponent": "HC Bozen–Bolzano",
+    "arena": "Fiera Ice Arena",
+    "city": "Rho, Italy",
+    "date": "2026-10-11T15:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101126",
+    "league": "ICEHL",
+    "team": "Pioneers Vorarlberg",
+    "opponent": "Steinbach Black Wings Linz",
+    "arena": "Vorarlberghalle",
+    "city": "Feldkirch, Austria",
+    "date": "2026-10-11T15:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101127",
+    "league": "ICEHL",
+    "team": "EC KAC",
+    "opponent": "EC Red Bull Salzburg",
+    "arena": "Stadthalle Klagenfurt",
+    "city": "Klagenfurt, Austria",
+    "date": "2026-10-11T15:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101128",
+    "league": "ICEHL",
+    "team": "HC TIWAG Innsbruck",
+    "opponent": "EC iDM Wärmepumpen VSV",
+    "arena": "TIWAG Arena",
+    "city": "Innsbruck, Austria",
+    "date": "2026-10-11T15:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101629",
+    "league": "ICEHL",
+    "team": "Ferencvárosi TC",
+    "opponent": "Pioneers Vorarlberg",
+    "arena": "Tüskecsarnok",
+    "city": "Budapest, Hungary",
+    "date": "2026-10-16T16:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101630",
+    "league": "ICEHL",
+    "team": "EC KAC",
+    "opponent": "Vienna Capitals",
+    "arena": "Stadthalle Klagenfurt",
+    "city": "Klagenfurt, Austria",
+    "date": "2026-10-16T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101631",
+    "league": "ICEHL",
+    "team": "EC Red Bull Salzburg",
+    "opponent": "Steinbach Black Wings Linz",
+    "arena": "Eisarena Salzburg",
+    "city": "Salzburg, Austria",
+    "date": "2026-10-16T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101632",
+    "league": "ICEHL",
+    "team": "EC iDM Wärmepumpen VSV",
+    "opponent": "Graz99ers",
+    "arena": "Stadthalle Villach",
+    "city": "Villach, Austria",
+    "date": "2026-10-16T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101633",
+    "league": "ICEHL",
+    "team": "HK Olimpija Ljubljana",
+    "opponent": "HC Bozen–Bolzano",
+    "arena": "Tivoli Hall",
+    "city": "Ljubljana, Slovenia",
+    "date": "2026-10-16T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101634",
+    "league": "ICEHL",
+    "team": "HC Pustertal Wölfe",
+    "opponent": "HC TIWAG Innsbruck",
+    "arena": "Intercable Arena",
+    "city": "Bruneck, Italy",
+    "date": "2026-10-16T17:45:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101735",
+    "league": "ICEHL",
+    "team": "Milano Hockey Club",
+    "opponent": "Fehérvár AV19",
+    "arena": "Fiera Ice Arena",
+    "city": "Rho, Italy",
+    "date": "2026-10-17T15:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101736",
+    "league": "ICEHL",
+    "team": "Vienna Capitals",
+    "opponent": "Pioneers Vorarlberg",
+    "arena": "Erste Bank Arena",
+    "city": "Vienna, Austria",
+    "date": "2026-10-17T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101837",
+    "league": "ICEHL",
+    "team": "EC iDM Wärmepumpen VSV",
+    "opponent": "HC Pustertal Wölfe",
+    "arena": "Stadthalle Villach",
+    "city": "Villach, Austria",
+    "date": "2026-10-18T11:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101838",
+    "league": "ICEHL",
+    "team": "Ferencvárosi TC",
+    "opponent": "EC KAC",
+    "arena": "Tüskecsarnok",
+    "city": "Budapest, Hungary",
+    "date": "2026-10-18T13:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101839",
+    "league": "ICEHL",
+    "team": "Milano Hockey Club",
+    "opponent": "Fehérvár AV19",
+    "arena": "Fiera Ice Arena",
+    "city": "Rho, Italy",
+    "date": "2026-10-18T15:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101840",
+    "league": "ICEHL",
+    "team": "Graz99ers",
+    "opponent": "EC Red Bull Salzburg",
+    "arena": "Eisstadion Liebenau",
+    "city": " Graz, Austria",
+    "date": "2026-10-18T15:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101841",
+    "league": "ICEHL",
+    "team": "HC TIWAG Innsbruck",
+    "opponent": "HK Olimpija Ljubljana",
+    "arena": "TIWAG Arena",
+    "city": "Innsbruck, Austria",
+    "date": "2026-10-18T15:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026101842",
+    "league": "ICEHL",
+    "team": "HC Bozen–Bolzano",
+    "opponent": "Steinbach Black Wings Linz",
+    "arena": "Sparkasse Arena",
+    "city": "Bolzano, Italy",
+    "date": "2026-10-18T16:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102143",
+    "league": "ICEHL",
+    "team": "Graz99ers",
+    "opponent": "Milano Hockey Club",
+    "arena": "Eisstadion Liebenau",
+    "city": " Graz, Austria",
+    "date": "2026-10-21T16:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102144",
+    "league": "ICEHL",
+    "team": "EC KAC",
+    "opponent": "Fehérvár AV19",
+    "arena": "Stadthalle Klagenfurt",
+    "city": "Klagenfurt, Austria",
+    "date": "2026-10-21T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102145",
+    "league": "ICEHL",
+    "team": "EC Red Bull Salzburg",
+    "opponent": "HK Olimpija Ljubljana",
+    "arena": "Eisarena Salzburg",
+    "city": "Salzburg, Austria",
+    "date": "2026-10-21T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102146",
+    "league": "ICEHL",
+    "team": "EC iDM Wärmepumpen VSV",
+    "opponent": "Ferencvárosi TC",
+    "arena": "Stadthalle Villach",
+    "city": "Villach, Austria",
+    "date": "2026-10-21T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102147",
+    "league": "ICEHL",
+    "team": "Steinbach Black Wings Linz",
+    "opponent": "Vienna Capitals",
+    "arena": "Linz AG Eisarena",
+    "city": "Linz, Austria",
+    "date": "2026-10-21T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102148",
+    "league": "ICEHL",
+    "team": "HC Bozen–Bolzano",
+    "opponent": "HC TIWAG Innsbruck",
+    "arena": "Sparkasse Arena",
+    "city": "Bolzano, Italy",
+    "date": "2026-10-21T17:45:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102149",
+    "league": "ICEHL",
+    "team": "HC Pustertal Wölfe",
+    "opponent": "Pioneers Vorarlberg",
+    "arena": "Intercable Arena",
+    "city": "Bruneck, Italy",
+    "date": "2026-10-21T17:45:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102350",
+    "league": "ICEHL",
+    "team": "Graz99ers",
+    "opponent": "Steinbach Black Wings Linz",
+    "arena": "Eisstadion Liebenau",
+    "city": " Graz, Austria",
+    "date": "2026-10-23T16:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102351",
+    "league": "ICEHL",
+    "team": "HC TIWAG Innsbruck",
+    "opponent": "EC Red Bull Salzburg",
+    "arena": "TIWAG Arena",
+    "city": "Innsbruck, Austria",
+    "date": "2026-10-23T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102352",
+    "league": "ICEHL",
+    "team": "HK Olimpija Ljubljana",
+    "opponent": "Fehérvár AV19",
+    "arena": "Tivoli Hall",
+    "city": "Ljubljana, Slovenia",
+    "date": "2026-10-23T17:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102353",
+    "league": "ICEHL",
+    "team": "Pioneers Vorarlberg",
+    "opponent": "HC Bozen–Bolzano",
+    "arena": "Vorarlberghalle",
+    "city": "Feldkirch, Austria",
+    "date": "2026-10-23T17:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102354",
+    "league": "ICEHL",
+    "team": "Milano Hockey Club",
+    "opponent": "EC KAC",
+    "arena": "Fiera Ice Arena",
+    "city": "Rho, Italy",
+    "date": "2026-10-23T17:45:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102455",
+    "league": "ICEHL",
+    "team": "Ferencvárosi TC",
+    "opponent": "HC Pustertal Wölfe",
+    "arena": "Tüskecsarnok",
+    "city": "Budapest, Hungary",
+    "date": "2026-10-24T16:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102556",
+    "league": "ICEHL",
+    "team": "Vienna Capitals",
+    "opponent": "Graz99ers",
+    "arena": "Erste Bank Arena",
+    "city": "Vienna, Austria",
+    "date": "2026-10-25T13:45:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102557",
+    "league": "ICEHL",
+    "team": "EC Red Bull Salzburg",
+    "opponent": "Pioneers Vorarlberg",
+    "arena": "Eisarena Salzburg",
+    "city": "Salzburg, Austria",
+    "date": "2026-10-25T14:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102558",
+    "league": "ICEHL",
+    "team": "Fehérvár AV19",
+    "opponent": "HC Pustertal Wölfe",
+    "arena": "Alba Aréna",
+    "city": "Székesfehérvár,Hungary",
+    "date": "2026-10-25T15:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102559",
+    "league": "ICEHL",
+    "team": "HK Olimpija Ljubljana",
+    "opponent": "Milano Hockey Club",
+    "arena": "Tivoli Hall",
+    "city": "Ljubljana, Slovenia",
+    "date": "2026-10-25T15:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102560",
+    "league": "ICEHL",
+    "team": "Steinbach Black Wings Linz",
+    "opponent": "Ferencvárosi TC",
+    "arena": "Linz AG Eisarena",
+    "city": "Linz, Austria",
+    "date": "2026-10-25T15:00:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102561",
+    "league": "ICEHL",
+    "team": "EC KAC",
+    "opponent": "HC Bozen–Bolzano",
+    "arena": "Stadthalle Klagenfurt",
+    "city": "Klagenfurt, Austria",
+    "date": "2026-10-25T16:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102562",
+    "league": "ICEHL",
+    "team": "EC iDM Wärmepumpen VSV",
+    "opponent": "HC TIWAG Innsbruck",
+    "arena": "Stadthalle Villach",
+    "city": "Villach, Austria",
+    "date": "2026-10-25T16:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102763",
+    "league": "ICEHL",
+    "team": "Fehérvár AV19",
+    "opponent": "Milano Hockey Club",
+    "arena": "Alba Aréna",
+    "city": "Székesfehérvár,Hungary",
+    "date": "2026-10-27T18:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102864",
+    "league": "ICEHL",
+    "team": "Ferencvárosi TC",
+    "opponent": "Graz99ers",
+    "arena": "Tüskecsarnok",
+    "city": "Budapest, Hungary",
+    "date": "2026-10-28T17:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102865",
+    "league": "ICEHL",
+    "team": "Steinbach Black Wings Linz",
+    "opponent": "HC TIWAG Innsbruck",
+    "arena": "Linz AG Eisarena",
+    "city": "Linz, Austria",
+    "date": "2026-10-28T17:45:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102866",
+    "league": "ICEHL",
+    "team": "EC Red Bull Salzburg",
+    "opponent": "Vienna Capitals",
+    "arena": "Eisarena Salzburg",
+    "city": "Salzburg, Austria",
+    "date": "2026-10-28T18:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102867",
+    "league": "ICEHL",
+    "team": "Pioneers Vorarlberg",
+    "opponent": "HK Olimpija Ljubljana",
+    "arena": "Vorarlberghalle",
+    "city": "Feldkirch, Austria",
+    "date": "2026-10-28T18:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102868",
+    "league": "ICEHL",
+    "team": "HC Bozen–Bolzano",
+    "opponent": "EC iDM Wärmepumpen VSV",
+    "arena": "Sparkasse Arena",
+    "city": "Bolzano, Italy",
+    "date": "2026-10-28T18:45:00Z"
+  },
+  
+  {
+    "id": "icehl_2026102869",
+    "league": "ICEHL",
+    "team": "HC Bozen–Bolzano",
+    "opponent": "HC TIWAG Innsbruck",
+    "arena": "Sparkasse Arena",
+    "city": "Bolzano, Italy",
+    "date": "2026-10-28T18:45:00Z"
+  },
+  
+  {
+    "id": "icehl_2026103070",
+    "league": "ICEHL",
+    "team": "Graz99ers",
+    "opponent": "EC KAC",
+    "arena": "Eisstadion Liebenau",
+    "city": " Graz, Austria",
+    "date": "2026-10-30T17:30:00Z"
+  },
+  
+  {
+    "id": "icehl_2026103071",
+    "league": "ICEHL",
+    "team": "EC iDM Wärmepumpen VSV",
+    "opponent": "Steinbach Black Wings Linz",
+    "arena": "Stadthalle Villach",
+    "city": "Villach, Austria",
+    "date": "2026-10-30T18:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026103072",
+    "league": "ICEHL",
+    "team": "Fehérvár AV19",
+    "opponent": "HC Bozen–Bolzano",
+    "arena": "Alba Aréna",
+    "city": "Székesfehérvár,Hungary",
+    "date": "2026-10-30T18:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026103073",
+    "league": "ICEHL",
+    "team": "HK Olimpija Ljubljana",
+    "opponent": "Vienna Capitals",
+    "arena": "Tivoli Hall",
+    "city": "Ljubljana, Slovenia",
+    "date": "2026-10-30T18:15:00Z"
+  },
+  
+  {
+    "id": "icehl_2026103074",
+    "league": "ICEHL",
+    "team": "HC Pustertal Wölfe",
+    "opponent": "EC Red Bull Salzburg",
+    "arena": "Intercable Arena",
+    "city": "Bruneck, Italy",
+    "date": "2026-10-30T18:45:00Z"
+  },
+  
+  {
+    "id": "icehl_2026103075",
+    "league": "ICEHL",
+    "team": "Milano Hockey Club",
+    "opponent": "Pioneers Vorarlberg",
+    "arena": "Fiera Ice Arena",
+    "city": "Rho, Italy",
+    "date": "2026-10-30T18:45:00Z"
+  },
+  
+  {
+    "id": "icehl_2026103176",
+    "league": "ICEHL",
+    "team": "HC TIWAG Innsbruck",
+    "opponent": "Ferencvárosi TC",
+    "arena": "TIWAG Arena",
+    "city": "Innsbruck, Austria",
+    "date": "2026-10-31T16:30:00Z"
+  },
 ]
