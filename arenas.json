@@ -7672,10 +7672,10 @@
     "longitude": 10.262530550062742,
     "colorCode": "#OOOOOO",
     "colorCode2": "#FFD600",
-    "colorCode2": "#FFFFFF",
+    "colorCode3": "#FFFFFF",
     "league": "EHL",
     "timezone": "Europe/Oslo",
-    "arenaId": "Schjongshallen_hønefoss"
+    "arenaId": "Schjongshallen_hønefoss",
    "startDate": "2026-09-01",
     "endDate": null
   },
