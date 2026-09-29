@@ -8734,6 +8734,24 @@
     "arenaId": "tskecsarnok_budapest"
   },
   {
+    "teamName": "Milano Hockey Club",
+    "teamCode": "MIL",
+    "arena": "Fiera Ice Arena",
+    "city": "Rho, Italy",
+    "address": "Viale degli Alberghi, 1, 20017 Rho MI, Italy",
+    "website": "www.milanohockeyclub.it",
+    "latitude": 45.523213230193306, 
+    "longitude": 9.074994559231431,
+    "colorCode": "#000048",
+    "colorCode2": "#FF0000",
+    "colorCode3": "#FFFFFF",
+    "league": "ICEHL",
+    "timezone": "Europe/Rome",
+    "arenaId": "fiera_ice_arena_rho",
+    "startDate": "2026-09-01",
+    "endDate": null
+  },
+  {
     "teamName": "HC TWK Innsbruck",
     "teamCode": "HCTWKI",
     "arena": "TIWAG Arena",
