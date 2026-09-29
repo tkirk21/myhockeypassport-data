@@ -15921,7 +15921,7 @@
     "colorCode3": "#003876",
     "league": "EHL",
     "timezone": "Europe/Oslo",
-    "arenaId": "lrenskog_ishall_lrenskog"
+    "arenaId": "lrenskog_ishall_lrenskog",
     "startDate": "2013-09-01",
     "endDate": "2018-06-30"
   },
@@ -15938,7 +15938,7 @@
     "colorCode": "#005BAC",
     "league": "EHL",
     "timezone": "Europe/Oslo",
-    "arenaId": "sparta_amfi_sarpsborg"
+    "arenaId": "sparta_amfi_sarpsborg",
      "startDate": "2012-09-01",
     "endDate": "2026-06-30"
   }
