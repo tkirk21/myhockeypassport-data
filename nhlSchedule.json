@@ -1,56 +1,6 @@
 [
   {
-    "id": "nhl_2026092966",
-    "league": "NHL",
-    "team": "Carolina Hurricanes",
-    "opponent": "Florida Panthers",
-    "arena": "Lenovo Center",
-    "city": "Raleigh, North Carolina",
-    "date": "2026-09-29T21:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026092967",
-    "league": "NHL",
-    "team": "Toronto Maple Leafs",
-    "opponent": "Montreal Canadiens",
-    "arena": "Scotiabank Arena",
-    "city": "Toronto, Ontario",
-    "date": "2026-09-29T23:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026093068",
-    "league": "NHL",
-    "team": "Boston Bruins",
-    "opponent": "New York Rangers",
-    "arena": "TD Garden",
-    "city": "Boston, Massachusetts",
-    "date": "2026-09-30T00:00:00Z"
-  },
-  
-  {
-    "id": "nhl_2026093069",
-    "league": "NHL",
-    "team": "Edmonton Oilers",
-    "opponent": "Vancouver Canucks",
-    "arena": "Rogers Place",
-    "city": "Edmonton, Alberta",
-    "date": "2026-09-30T02:00:00Z"
-  },
-  
-  {
     "id": "nhl_2026093070",
-    "league": "NHL",
-    "team": "Vegas Golden Knights",
-    "opponent": "Chicago Blackhawks",
-    "arena": "T-Mobile Arena",
-    "city": "Paradise, Nevada",
-    "date": "2026-09-30T02:30:00Z"
-  },
-  
-  {
-    "id": "nhl_2026093071",
     "league": "NHL",
     "team": "Philadelphia Flyers",
     "opponent": "Pittsburgh Penguins",
@@ -60,13 +10,23 @@
   },
   
   {
-    "id": "nhl_2026093072",
+    "id": "nhl_2026093071",
     "league": "NHL",
     "team": "Toronto Maple Leafs",
     "opponent": "New York Islanders",
     "arena": "Scotiabank Arena",
     "city": "Toronto, Ontario",
     "date": "2026-09-30T23:30:00Z"
+  },
+  
+  {
+    "id": "nhl_2026093072",
+    "league": "NHL",
+    "team": "Colorado Avalanche",
+    "opponent": "Los Angeles Kings",
+    "arena": "Ball Arena",
+    "city": "Denver, Colorado",
+    "date": "2026-10-01T02:00:00Z"
   },
   {
   "id": "nhl_2026100101",
