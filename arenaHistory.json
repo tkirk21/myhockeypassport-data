@@ -1335,7 +1335,15 @@
       { "name": "Let's Go Areena", "from": "2024-09-01", "to": null }
     ]
   },
-
+  {
+    "currentArena": "LähiTapiola Areena",
+    "teamName": "JYP",
+    "league": "liiga",
+    "history": [
+      { "name": "Synergia-areena", "from": "2016-09-01", "to": "2017-06-30" },
+      { "name": "LähiTapiola Areena", "from": "2017-09-01", "to": null }
+    ]
+  },
 
 
 
