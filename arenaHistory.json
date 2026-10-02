@@ -792,23 +792,12 @@
     ]
   },
   {
-    "currentArena": "Spectrum Center",
-    "teamName": "Charlotte Checkers",
-    "league": "AHL",
-    "history": [
-      { "name": "Charlotte Bobcats Arena", "from": "2005-09-01", "to": "2008-05-31" },
-      { "name": "Time Warner Cable Arena", "from": "2008-09-01", "to": "2016-05-31" },
-      { "name": "Spectrum Center", "from": "2016-09-01", "to": null }
-    ]
-  },
-  {
-    "currentArena": "Spectrum Center",
+    "currentArena": "Time Warner Cable Arena",
     "teamName": "Charlotte Checkers",
     "league": "ECHL",
     "history": [
       { "name": "Charlotte Bobcats Arena", "from": "2005-09-01", "to": "2008-05-31" },
-      { "name": "Time Warner Cable Arena", "from": "2008-09-01", "to": "2016-05-31" },
-      { "name": "Spectrum Center", "from": "2016-09-01", "to": null }
+      { "name": "Time Warner Cable Arena", "from": "2008-09-01", "to": "2010-06-30" }
     ]
   },
   {
