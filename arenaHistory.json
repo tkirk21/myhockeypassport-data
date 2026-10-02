@@ -1394,7 +1394,17 @@
       { "name": "Kouvolan jäähalli", "from": "2006-09-01", "to": null"}
     ]
   },
-
+  {
+    "currentArena": "Kivikylän Areena",
+    "teamName": "Rauman Lukko",
+    "league": "liiga",
+    "history": [
+      { "name": "Äijänsuon jäähalli", "from": "1984-09-01", "to": "2006-06-30" },
+      { "name": "Lännen Puhelin Areena", "from": "2006-09-01", "to": "2007-06-30" },
+      { "name": "DNA Areena", "from": "2007-09-01", "to": "2009-06-30" },
+      { "name": "Kivikylän Areena", "from": "2009-09-01", "to": null"}
+    ]
+  },
 
 
 
