@@ -7752,7 +7752,29 @@
     "colorCode": "#C8102E",
     "league": "liiga",
     "timezone": "Europe/Helsinki",
-    "arenaId": "helsinki_ice_hall_helsinki"
+    "arenaId": "helsinki_ice_hall_helsinki",
+    "startDate": "2026-09-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Jokerit",
+    "teamCode": "JOK",
+    "arena": "Veikkaus Arena",
+    "city": "Helsinki, Finland",
+    "address": "Areenankuja 1, 00240 Helsinki, Finland",
+    "website": "www.jokerit.fi",
+    "latitude": 60.20576890274745, 
+    "longitude": 24.92917953532226,
+    "capacity": 13349,
+    "colorCode": "#0033FF",
+    "colorCode2": "#FF0000",
+    "colorCode3": "#FFFFFF",
+    "colorCode4": "#FFD700",
+    "league": "liiga",
+    "timezone": "Europe/Helsinki",
+    "arenaId": "helsinki_ice_hall_helsinki",
+    "startDate": "1999-09-01",
+    "endDate": null
   },
   {
     "teamName": "HPK",
