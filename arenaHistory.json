@@ -1376,7 +1376,15 @@
       { "name": "Espoo Metro Areena", "from": "2015-09-01", "to": "2016-06-30"}
     ]
   },
-
+  {
+    "currentArena": "Kouvolan jäähalli",
+    "teamName": "KooKoo",
+    "league": "liiga",
+    "history": [
+      { "name": "Lumon Areena", "from": "2015-09-01", "to": "2026-06-30" },
+      { "name": "Kouvolan jäähalli", "from": "2026-09-01", "to": null"}
+    ]
+  },
   
 
 
