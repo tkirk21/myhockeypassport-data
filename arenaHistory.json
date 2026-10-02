@@ -1345,6 +1345,17 @@
       { "name": "LähiTapiola Areena", "from": "2017-09-01", "to": null }
     ]
   },
+  {
+    "currentArena": "Pohjantähti Areena",
+    "teamName": "HPK",
+    "league": "liiga",
+    "history": [
+      { "name": "Rinkelinmäen jäähalli ", "from": "1988-09-01", "to": "2005-06-30" },
+      { "name": "Patria-areena", "from": "2005-09-01", "to": "2007-06-30" },
+      { "name": "Ritari-areena", "from": "2007-09-01", "to": "2018-06-30" },
+      { "name": "Pohjantähti Areena", "from": "2018-09-01", "to": null }
+    ]
+  },
 
 
 
