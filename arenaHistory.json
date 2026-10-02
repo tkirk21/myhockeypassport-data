@@ -1356,7 +1356,19 @@
       { "name": "Pohjantähti Areena", "from": "2018-09-01", "to": null }
     ]
   },
+  {
+    "currentArena": "Olvi Areena",
+    "teamName": "KalPa",
+    "league": "liiga",
+    "history": [
+      { "name": "Kuopion jäähalli ", "from": "2005-09-01", "to": "2014-06-30" },
+      { "name": "Data Group Areena ", "from": "2014-09-01", "to": "2018-06-30" },
+      { "name": "Olvi Areena ", "from": "2018-09-01", "to": null }
+    ]
+  },
 
+
+  
 
 
 
