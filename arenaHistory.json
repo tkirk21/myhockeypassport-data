@@ -1361,12 +1361,21 @@
     "teamName": "KalPa",
     "league": "liiga",
     "history": [
-      { "name": "Kuopion jäähalli ", "from": "2005-09-01", "to": "2014-06-30" },
-      { "name": "Data Group Areena ", "from": "2014-09-01", "to": "2018-06-30" },
-      { "name": "Olvi Areena ", "from": "2018-09-01", "to": null }
+      { "name": "Kuopion jäähalli", "from": "2005-09-01", "to": "2014-06-30" },
+      { "name": "Data Group Areena", "from": "2014-09-01", "to": "2018-06-30" },
+      { "name": "Olvi Areena", "from": "2018-09-01", "to": null }
     ]
   },
-
+  {
+    "currentArena": "Espoo Metro Areena",
+    "teamName": "Espoo Blues",
+    "league": "liiga",
+    "history": [
+      { "name": "LänsiAuto Areena", "from": "1999-09-01", "to": "2009-06-30" },
+      { "name": "Barona Areena", "from": "2009-09-01", "to": "2015-06-30" },
+      { "name": "Espoo Metro Areena", "from": "2015-09-01", "to": "2016-06-30"}
+    ]
+  },
 
   
 
