@@ -335,6 +335,16 @@
     ]
   },
   {
+    "currentArena": "CIBC Place",
+    "teamName": "Belleville Senators",
+    "league": "AHL",
+    "history": [
+      { "name": "Yardmen Arena", "from": "2017-06-01", "to": "2018-09-30" },
+      { "name": "CAA Arena", "from": "2018-06-01", "to": "2026-09-30" },
+      { "name": "CIBC Place", "from": "2026-10-01", "to": null }
+    ]
+  },
+  {
     "currentArena": "Blue Arena",
     "teamName": "Colorado Eagles",
     "league": "AHL",
