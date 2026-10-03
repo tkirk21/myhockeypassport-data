@@ -659,6 +659,15 @@
     ]
   },
   {
+    "currentArena": "NBT Bank Arena",
+    "teamName": "Utica Comets",
+    "league": "AHL",
+    "history": [
+      { "name": "Adirondack Bank Center", "from": "2021-09-01", "to": "2026-05-31" },
+      { "name": "NBT Bank Arena", "from": "2026-09-01", "to": null }
+    ]
+  },
+  {
     "currentArena": "Harding Mazzotti Arena",
     "teamName": "Adirondack Thunder",
     "league": "AHL",
