@@ -1407,14 +1407,28 @@
   },
   {
     "currentArena": "Wemasto Areena",
-    "teamName": "Rauman Lukko",
+    "teamName": "Lahti Pelicans",
     "league": "liiga",
     "history": [
       { "name": "Lahden jäähalli", "from": "1999-09-01", "to": "2005-06-30" },
-      { "name": "Isku Areena", "from": "2005-09-01", "to": "20025-06-30" },
+      { "name": "Isku Areena", "from": "2005-09-01", "to": "2025-06-30" },
       { "name": "Wemasto Areena", "from": "2025-09-01", "to": null }
     ]
   },
+  {
+    "currentArena": "Vaasan Sähkö Areena",
+    "teamName": "Vaasan Sport",
+    "league": "liiga",
+    "history": [
+      { "name": "Vaasa Areena", "from": "2014-09-01", "to": "2018-06-30" },
+      { "name": "Vaasan Sähkö Areena", "from": "2018-09-01", "to": null }
+    ]
+  },
+
+
+
+
+  
 
 
 
