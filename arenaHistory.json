@@ -1436,6 +1436,17 @@
       { "name": "Gatorade Center", "from": "2016-09-01", "to": null }
     ]
   },
+  {
+    "currentArena": "Enersense Areena",
+    "teamName": "TPS",
+    "league": "liiga",
+    "history": [
+      { "name": "Porin jäähalli", "from": "1975-09-01", "to": "2015-06-30" },
+      { "name": "Isomäki Areena", "from": "2015-09-01", "to": "2022-06-30" },
+      { "name": "West Areena", "from": "2022-09-01", "to": "2023-06-30" },
+      { "name": "Enersense Areena", "from": "2023-09-01", "to": null }
+    ]
+  },
 
 
 
