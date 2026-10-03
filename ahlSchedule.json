@@ -1,5 +1,83 @@
 [
+  {
+    "id": "ahl_2026100201",
+    "league": "AHL",
+    "team": "Cleveland Monsters",
+    "opponent": "Grand Rapids Griffins",
+    "arena": "Rocket Arena",
+    "city": "Cleveland, Ohio",
+    "date": "2026-10-02T23:00:00Z"
+  },
   
+  {
+    "id": "ahl_2026100202",
+    "league": "AHL",
+    "team": "Belleville Senators",
+    "opponent": "Hamilton Hammers",
+    "arena": "CIBC Place",
+    "city": "Belleville, Ontario",
+    "date": "2026-10-02T23:00:00Z"
+  },
+  
+  {
+    "id": "ahl_2026100203",
+    "league": "AHL",
+    "team": "Laval Rocket",
+    "opponent": "Syracuse Crunch",
+    "arena": "Place Bell",
+    "city": "Laval, Quebec",
+    "date": "2026-10-02T23:00:00Z"
+  },
+  
+  {
+    "id": "ahl_2026100204",
+    "league": "AHL",
+    "team": "Providence Bruins",
+    "opponent": "Utica Comets",
+    "arena": "Amica Mutual Pavilion",
+    "city": "Providence, Rhode Island",
+    "date": "2026-10-02T23:05:00Z"
+  },
+  
+  {
+    "id": "ahl_2026100205",
+    "league": "AHL",
+    "team": "Rochester Americans",
+    "opponent": "Toronto Marlies",
+    "arena": "Blue Cross Arena",
+    "city": "Rochester, New York",
+    "date": "2026-10-02T23:05:00Z"
+  },
+  
+  {
+    "id": "ahl_2026100206",
+    "league": "AHL",
+    "team": "Texas Stars",
+    "opponent": "Iowa Wild",
+    "arena": "H-E-B Center at Cedar Park",
+    "city": "Cedar Park, Texas",
+    "date": "2026-10-03T00:00:00Z"
+  },
+  
+  {
+    "id": "ahl_2026100207",
+    "league": "AHL",
+    "team": "Calgary Wranglers",
+    "opponent": "Abbotsford Canucks",
+    "arena": "Scotiabank Saddledome",
+    "city": "Calgary, Alberta",
+    "date": "2026-10-03T01:00:00Z"
+  },
+  
+  {
+    "id": "ahl_2026100208",
+    "league": "AHL",
+    "team": "Coachella Valley Firebirds",
+    "opponent": "Ontario Reign",
+    "arena": "Acrisure Arena",
+    "city": "Thousand Palms, California",
+    "date": "2026-10-03T02:00:00Z"
+  },
   
   {
     "id": "ahl_2026100309",
@@ -8,7 +86,7 @@
     "opponent": "Chicago Wolves",
     "arena": "Canada Life Centre",
     "city": "Winnipeg, Manitoba",
-    "date": "2026-10-03T04:00:00Z"
+    "date": "2026-10-03T19:00:00Z"
   },
   
   {
@@ -18,7 +96,7 @@
     "opponent": "Syracuse Crunch",
     "arena": "Place Bell",
     "city": "Laval, Quebec",
-    "date": "2026-10-03T04:00:00Z"
+    "date": "2026-10-03T19:00:00Z"
   },
   
   {
@@ -28,7 +106,7 @@
     "opponent": "Hamilton Hammers",
     "arena": "Coca-Cola Coliseum",
     "city": "Toronto, Ontario",
-    "date": "2026-10-03T04:00:00Z"
+    "date": "2026-10-03T20:00:00Z"
   },
   
   {
@@ -38,7 +116,7 @@
     "opponent": "Charlotte Checkers",
     "arena": "Giant Center",
     "city": "Hershey, Pennsylvania",
-    "date": "2026-10-03T04:00:00Z"
+    "date": "2026-10-03T22:00:00Z"
   },
   
   {
@@ -48,7 +126,7 @@
     "opponent": "San Diego Gulls",
     "arena": "Tech CU Arena",
     "city": "San Jose, California",
-    "date": "2026-10-03T04:00:00Z"
+    "date": "2026-10-03T22:00:00Z"
   },
   
   {
@@ -58,7 +136,7 @@
     "opponent": "Springfield Thunderbirds",
     "arena": "Mohegan Arena at Casey Plaza",
     "city": "Wilkes-Barre Township, Pennsylvania",
-    "date": "2026-10-03T04:00:00Z"
+    "date": "2026-10-03T22:05:00Z"
   },
   
   {
@@ -68,7 +146,7 @@
     "opponent": "Abbotsford Canucks",
     "arena": "Scotiabank Saddledome",
     "city": "Calgary, Alberta",
-    "date": "2026-10-03T04:00:00Z"
+    "date": "2026-10-03T23:00:00Z"
   },
   
   {
@@ -78,7 +156,7 @@
     "opponent": "Hartford Wolf Pack",
     "arena": "PPL Center",
     "city": "Allentown, Pennsylvania",
-    "date": "2026-10-03T04:00:00Z"
+    "date": "2026-10-03T23:05:00Z"
   },
   
   {
@@ -88,7 +166,7 @@
     "opponent": "Milwaukee Admirals",
     "arena": "BMO Center",
     "city": "Rockford, Illinois",
-    "date": "2026-10-03T04:00:00Z"
+    "date": "2026-10-04T00:00:00Z"
   },
   
   {
@@ -98,7 +176,7 @@
     "opponent": "Iowa Wild",
     "arena": "H-E-B Center at Cedar Park",
     "city": "Cedar Park, Texas",
-    "date": "2026-10-03T04:00:00Z"
+    "date": "2026-10-04T00:00:00Z"
   },
   
   {
@@ -108,7 +186,7 @@
     "opponent": "Coachella Valley Firebirds",
     "arena": "Toyota Arena",
     "city": "Ontario, California",
-    "date": "2026-10-03T04:00:00Z"
+    "date": "2026-10-04T01:00:00Z"
   },
   
   {
@@ -118,7 +196,7 @@
     "opponent": "Bakersfield Condors",
     "arena": "Lee’s Family Forum",
     "city": "Henderson, Nevada",
-    "date": "2026-10-03T04:00:00Z"
+    "date": "2026-10-04T01:00:00Z"
   },
   
   {
@@ -128,7 +206,7 @@
     "opponent": "Colorado Eagles",
     "arena": "Tucson Convention Center Arena",
     "city": "Tucson, Arizona",
-    "date": "2026-10-03T04:00:00Z"
+    "date": "2026-10-04T02:00:00Z"
   },
   
   {
@@ -138,7 +216,7 @@
     "opponent": "Charlotte Checkers",
     "arena": "Giant Center",
     "city": "Hershey, Pennsylvania",
-    "date": "2026-10-04T04:00:00Z"
+    "date": "2026-10-04T19:00:00Z"
   },
   
   {
@@ -148,7 +226,7 @@
     "opponent": "Chicago Wolves",
     "arena": "Canada Life Centre",
     "city": "Winnipeg, Manitoba",
-    "date": "2026-10-04T04:00:00Z"
+    "date": "2026-10-04T19:00:00Z"
   },
   
   {
@@ -158,7 +236,7 @@
     "opponent": "Grand Rapids Griffins",
     "arena": "Rocket Arena",
     "city": "Cleveland, Ohio",
-    "date": "2026-10-04T04:00:00Z"
+    "date": "2026-10-04T19:00:00Z"
   },
   
   {
@@ -168,7 +246,7 @@
     "opponent": "Rochester Americans",
     "arena": "CIBC Place",
     "city": "Belleville, Ontario",
-    "date": "2026-10-04T04:00:00Z"
+    "date": "2026-10-04T19:00:00Z"
   },
   
   {
@@ -178,7 +256,7 @@
     "opponent": "Springfield Thunderbirds",
     "arena": "Amica Mutual Pavilion",
     "city": "Providence, Rhode Island",
-    "date": "2026-10-04T04:00:00Z"
+    "date": "2026-10-04T19:05:00Z"
   },
   
   {
@@ -188,7 +266,7 @@
     "opponent": "Hartford Wolf Pack",
     "arena": "Mohegan Arena at Casey Plaza",
     "city": "Wilkes-Barre Township, Pennsylvania",
-    "date": "2026-10-04T04:00:00Z"
+    "date": "2026-10-04T21:05:00Z"
   },
   
   {
@@ -198,7 +276,7 @@
     "opponent": "San Diego Gulls",
     "arena": "Tech CU Arena",
     "city": "San Jose, California",
-    "date": "2026-10-04T04:00:00Z"
+    "date": "2026-10-04T22:00:00Z"
   },
   
   {
@@ -208,7 +286,7 @@
     "opponent": "Colorado Eagles",
     "arena": "Tucson Convention Center Arena",
     "city": "Tucson, Arizona",
-    "date": "2026-10-04T04:00:00Z"
+    "date": "2026-10-04T23:00:00Z"
   },
   
   {
@@ -218,7 +296,7 @@
     "opponent": "Bakersfield Condors",
     "arena": "Lee’s Family Forum",
     "city": "Henderson, Nevada",
-    "date": "2026-10-04T04:00:00Z"
+    "date": "2026-10-05T00:00:00Z"
   },
   
   {
@@ -228,7 +306,7 @@
     "opponent": "Manitoba Moose",
     "arena": "Van Andel Arena",
     "city": "Grand Rapids, Michigan",
-    "date": "2026-10-09T04:00:00Z"
+    "date": "2026-10-09T23:00:00Z"
   },
   
   {
@@ -238,7 +316,7 @@
     "opponent": "Toronto Marlies",
     "arena": "TD Coliseum",
     "city": "Hamilton, Ontario",
-    "date": "2026-10-09T04:00:00Z"
+    "date": "2026-10-09T23:00:00Z"
   },
   
   {
@@ -248,7 +326,7 @@
     "opponent": "Hartford Wolf Pack",
     "arena": "Amica Mutual Pavilion",
     "city": "Providence, Rhode Island",
-    "date": "2026-10-09T04:00:00Z"
+    "date": "2026-10-09T23:05:00Z"
   },
   
   {
@@ -258,7 +336,7 @@
     "opponent": "Syracuse Crunch",
     "arena": "Blue Cross Arena",
     "city": "Rochester, New York",
-    "date": "2026-10-09T04:00:00Z"
+    "date": "2026-10-09T23:05:00Z"
   },
   
   {
@@ -268,7 +346,7 @@
     "opponent": "Rockford IceHogs",
     "arena": "Casey’s Center",
     "city": "Des Moines, Iowa",
-    "date": "2026-10-09T04:00:00Z"
+    "date": "2026-10-10T00:00:00Z"
   },
   
   {
@@ -278,7 +356,7 @@
     "opponent": "Bakersfield Condors",
     "arena": "Scotiabank Saddledome",
     "city": "Calgary, Alberta",
-    "date": "2026-10-09T04:00:00Z"
+    "date": "2026-10-10T01:00:00Z"
   },
   
   {
@@ -288,7 +366,7 @@
     "opponent": "Abbotsford Canucks",
     "arena": "Blue Federal Credit Union Arena",
     "city": "Loveland, Colorado",
-    "date": "2026-10-09T04:00:00Z"
+    "date": "2026-10-10T01:05:00Z"
   },
   
   {
@@ -298,7 +376,7 @@
     "opponent": "Tucson Roadrunners",
     "arena": "Tech CU Arena",
     "city": "San Jose, California",
-    "date": "2026-10-09T04:00:00Z"
+    "date": "2026-10-10T02:00:00Z"
   },
   
   {
@@ -308,7 +386,7 @@
     "opponent": "San Diego Gulls",
     "arena": "Acrisure Arena",
     "city": "Thousand Palms, California",
-    "date": "2026-10-09T04:00:00Z"
+    "date": "2026-10-10T02:00:00Z"
   },
   
   {
@@ -318,7 +396,7 @@
     "opponent": "Wilkes-Barre/Scranton Penguins",
     "arena": "PeoplesBank Arena",
     "city": "Hartford, Connecticut",
-    "date": "2026-10-10T04:00:00Z"
+    "date": "2026-10-10T22:00:00Z"
   },
   
   {
@@ -328,7 +406,7 @@
     "opponent": "Rochester Americans",
     "arena": "NBT Bank Arena",
     "city": "Utica, New York",
-    "date": "2026-10-10T04:00:00Z"
+    "date": "2026-10-10T22:00:00Z"
   },
   
   {
@@ -338,7 +416,7 @@
     "opponent": "Laval Rocket",
     "arena": "MassMutual Center",
     "city": "Springfield, Massachusetts",
-    "date": "2026-10-10T04:00:00Z"
+    "date": "2026-10-10T22:05:00Z"
   },
   
   {
@@ -348,7 +426,7 @@
     "opponent": "Texas Stars",
     "arena": "Giant Center",
     "city": "Hershey, Pennsylvania",
-    "date": "2026-10-10T04:00:00Z"
+    "date": "2026-10-10T23:00:00Z"
   },
   
   {
@@ -358,7 +436,7 @@
     "opponent": "Grand Rapids Griffins",
     "arena": "UW-Milwaukee Panther Arena",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-10-10T04:00:00Z"
+    "date": "2026-10-10T23:00:00Z"
   },
   
   {
@@ -368,7 +446,7 @@
     "opponent": "Rockford IceHogs",
     "arena": "Casey’s Center",
     "city": "Des Moines, Iowa",
-    "date": "2026-10-10T04:00:00Z"
+    "date": "2026-10-10T23:00:00Z"
   },
   
   {
@@ -378,7 +456,7 @@
     "opponent": "Belleville Senators",
     "arena": "Upstate Medical University Arena",
     "city": "Syracuse, New York",
-    "date": "2026-10-10T04:00:00Z"
+    "date": "2026-10-10T23:00:00Z"
   },
   
   {
@@ -388,7 +466,7 @@
     "opponent": "Charlotte Checkers",
     "arena": "Amica Mutual Pavilion",
     "city": "Providence, Rhode Island",
-    "date": "2026-10-10T04:00:00Z"
+    "date": "2026-10-10T23:05:00Z"
   },
   
   {
@@ -398,7 +476,7 @@
     "opponent": "Cleveland Monsters",
     "arena": "PPL Center",
     "city": "Allentown, Pennsylvania",
-    "date": "2026-10-10T04:00:00Z"
+    "date": "2026-10-10T23:05:00Z"
   },
   
   {
@@ -408,7 +486,7 @@
     "opponent": "Manitoba Moose",
     "arena": "Allstate Arena",
     "city": "Rosemont, Illinois",
-    "date": "2026-10-10T04:00:00Z"
+    "date": "2026-10-11T00:00:00Z"
   },
   
   {
@@ -418,7 +496,7 @@
     "opponent": "Abbotsford Canucks",
     "arena": "Blue Federal Credit Union Arena",
     "city": "Loveland, Colorado",
-    "date": "2026-10-10T04:00:00Z"
+    "date": "2026-10-11T00:05:00Z"
   },
   
   {
@@ -428,7 +506,7 @@
     "opponent": "Henderson Silver Knights",
     "arena": "Pechanga Arena San Diego",
     "city": "San Diego, California",
-    "date": "2026-10-10T04:00:00Z"
+    "date": "2026-10-11T01:00:00Z"
   },
   
   {
@@ -438,7 +516,7 @@
     "opponent": "Tucson Roadrunners",
     "arena": "Tech CU Arena",
     "city": "San Jose, California",
-    "date": "2026-10-10T04:00:00Z"
+    "date": "2026-10-11T01:00:00Z"
   },
   
   {
@@ -448,7 +526,7 @@
     "opponent": "Cleveland Monsters",
     "arena": "PPL Center",
     "city": "Allentown, Pennsylvania",
-    "date": "2026-10-11T04:00:00Z"
+    "date": "2026-10-11T17:05:00Z"
   },
   
   {
@@ -458,7 +536,7 @@
     "opponent": "Laval Rocket",
     "arena": "PeoplesBank Arena",
     "city": "Hartford, Connecticut",
-    "date": "2026-10-11T04:00:00Z"
+    "date": "2026-10-11T19:00:00Z"
   },
   
   {
@@ -468,7 +546,7 @@
     "opponent": "Toronto Marlies",
     "arena": "TD Coliseum",
     "city": "Hamilton, Ontario",
-    "date": "2026-10-11T04:00:00Z"
+    "date": "2026-10-11T19:00:00Z"
   },
   
   {
@@ -478,7 +556,7 @@
     "opponent": "Bakersfield Condors",
     "arena": "Scotiabank Saddledome",
     "city": "Calgary, Alberta",
-    "date": "2026-10-11T04:00:00Z"
+    "date": "2026-10-11T19:00:00Z"
   },
   
   {
@@ -488,7 +566,7 @@
     "opponent": "Wilkes-Barre/Scranton Penguins",
     "arena": "Amica Mutual Pavilion",
     "city": "Providence, Rhode Island",
-    "date": "2026-10-11T04:00:00Z"
+    "date": "2026-10-11T19:05:00Z"
   },
   
   {
@@ -498,7 +576,7 @@
     "opponent": "Charlotte Checkers",
     "arena": "MassMutual Center",
     "city": "Springfield, Massachusetts",
-    "date": "2026-10-11T04:00:00Z"
+    "date": "2026-10-11T19:05:00Z"
   },
   
   {
@@ -508,7 +586,7 @@
     "opponent": "Chicago Wolves",
     "arena": "Van Andel Arena",
     "city": "Grand Rapids, Michigan",
-    "date": "2026-10-11T04:00:00Z"
+    "date": "2026-10-11T20:00:00Z"
   },
   
   {
@@ -518,7 +596,7 @@
     "opponent": "Texas Stars",
     "arena": "Giant Center",
     "city": "Hershey, Pennsylvania",
-    "date": "2026-10-11T04:00:00Z"
+    "date": "2026-10-11T21:00:00Z"
   },
   
   {
@@ -528,7 +606,7 @@
     "opponent": "Utica Comets",
     "arena": "CIBC Place",
     "city": "Belleville, Ontario",
-    "date": "2026-10-11T04:00:00Z"
+    "date": "2026-10-11T21:00:00Z"
   },
   
   {
@@ -538,7 +616,7 @@
     "opponent": "Ontario Reign",
     "arena": "Acrisure Arena",
     "city": "Thousand Palms, California",
-    "date": "2026-10-11T04:00:00Z"
+    "date": "2026-10-11T22:00:00Z"
   },
   
   {
@@ -548,7 +626,7 @@
     "opponent": "Calgary Wranglers",
     "arena": "Tech CU Arena",
     "city": "San Jose, California",
-    "date": "2026-10-14T04:00:00Z"
+    "date": "2026-10-14T17:30:00Z"
   },
   
   {
@@ -558,7 +636,7 @@
     "opponent": "Lehigh Valley Phantoms",
     "arena": "PeoplesBank Arena",
     "city": "Hartford, Connecticut",
-    "date": "2026-10-14T04:00:00Z"
+    "date": "2026-10-14T22:30:00Z"
   },
   
   {
@@ -568,7 +646,7 @@
     "opponent": "Ontario Reign",
     "arena": "Pechanga Arena San Diego",
     "city": "San Diego, California",
-    "date": "2026-10-14T04:00:00Z"
+    "date": "2026-10-15T02:00:00Z"
   },
   
   {
@@ -578,7 +656,7 @@
     "opponent": "Coachella Valley Firebirds",
     "arena": "Lee’s Family Forum",
     "city": "Henderson, Nevada",
-    "date": "2026-10-14T04:00:00Z"
+    "date": "2026-10-15T02:00:00Z"
   },
   
   {
@@ -588,7 +666,7 @@
     "opponent": "Hartford Wolf Pack",
     "arena": "Bojangles Coliseum",
     "city": "Charlotte, North Carolina",
-    "date": "2026-10-16T04:00:00Z"
+    "date": "2026-10-16T23:00:00Z"
   },
   
   {
@@ -598,7 +676,7 @@
     "opponent": "Wilkes-Barre/Scranton Penguins",
     "arena": "Rocket Arena",
     "city": "Cleveland, Ohio",
-    "date": "2026-10-16T04:00:00Z"
+    "date": "2026-10-16T23:00:00Z"
   },
   
   {
@@ -608,7 +686,7 @@
     "opponent": "Laval Rocket",
     "arena": "CIBC Place",
     "city": "Belleville, Ontario",
-    "date": "2026-10-16T04:00:00Z"
+    "date": "2026-10-16T23:00:00Z"
   },
   
   {
@@ -618,7 +696,7 @@
     "opponent": "Rochester Americans",
     "arena": "TD Coliseum",
     "city": "Hamilton, Ontario",
-    "date": "2026-10-16T04:00:00Z"
+    "date": "2026-10-16T23:00:00Z"
   },
   
   {
@@ -628,7 +706,7 @@
     "opponent": "Lehigh Valley Phantoms",
     "arena": "MassMutual Center",
     "city": "Springfield, Massachusetts",
-    "date": "2026-10-16T04:00:00Z"
+    "date": "2026-10-16T23:05:00Z"
   },
   
   {
@@ -638,7 +716,7 @@
     "opponent": "Texas Stars",
     "arena": "Canada Life Centre",
     "city": "Winnipeg, Manitoba",
-    "date": "2026-10-16T04:00:00Z"
+    "date": "2026-10-17T00:00:00Z"
   },
   
   {
@@ -648,7 +726,7 @@
     "opponent": "Colorado Eagles",
     "arena": "UW-Milwaukee Panther Arena",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-10-16T04:00:00Z"
+    "date": "2026-10-17T00:00:00Z"
   },
   
   {
@@ -658,7 +736,7 @@
     "opponent": "Iowa Wild",
     "arena": "BMO Center",
     "city": "Rockford, Illinois",
-    "date": "2026-10-16T04:00:00Z"
+    "date": "2026-10-17T00:00:00Z"
   },
   
   {
@@ -668,7 +746,7 @@
     "opponent": "Calgary Wranglers",
     "arena": "Tech CU Arena",
     "city": "San Jose, California",
-    "date": "2026-10-16T04:00:00Z"
+    "date": "2026-10-17T02:00:00Z"
   },
   
   {
@@ -678,7 +756,7 @@
     "opponent": "San Diego Gulls",
     "arena": "Tucson Convention Center Arena",
     "city": "Tucson, Arizona",
-    "date": "2026-10-16T04:00:00Z"
+    "date": "2026-10-17T02:00:00Z"
   },
   
   {
@@ -688,7 +766,7 @@
     "opponent": "Toronto Marlies",
     "arena": "CIBC Place",
     "city": "Belleville, Ontario",
-    "date": "2026-10-17T04:00:00Z"
+    "date": "2026-10-17T20:00:00Z"
   },
   
   {
@@ -698,7 +776,7 @@
     "opponent": "Rochester Americans",
     "arena": "Upstate Medical University Arena",
     "city": "Syracuse, New York",
-    "date": "2026-10-17T04:00:00Z"
+    "date": "2026-10-17T21:00:00Z"
   },
   
   {
@@ -708,7 +786,7 @@
     "opponent": "Providence Bruins",
     "arena": "Giant Center",
     "city": "Hershey, Pennsylvania",
-    "date": "2026-10-17T04:00:00Z"
+    "date": "2026-10-17T22:00:00Z"
   },
   
   {
@@ -718,7 +796,7 @@
     "opponent": "Hartford Wolf Pack",
     "arena": "Bojangles Coliseum",
     "city": "Charlotte, North Carolina",
-    "date": "2026-10-17T04:00:00Z"
+    "date": "2026-10-17T22:00:00Z"
   },
   
   {
@@ -728,7 +806,7 @@
     "opponent": "Laval Rocket",
     "arena": "NBT Bank Arena",
     "city": "Utica, New York",
-    "date": "2026-10-17T04:00:00Z"
+    "date": "2026-10-17T22:00:00Z"
   },
   
   {
@@ -738,7 +816,7 @@
     "opponent": "Lehigh Valley Phantoms",
     "arena": "MassMutual Center",
     "city": "Springfield, Massachusetts",
-    "date": "2026-10-17T04:00:00Z"
+    "date": "2026-10-17T22:05:00Z"
   },
   
   {
@@ -748,7 +826,7 @@
     "opponent": "Colorado Eagles",
     "arena": "UW-Milwaukee Panther Arena",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-10-17T04:00:00Z"
+    "date": "2026-10-17T23:00:00Z"
   },
   
   {
@@ -758,7 +836,7 @@
     "opponent": "Wilkes-Barre/Scranton Penguins",
     "arena": "Rocket Arena",
     "city": "Cleveland, Ohio",
-    "date": "2026-10-17T04:00:00Z"
+    "date": "2026-10-17T23:00:00Z"
   },
   
   {
@@ -768,7 +846,7 @@
     "opponent": "Iowa Wild",
     "arena": "Allstate Arena",
     "city": "Rosemont, Illinois",
-    "date": "2026-10-17T04:00:00Z"
+    "date": "2026-10-18T00:00:00Z"
   },
   
   {
@@ -778,7 +856,7 @@
     "opponent": "Grand Rapids Griffins",
     "arena": "BMO Center",
     "city": "Rockford, Illinois",
-    "date": "2026-10-17T04:00:00Z"
+    "date": "2026-10-18T00:00:00Z"
   },
   
   {
@@ -788,7 +866,7 @@
     "opponent": "Henderson Silver Knights",
     "arena": "Toyota Arena",
     "city": "Ontario, California",
-    "date": "2026-10-17T04:00:00Z"
+    "date": "2026-10-18T01:00:00Z"
   },
   
   {
@@ -798,7 +876,7 @@
     "opponent": "San Diego Gulls",
     "arena": "Tucson Convention Center Arena",
     "city": "Tucson, Arizona",
-    "date": "2026-10-17T04:00:00Z"
+    "date": "2026-10-18T02:00:00Z"
   },
   
   {
@@ -808,7 +886,7 @@
     "opponent": "Coachella Valley Firebirds",
     "arena": "Rogers Forum",
     "city": "Abbotsford, British Columbia",
-    "date": "2026-10-17T04:00:00Z"
+    "date": "2026-10-18T02:00:00Z"
   },
   
   {
@@ -818,7 +896,7 @@
     "opponent": "Calgary Wranglers",
     "arena": "Dignity Health Arena",
     "city": "Bakersfield, California",
-    "date": "2026-10-17T04:00:00Z"
+    "date": "2026-10-18T02:10:00Z"
   },
   
   {
@@ -828,7 +906,7 @@
     "opponent": "Providence Bruins",
     "arena": "Giant Center",
     "city": "Hershey, Pennsylvania",
-    "date": "2026-10-18T04:00:00Z"
+    "date": "2026-10-18T19:00:00Z"
   },
   
   {
@@ -838,7 +916,7 @@
     "opponent": "Texas Stars",
     "arena": "Canada Life Centre",
     "city": "Winnipeg, Manitoba",
-    "date": "2026-10-18T04:00:00Z"
+    "date": "2026-10-18T19:00:00Z"
   },
   
   {
@@ -848,7 +926,7 @@
     "opponent": "Syracuse Crunch",
     "arena": "TD Coliseum",
     "city": "Hamilton, Ontario",
-    "date": "2026-10-18T04:00:00Z"
+    "date": "2026-10-18T19:00:00Z"
   },
   
   {
@@ -858,7 +936,7 @@
     "opponent": "Rockford IceHogs",
     "arena": "Van Andel Arena",
     "city": "Grand Rapids, Michigan",
-    "date": "2026-10-18T04:00:00Z"
+    "date": "2026-10-18T20:00:00Z"
   },
   
   {
@@ -868,7 +946,7 @@
     "opponent": "Iowa Wild",
     "arena": "Allstate Arena",
     "city": "Rosemont, Illinois",
-    "date": "2026-10-18T04:00:00Z"
+    "date": "2026-10-18T20:00:00Z"
   },
   
   {
@@ -878,7 +956,7 @@
     "opponent": "Belleville Senators",
     "arena": "Coca-Cola Coliseum",
     "city": "Toronto, Ontario",
-    "date": "2026-10-18T04:00:00Z"
+    "date": "2026-10-18T20:00:00Z"
   },
   
   {
@@ -888,7 +966,7 @@
     "opponent": "Coachella Valley Firebirds",
     "arena": "Rogers Forum",
     "city": "Abbotsford, British Columbia",
-    "date": "2026-10-18T04:00:00Z"
+    "date": "2026-10-18T23:00:00Z"
   },
   
   {
@@ -898,7 +976,7 @@
     "opponent": "Calgary Wranglers",
     "arena": "Toyota Arena",
     "city": "Ontario, California",
-    "date": "2026-10-20T04:00:00Z"
+    "date": "2026-10-21T02:00:00Z"
   },
   
   {
@@ -908,7 +986,7 @@
     "opponent": "Manitoba Moose",
     "arena": "Van Andel Arena",
     "city": "Grand Rapids, Michigan",
-    "date": "2026-10-21T04:00:00Z"
+    "date": "2026-10-21T23:00:00Z"
   },
   
   {
@@ -918,7 +996,7 @@
     "opponent": "Hamilton Hammers",
     "arena": "Coca-Cola Coliseum",
     "city": "Toronto, Ontario",
-    "date": "2026-10-21T04:00:00Z"
+    "date": "2026-10-21T23:00:00Z"
   },
   
   {
@@ -928,7 +1006,7 @@
     "opponent": "Syracuse Crunch",
     "arena": "Place Bell",
     "city": "Laval, Quebec",
-    "date": "2026-10-21T04:00:00Z"
+    "date": "2026-10-21T23:00:00Z"
   },
   
   {
@@ -938,7 +1016,7 @@
     "opponent": "Utica Comets",
     "arena": "Blue Cross Arena",
     "city": "Rochester, New York",
-    "date": "2026-10-21T04:00:00Z"
+    "date": "2026-10-21T23:05:00Z"
   },
   
   {
@@ -948,7 +1026,7 @@
     "opponent": "Milwaukee Admirals",
     "arena": "Casey’s Center",
     "city": "Des Moines, Iowa",
-    "date": "2026-10-21T04:00:00Z"
+    "date": "2026-10-22T00:00:00Z"
   },
   
   {
@@ -958,7 +1036,7 @@
     "opponent": "Coachella Valley Firebirds",
     "arena": "Pechanga Arena San Diego",
     "city": "San Diego, California",
-    "date": "2026-10-21T04:00:00Z"
+    "date": "2026-10-22T02:00:00Z"
   },
   
   {
@@ -968,7 +1046,7 @@
     "opponent": "Providence Bruins",
     "arena": "PeoplesBank Arena",
     "city": "Hartford, Connecticut",
-    "date": "2026-10-23T04:00:00Z"
+    "date": "2026-10-23T23:00:00Z"
   },
   
   {
@@ -978,7 +1056,7 @@
     "opponent": "Springfield Thunderbirds",
     "arena": "Bojangles Coliseum",
     "city": "Charlotte, North Carolina",
-    "date": "2026-10-23T04:00:00Z"
+    "date": "2026-10-23T23:00:00Z"
   },
   
   {
@@ -988,7 +1066,7 @@
     "opponent": "Cleveland Monsters",
     "arena": "Van Andel Arena",
     "city": "Grand Rapids, Michigan",
-    "date": "2026-10-23T04:00:00Z"
+    "date": "2026-10-23T23:00:00Z"
   },
   
   {
@@ -998,7 +1076,7 @@
     "opponent": "Rochester Americans",
     "arena": "Upstate Medical University Arena",
     "city": "Syracuse, New York",
-    "date": "2026-10-23T04:00:00Z"
+    "date": "2026-10-23T23:00:00Z"
   },
   
   {
@@ -1008,7 +1086,7 @@
     "opponent": "Hamilton Hammers",
     "arena": "Place Bell",
     "city": "Laval, Quebec",
-    "date": "2026-10-23T04:00:00Z"
+    "date": "2026-10-23T23:00:00Z"
   },
   
   {
@@ -1018,7 +1096,7 @@
     "opponent": "Belleville Senators",
     "arena": "Mohegan Arena at Casey Plaza",
     "city": "Wilkes-Barre Township, Pennsylvania",
-    "date": "2026-10-23T04:00:00Z"
+    "date": "2026-10-23T23:05:00Z"
   },
   
   {
@@ -1028,7 +1106,7 @@
     "opponent": "Chicago Wolves",
     "arena": "UW-Milwaukee Panther Arena",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-10-23T04:00:00Z"
+    "date": "2026-10-24T00:00:00Z"
   },
   
   {
@@ -1038,7 +1116,7 @@
     "opponent": "Ontario Reign",
     "arena": "H-E-B Center at Cedar Park",
     "city": "Cedar Park, Texas",
-    "date": "2026-10-23T04:00:00Z"
+    "date": "2026-10-24T00:00:00Z"
   },
   
   {
@@ -1048,7 +1126,7 @@
     "opponent": "Manitoba Moose",
     "arena": "Casey’s Center",
     "city": "Des Moines, Iowa",
-    "date": "2026-10-23T04:00:00Z"
+    "date": "2026-10-24T00:00:00Z"
   },
   
   {
@@ -1058,7 +1136,7 @@
     "opponent": "Bakersfield Condors",
     "arena": "Blue Federal Credit Union Arena",
     "city": "Loveland, Colorado",
-    "date": "2026-10-23T04:00:00Z"
+    "date": "2026-10-24T01:05:00Z"
   },
   
   {
@@ -1068,7 +1146,7 @@
     "opponent": "Tucson Roadrunners",
     "arena": "Lee’s Family Forum",
     "city": "Henderson, Nevada",
-    "date": "2026-10-23T04:00:00Z"
+    "date": "2026-10-24T02:00:00Z"
   },
   
   {
@@ -1078,7 +1156,7 @@
     "opponent": "San Jose Barracuda",
     "arena": "Acrisure Arena",
     "city": "Thousand Palms, California",
-    "date": "2026-10-23T04:00:00Z"
+    "date": "2026-10-24T02:00:00Z"
   },
   
   {
@@ -1088,7 +1166,7 @@
     "opponent": "Hamilton Hammers",
     "arena": "Place Bell",
     "city": "Laval, Quebec",
-    "date": "2026-10-24T04:00:00Z"
+    "date": "2026-10-24T19:00:00Z"
   },
   
   {
@@ -1098,7 +1176,7 @@
     "opponent": "Rockford IceHogs",
     "arena": "Coca-Cola Coliseum",
     "city": "Toronto, Ontario",
-    "date": "2026-10-24T04:00:00Z"
+    "date": "2026-10-24T20:00:00Z"
   },
   
   {
@@ -1108,7 +1186,7 @@
     "opponent": "Springfield Thunderbirds",
     "arena": "Bojangles Coliseum",
     "city": "Charlotte, North Carolina",
-    "date": "2026-10-24T04:00:00Z"
+    "date": "2026-10-24T22:00:00Z"
   },
   
   {
@@ -1118,7 +1196,7 @@
     "opponent": "Hartford Wolf Pack",
     "arena": "Mohegan Arena at Casey Plaza",
     "city": "Wilkes-Barre Township, Pennsylvania",
-    "date": "2026-10-24T04:00:00Z"
+    "date": "2026-10-24T22:05:00Z"
   },
   
   {
@@ -1128,7 +1206,7 @@
     "opponent": "Belleville Senators",
     "arena": "Giant Center",
     "city": "Hershey, Pennsylvania",
-    "date": "2026-10-24T04:00:00Z"
+    "date": "2026-10-24T23:00:00Z"
   },
   
   {
@@ -1138,7 +1216,7 @@
     "opponent": "Cleveland Monsters",
     "arena": "Van Andel Arena",
     "city": "Grand Rapids, Michigan",
-    "date": "2026-10-24T04:00:00Z"
+    "date": "2026-10-24T23:00:00Z"
   },
   
   {
@@ -1148,7 +1226,7 @@
     "opponent": "Manitoba Moose",
     "arena": "Casey’s Center",
     "city": "Des Moines, Iowa",
-    "date": "2026-10-24T04:00:00Z"
+    "date": "2026-10-24T23:00:00Z"
   },
   
   {
@@ -1158,7 +1236,7 @@
     "opponent": "Utica Comets",
     "arena": "Amica Mutual Pavilion",
     "city": "Providence, Rhode Island",
-    "date": "2026-10-24T04:00:00Z"
+    "date": "2026-10-24T23:05:00Z"
   },
   
   {
@@ -1168,7 +1246,7 @@
     "opponent": "Syracuse Crunch",
     "arena": "PPL Center",
     "city": "Allentown, Pennsylvania",
-    "date": "2026-10-24T04:00:00Z"
+    "date": "2026-10-24T23:05:00Z"
   },
   
   {
@@ -1178,7 +1256,7 @@
     "opponent": "Milwaukee Admirals",
     "arena": "Allstate Arena",
     "city": "Rosemont, Illinois",
-    "date": "2026-10-24T04:00:00Z"
+    "date": "2026-10-25T00:00:00Z"
   },
   
   {
@@ -1188,7 +1266,7 @@
     "opponent": "Ontario Reign",
     "arena": "H-E-B Center at Cedar Park",
     "city": "Cedar Park, Texas",
-    "date": "2026-10-24T04:00:00Z"
+    "date": "2026-10-25T00:00:00Z"
   },
   
   {
@@ -1198,7 +1276,7 @@
     "opponent": "Calgary Wranglers",
     "arena": "Rogers Forum",
     "city": "Abbotsford, British Columbia",
-    "date": "2026-10-24T04:00:00Z"
+    "date": "2026-10-25T00:00:00Z"
   },
   
   {
@@ -1208,7 +1286,7 @@
     "opponent": "Bakersfield Condors",
     "arena": "Blue Federal Credit Union Arena",
     "city": "Loveland, Colorado",
-    "date": "2026-10-24T04:00:00Z"
+    "date": "2026-10-25T00:05:00Z"
   },
   
   {
@@ -1218,7 +1296,7 @@
     "opponent": "San Jose Barracuda",
     "arena": "Pechanga Arena San Diego",
     "city": "San Diego, California",
-    "date": "2026-10-24T04:00:00Z"
+    "date": "2026-10-25T01:00:00Z"
   },
   
   {
@@ -1228,7 +1306,7 @@
     "opponent": "Tucson Roadrunners",
     "arena": "Lee’s Family Forum",
     "city": "Henderson, Nevada",
-    "date": "2026-10-24T04:00:00Z"
+    "date": "2026-10-25T01:00:00Z"
   },
   
   {
@@ -1238,7 +1316,7 @@
     "opponent": "Belleville Senators",
     "arena": "PPL Center",
     "city": "Allentown, Pennsylvania",
-    "date": "2026-10-25T04:00:00Z"
+    "date": "2026-10-25T19:05:00Z"
   },
   
   {
@@ -1248,7 +1326,7 @@
     "opponent": "Rockford IceHogs",
     "arena": "Coca-Cola Coliseum",
     "city": "Toronto, Ontario",
-    "date": "2026-10-25T04:00:00Z"
+    "date": "2026-10-25T20:00:00Z"
   },
   
   {
@@ -1258,7 +1336,7 @@
     "opponent": "Calgary Wranglers",
     "arena": "Rogers Forum",
     "city": "Abbotsford, British Columbia",
-    "date": "2026-10-25T04:00:00Z"
+    "date": "2026-10-25T22:00:00Z"
   },
   
   {
@@ -1268,7 +1346,7 @@
     "opponent": "Manitoba Moose",
     "arena": "Allstate Arena",
     "city": "Rosemont, Illinois",
-    "date": "2026-10-27T04:00:00Z"
+    "date": "2026-10-27T16:00:00Z"
   },
   
   {
@@ -1278,7 +1356,7 @@
     "opponent": "Charlotte Checkers",
     "arena": "Blue Federal Credit Union Arena",
     "city": "Loveland, Colorado",
-    "date": "2026-10-27T04:00:00Z"
+    "date": "2026-10-28T01:05:00Z"
   },
   
   {
@@ -1288,7 +1366,7 @@
     "opponent": "Hershey Bears",
     "arena": "Blue Cross Arena",
     "city": "Rochester, New York",
-    "date": "2026-10-28T04:00:00Z"
+    "date": "2026-10-28T23:05:00Z"
   },
   
   {
@@ -1298,7 +1376,7 @@
     "opponent": "Manitoba Moose",
     "arena": "UW-Milwaukee Panther Arena",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-10-28T04:00:00Z"
+    "date": "2026-10-29T00:00:00Z"
   },
   
   {
@@ -1308,7 +1386,7 @@
     "opponent": "Charlotte Checkers",
     "arena": "Blue Federal Credit Union Arena",
     "city": "Loveland, Colorado",
-    "date": "2026-10-28T04:00:00Z"
+    "date": "2026-10-29T01:05:00Z"
   },
   
   {
@@ -1318,7 +1396,7 @@
     "opponent": "Abbotsford Canucks",
     "arena": "Tech CU Arena",
     "city": "San Jose, California",
-    "date": "2026-10-28T04:00:00Z"
+    "date": "2026-10-29T02:00:00Z"
   },
   
   {
@@ -1328,7 +1406,7 @@
     "opponent": "Ontario Reign",
     "arena": "Lee’s Family Forum",
     "city": "Henderson, Nevada",
-    "date": "2026-10-28T04:00:00Z"
+    "date": "2026-10-29T02:00:00Z"
   },
   
   {
@@ -1338,7 +1416,7 @@
     "opponent": "Tucson Roadrunners",
     "arena": "Acrisure Arena",
     "city": "Thousand Palms, California",
-    "date": "2026-10-28T04:00:00Z"
+    "date": "2026-10-29T02:00:00Z"
   },
   
   {
@@ -1348,7 +1426,7 @@
     "opponent": "Hartford Wolf Pack",
     "arena": "TD Coliseum",
     "city": "Hamilton, Ontario",
-    "date": "2026-10-29T04:00:00Z"
+    "date": "2026-10-29T23:00:00Z"
   },
   
   {
@@ -1358,7 +1436,7 @@
     "opponent": "Laval Rocket",
     "arena": "Scotiabank Saddledome",
     "city": "Calgary, Alberta",
-    "date": "2026-10-29T04:00:00Z"
+    "date": "2026-10-30T01:00:00Z"
   },
   
   {
@@ -1368,7 +1446,7 @@
     "opponent": "Hamilton Hammers",
     "arena": "Upstate Medical University Arena",
     "city": "Syracuse, New York",
-    "date": "2026-10-30T04:00:00Z"
+    "date": "2026-10-30T23:00:00Z"
   },
   
   {
@@ -1378,7 +1456,7 @@
     "opponent": "Hershey Bears",
     "arena": "Coca-Cola Coliseum",
     "city": "Toronto, Ontario",
-    "date": "2026-10-30T04:00:00Z"
+    "date": "2026-10-30T23:00:00Z"
   },
   
   {
@@ -1388,7 +1466,7 @@
     "opponent": "Milwaukee Admirals",
     "arena": "Rocket Arena",
     "city": "Cleveland, Ohio",
-    "date": "2026-10-30T04:00:00Z"
+    "date": "2026-10-30T23:00:00Z"
   },
   
   {
@@ -1398,7 +1476,7 @@
     "opponent": "Wilkes-Barre/Scranton Penguins",
     "arena": "NBT Bank Arena",
     "city": "Utica, New York",
-    "date": "2026-10-30T04:00:00Z"
+    "date": "2026-10-30T23:00:00Z"
   },
   
   {
@@ -1408,7 +1486,7 @@
     "opponent": "Hartford Wolf Pack",
     "arena": "CIBC Place",
     "city": "Belleville, Ontario",
-    "date": "2026-10-30T04:00:00Z"
+    "date": "2026-10-30T23:00:00Z"
   },
   
   {
@@ -1418,7 +1496,7 @@
     "opponent": "Providence Bruins",
     "arena": "MassMutual Center",
     "city": "Springfield, Massachusetts",
-    "date": "2026-10-30T04:00:00Z"
+    "date": "2026-10-30T23:05:00Z"
   },
   
   {
@@ -1428,7 +1506,7 @@
     "opponent": "Lehigh Valley Phantoms",
     "arena": "Blue Cross Arena",
     "city": "Rochester, New York",
-    "date": "2026-10-30T04:00:00Z"
+    "date": "2026-10-30T23:05:00Z"
   },
   
   {
@@ -1438,7 +1516,7 @@
     "opponent": "Manitoba Moose",
     "arena": "BMO Center",
     "city": "Rockford, Illinois",
-    "date": "2026-10-30T04:00:00Z"
+    "date": "2026-10-31T00:00:00Z"
   },
   
   {
@@ -1448,7 +1526,7 @@
     "opponent": "Charlotte Checkers",
     "arena": "Casey’s Center",
     "city": "Des Moines, Iowa",
-    "date": "2026-10-30T04:00:00Z"
+    "date": "2026-10-31T00:00:00Z"
   },
   
   {
@@ -1458,7 +1536,7 @@
     "opponent": "Tucson Roadrunners",
     "arena": "Toyota Arena",
     "city": "Ontario, California",
-    "date": "2026-10-30T04:00:00Z"
+    "date": "2026-10-31T02:00:00Z"
   },
   
   {
@@ -1468,7 +1546,7 @@
     "opponent": "Henderson Silver Knights",
     "arena": "Acrisure Arena",
     "city": "Thousand Palms, California",
-    "date": "2026-10-30T04:00:00Z"
+    "date": "2026-10-31T02:00:00Z"
   },
   
   {
@@ -1478,7 +1556,7 @@
     "opponent": "Abbotsford Canucks",
     "arena": "Dignity Health Arena",
     "city": "Bakersfield, California",
-    "date": "2026-10-30T04:00:00Z"
+    "date": "2026-10-31T02:10:00Z"
   },
   
   {
@@ -1488,7 +1566,7 @@
     "opponent": "Milwaukee Admirals",
     "arena": "Rocket Arena",
     "city": "Cleveland, Ohio",
-    "date": "2026-10-31T04:00:00Z"
+    "date": "2026-10-31T18:00:00Z"
   },
   
   {
@@ -1498,7 +1576,7 @@
     "opponent": "Laval Rocket",
     "arena": "Scotiabank Saddledome",
     "city": "Calgary, Alberta",
-    "date": "2026-10-31T04:00:00Z"
+    "date": "2026-10-31T18:00:00Z"
   },
   
   {
@@ -1508,7 +1586,7 @@
     "opponent": "Tucson Roadrunners",
     "arena": "Toyota Arena",
     "city": "Ontario, California",
-    "date": "2026-10-31T04:00:00Z"
+    "date": "2026-10-31T22:00:00Z"
   },
   
   {
@@ -1518,7 +1596,7 @@
     "opponent": "Texas Stars",
     "arena": "Allstate Arena",
     "city": "Rosemont, Illinois",
-    "date": "2026-10-31T04:00:00Z"
+    "date": "2026-11-01T00:00:00Z"
   },
   
   {
@@ -1528,6 +1606,6 @@
     "opponent": "Henderson Silver Knights",
     "arena": "Pechanga Arena San Diego",
     "city": "San Diego, California",
-    "date": "2026-10-31T04:00:00Z"
+    "date": "2026-11-01T01:00:00Z"
   }
 ]
