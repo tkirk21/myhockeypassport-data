@@ -1424,6 +1424,18 @@
       { "name": "Vaasan Sähkö Areena", "from": "2018-09-01", "to": null }
     ]
   },
+  {
+    "currentArena": "Gatorade Center",
+    "teamName": "TPS",
+    "league": "liiga",
+    "history": [
+      { "name": "Typhoon", "from": "1990-09-01", "to": "1994-06-30" },
+      { "name": "Elysée Arena", "from": "1994-09-01", "to": "2006-06-30" },
+      { "name": "Turkuhalli", "from": "2006-09-01", "to": "2010-06-30" },
+      { "name": "HK Areena", "from": "2010-09-01", "to": "2016-06-30" },
+      { "name": "Gatorade Center", "from": "2016-09-01", "to": null }
+    ]
+  },
 
 
 
