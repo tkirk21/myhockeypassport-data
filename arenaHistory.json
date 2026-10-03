@@ -1405,6 +1405,16 @@
       { "name": "Kivikylän Areena", "from": "2009-09-01", "to": null }
     ]
   },
+  {
+    "currentArena": "Wemasto Areena",
+    "teamName": "Rauman Lukko",
+    "league": "liiga",
+    "history": [
+      { "name": "Lahden jäähalli", "from": "1999-09-01", "to": "2005-06-30" },
+      { "name": "Isku Areena", "from": "2005-09-01", "to": "20025-06-30" },
+      { "name": "Wemasto Areena", "from": "2025-09-01", "to": null }
+    ]
+  },
 
 
 
