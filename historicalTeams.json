@@ -16715,7 +16715,7 @@
     "teamName": "HC Ajoie",
     "teamCode": "HCA",
     "arena": "Patinoire de Porrentruy",
-    "arenaId": "raiffeisen_arena_porrentruy"
+    "arenaId": "raiffeisen_arena_porrentruy",
     "city": "Porrentruy, Switzerland",
     "address": "Chem. des Bains 23, 2900 Porrentruy, Switzerland",
     "website": "https://hc-ajoie.ch",
@@ -16733,7 +16733,7 @@
     "teamName": "HC Ajoie",
     "teamCode": "HCA",
     "arena": "Patinoire de Porrentruy",
-    "arenaId": "raiffeisen_arena_porrentruy"
+    "arenaId": "raiffeisen_arena_porrentruy",
     "city": "Porrentruy, Switzerland",
     "address": "Chem. des Bains 23, 2900 Porrentruy, Switzerland",
     "website": "https://hc-ajoie.ch",
@@ -16751,7 +16751,7 @@
     "teamName": "HC Ambrì-Piotta",
     "teamCode": "HCAP",
     "arena": "La Valascia",
-    "arenaId": "la_valascia_quinto"
+    "arenaId": "la_valascia_quinto",
     "city": "Quinto, Switzerland",
     "address": "6775 Quinto, Switzerland",
     "website": "https://hcap.ch",
@@ -16769,7 +16769,7 @@
     "teamName": "HC Ambrì-Piotta",
     "teamCode": "HCAP",
     "arena": "La Valascia",
-    "arenaId": "la_valascia_quinto"
+    "arenaId": "la_valascia_quinto",
     "city": "Quinto, Switzerland",
     "address": "6775 Quinto, Switzerland",
     "website": "https://hcap.ch",
@@ -16787,7 +16787,7 @@
     "teamName": "HC Ambrì-Piotta",
     "teamCode": "HCAP",
     "arena": "La Valascia",
-    "arenaId": "la_valascia_quinto"
+    "arenaId": "la_valascia_quinto",
     "city": "Quinto, Switzerland",
     "address": "6775 Quinto, Switzerland",
     "website": "https://hcap.ch",
@@ -16805,7 +16805,7 @@
     "teamName": "HC Ambrì-Piotta",
     "teamCode": "HCAP",
     "arena": "La Valascia",
-    "arenaId": "la_valascia_quinto"
+    "arenaId": "la_valascia_quinto",
     "city": "Quinto, Switzerland",
     "address": "6775 Quinto, Switzerland",
     "website": "https://hcap.ch",
@@ -16823,7 +16823,7 @@
     "teamName": "HC Ambrì-Piotta",
     "teamCode": "HCAP",
     "arena": "La Valascia",
-    "arenaId": "la_valascia_quinto"
+    "arenaId": "la_valascia_quinto",
     "city": "Quinto, Switzerland",
     "address": "6775 Quinto, Switzerland",
     "website": "https://hcap.ch",
@@ -16841,7 +16841,7 @@
     "teamName": "HC Ambrì-Piotta",
     "teamCode": "HCAP",
     "arena": "La Valascia",
-    "arenaId": "la_valascia_quinto"
+    "arenaId": "la_valascia_quinto",
     "city": "Quinto, Switzerland",
     "address": "6775 Quinto, Switzerland",
     "website": "https://hcap.ch",
@@ -17003,7 +17003,7 @@
     "colorCode3": "#FFFFFF",
     "league": "NLA",
     "timezone": "Europe/Zurich",
-    "arenaId": "tissot_arena_bielbienne"
+    "arenaId": "tissot_arena_bielbienne",
     "startDate": "2015-09-01",
     "endDate": "2017-06-30"
   },
@@ -17022,7 +17022,7 @@
     "colorCode3": "#FFFFFF",
     "league": "NLA",
     "timezone": "Europe/Zurich",
-    "arenaId": "eisstadion_biel_bielbienne"
+    "arenaId": "eisstadion_biel_bielbienne",
     "startDate": "2007-09-01",
     "endDate": "2015-06-30"
   },
@@ -17041,7 +17041,7 @@
     "colorCode3": "#FFFFFF",
     "league": "NLA",
     "timezone": "Europe/Zurich",
-    "arenaId": "eisstadion_biel_bielbienne"
+    "arenaId": "eisstadion_biel_bielbienne",
     "startDate": "2008-09-01",
     "endDate": "2015-06-30"
   },
@@ -17060,7 +17060,7 @@
     "colorCode3": "#FFFFFF",
     "league": "NDA",
     "timezone": "Europe/Zurich",
-    "arenaId": "eisstadion_biel_bielbienne"
+    "arenaId": "eisstadion_biel_bielbienne",
     "startDate": "1975-09-01",
     "endDate": "1995-06-30"
   },
