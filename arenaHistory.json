@@ -1531,7 +1531,15 @@
       { "name": "VAT Arena", "from": "2026-09-01", "to": null }
     ]
   },
-
+  {
+    "currentArena": "BCF Arena",
+    "teamName": "HC Fribourg-Gottéron",
+    "league": "NLA",
+    "history": [
+      { "name": "Patinoire Saint-Léonard", "from": "2007-09-01", "to": "2010-06-30" },
+      { "name": "BCF Arena", "from": "2010-09-01", "to": "2017-06-30" }
+    ]
+  },
 
 
 
