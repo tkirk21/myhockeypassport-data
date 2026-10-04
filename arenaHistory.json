@@ -1510,6 +1510,18 @@
 
 
 
+  {
+    "currentArena": "Bern Arena",
+    "teamName": "SC Bern",
+    "league": "NA",
+    "history": [
+      { "name": "Eisstadion Allmend", "from": "1999-09-01", "to": "20202-06-30" },
+      { "name": "Bern Arena", "from": "2002-09-01", "to": "2007-06-30" }
+    ]
+  },
+
+
+
 
 
   
