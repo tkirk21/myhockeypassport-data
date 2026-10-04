@@ -1515,11 +1515,22 @@
     "teamName": "SC Bern",
     "league": "NA",
     "history": [
-      { "name": "Eisstadion Allmend", "from": "1999-09-01", "to": "20202-06-30" },
+      { "name": "Eisstadion Allmend", "from": "1999-09-01", "to": "2002-06-30" },
       { "name": "Bern Arena", "from": "2002-09-01", "to": "2007-06-30" }
     ]
   },
-
+  {
+    "currentArena": "Bern Arena",
+    "teamName": "HC Davos",
+    "league": "NL",
+    "history": [
+      { "name": "Eisstadion Davos", "from": "2017-09-01", "to": "2018-06-30" },
+      { "name": "Vaillant Arena", "from": "2018-09-01", "to": "2021-06-30" },
+      { "name": "Eisstadion Davos", "from": "2021-09-01", "to": "2025-06-30" },
+      { "name": "Zondacrypto Arena", "from": "2025-09-01", "to": "2026-06-30" },
+      { "name": "VAT Arena", "from": "2026-09-01", "to": null }
+    ]
+  },
 
 
 
