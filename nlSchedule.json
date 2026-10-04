@@ -1,3 +1,812 @@
 [
+  {
+   "id": "nl_2026100101",
+   "league": "NL",
+   "team": "HC Ambrì-Piotta",
+   "opponent": "SCL Tigers",
+   "arena": "Gottardo Arena",
+   "city": "Ambrì, Switzerland",
+   "date": "2026-10-01T18:00:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100202",
+   "league": "NL",
+   "team": "SC Bern",
+   "opponent": "Genève-Servette HC",
+   "arena": "PostFinance Arena",
+   "city": "Bern, Switzerland",
+   "date": "2026-10-02T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100203",
+   "league": "NL",
+   "team": "HC Davos",
+   "opponent": "HC Ajoie",
+   "arena": "zondacrypto Arena",
+   "city": "Davos, Switzerland",
+   "date": "2026-10-02T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100204",
+   "league": "NL",
+   "team": "EHC Kloten",
+   "opponent": "Fribourg-Gottéron",
+   "arena": "SWISS Arena",
+   "city": "Kloten, Switzerland",
+   "date": "2026-10-02T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100205",
+   "league": "NL",
+   "team": "Lausanne HC",
+   "opponent": "EHC Biel-Bienne",
+   "arena": "Vaudoise Aréna",
+   "city": "Lausanne, Switzerland",
+   "date": "2026-10-02T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100206",
+   "league": "NL",
+   "team": "HC Lugano",
+   "opponent": "SC Rapperswil-Jona Lakers",
+   "arena": "Cornèr Arena",
+   "city": "Lugano, Switzerland",
+   "date": "2026-10-02T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100307",
+   "league": "NL",
+   "team": "EHC Biel-Bienne",
+   "opponent": "HC Davos",
+   "arena": "Tissot Arena",
+   "city": "Biel/Bienne, Switzerland",
+   "date": "2026-10-03T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100308",
+   "league": "NL",
+   "team": "Fribourg-Gottéron",
+   "opponent": "HC Ambrì-Piotta",
+   "arena": "BCF Arena",
+   "city": "Fribourg, Switzerland",
+   "date": "2026-10-03T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100309",
+   "league": "NL",
+   "team": "SC Rapperswil-Jona Lakers",
+   "opponent": "SC Bern",
+   "arena": "St. Galler Kantonalbank Arena",
+   "city": "Rapperswil-Jona, Switzerland",
+   "date": "2026-10-03T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100310",
+   "league": "NL",
+   "team": "SCL Tigers",
+   "opponent": "EHC Kloten",
+   "arena": "Emmental Versicherung Arena",
+   "city": "Langnau im Emmental, Switzerland",
+   "date": "2026-10-03T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100311",
+   "league": "NL",
+   "team": "ZSC Lions",
+   "opponent": "Lausanne HC",
+   "arena": "Swiss Life Arena",
+   "city": "Zürich, Switzerland",
+   "date": "2026-10-03T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100412",
+   "league": "NL",
+   "team": "HC Ajoie",
+   "opponent": "HC Lugano",
+   "arena": "Raiffeisen Arena",
+   "city": "Porrentruy, Switzerland",
+   "date": "2026-10-04T12:00:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100413",
+   "league": "NL",
+   "team": "Genève-Servette HC",
+   "opponent": "EV Zug",
+   "arena": "Patinoire des Vernets",
+   "city": "Geneva, Switzerland",
+   "date": "2026-10-04T12:00:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100714",
+   "league": "NL",
+   "team": "Lausanne HC",
+   "opponent": "HC Lugano",
+   "arena": "Vaudoise Aréna",
+   "city": "Lausanne, Switzerland",
+   "date": "2026-10-07T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100815",
+   "league": "NL",
+   "team": "Fribourg-Gottéron",
+   "opponent": "HC Ajoie",
+   "arena": "BCF Arena",
+   "city": "Fribourg, Switzerland",
+   "date": "2026-10-08T18:00:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100916",
+   "league": "NL",
+   "team": "SC Bern",
+   "opponent": "EHC Biel-Bienne",
+   "arena": "PostFinance Arena",
+   "city": "Bern, Switzerland",
+   "date": "2026-10-09T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100917",
+   "league": "NL",
+   "team": "HC Davos",
+   "opponent": "EHC Kloten",
+   "arena": "zondacrypto Arena",
+   "city": "Davos, Switzerland",
+   "date": "2026-10-09T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100918",
+   "league": "NL",
+   "team": "HC Lugano",
+   "opponent": "ZSC Lions",
+   "arena": "Cornèr Arena",
+   "city": "Lugano, Switzerland",
+   "date": "2026-10-09T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026100919",
+   "league": "NL",
+   "team": "SCL Tigers",
+   "opponent": "SC Rapperswil-Jona Lakers",
+   "arena": "Emmental Versicherung Arena",
+   "city": "Langnau im Emmental, Switzerland",
+   "date": "2026-10-09T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101020",
+   "league": "NL",
+   "team": "HC Ajoie",
+   "opponent": "SCL Tigers",
+   "arena": "Raiffeisen Arena",
+   "city": "Porrentruy, Switzerland",
+   "date": "2026-10-10T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101021",
+   "league": "NL",
+   "team": "HC Ambrì-Piotta",
+   "opponent": "SC Bern",
+   "arena": "Gottardo Arena",
+   "city": "Ambrì, Switzerland",
+   "date": "2026-10-10T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101022",
+   "league": "NL",
+   "team": "EHC Biel-Bienne",
+   "opponent": "HC Lugano",
+   "arena": "Tissot Arena",
+   "city": "Biel/Bienne, Switzerland",
+   "date": "2026-10-10T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101023",
+   "league": "NL",
+   "team": "Genève-Servette HC",
+   "opponent": "HC Davos",
+   "arena": "Patinoire des Vernets",
+   "city": "Geneva, Switzerland",
+   "date": "2026-10-10T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101024",
+   "league": "NL",
+   "team": "SC Rapperswil-Jona Lakers",
+   "opponent": "Lausanne HC",
+   "arena": "St. Galler Kantonalbank Arena",
+   "city": "Rapperswil-Jona, Switzerland",
+   "date": "2026-10-10T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101025",
+   "league": "NL",
+   "team": "ZSC Lions",
+   "opponent": "Fribourg-Gottéron",
+   "arena": "Swiss Life Arena",
+   "city": "Zürich, Switzerland",
+   "date": "2026-10-10T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101126",
+   "league": "NL",
+   "team": "EHC Kloten",
+   "opponent": "EV Zug",
+   "arena": "SWISS Arena",
+   "city": "Kloten, Switzerland",
+   "date": "2026-10-11T12:00:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101427",
+   "league": "NL",
+   "team": "Lausanne HC",
+   "opponent": "HC Ajoie",
+   "arena": "Vaudoise Aréna",
+   "city": "Lausanne, Switzerland",
+   "date": "2026-10-14T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101628",
+   "league": "NL",
+   "team": "SC Bern",
+   "opponent": "Lausanne HC",
+   "arena": "PostFinance Arena",
+   "city": "Bern, Switzerland",
+   "date": "2026-10-16T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101629",
+   "league": "NL",
+   "team": "EHC Biel-Bienne",
+   "opponent": "HC Ajoie",
+   "arena": "Tissot Arena",
+   "city": "Biel/Bienne, Switzerland",
+   "date": "2026-10-16T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101630",
+   "league": "NL",
+   "team": "Genève-Servette HC",
+   "opponent": "SCL Tigers",
+   "arena": "Patinoire des Vernets",
+   "city": "Geneva, Switzerland",
+   "date": "2026-10-16T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101631",
+   "league": "NL",
+   "team": "EHC Kloten",
+   "opponent": "HC Ambrì-Piotta",
+   "arena": "SWISS Arena",
+   "city": "Kloten, Switzerland",
+   "date": "2026-10-16T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101632",
+   "league": "NL",
+   "team": "HC Lugano",
+   "opponent": "HC Davos",
+   "arena": "Cornèr Arena",
+   "city": "Lugano, Switzerland",
+   "date": "2026-10-16T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101633",
+   "league": "NL",
+   "team": "ZSC Lions",
+   "opponent": "SC Rapperswil-Jona Lakers",
+   "arena": "Swiss Life Arena",
+   "city": "Zürich, Switzerland",
+   "date": "2026-10-16T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101734",
+   "league": "NL",
+   "team": "HC Ajoie",
+   "opponent": "EV Zug",
+   "arena": "Raiffeisen Arena",
+   "city": "Porrentruy, Switzerland",
+   "date": "2026-10-17T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101735",
+   "league": "NL",
+   "team": "HC Ambrì-Piotta",
+   "opponent": "Genève-Servette HC",
+   "arena": "Gottardo Arena",
+   "city": "Ambrì, Switzerland",
+   "date": "2026-10-17T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101736",
+   "league": "NL",
+   "team": "HC Davos",
+   "opponent": "ZSC Lions",
+   "arena": "zondacrypto Arena",
+   "city": "Davos, Switzerland",
+   "date": "2026-10-17T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101737",
+   "league": "NL",
+   "team": "Fribourg-Gottéron",
+   "opponent": "HC Lugano",
+   "arena": "BCF Arena",
+   "city": "Fribourg, Switzerland",
+   "date": "2026-10-17T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101738",
+   "league": "NL",
+   "team": "SC Rapperswil-Jona Lakers",
+   "opponent": "EHC Biel-Bienne",
+   "arena": "St. Galler Kantonalbank Arena",
+   "city": "Rapperswil-Jona, Switzerland",
+   "date": "2026-10-17T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101739",
+   "league": "NL",
+   "team": "Lausanne HC",
+   "opponent": "EHC Kloten",
+   "arena": "Vaudoise Aréna",
+   "city": "Lausanne, Switzerland",
+   "date": "2026-10-17T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026101740",
+   "league": "NL",
+   "team": "SCL Tigers",
+   "opponent": "SC Bern",
+   "arena": "Emmental Versicherung Arena",
+   "city": "Langnau im Emmental, Switzerland",
+   "date": "2026-10-17T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102041",
+   "league": "NL",
+   "team": "HC Ambrì-Piotta",
+   "opponent": "Fribourg-Gottéron",
+   "arena": "Gottardo Arena",
+   "city": "Ambrì, Switzerland",
+   "date": "2026-10-20T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102042",
+   "league": "NL",
+   "team": "SC Bern",
+   "opponent": "SCL Tigers",
+   "arena": "PostFinance Arena",
+   "city": "Bern, Switzerland",
+   "date": "2026-10-20T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102043",
+   "league": "NL",
+   "team": "EHC Biel-Bienne",
+   "opponent": "SC Rapperswil-Jona Lakers",
+   "arena": "Tissot Arena",
+   "city": "Biel/Bienne, Switzerland",
+   "date": "2026-10-20T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102044",
+   "league": "NL",
+   "team": "Genève-Servette HC",
+   "opponent": "HC Lugano",
+   "arena": "Patinoire des Vernets",
+   "city": "Geneva, Switzerland",
+   "date": "2026-10-20T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102045",
+   "league": "NL",
+   "team": "EHC Kloten",
+   "opponent": "Lausanne HC",
+   "arena": "SWISS Arena",
+   "city": "Kloten, Switzerland",
+   "date": "2026-10-20T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102046",
+   "league": "NL",
+   "team": "ZSC Lions",
+   "opponent": "HC Davos",
+   "arena": "Swiss Life Arena",
+   "city": "Zürich, Switzerland",
+   "date": "2026-10-20T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102347",
+   "league": "NL",
+   "team": "HC Ajoie",
+   "opponent": "Genève-Servette HC",
+   "arena": "Raiffeisen Arena",
+   "city": "Porrentruy, Switzerland",
+   "date": "2026-10-23T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102348",
+   "league": "NL",
+   "team": "HC Davos",
+   "opponent": "SC Bern",
+   "arena": "zondacrypto Arena",
+   "city": "Davos, Switzerland",
+   "date": "2026-10-23T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102349",
+   "league": "NL",
+   "team": "Fribourg-Gottéron",
+   "opponent": "EHC Biel-Bienne",
+   "arena": "BCF Arena",
+   "city": "Fribourg, Switzerland",
+   "date": "2026-10-23T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102350",
+   "league": "NL",
+   "team": "SC Rapperswil-Jona Lakers",
+   "opponent": "HC Ambrì-Piotta",
+   "arena": "St. Galler Kantonalbank Arena",
+   "city": "Rapperswil-Jona, Switzerland",
+   "date": "2026-10-23T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102351",
+   "league": "NL",
+   "team": "HC Lugano",
+   "opponent": "EHC Kloten",
+   "arena": "Cornèr Arena",
+   "city": "Lugano, Switzerland",
+   "date": "2026-10-23T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102352",
+   "league": "NL",
+   "team": "ZSC Lions",
+   "opponent": "SCL Tigers",
+   "arena": "Swiss Life Arena",
+   "city": "Zürich, Switzerland",
+   "date": "2026-10-23T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102353",
+   "league": "NL",
+   "team": "EV Zug",
+   "opponent": "Lausanne HC",
+   "arena": "Bossard Arena",
+   "city": "Zug, Switzerland",
+   "date": "2026-10-23T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102454",
+   "league": "NL",
+   "team": "HC Ambrì-Piotta",
+   "opponent": "HC Ajoie",
+   "arena": "Gottardo Arena",
+   "city": "Ambrì, Switzerland",
+   "date": "2026-10-24T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102455",
+   "league": "NL",
+   "team": "EHC Biel-Bienne",
+   "opponent": "EV Zug",
+   "arena": "Tissot Arena",
+   "city": "Biel/Bienne, Switzerland",
+   "date": "2026-10-24T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102456",
+   "league": "NL",
+   "team": "EHC Kloten",
+   "opponent": "SC Rapperswil-Jona Lakers",
+   "arena": "SWISS Arena",
+   "city": "Kloten, Switzerland",
+   "date": "2026-10-24T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102457",
+   "league": "NL",
+   "team": "Lausanne HC",
+   "opponent": "Fribourg-Gottéron",
+   "arena": "Vaudoise Aréna",
+   "city": "Lausanne, Switzerland",
+   "date": "2026-10-24T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102458",
+   "league": "NL",
+   "team": "SCL Tigers",
+   "opponent": "HC Davos",
+   "arena": "Emmental Versicherung Arena",
+   "city": "Langnau im Emmental, Switzerland",
+   "date": "2026-10-24T17:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102559",
+   "league": "NL",
+   "team": "SC Bern",
+   "opponent": "HC Lugano",
+   "arena": "PostFinance Arena",
+   "city": "Bern, Switzerland",
+   "date": "2026-10-25T13:00:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102560",
+   "league": "NL",
+   "team": "Genève-Servette HC",
+   "opponent": "ZSC Lions",
+   "arena": "Patinoire des Vernets",
+   "city": "Geneva, Switzerland",
+   "date": "2026-10-25T13:00:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102761",
+   "league": "NL",
+   "team": "Fribourg-Gottéron",
+   "opponent": "HC Davos",
+   "arena": "BCF Arena",
+   "city": "Fribourg, Switzerland",
+   "date": "2026-10-27T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102762",
+   "league": "NL",
+   "team": "HC Ambrì-Piotta",
+   "opponent": "EHC Biel-Bienne",
+   "arena": "Gottardo Arena",
+   "city": "Ambrì, Switzerland",
+   "date": "2026-10-27T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102763",
+   "league": "NL",
+   "team": "SC Bern",
+   "opponent": "ZSC Lions",
+   "arena": "PostFinance Arena",
+   "city": "Bern, Switzerland",
+   "date": "2026-10-27T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102764",
+   "league": "NL",
+   "team": "EHC Kloten",
+   "opponent": "HC Ajoie",
+   "arena": "SWISS Arena",
+   "city": "Kloten, Switzerland",
+   "date": "2026-10-27T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102765",
+   "league": "NL",
+   "team": "SC Rapperswil-Jona Lakers",
+   "opponent": "Genève-Servette HC",
+   "arena": "St. Galler Kantonalbank Arena",
+   "city": "Rapperswil-Jona, Switzerland",
+   "date": "2026-10-27T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102766",
+   "league": "NL",
+   "team": "Lausanne HC",
+   "opponent": "SCL Tigers",
+   "arena": "Vaudoise Aréna",
+   "city": "Lausanne, Switzerland",
+   "date": "2026-10-27T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102767",
+   "league": "NL",
+   "team": "EV Zug",
+   "opponent": "HC Lugano",
+   "arena": "Bossard Arena",
+   "city": "Zug, Switzerland",
+   "date": "2026-10-27T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102868",
+   "league": "NL",
+   "team": "SCL Tigers",
+   "opponent": "Fribourg-Gottéron",
+   "arena": "Emmental Versicherung Arena",
+   "city": "Langnau im Emmental, Switzerland",
+   "date": "2026-10-28T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026102969",
+   "league": "NL",
+   "team": "HC Lugano",
+   "opponent": "Lausanne HC",
+   "arena": "Cornèr Arena",
+   "city": "Lugano, Switzerland",
+   "date": "2026-10-29T19:00:00Z"
+ },
+ 
+ {
+   "id": "nl_2026103070",
+   "league": "NL",
+   "team": "HC Ajoie",
+   "opponent": "SC Bern",
+   "arena": "Raiffeisen Arena",
+   "city": "Porrentruy, Switzerland",
+   "date": "2026-10-30T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026103071",
+   "league": "NL",
+   "team": "EHC Biel-Bienne",
+   "opponent": "EHC Kloten",
+   "arena": "Tissot Arena",
+   "city": "Biel/Bienne, Switzerland",
+   "date": "2026-10-30T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026103072",
+   "league": "NL",
+   "team": "HC Davos",
+   "opponent": "SC Rapperswil-Jona Lakers",
+   "arena": "zondacrypto Arena",
+   "city": "Davos, Switzerland",
+   "date": "2026-10-30T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026103073",
+   "league": "NL",
+   "team": "Fribourg-Gottéron",
+   "opponent": "Genève-Servette HC",
+   "arena": "BCF Arena",
+   "city": "Fribourg, Switzerland",
+   "date": "2026-10-30T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026103074",
+   "league": "NL",
+   "team": "ZSC Lions",
+   "opponent": "HC Ambrì-Piotta",
+   "arena": "Swiss Life Arena",
+   "city": "Zürich, Switzerland",
+   "date": "2026-10-30T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026103075",
+   "league": "NL",
+   "team": "EV Zug",
+   "opponent": "SCL Tigers",
+   "arena": "Bossard Arena",
+   "city": "Zug, Switzerland",
+   "date": "2026-10-30T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026103176",
+   "league": "NL",
+   "team": "HC Ambrì-Piotta",
+   "opponent": "HC Lugano",
+   "arena": "Gottardo Arena",
+   "city": "Ambrì, Switzerland",
+   "date": "2026-10-31T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026103177",
+   "league": "NL",
+   "team": "SC Bern",
+   "opponent": "EV Zug",
+   "arena": "PostFinance Arena",
+   "city": "Bern, Switzerland",
+   "date": "2026-10-31T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026103178",
+   "league": "NL",
+   "team": "Genève-Servette HC",
+   "opponent": "EHC Biel-Bienne",
+   "arena": "Patinoire des Vernets",
+   "city": "Geneva, Switzerland",
+   "date": "2026-10-31T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026103179",
+   "league": "NL",
+   "team": "EHC Kloten",
+   "opponent": "ZSC Lions",
+   "arena": "SWISS Arena",
+   "city": "Kloten, Switzerland",
+   "date": "2026-10-31T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026103180",
+   "league": "NL",
+   "team": "SC Rapperswil-Jona Lakers",
+   "opponent": "HC Ajoie",
+   "arena": "St. Galler Kantonalbank Arena",
+   "city": "Rapperswil-Jona, Switzerland",
+   "date": "2026-10-31T18:45:00Z"
+ },
+ 
+ {
+   "id": "nl_2026103181",
+   "league": "NL",
+   "team": "Lausanne HC",
+   "opponent": "HC Davos",
+   "arena": "Vaudoise Aréna",
+   "city": "Lausanne, Switzerland",
+   "date": "2026-10-31T18:45:00Z"
+ } 
  
 ]
