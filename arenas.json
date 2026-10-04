@@ -6593,7 +6593,7 @@
     "endDate": null
   },
   {
-    "teamName": "Rivière-du-Loup 3L",
+    "teamName": "3L Rivière-du-Loup",
     "teamCode": "RDL",
     "arena": "Centre Premier Tech",
     "city": "Rivière-du-Loup, Quebec",
@@ -6627,8 +6627,8 @@
     "endDate": null
   },
   {
-    "teamName": "Saint-Hyacinthe Bataillon",
-    "teamCode": "SHB",
+    "teamName": "Bataillon Saint-Hyacinthe",
+    "teamCode": "BSH",
     "arena": "Stade Louis-Philippe-Gaucher",
     "city": "Saint-Hyacinthe, Quebec",
     "address": "800 Rue Viger, Saint-Hyacinthe, QC, Canada",
@@ -6644,8 +6644,8 @@
     "endDate": null
   },
   {
-    "teamName": "Sorel-Tracy Éperviers",
-    "teamCode": "SOR",
+    "teamName": "Éperviers Sorel-Tracy",
+    "teamCode": "EST",
     "arena": "Colisée Cardin",
     "city": "Sorel-Tracy, Quebec",
     "address": "200 Rue Victoria, Sorel-Tracy, QC J3P 7K1, Canada",
@@ -6662,8 +6662,8 @@
     "endDate": null
   },
   {
-    "teamName": "Thetford Assurancia",
-    "teamCode": "TMA",
+    "teamName": "Assurancia Thetford",
+    "teamCode": "ASS",
     "arena": "Centre Mario Gosselin",
     "city": "Thetford Mines, Quebec",
     "address": "555 Rue Saint-Alphonse N, Thetford Mines, QC G6G 3X1, Canada",
@@ -6681,8 +6681,8 @@
     "endDate": null
   },
   {
-    "teamName": "National de Québec",
-    "teamCode": "NDQ",
+    "teamName": "National Québec",
+    "teamCode": "NAT",
     "arena": "Complexe Sportif Bonair",
     "city": "L'Ancienne-Lorette, Quebec",
     "address": "1311 Rue des Loisirs E, L'Ancienne-Lorette, QC G2E 0A5, Canada",
@@ -6698,8 +6698,8 @@
     "endDate": null
   },
   {
-    "teamName": "Manotick Mariners",
-    "teamCode": "MAN",
+    "teamName": "Mariners Manotick",
+    "teamCode": "MAR",
     "arena": "Mike O'Neil Arena",
     "city": "Manotick, Ontario",
     "address": "5572 Dr Leach Dr, Manotick, ON K4M 1L7, Canada",
