@@ -1359,9 +1359,17 @@
     "teamName": "JYP",
     "league": "liiga",
     "history": [
-      { "name": "Jyväskylän jäähalli", "from": "1985-09-01", "to": "2008-06-30" },
-      { "name": "Synergia-areena", "from": "2008-09-01", "to": "2017-06-30" },
+      { "name": "Synergia-areena", "from": "2013-09-01", "to": "2017-06-30" },
       { "name": "LähiTapiola Areena", "from": "2017-09-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "LähiTapiola Areena",
+    "teamName": "JYP",
+    "league": "SM-Liiga",
+    "history": [
+      { "name": "Jyväskylän jäähalli", "from": "1985-09-01", "to": "2008-06-30" },
+      { "name": "Synergia-areena", "from": "2008-09-01", "to": "2013-06-30" }
     ]
   },
   {
@@ -1369,10 +1377,18 @@
     "teamName": "HPK",
     "league": "liiga",
     "history": [
+      { "name": "Ritari-areena", "from": "2013-09-01", "to": "2018-06-30" },
+      { "name": "Pohjantähti Areena", "from": "2018-09-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Pohjantähti Areena",
+    "teamName": "HPK",
+    "league": "SM-Liiga",
+    "history": [
       { "name": "Rinkelinmäen jäähalli ", "from": "1988-09-01", "to": "2005-06-30" },
       { "name": "Patria-areena", "from": "2005-09-01", "to": "2007-06-30" },
-      { "name": "Ritari-areena", "from": "2007-09-01", "to": "2018-06-30" },
-      { "name": "Pohjantähti Areena", "from": "2018-09-01", "to": null }
+      { "name": "Ritari-areena", "from": "2007-09-01", "to": "2013-06-30" }
     ]
   },
   {
@@ -1380,7 +1396,7 @@
     "teamName": "KalPa",
     "league": "liiga",
     "history": [
-      { "name": "Kuopion jäähalli", "from": "2005-09-01", "to": "2014-06-30" },
+      { "name": "Kuopion jäähalli", "from": "2013-09-01", "to": "2014-06-30" },
       { "name": "Data Group Areena", "from": "2014-09-01", "to": "2018-06-30" },
       { "name": "Olvi Areena", "from": "2018-09-01", "to": null }
     ]
@@ -1390,9 +1406,17 @@
     "teamName": "Espoo Blues",
     "league": "liiga",
     "history": [
-      { "name": "LänsiAuto Areena", "from": "1999-09-01", "to": "2009-06-30" },
-      { "name": "Barona Areena", "from": "2009-09-01", "to": "2015-06-30" },
+      { "name": "Barona Areena", "from": "2013-09-01", "to": "2015-06-30" },
       { "name": "Espoo Metro Areena", "from": "2015-09-01", "to": "2016-06-30"}
+    ]
+  },
+  {
+    "currentArena": "Espoo Metro Areena",
+    "teamName": "Espoo Blues",
+    "league": "SM-Liiga",
+    "history": [
+      { "name": "LänsiAuto Areena", "from": "1999-09-01", "to": "2009-06-30" },
+      { "name": "Barona Areena", "from": "2009-09-01", "to": "2013-06-30" }
     ]
   },
   {
@@ -1407,30 +1431,39 @@
   {
     "currentArena": "Oulun Energia Areena",
     "teamName": "Oulun Kärpät",
-    "league": "liiga",
+    "league": "SM-Liiga",
     "history": [
       { "name": "Oulun jäähalli ", "from": "2000-09-01", "to": "2006-06-30" },
-      { "name": "Oulun Energia Areena", "from": "2006-09-01", "to": null }
+      { "name": "Oulun Energia Areena", "from": "2006-09-01", "to": "2013-06-30" }
     ]
   },
   {
     "currentArena": "Kivikylän Areena",
     "teamName": "Rauman Lukko",
-    "league": "liiga",
+    "league": "SM-Liiga",
     "history": [
       { "name": "Äijänsuon jäähalli", "from": "1984-09-01", "to": "2006-06-30" },
       { "name": "Lännen Puhelin Areena", "from": "2006-09-01", "to": "2007-06-30" },
       { "name": "DNA Areena", "from": "2007-09-01", "to": "2009-06-30" },
-      { "name": "Kivikylän Areena", "from": "2009-09-01", "to": null }
+      { "name": "Kivikylän Areena", "from": "2009-09-01", "to": "2013-06-30" }
     ]
   },
   {
     "currentArena": "Wemasto Areena",
     "teamName": "Lahti Pelicans",
-    "league": "liiga",
+    "league": "SM-Liiga",
     "history": [
       { "name": "Lahden jäähalli", "from": "1999-09-01", "to": "2005-06-30" },
-      { "name": "Isku Areena", "from": "2005-09-01", "to": "2025-06-30" },
+      { "name": "Isku Areena", "from": "2005-09-01", "to": "2013-06-30" }
+
+    ]
+  },
+   {
+    "currentArena": "Wemasto Areena",
+    "teamName": "Lahti Pelicans",
+    "league": "liiga",
+    "history": [
+      { "name": "Isku Areena", "from": "2013-09-01", "to": "2025-06-30" },
       { "name": "Wemasto Areena", "from": "2025-09-01", "to": null }
     ]
   },
@@ -1448,11 +1481,19 @@
     "teamName": "TPS",
     "league": "liiga",
     "history": [
+      { "name": "HK Areena", "from": "2013-09-01", "to": "2016-06-30" },
+      { "name": "Gatorade Center", "from": "2016-09-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Gatorade Center",
+    "teamName": "TPS",
+    "league": "SM-Liiga",
+    "history": [
       { "name": "Typhoon", "from": "1990-09-01", "to": "1994-06-30" },
       { "name": "Elysée Arena", "from": "1994-09-01", "to": "2006-06-30" },
       { "name": "Turkuhalli", "from": "2006-09-01", "to": "2010-06-30" },
-      { "name": "HK Areena", "from": "2010-09-01", "to": "2016-06-30" },
-      { "name": "Gatorade Center", "from": "2016-09-01", "to": null }
+      { "name": "HK Areena", "from": "2010-09-01", "to": "2013-06-30" }
     ]
   },
   {
@@ -1460,12 +1501,13 @@
     "teamName": "Porin Ässät",
     "league": "liiga",
     "history": [
-      { "name": "Porin jäähalli", "from": "1975-09-01", "to": "2015-06-30" },
+      { "name": "Porin jäähalli", "from": "2013-09-01", "to": "2015-06-30" },
       { "name": "Isomäki Areena", "from": "2015-09-01", "to": "2022-06-30" },
       { "name": "West Areena", "from": "2022-09-01", "to": "2023-06-30" },
       { "name": "Enersense Areena", "from": "2023-09-01", "to": null }
     ]
   },
+
 
 
 
