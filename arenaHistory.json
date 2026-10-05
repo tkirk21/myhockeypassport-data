@@ -1589,7 +1589,7 @@
   {
     "currentArena": "Diners Club Arena",
     "teamName": "SC Rapperswil-Jona Lakers",
-    "league": "NLA",
+    "league": "NA",
     "history": [
       { "name": "Eishalle Lido", "from": "1999-09-01", "to": "2005-06-30" },
       { "name": "Diners Club Arena", "from": "2005-09-01", "to": "2007-06-30" }
@@ -1597,6 +1597,12 @@
   },
 
 
+
+
+
+
+
+  
   {
     "currentArena": "First Arena",
     "teamName": "Elmira Jackals",
