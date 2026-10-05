@@ -1339,7 +1339,7 @@
       { "name": "Grand Casino Arena", "from": "2025-09-01", "to": null }
     ]
   },
-
+  
 
 
 
@@ -1569,6 +1569,15 @@
     ]
   },
   {
+    "currentArena": "Cornèr Arena",
+    "teamName": "HC Lugano",
+    "league": "NL",
+    "history": [
+      { "name": "Pista La Resega ", "from": "2017-09-01", "to": "2018-06-30" },
+      { "name": "Cornèr Arena", "from": "2018-09-01", "to": null }
+    ]
+  },
+  {
     "currentArena": "Eishalle Schluefweg",
     "teamName": "EHC Kloten",
     "league": "NDA",
@@ -1577,7 +1586,6 @@
       { "name": "Eishalle Schluefweg", "from": "1997-09-01", "to": "1999-06-30" }
     ]
   },
-  
 
 
 
