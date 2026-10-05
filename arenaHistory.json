@@ -1540,9 +1540,43 @@
       { "name": "BCF Arena", "from": "2010-09-01", "to": "2017-06-30" }
     ]
   },
-
-
-
+  {
+    "currentArena": "BCF Arena",
+    "teamName": "EHC Kloten",
+    "league": "NL",
+    "history": [
+      { "name": "Stimo Arena", "from": "2022-09-01", "to": "2024-06-30" },
+      { "name": "SWISS Arena", "from": "2024-09-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "BCF Arena",
+    "teamName": "EHC Kloten",
+    "league": "NLA",
+    "history": [
+      { "name": "Eishalle Schluefweg", "from": "2008-09-01", "to": "2015-06-30" },
+      { "name": "Kolping Arena", "from": "2008-09-01", "to": "2015-06-30" },
+      { "name": "SWISS Arena", "from": "2015-09-01", "to": "2017-06-30" }
+    ]
+  },
+  {
+    "currentArena": "Eishalle Schluefweg",
+    "teamName": "EHC Kloten",
+    "league": "NDA",
+    "history": [
+      { "name": "Waldstadion Schluefweg", "from": "1962-09-01", "to": "1997-06-30" },
+      { "name": "Eishalle Schluefweg", "from": "1997-09-01", "to": "1999-06-30" }
+    ]
+  },
+  {
+    "currentArena": "Eishalle Schluefweg",
+    "teamName": "EHC Kloten",
+    "league": "NDA",
+    "history": [
+      { "name": "Waldstadion Schluefweg", "from": "1962-09-01", "to": "1997-06-30" },
+      { "name": "Eishalle Schluefweg", "from": "1997-09-01", "to": "1999-06-30" }
+    ]
+  },
   
 
 
