@@ -1595,7 +1595,15 @@
       { "name": "Diners Club Arena", "from": "2005-09-01", "to": "2007-06-30" }
     ]
   },
-
+  {
+    "currentArena": "Emmental Versicherung Arena",
+    "teamName": "SCL Tigers",
+    "league": "NL",
+    "history": [
+      { "name": "Ilfishalle", "from": "2017-09-01", "to": "2023-06-30" },
+      { "name": "Emmental Versicherung Arena", "from": "2023-09-01", "to": null }
+    ]
+  },
 
 
 
