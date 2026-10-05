@@ -1604,7 +1604,15 @@
       { "name": "Emmental Versicherung Arena", "from": "2023-09-01", "to": null }
     ]
   },
-
+  {
+    "currentArena": "Ilfishalle",
+    "teamName": "SCL Tigers",
+    "league": "NDA",
+    "history": [
+      { "name": "Kunsteisbahn Langnau", "from": "1961-09-01", "to": "1975-06-30" },
+      { "name": "Ilfishalle", "from": "1975-09-01", "to": "1985-06-30" }
+    ]
+  },
 
 
 
