@@ -8570,17 +8570,20 @@
   {
     "teamName": "HC Davos",
     "teamCode": "HCD",
-    "arena": "zondacrypto Arena",
+    "arena": "VAT Arena",
     "city": "Davos, Switzerland",
     "address": "Kurgartenstrasse 6, 7270 Davos, Switzerland",
     "website": "https://hcd.ch",
     "latitude": 46.7986308085788,
     "longitude": 9.82647180971706,
-    "color": "Blue",
-    "colorCode": "#005BAC",
+    "capacity": 6521,
+    "colorCode": "#FCEB00",
+    "colorCode2": "#0067B4",
     "league": "NL",
     "timezone": "Europe/Zurich",
-    "arenaId": "zondacrypto_arena_davos"
+    "arenaId": "vat_arena_davos",
+    "startDate": "2017-09-01",
+    "endDate": null
   },
   {
     "teamName": "Fribourg-Gottéron",
@@ -8591,11 +8594,16 @@
     "website": "https://gotteron.ch",
     "latitude": 46.817417142003,
     "longitude": 7.15543908455652,
-    "color": "Black",
+    "capacity": 9372,
     "colorCode": "#000000",
+    "colorCode2": "#FFFFFF",
+    "colorCode3": "#5372B4",
+    "colorCode4": "#BE152C",
     "league": "NL",
     "timezone": "Europe/Zurich",
-    "arenaId": "bcf_arena_fribourg"
+    "arenaId": "bcf_arena_fribourg",
+    "startDate": "2017-09-01",
+    "endDate": null
   },
   {
     "teamName": "Genève-Servette HC",
@@ -8606,11 +8614,15 @@
     "website": "https://gshc.ch",
     "latitude": 46.1945001065308,
     "longitude": 6.13288809624215,
-    "color": "Maroon",
+    "capacity": 7135,
     "colorCode": "#7C1C1C",
+    "colorCode2": "#FFD400",
+    "colorCode3": "#FFFFFF",
     "league": "NL",
     "timezone": "Europe/Zurich",
-    "arenaId": "patinoire_des_vernets_geneva"
+    "arenaId": "patinoire_des_vernets_geneva",
+    "startDate": "2017-09-01",
+    "endDate": null
   },
   {
     "teamName": "EHC Kloten",
@@ -8621,11 +8633,15 @@
     "website": "https://ehc-kloten.ch",
     "latitude": 47.4420340931897,
     "longitude": 8.58392784266124,
-    "color": "Red",
-    "colorCode": "#D91B2A",
+    "capacity": 7624,
+    "colorCode": "#C21938",
+    "colorCode2": "#0161AB",
+    "colorCode3": "#FFFFFF",
     "league": "NL",
     "timezone": "Europe/Zurich",
-    "arenaId": "swiss_arena_kloten"
+    "arenaId": "swiss_arena_kloten",
+    "startDate": "2022-09-01",
+    "endDate": null
   },
   {
     "teamName": "Lausanne HC",
@@ -8636,11 +8652,14 @@
     "website": "https://lausannehc.ch",
     "latitude": 46.5287919776691,
     "longitude": 6.59964636366517,
-    "color": "Red",
-    "colorCode": "#D0021B",
+    "capacity": 9600,
+    "colorCode": "#E40021",
+    "colorCode2": "#FFFFFF",
     "league": "NL",
     "timezone": "Europe/Zurich",
-    "arenaId": "vaudoise_arna_lausanne"
+    "arenaId": "vaudoise_arna_lausanne",
+    "startDate": "2019-09-01",
+    "endDate": null
   },
   {
     "teamName": "HC Lugano",
@@ -8651,11 +8670,14 @@
     "website": "https://hclugano.ch",
     "latitude": 46.0264428534427,
     "longitude": 8.96325209623651,
-    "color": "Black",
-    "colorCode": "#000000",
+    "capacity": 7800,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#000000",
     "league": "NL",
     "timezone": "Europe/Zurich",
-    "arenaId": "cornr_arena_lugano"
+    "arenaId": "cornr_arena_lugano",
+    "startDate": "2017-09-01",
+    "endDate": null
   },
   {
     "teamName": "SC Rapperswil-Jona Lakers",
@@ -8666,11 +8688,15 @@
     "website": "https://lakers.ch",
     "latitude": 47.223051060345,
     "longitude": 8.82552051577665,
-    "color": "Red",
+    "capacity": 6100,
     "colorCode": "#E30613",
+    "colorCode2": "#FFFFFF",
+    "colorCode3": "#01316C",
     "league": "NL",
     "timezone": "Europe/Zurich",
-    "arenaId": "st_galler_kantonalbank_arena_rapperswiljona"
+    "arenaId": "st_galler_kantonalbank_arena_rapperswiljona",
+    "startDate": "2017-09-01",
+    "endDate": null
   },
   {
     "teamName": "SCL Tigers",
@@ -8681,11 +8707,15 @@
     "website": "https://scltigers.ch",
     "latitude": 46.9361844731652,
     "longitude": 7.78603064890981,
-    "color": "Red",
-    "colorCode": "#D71920",
+    "capacity": 6050,
+    "colorCode": "#ED1C24",
+    "colorCode2": "#FFD600",
+    "colorCode3": "#FFFFFF",
     "league": "NL",
     "timezone": "Europe/Zurich",
-    "arenaId": "emmental_versicherung_arena_langnau_im_emmental"
+    "arenaId": "emmental_versicherung_arena_langnau_im_emmental",
+    "startDate": "2017-09-01",
+    "endDate": null
   },
   {
     "teamName": "ZSC Lions",
@@ -8696,11 +8726,15 @@
     "website": "https://zsclions.ch",
     "latitude": 47.3954133847731,
     "longitude": 8.47999695473237,
-    "color": "Blue",
-    "colorCode": "#00529B",
+    "capacity": 11157,
+    "colorCode": "#0068B6",
+    "colorCode2": "#FFFFFF",
+    "colorCode3": "#E70001",
     "league": "NL",
     "timezone": "Europe/Zurich",
-    "arenaId": "swiss_life_arena_zrich"
+    "arenaId": "swiss_life_arena_zrich",
+    "startDate": "2022-09-01",
+    "endDate": null
   },
   {
     "teamName": "EV Zug",
@@ -8711,11 +8745,14 @@
     "website": "https://evz.ch",
     "latitude": 47.1767665846058,
     "longitude": 8.50799882691766,
-    "color": "Blue",
-    "colorCode": "#002F6C",
+    "capacity": 7800,
+    "colorCode": "#1D72AE",
+    "colorCode2": "#002F6C",
     "league": "NL",
     "timezone": "Europe/Zurich",
-    "arenaId": "bossard_arena_zug"
+    "arenaId": "bossard_arena_zug",
+    "startDate": "2017-09-01",
+    "endDate": null
   },
   {
     "teamName": "EC iDM Wärmepumpen VSV",
