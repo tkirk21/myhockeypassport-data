@@ -3665,6 +3665,26 @@
     "endDate": "2004-06-30"
   },
   {
+    "teamName": "Manitoba Moose",
+    "teamCode": "MAN",
+    "arena": "MTS Centre",
+    "arenaId": "canada_life_centre_winnipeg",
+    "city": "Winnipeg, Manitoba",
+    "address": "300 Portage Ave, Winnipeg, MB R3C 5S4, Canada",
+    "website": "https://moosehockey.com",
+    "latitude": 49.8931,
+    "longitude": -97.144,
+    "color": "Polar Night Blue",
+    "colorCode": "#041E41",
+    "colorCode2": "#004A97",
+    "colorCode3": "#717073",
+    "colorCode4": "#FFFFFF",
+    "league": "AHL",
+    "timezone": "America/Winnipeg",
+    "startDate": "2004-09-01",
+    "endDate": "2011-06-30"
+  },
+  {
     "teamName": "Norfolk Admirals",
     "teamCode": "NOR",
     "arena": "Norfolk Scope",
