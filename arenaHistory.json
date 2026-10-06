@@ -329,7 +329,7 @@
     "teamName": "Manitoba Moose",
     "league": "AHL",
     "history": [
-      { "name": "MTS Centre", "from": "2011-09-16", "to": "2017-05-31" },
+      { "name": "MTS Centre", "from": "2015-09-16", "to": "2017-05-31" },
       { "name": "Bell MTS Place", "from": "2017-06-01", "to": "2021-11-01" },
       { "name": "Canada Life Centre", "from": "2021-11-02", "to": null }
     ]
