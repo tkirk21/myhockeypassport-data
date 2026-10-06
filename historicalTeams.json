@@ -3644,7 +3644,27 @@
     "startDate": "2001-09-01",
     "endDate": "2015-05-31"
   },
-    {
+  {
+    "teamName": "Manitoba Moose",
+    "teamCode": "MAN",
+    "arena": "Winnipeg Arena",
+    "arenaId": "winnipeg_arena_winnipeg",
+    "city": "Winnipeg, Manitoba",
+    "address": "1430 Maroons Rd, Winnipeg, MB R3C 5S4, Canada",
+    "website": "https://moosehockey.com",
+    "latitude": 49.88695947162571, 
+    "longitude": -97.19777430356118,
+    "capacity": 13985,
+    "colorCode": "#041E41",
+    "colorCode2": "#004A97",
+    "colorCode3": "#717073",
+    "colorCode4": "#FFFFFF",
+    "league": "AHL",
+    "timezone": "America/Winnipeg",
+    "startDate": "1996-09-01",
+    "endDate": "2004-06-30"
+  },
+  {
     "teamName": "Norfolk Admirals",
     "teamCode": "NOR",
     "arena": "Norfolk Scope",
