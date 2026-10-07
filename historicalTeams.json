@@ -19278,6 +19278,28 @@
   },
 
 
+
+
+  {
+    "teamName": "Boston Fleet",
+    "teamCode": "BOS",
+    "arena": "Tsongas Center",
+    "arenaId": "tsongas_center_lowell",
+    "city": "Lowell, Massachusetts",
+    "address": "300 Arcand Dr, Lowell, MA 01852",
+    "website": "https://thepwhl.com/en/teams/boston-fleet",
+    "latitude": 42.6503391841386,
+    "longitude": -71.3132402577527,
+    "capacity": 6150,
+    "colorCode": "#173F35",
+    "colorCode2": "#B5E3D8",
+    "colorCode3": "#051C2C",
+    "colorCode4": "#004851",
+    "league": "PWHL",
+    "timezone": "America/New_York",
+    "startDate": "2024-01-01",
+    "endDate": "2026-09-30"
+  },
   {
     "teamName": "Ottawa Charge",
     "teamCode": "OTT",
