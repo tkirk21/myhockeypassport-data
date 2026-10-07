@@ -6,107 +6,727 @@
     "opponent": "Färjestad BK",
     "arena": "Hovet",
     "city": "Stockholm, Sweden",
-    "date": "2026-10-01T17:00:00Z"
+    "date": "2026-10-01T10:00:00Z"
   },
   
   {
-    "id": "shl_2026100302",
+    "id": "shl_2026100102",
+    "league": "SHL",
+    "team": "Frölunda HC",
+    "opponent": "Brynäs IF",
+    "arena": "Scandinavium",
+    "city": "Gothenburg, Sweden",
+    "date": "2026-10-01T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100103",
+    "league": "SHL",
+    "team": "HV71",
+    "opponent": "Örebro HK",
+    "arena": "Husqvarna Garden",
+    "city": "Jönköping, Sweden",
+    "date": "2026-10-01T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100104",
+    "league": "SHL",
+    "team": "IF Björklöven",
+    "opponent": "Växjö Lakers",
+    "arena": "Winpos Arena",
+    "city": "Umeå, Sweden",
+    "date": "2026-10-01T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100105",
+    "league": "SHL",
+    "team": "Linköping HC",
+    "opponent": "Luleå Hockey",
+    "arena": "Saab Arena",
+    "city": "Linköping, Sweden",
+    "date": "2026-10-01T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100106",
+    "league": "SHL",
+    "team": "Rögle BK",
+    "opponent": "Timrå IK",
+    "arena": "Catena Arena",
+    "city": "Ängelholm, Sweden",
+    "date": "2026-10-01T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100107",
+    "league": "SHL",
+    "team": "Skellefteå AIK",
+    "opponent": "Malmö Redhawks",
+    "arena": "Skellefteå Kraft Arena",
+    "city": "Skellefteå, Sweden",
+    "date": "2026-10-01T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100308",
     "league": "SHL",
     "team": "Frölunda HC",
     "opponent": "Djurgårdens IF",
     "arena": "Scandinavium",
     "city": "Gothenburg, Sweden",
-    "date": "2026-10-03T13:15:00Z"
+    "date": "2026-10-03T10:00:00Z"
   },
   
   {
-    "id": "shl_2026100803",
+    "id": "shl_2026100309",
+    "league": "SHL",
+    "team": "Färjestad BK",
+    "opponent": "HV71",
+    "arena": "Löfbergs Arena",
+    "city": "Karlstad, Sweden",
+    "date": "2026-10-03T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100310",
+    "league": "SHL",
+    "team": "Malmö Redhawks",
+    "opponent": "Brynäs IF",
+    "arena": "Malmö Arena",
+    "city": "Malmö, Sweden",
+    "date": "2026-10-03T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100311",
+    "league": "SHL",
+    "team": "Linköping HC",
+    "opponent": "IF Björklöven",
+    "arena": "Saab Arena",
+    "city": "Linköping, Sweden",
+    "date": "2026-10-03T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100312",
+    "league": "SHL",
+    "team": "Timrå IK",
+    "opponent": "Skellefteå AIK",
+    "arena": "SCA Arena",
+    "city": "Timrå, Sweden",
+    "date": "2026-10-03T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100313",
+    "league": "SHL",
+    "team": "Växjö Lakers",
+    "opponent": "Rögle BK",
+    "arena": "Vida Arena",
+    "city": "Växjö, Sweden",
+    "date": "2026-10-03T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100314",
+    "league": "SHL",
+    "team": "Örebro HK",
+    "opponent": "Luleå Hockey",
+    "arena": "Behrn Arena",
+    "city": "Örebro, Sweden",
+    "date": "2026-10-03T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100815",
     "league": "SHL",
     "team": "Brynäs IF",
     "opponent": "IF Björklöven",
     "arena": "Monitor ERP Arena",
     "city": "Gävle, Sweden",
-    "date": "2026-10-08T17:00:00Z"
+    "date": "2026-10-08T10:00:00Z"
   },
   
   {
-    "id": "shl_2026101004",
+    "id": "shl_2026100816",
+    "league": "SHL",
+    "team": "Djurgårdens IF",
+    "opponent": "Örebro HK",
+    "arena": "Hovet",
+    "city": "Stockholm, Sweden",
+    "date": "2026-10-08T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100817",
+    "league": "SHL",
+    "team": "Luleå Hockey",
+    "opponent": "Malmö Redhawks",
+    "arena": "Coop Norrbotten Arena",
+    "city": "Luleå, Sweden",
+    "date": "2026-10-08T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100818",
+    "league": "SHL",
+    "team": "Rögle BK",
+    "opponent": "HV71",
+    "arena": "Catena Arena",
+    "city": "Ängelholm, Sweden",
+    "date": "2026-10-08T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100819",
+    "league": "SHL",
+    "team": "Skellefteå AIK",
+    "opponent": "Färjestad BK",
+    "arena": "Skellefteå Kraft Arena",
+    "city": "Skellefteå, Sweden",
+    "date": "2026-10-08T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100820",
+    "league": "SHL",
+    "team": "Timrå IK",
+    "opponent": "Frölunda HC",
+    "arena": "SCA Arena",
+    "city": "Timrå, Sweden",
+    "date": "2026-10-08T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100821",
+    "league": "SHL",
+    "team": "Växjö Lakers",
+    "opponent": "Linköping HC",
+    "arena": "Vida Arena",
+    "city": "Växjö, Sweden",
+    "date": "2026-10-08T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101022",
+    "league": "SHL",
+    "team": "Djurgårdens IF",
+    "opponent": "Linköping HC",
+    "arena": "Hovet",
+    "city": "Stockholm, Sweden",
+    "date": "2026-10-10T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101023",
     "league": "SHL",
     "team": "Färjestad BK",
     "opponent": "Malmö Redhawks",
     "arena": "Löfbergs Arena",
     "city": "Karlstad, Sweden",
-    "date": "2026-10-10T13:15:00Z"
+    "date": "2026-10-10T10:00:00Z"
   },
   
   {
-    "id": "shl_2026101505",
+    "id": "shl_2026101024",
+    "league": "SHL",
+    "team": "HV71",
+    "opponent": "Brynäs IF",
+    "arena": "Husqvarna Garden",
+    "city": "Jönköping, Sweden",
+    "date": "2026-10-10T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101025",
+    "league": "SHL",
+    "team": "IF Björklöven",
+    "opponent": "Frölunda HC",
+    "arena": "Winpos Arena",
+    "city": "Umeå, Sweden",
+    "date": "2026-10-10T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101026",
+    "league": "SHL",
+    "team": "Luleå Hockey",
+    "opponent": "Timrå IK",
+    "arena": "Coop Norrbotten Arena",
+    "city": "Luleå, Sweden",
+    "date": "2026-10-10T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101027",
+    "league": "SHL",
+    "team": "Skellefteå AIK",
+    "opponent": "Rögle BK",
+    "arena": "Skellefteå Kraft Arena",
+    "city": "Skellefteå, Sweden",
+    "date": "2026-10-10T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101028",
+    "league": "SHL",
+    "team": "Örebro HK",
+    "opponent": "Växjö Lakers",
+    "arena": "Behrn Arena",
+    "city": "Örebro, Sweden",
+    "date": "2026-10-10T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101529",
     "league": "SHL",
     "team": "Brynäs IF",
     "opponent": "Djurgårdens IF",
     "arena": "Monitor ERP Arena",
     "city": "Gävle, Sweden",
-    "date": "2026-10-15T17:00:00Z"
+    "date": "2026-10-15T10:00:00Z"
   },
   
   {
-    "id": "shl_2026101706",
+    "id": "shl_2026101530",
+    "league": "SHL",
+    "team": "Färjestad BK",
+    "opponent": "Luleå Hockey",
+    "arena": "Löfbergs Arena",
+    "city": "Karlstad, Sweden",
+    "date": "2026-10-15T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101531",
+    "league": "SHL",
+    "team": "IF Björklöven",
+    "opponent": "Rögle BK",
+    "arena": "Winpos Arena",
+    "city": "Umeå, Sweden",
+    "date": "2026-10-15T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101532",
+    "league": "SHL",
+    "team": "Malmö Redhawks",
+    "opponent": "Örebro HK",
+    "arena": "Malmö Arena",
+    "city": "Malmö, Sweden",
+    "date": "2026-10-15T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101533",
+    "league": "SHL",
+    "team": "Linköping HC",
+    "opponent": "Frölunda HC",
+    "arena": "Saab Arena",
+    "city": "Linköping, Sweden",
+    "date": "2026-10-15T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101534",
+    "league": "SHL",
+    "team": "Timrå IK",
+    "opponent": "HV71",
+    "arena": "SCA Arena",
+    "city": "Timrå, Sweden",
+    "date": "2026-10-15T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101535",
+    "league": "SHL",
+    "team": "Växjö Lakers",
+    "opponent": "Skellefteå AIK",
+    "arena": "Vida Arena",
+    "city": "Växjö, Sweden",
+    "date": "2026-10-15T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101736",
+    "league": "SHL",
+    "team": "Brynäs IF",
+    "opponent": "Växjö Lakers",
+    "arena": "Monitor ERP Arena",
+    "city": "Gävle, Sweden",
+    "date": "2026-10-17T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101737",
     "league": "SHL",
     "team": "Djurgårdens IF",
     "opponent": "Malmö Redhawks",
     "arena": "Hovet",
     "city": "Stockholm, Sweden",
-    "date": "2026-10-17T13:15:00Z"
+    "date": "2026-10-17T10:00:00Z"
   },
   
   {
-    "id": "shl_2026102207",
+    "id": "shl_2026101738",
+    "league": "SHL",
+    "team": "Frölunda HC",
+    "opponent": "Skellefteå AIK",
+    "arena": "Scandinavium",
+    "city": "Gothenburg, Sweden",
+    "date": "2026-10-17T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101739",
+    "league": "SHL",
+    "team": "Linköping HC",
+    "opponent": "Färjestad BK",
+    "arena": "Saab Arena",
+    "city": "Linköping, Sweden",
+    "date": "2026-10-17T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101740",
+    "league": "SHL",
+    "team": "Luleå Hockey",
+    "opponent": "HV71",
+    "arena": "Coop Norrbotten Arena",
+    "city": "Luleå, Sweden",
+    "date": "2026-10-17T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101741",
+    "league": "SHL",
+    "team": "Rögle BK",
+    "opponent": "Örebro HK",
+    "arena": "Catena Arena",
+    "city": "Ängelholm, Sweden",
+    "date": "2026-10-17T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101742",
+    "league": "SHL",
+    "team": "Timrå IK",
+    "opponent": "IF Björklöven",
+    "arena": "SCA Arena",
+    "city": "Timrå, Sweden",
+    "date": "2026-10-17T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102043",
+    "league": "SHL",
+    "team": "Frölunda HC",
+    "opponent": "Djurgårdens IF",
+    "arena": "Scandinavium",
+    "city": "Gothenburg, Sweden",
+    "date": "2026-10-20T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102044",
+    "league": "SHL",
+    "team": "HV71",
+    "opponent": "Linköping HC",
+    "arena": "Husqvarna Garden",
+    "city": "Jönköping, Sweden",
+    "date": "2026-10-20T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102245",
     "league": "SHL",
     "team": "IF Björklöven",
     "opponent": "Malmö Redhawks",
     "arena": "Winpos Arena",
     "city": "Umeå, Sweden",
-    "date": "2026-10-22T17:00:00Z"
+    "date": "2026-10-22T10:00:00Z"
   },
   
   {
-    "id": "shl_2026102408",
+    "id": "shl_2026102246",
+    "league": "SHL",
+    "team": "Rögle BK",
+    "opponent": "Frölunda HC",
+    "arena": "Catena Arena",
+    "city": "Ängelholm, Sweden",
+    "date": "2026-10-22T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102247",
+    "league": "SHL",
+    "team": "Skellefteå AIK",
+    "opponent": "Djurgårdens IF",
+    "arena": "Skellefteå Kraft Arena",
+    "city": "Skellefteå, Sweden",
+    "date": "2026-10-22T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102248",
+    "league": "SHL",
+    "team": "Timrå IK",
+    "opponent": "Färjestad BK",
+    "arena": "SCA Arena",
+    "city": "Timrå, Sweden",
+    "date": "2026-10-22T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102249",
+    "league": "SHL",
+    "team": "Växjö Lakers",
+    "opponent": "Luleå Hockey",
+    "arena": "Vida Arena",
+    "city": "Växjö, Sweden",
+    "date": "2026-10-22T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102250",
+    "league": "SHL",
+    "team": "Örebro HK",
+    "opponent": "Brynäs IF",
+    "arena": "Behrn Arena",
+    "city": "Örebro, Sweden",
+    "date": "2026-10-22T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102451",
+    "league": "SHL",
+    "team": "Brynäs IF",
+    "opponent": "Rögle BK",
+    "arena": "Monitor ERP Arena",
+    "city": "Gävle, Sweden",
+    "date": "2026-10-24T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102452",
+    "league": "SHL",
+    "team": "Färjestad BK",
+    "opponent": "Växjö Lakers",
+    "arena": "Löfbergs Arena",
+    "city": "Karlstad, Sweden",
+    "date": "2026-10-24T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102453",
+    "league": "SHL",
+    "team": "HV71",
+    "opponent": "Frölunda HC",
+    "arena": "Husqvarna Garden",
+    "city": "Jönköping, Sweden",
+    "date": "2026-10-24T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102454",
     "league": "SHL",
     "team": "IF Björklöven",
     "opponent": "Skellefteå AIK",
     "arena": "Winpos Arena",
     "city": "Umeå, Sweden",
-    "date": "2026-10-24T13:15:00Z"
+    "date": "2026-10-24T10:00:00Z"
   },
   
   {
-    "id": "shl_2026102709",
+    "id": "shl_2026102455",
+    "league": "SHL",
+    "team": "Malmö Redhawks",
+    "opponent": "Timrå IK",
+    "arena": "Malmö Arena",
+    "city": "Malmö, Sweden",
+    "date": "2026-10-24T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102456",
+    "league": "SHL",
+    "team": "Linköping HC",
+    "opponent": "Örebro HK",
+    "arena": "Saab Arena",
+    "city": "Linköping, Sweden",
+    "date": "2026-10-24T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102457",
+    "league": "SHL",
+    "team": "Luleå Hockey",
+    "opponent": "Djurgårdens IF",
+    "arena": "Coop Norrbotten Arena",
+    "city": "Luleå, Sweden",
+    "date": "2026-10-24T10:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102758",
+    "league": "SHL",
+    "team": "Frölunda HC",
+    "opponent": "Rögle BK",
+    "arena": "Scandinavium",
+    "city": "Gothenburg, Sweden",
+    "date": "2026-10-27T11:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102759",
     "league": "SHL",
     "team": "Malmö Redhawks",
     "opponent": "Linköping HC",
     "arena": "Malmö Arena",
     "city": "Malmö, Sweden",
-    "date": "2026-10-27T18:00:00Z"
+    "date": "2026-10-27T11:00:00Z"
   },
   
   {
-    "id": "shl_2026102910",
+    "id": "shl_2026102960",
     "league": "SHL",
     "team": "Brynäs IF",
     "opponent": "Färjestad BK",
     "arena": "Monitor ERP Arena",
     "city": "Gävle, Sweden",
-    "date": "2026-10-29T18:00:00Z"
+    "date": "2026-10-29T11:00:00Z"
   },
   
   {
-    "id": "shl_2026103111",
+    "id": "shl_2026102961",
+    "league": "SHL",
+    "team": "Djurgårdens IF",
+    "opponent": "HV71",
+    "arena": "Hovet",
+    "city": "Stockholm, Sweden",
+    "date": "2026-10-29T11:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102962",
+    "league": "SHL",
+    "team": "Luleå Hockey",
+    "opponent": "IF Björklöven",
+    "arena": "Coop Norrbotten Arena",
+    "city": "Luleå, Sweden",
+    "date": "2026-10-29T11:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102963",
+    "league": "SHL",
+    "team": "Rögle BK",
+    "opponent": "Malmö Redhawks",
+    "arena": "Catena Arena",
+    "city": "Ängelholm, Sweden",
+    "date": "2026-10-29T11:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102964",
+    "league": "SHL",
+    "team": "Skellefteå AIK",
+    "opponent": "Linköping HC",
+    "arena": "Skellefteå Kraft Arena",
+    "city": "Skellefteå, Sweden",
+    "date": "2026-10-29T11:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102965",
+    "league": "SHL",
+    "team": "Timrå IK",
+    "opponent": "Växjö Lakers",
+    "arena": "SCA Arena",
+    "city": "Timrå, Sweden",
+    "date": "2026-10-29T11:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102966",
+    "league": "SHL",
+    "team": "Örebro HK",
+    "opponent": "Frölunda HC",
+    "arena": "Behrn Arena",
+    "city": "Örebro, Sweden",
+    "date": "2026-10-29T11:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026103167",
+    "league": "SHL",
+    "team": "Djurgårdens IF",
+    "opponent": "Brynäs IF",
+    "arena": "Hovet",
+    "city": "Stockholm, Sweden",
+    "date": "2026-10-31T11:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026103168",
     "league": "SHL",
     "team": "Frölunda HC",
     "opponent": "Linköping HC",
     "arena": "Scandinavium",
     "city": "Gothenburg, Sweden",
-    "date": "2026-10-31T14:15:00Z"
+    "date": "2026-10-31T11:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026103169",
+    "league": "SHL",
+    "team": "Malmö Redhawks",
+    "opponent": "HV71",
+    "arena": "Malmö Arena",
+    "city": "Malmö, Sweden",
+    "date": "2026-10-31T11:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026103170",
+    "league": "SHL",
+    "team": "Skellefteå AIK",
+    "opponent": "IF Björklöven",
+    "arena": "Skellefteå Kraft Arena",
+    "city": "Skellefteå, Sweden",
+    "date": "2026-10-31T11:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026103171",
+    "league": "SHL",
+    "team": "Timrå IK",
+    "opponent": "Luleå Hockey",
+    "arena": "SCA Arena",
+    "city": "Timrå, Sweden",
+    "date": "2026-10-31T11:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026103172",
+    "league": "SHL",
+    "team": "Växjö Lakers",
+    "opponent": "Färjestad BK",
+    "arena": "Vida Arena",
+    "city": "Växjö, Sweden",
+    "date": "2026-10-31T11:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026103173",
+    "league": "SHL",
+    "team": "Örebro HK",
+    "opponent": "Rögle BK",
+    "arena": "Behrn Arena",
+    "city": "Örebro, Sweden",
+    "date": "2026-10-31T11:00:00Z"
   },
   {
   "id": "shl_2026111201",
@@ -115,58 +735,428 @@
   "opponent": "Skellefteå AIK",
   "arena": "Monitor ERP Arena",
   "city": "Gävle, Sweden",
-  "date": "2026-11-12T18:00:00Z"
+  "date": "2026-11-12T11:00:00Z"
 },
 
 {
-  "id": "shl_2026111902",
+  "id": "shl_2026111202",
+  "league": "SHL",
+  "team": "Frölunda HC",
+  "opponent": "Malmö Redhawks",
+  "arena": "Scandinavium",
+  "city": "Gothenburg, Sweden",
+  "date": "2026-11-12T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111203",
+  "league": "SHL",
+  "team": "Färjestad BK",
+  "opponent": "Djurgårdens IF",
+  "arena": "Löfbergs Arena",
+  "city": "Karlstad, Sweden",
+  "date": "2026-11-12T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111204",
+  "league": "SHL",
+  "team": "HV71",
+  "opponent": "Luleå Hockey",
+  "arena": "Husqvarna Garden",
+  "city": "Jönköping, Sweden",
+  "date": "2026-11-12T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111205",
+  "league": "SHL",
+  "team": "IF Björklöven",
+  "opponent": "Örebro HK",
+  "arena": "Winpos Arena",
+  "city": "Umeå, Sweden",
+  "date": "2026-11-12T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111206",
+  "league": "SHL",
+  "team": "Linköping HC",
+  "opponent": "Rögle BK",
+  "arena": "Saab Arena",
+  "city": "Linköping, Sweden",
+  "date": "2026-11-12T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111207",
+  "league": "SHL",
+  "team": "Växjö Lakers",
+  "opponent": "Timrå IK",
+  "arena": "Vida Arena",
+  "city": "Växjö, Sweden",
+  "date": "2026-11-12T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111408",
+  "league": "SHL",
+  "team": "HV71",
+  "opponent": "Timrå IK",
+  "arena": "Husqvarna Garden",
+  "city": "Jönköping, Sweden",
+  "date": "2026-11-14T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111409",
+  "league": "SHL",
+  "team": "IF Björklöven",
+  "opponent": "Brynäs IF",
+  "arena": "Winpos Arena",
+  "city": "Umeå, Sweden",
+  "date": "2026-11-14T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111410",
+  "league": "SHL",
+  "team": "Malmö Redhawks",
+  "opponent": "Växjö Lakers",
+  "arena": "Malmö Arena",
+  "city": "Malmö, Sweden",
+  "date": "2026-11-14T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111411",
+  "league": "SHL",
+  "team": "Luleå Hockey",
+  "opponent": "Färjestad BK",
+  "arena": "Coop Norrbotten Arena",
+  "city": "Luleå, Sweden",
+  "date": "2026-11-14T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111412",
+  "league": "SHL",
+  "team": "Rögle BK",
+  "opponent": "Frölunda HC",
+  "arena": "Catena Arena",
+  "city": "Ängelholm, Sweden",
+  "date": "2026-11-14T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111413",
+  "league": "SHL",
+  "team": "Skellefteå AIK",
+  "opponent": "Linköping HC",
+  "arena": "Skellefteå Kraft Arena",
+  "city": "Skellefteå, Sweden",
+  "date": "2026-11-14T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111414",
+  "league": "SHL",
+  "team": "Örebro HK",
+  "opponent": "Djurgårdens IF",
+  "arena": "Behrn Arena",
+  "city": "Örebro, Sweden",
+  "date": "2026-11-14T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111915",
   "league": "SHL",
   "team": "Brynäs IF",
   "opponent": "Luleå Hockey",
   "arena": "Monitor ERP Arena",
   "city": "Gävle, Sweden",
-  "date": "2026-11-19T18:00:00Z"
+  "date": "2026-11-19T11:00:00Z"
 },
 
 {
-  "id": "shl_2026112103",
+  "id": "shl_2026111916",
+  "league": "SHL",
+  "team": "Djurgårdens IF",
+  "opponent": "Skellefteå AIK",
+  "arena": "Hovet",
+  "city": "Stockholm, Sweden",
+  "date": "2026-11-19T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111917",
+  "league": "SHL",
+  "team": "Färjestad BK",
+  "opponent": "Frölunda HC",
+  "arena": "Löfbergs Arena",
+  "city": "Karlstad, Sweden",
+  "date": "2026-11-19T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111918",
+  "league": "SHL",
+  "team": "Malmö Redhawks",
+  "opponent": "Rögle BK",
+  "arena": "Malmö Arena",
+  "city": "Malmö, Sweden",
+  "date": "2026-11-19T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111919",
+  "league": "SHL",
+  "team": "Linköping HC",
+  "opponent": "HV71",
+  "arena": "Saab Arena",
+  "city": "Linköping, Sweden",
+  "date": "2026-11-19T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111920",
+  "league": "SHL",
+  "team": "Timrå IK",
+  "opponent": "Örebro HK",
+  "arena": "SCA Arena",
+  "city": "Timrå, Sweden",
+  "date": "2026-11-19T11:00:00Z"
+},
+
+{
+  "id": "shl_2026111921",
+  "league": "SHL",
+  "team": "Växjö Lakers",
+  "opponent": "IF Björklöven",
+  "arena": "Vida Arena",
+  "city": "Växjö, Sweden",
+  "date": "2026-11-19T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112122",
   "league": "SHL",
   "team": "Djurgårdens IF",
   "opponent": "Luleå Hockey",
   "arena": "Hovet",
   "city": "Stockholm, Sweden",
-  "date": "2026-11-21T14:15:00Z"
+  "date": "2026-11-21T11:00:00Z"
 },
 
 {
-  "id": "shl_2026112404",
+  "id": "shl_2026112123",
+  "league": "SHL",
+  "team": "Frölunda HC",
+  "opponent": "Brynäs IF",
+  "arena": "Scandinavium",
+  "city": "Gothenburg, Sweden",
+  "date": "2026-11-21T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112124",
+  "league": "SHL",
+  "team": "Färjestad BK",
+  "opponent": "Malmö Redhawks",
+  "arena": "Löfbergs Arena",
+  "city": "Karlstad, Sweden",
+  "date": "2026-11-21T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112125",
+  "league": "SHL",
+  "team": "HV71",
+  "opponent": "Växjö Lakers",
+  "arena": "Husqvarna Garden",
+  "city": "Jönköping, Sweden",
+  "date": "2026-11-21T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112126",
+  "league": "SHL",
+  "team": "IF Björklöven",
+  "opponent": "Linköping HC",
+  "arena": "Winpos Arena",
+  "city": "Umeå, Sweden",
+  "date": "2026-11-21T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112127",
+  "league": "SHL",
+  "team": "Rögle BK",
+  "opponent": "Timrå IK",
+  "arena": "Catena Arena",
+  "city": "Ängelholm, Sweden",
+  "date": "2026-11-21T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112128",
+  "league": "SHL",
+  "team": "Örebro HK",
+  "opponent": "Skellefteå AIK",
+  "arena": "Behrn Arena",
+  "city": "Örebro, Sweden",
+  "date": "2026-11-21T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112429",
   "league": "SHL",
   "team": "Luleå Hockey",
   "opponent": "Malmö Redhawks",
   "arena": "Coop Norrbotten Arena",
   "city": "Luleå, Sweden",
-  "date": "2026-11-24T18:00:00Z"
+  "date": "2026-11-24T11:00:00Z"
 },
 
 {
-  "id": "shl_2026112605",
+  "id": "shl_2026112430",
+  "league": "SHL",
+  "team": "Örebro HK",
+  "opponent": "Frölunda HC",
+  "arena": "Behrn Arena",
+  "city": "Örebro, Sweden",
+  "date": "2026-11-24T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112631",
   "league": "SHL",
   "team": "Frölunda HC",
   "opponent": "IF Björklöven",
   "arena": "Scandinavium",
   "city": "Gothenburg, Sweden",
-  "date": "2026-11-26T18:00:00Z"
+  "date": "2026-11-26T11:00:00Z"
 },
 
 {
-  "id": "shl_2026112806",
+  "id": "shl_2026112632",
+  "league": "SHL",
+  "team": "Linköping HC",
+  "opponent": "Brynäs IF",
+  "arena": "Saab Arena",
+  "city": "Linköping, Sweden",
+  "date": "2026-11-26T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112633",
+  "league": "SHL",
+  "team": "Skellefteå AIK",
+  "opponent": "Rögle BK",
+  "arena": "Skellefteå Kraft Arena",
+  "city": "Skellefteå, Sweden",
+  "date": "2026-11-26T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112634",
+  "league": "SHL",
+  "team": "Timrå IK",
+  "opponent": "Färjestad BK",
+  "arena": "SCA Arena",
+  "city": "Timrå, Sweden",
+  "date": "2026-11-26T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112635",
+  "league": "SHL",
+  "team": "Växjö Lakers",
+  "opponent": "Djurgårdens IF",
+  "arena": "Vida Arena",
+  "city": "Växjö, Sweden",
+  "date": "2026-11-26T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112636",
+  "league": "SHL",
+  "team": "Örebro HK",
+  "opponent": "HV71",
+  "arena": "Behrn Arena",
+  "city": "Örebro, Sweden",
+  "date": "2026-11-26T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112837",
   "league": "SHL",
   "team": "Brynäs IF",
   "opponent": "Örebro HK",
   "arena": "Monitor ERP Arena",
   "city": "Gävle, Sweden",
-  "date": "2026-11-28T14:15:00Z"
-}
+  "date": "2026-11-28T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112838",
+  "league": "SHL",
+  "team": "HV71",
+  "opponent": "IF Björklöven",
+  "arena": "Husqvarna Garden",
+  "city": "Jönköping, Sweden",
+  "date": "2026-11-28T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112839",
+  "league": "SHL",
+  "team": "Malmö Redhawks",
+  "opponent": "Djurgårdens IF",
+  "arena": "Malmö Arena",
+  "city": "Malmö, Sweden",
+  "date": "2026-11-28T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112840",
+  "league": "SHL",
+  "team": "Luleå Hockey",
+  "opponent": "Rögle BK",
+  "arena": "Coop Norrbotten Arena",
+  "city": "Luleå, Sweden",
+  "date": "2026-11-28T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112841",
+  "league": "SHL",
+  "team": "Skellefteå AIK",
+  "opponent": "Färjestad BK",
+  "arena": "Skellefteå Kraft Arena",
+  "city": "Skellefteå, Sweden",
+  "date": "2026-11-28T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112842",
+  "league": "SHL",
+  "team": "Timrå IK",
+  "opponent": "Linköping HC",
+  "arena": "SCA Arena",
+  "city": "Timrå, Sweden",
+  "date": "2026-11-28T11:00:00Z"
+},
+
+{
+  "id": "shl_2026112843",
+  "league": "SHL",
+  "team": "Växjö Lakers",
+  "opponent": "Frölunda HC",
+  "arena": "Vida Arena",
+  "city": "Växjö, Sweden",
+  "date": "2026-11-28T11:00:00Z"
+} 
   
   
 ]
