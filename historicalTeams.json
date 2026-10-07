@@ -19275,6 +19275,28 @@
     "startDate": "1997-09-01",
     "endDate": "1999-06-30",
     "arenaId": "ljvm_coliseum_annex_winston_salem"
+  },
+
+
+  {
+    "teamName": "Ottawa Charge",
+    "teamCode": "OTT",
+    "arena": "TD Place",
+    "city": "Ottawa, Ontario",
+    "address": "1015 Bank St, Ottawa, ON K1S 5J3, Canada",
+    "website": "https://thepwhl.com/en/teams/ottawa-charge",
+    "latitude": 45.3993741696323,
+    "longitude": -75.6836248916927,
+    "capacity": 10500,
+    "colorCode": "#A6192E",
+    "colorCode2": "#FFB81C",
+    "colorCode3": "#FFFFFF",
+    "colorCode4": "#4B4F54",
+    "league": "PWHL",
+    "timezone": "America/Toronto",
+    "startDate": "2024-01-01",
+    "endDate": "2026-09-30",
+    "arenaId": "td_place_arena_ottawa"
   }
   
 
