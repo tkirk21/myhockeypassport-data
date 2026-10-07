@@ -516,7 +516,347 @@
   "arena": "Grand Casino Arena",
   "city": "Saint Paul, Minnesota",
   "date": "2027-01-01T01:00:00Z"
-}
+},
+
+{
+  "id": "pwhl_2027010201",
+  "league": "PWHL",
+  "team": "Vancouver Goldeneyes",
+  "opponent": "New York Sirens",
+  "arena": "Pacific Coliseum",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-01-03T00:00:00Z"
+},
+
+{
+  "id": "pwhl_2027010302",
+  "league": "PWHL",
+  "team": "Minnesota Frost",
+  "opponent": "PWHL San Jose",
+  "arena": "Grand Casino Arena",
+  "city": "Saint Paul, Minnesota",
+  "date": "2027-01-03T19:00:00Z"
+},
+
+{
+  "id": "pwhl_2027010303",
+  "league": "PWHL",
+  "team": "PWHL Hamilton",
+  "opponent": "PWHL Las Vegas",
+  "arena": "TD Coliseum",
+  "city": "Hamilton, Ontario",
+  "date": "2027-01-03T20:00:00Z"
+},
+
+{
+  "id": "pwhl_2027010304",
+  "league": "PWHL",
+  "team": "Toronto Sceptres",
+  "opponent": "Montreal Victoire",
+  "arena": "Coca-Cola Coliseum",
+  "city": "Toronto, Ontario",
+  "date": "2027-01-03T23:00:00Z"
+},
+
+{
+  "id": "pwhl_2027010505",
+  "league": "PWHL",
+  "team": "PWHL Hamilton",
+  "opponent": "PWHL Detroit",
+  "arena": "TD Coliseum",
+  "city": "Hamilton, Ontario",
+  "date": "2027-01-06T00:00:00Z"
+},
+
+{
+  "id": "pwhl_2027010506",
+  "league": "PWHL",
+  "team": "Vancouver Goldeneyes",
+  "opponent": "Ottawa Charge",
+  "arena": "Pacific Coliseum",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-01-06T02:30:00Z"
+},
+
+{
+  "id": "pwhl_2027010607",
+  "league": "PWHL",
+  "team": "Montreal Victoire",
+  "opponent": "PWHL Las Vegas",
+  "arena": "Place Bell",
+  "city": "Laval, Quebec",
+  "date": "2027-01-07T00:00:00Z"
+},
+
+{
+  "id": "pwhl_2027010708",
+  "league": "PWHL",
+  "team": "Toronto Sceptres",
+  "opponent": "Vancouver Goldeneyes",
+  "arena": "Coca-Cola Coliseum",
+  "city": "Toronto, Ontario",
+  "date": "2027-01-08T00:00:00Z"
+},
+
+{
+  "id": "pwhl_2027010809",
+  "league": "PWHL",
+  "team": "Seattle Torrent",
+  "opponent": "Ottawa Charge",
+  "arena": "Climate Pledge Arena",
+  "city": "Seattle, Washington",
+  "date": "2027-01-09T03:00:00Z"
+},
+
+{
+  "id": "pwhl_2027010910",
+  "league": "PWHL",
+  "team": "Boston Fleet",
+  "opponent": "Toronto Sceptres",
+  "arena": "Agganis Arena",
+  "city": "Boston, Massachusetts",
+  "date": "2027-01-09T19:00:00Z"
+},
+
+{
+  "id": "pwhl_2027011011",
+  "league": "PWHL",
+  "team": "New York Sirens",
+  "opponent": "PWHL Hamilton",
+  "arena": "Prudential Center",
+  "city": "Newark, New Jersey",
+  "date": "2027-01-10T19:00:00Z"
+},
+
+{
+  "id": "pwhl_2027011012",
+  "league": "PWHL",
+  "team": "PWHL Las Vegas",
+  "opponent": "Ottawa Charge",
+  "arena": "T-Mobile Arena",
+  "city": "Paradise, Nevada",
+  "date": "2027-01-10T22:00:00Z"
+},
+
+{
+  "id": "pwhl_2027011013",
+  "league": "PWHL",
+  "team": "Seattle Torrent",
+  "opponent": "Montreal Victoire",
+  "arena": "Climate Pledge Arena",
+  "city": "Seattle, Washington",
+  "date": "2027-01-11T01:30:00Z"
+},
+
+{
+  "id": "pwhl_2027011214",
+  "league": "PWHL",
+  "team": "Vancouver Goldeneyes",
+  "opponent": "Montreal Victoire",
+  "arena": "Pacific Coliseum",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-01-13T02:00:00Z"
+},
+
+{
+  "id": "pwhl_2027011315",
+  "league": "PWHL",
+  "team": "Boston Fleet",
+  "opponent": "New York Sirens",
+  "arena": "Agganis Arena",
+  "city": "Boston, Massachusetts",
+  "date": "2027-01-14T00:00:00Z"
+},
+
+{
+  "id": "pwhl_2027011316",
+  "league": "PWHL",
+  "team": "PWHL San Jose",
+  "opponent": "PWHL Las Vegas",
+  "arena": "SAP Center",
+  "city": "San Jose, California",
+  "date": "2027-01-14T03:00:00Z"
+},
+
+{
+  "id": "pwhl_2027011417",
+  "league": "PWHL",
+  "team": "Seattle Torrent",
+  "opponent": "PWHL Hamilton",
+  "arena": "Climate Pledge Arena",
+  "city": "Seattle, Washington",
+  "date": "2027-01-15T03:00:00Z"
+},
+
+{
+  "id": "pwhl_2027011618",
+  "league": "PWHL",
+  "team": "New York Sirens",
+  "opponent": "Minnesota Frost",
+  "arena": "Prudential Center",
+  "city": "Newark, New Jersey",
+  "date": "2027-01-16T17:00:00Z"
+},
+
+{
+  "id": "pwhl_2027011619",
+  "league": "PWHL",
+  "team": "Vancouver Goldeneyes",
+  "opponent": "PWHL Hamilton",
+  "arena": "Pacific Coliseum",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-01-16T20:00:00Z"
+},
+
+{
+  "id": "pwhl_2027011620",
+  "league": "PWHL",
+  "team": "PWHL San Jose",
+  "opponent": "Montreal Victoire",
+  "arena": "SAP Center",
+  "city": "San Jose, California",
+  "date": "2027-01-17T00:00:00Z"
+},
+
+{
+  "id": "pwhl_2027011721",
+  "league": "PWHL",
+  "team": "Ottawa Charge",
+  "opponent": "Boston Fleet",
+  "arena": "Canadian Tire Centre",
+  "city": "Ottawa, Ontario",
+  "date": "2027-01-17T18:00:00Z"
+},
+
+{
+  "id": "pwhl_2027011922",
+  "league": "PWHL",
+  "team": "Ottawa Charge",
+  "opponent": "Minnesota Frost",
+  "arena": "Canadian Tire Centre",
+  "city": "Ottawa, Ontario",
+  "date": "2027-01-20T00:00:00Z"
+},
+
+{
+  "id": "pwhl_2027011923",
+  "league": "PWHL",
+  "team": "PWHL San Jose",
+  "opponent": "PWHL Hamilton",
+  "arena": "SAP Center",
+  "city": "San Jose, California",
+  "date": "2027-01-20T03:00:00Z"
+},
+
+{
+  "id": "pwhl_2027012024",
+  "league": "PWHL",
+  "team": "PWHL Detroit",
+  "opponent": "Montreal Victoire",
+  "arena": "Little Caesars Arena",
+  "city": "Detroit, Michigan",
+  "date": "2027-01-21T00:00:00Z"
+},
+
+{
+  "id": "pwhl_2027012125",
+  "league": "PWHL",
+  "team": "PWHL Las Vegas",
+  "opponent": "PWHL Hamilton",
+  "arena": "T-Mobile Arena",
+  "city": "Paradise, Nevada",
+  "date": "2027-01-22T03:00:00Z"
+},
+
+{
+  "id": "pwhl_2027012226",
+  "league": "PWHL",
+  "team": "PWHL San Jose",
+  "opponent": "Toronto Sceptres",
+  "arena": "SAP Center",
+  "city": "San Jose, California",
+  "date": "2027-01-23T03:00:00Z"
+},
+
+{
+  "id": "pwhl_2027012427",
+  "league": "PWHL",
+  "team": "PWHL Las Vegas",
+  "opponent": "Toronto Sceptres",
+  "arena": "T-Mobile Arena",
+  "city": "Paradise, Nevada",
+  "date": "2027-01-24T21:00:00Z"
+},
+
+{
+  "id": "pwhl_2027012628",
+  "league": "PWHL",
+  "team": "PWHL Hamilton",
+  "opponent": "Boston Fleet",
+  "arena": "TD Coliseum",
+  "city": "Hamilton, Ontario",
+  "date": "2027-01-27T00:00:00Z"
+},
+
+{
+  "id": "pwhl_2027012729",
+  "league": "PWHL",
+  "team": "Ottawa Charge",
+  "opponent": "New York Sirens",
+  "arena": "Canadian Tire Centre",
+  "city": "Ottawa, Ontario",
+  "date": "2027-01-28T00:00:00Z"
+},
+
+{
+  "id": "pwhl_2027012730",
+  "league": "PWHL",
+  "team": "PWHL Las Vegas",
+  "opponent": "PWHL San Jose",
+  "arena": "T-Mobile Arena",
+  "city": "Paradise, Nevada",
+  "date": "2027-01-28T03:00:00Z"
+},
+
+{
+  "id": "pwhl_2027012831",
+  "league": "PWHL",
+  "team": "PWHL Hamilton",
+  "opponent": "Seattle Torrent",
+  "arena": "TD Coliseum",
+  "city": "Hamilton, Ontario",
+  "date": "2027-01-29T00:00:00Z"
+},
+
+{
+  "id": "pwhl_2027012832",
+  "league": "PWHL",
+  "team": "Vancouver Goldeneyes",
+  "opponent": "Toronto Sceptres",
+  "arena": "Pacific Coliseum",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-01-29T02:30:00Z"
+},
+
+{
+  "id": "pwhl_2027012933",
+  "league": "PWHL",
+  "team": "Minnesota Frost",
+  "opponent": "Boston Fleet",
+  "arena": "Grand Casino Arena",
+  "city": "Saint Paul, Minnesota",
+  "date": "2027-01-30T00:00:00Z"
+},
+
+{
+  "id": "pwhl_2027013034",
+  "league": "PWHL",
+  "team": "PWHL Detroit",
+  "opponent": "PWHL San Jose",
+  "arena": "Little Caesars Arena",
+  "city": "Detroit, Michigan",
+  "date": "2027-01-31T00:00:00Z"
+}  
 
   
 ]
