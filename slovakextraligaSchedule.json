@@ -1,432 +1,432 @@
 [
   {
-  "id": "exs_2026100901",
-  "league": "slovakextraliga",
-  "team": "HC 05 Banská Bystrica",
-  "opponent": "HC Slovan Bratislava",
-  "arena": "Tipsport Arena Banská Bystrica",
-  "city": "Banská Bystrica, Slovakia",
-  "date": "2026-10-09T14:30:00Z"
-},
-
-{
-  "id": "exs_2026100902",
-  "league": "slovakextraliga",
-  "team": "HK Dukla Michalovce",
-  "opponent": "HK Poprad",
-  "arena": "TiposBet Arena Michalovce",
-  "city": "Michalovce, Slovakia",
-  "date": "2026-10-09T14:30:00Z"
-},
-
-{
-  "id": "exs_2026100903",
-  "league": "slovakextraliga",
-  "team": "HK Spišská Nová Ves",
-  "opponent": "HC Prešov",
-  "arena": "TiposBet Arena Spišská Nová Ves",
-  "city": "Spišská Nová Ves, Slovakia",
-  "date": "2026-10-09T14:30:00Z"
-},
-
-{
-  "id": "exs_2026100904",
-  "league": "slovakextraliga",
-  "team": "HK Dukla Trenčín",
-  "opponent": "HK Nitra",
-  "arena": "Zimný štadión Pavla Demitru",
-  "city": "Trenčín, Slovakia",
-  "date": "2026-10-09T15:00:00Z"
-},
-
-{
-  "id": "exs_2026100905",
-  "league": "slovakextraliga",
-  "team": "HKM Zvolen",
-  "opponent": "HC Košice",
-  "arena": "TiposBet Arena Zvolen",
-  "city": "Zvolen, Slovakia",
-  "date": "2026-10-09T15:00:00Z"
-},
-
-{
-  "id": "exs_2026100906",
-  "league": "slovakextraliga",
-  "team": "MHK 32 Liptovský Mikuláš",
-  "opponent": "Vlci Žilina",
-  "arena": "JL Aréna",
-  "city": "Liptovský Mikuláš, Slovakia",
-  "date": "2026-10-09T15:00:00Z"
-},
-
-{
-  "id": "exs_2026101007",
-  "league": "slovakextraliga",
-  "team": "HK Poprad",
-  "opponent": "HKM Zvolen",
-  "arena": "Zimný štadión Poprad",
-  "city": "Poprad, Slovakia",
-  "date": "2026-10-10T16:00:00Z"
-},
-
-{
-  "id": "exs_2026101108",
-  "league": "slovakextraliga",
-  "team": "HC Košice",
-  "opponent": "HK Dukla Trenčín",
-  "arena": "Steel Arena",
-  "city": "Košice, Slovakia",
-  "date": "2026-10-11T13:00:00Z"
-},
-
-{
-  "id": "exs_2026101109",
-  "league": "slovakextraliga",
-  "team": "HC Slovan Bratislava",
-  "opponent": "HC Prešov",
-  "arena": "Tipos Arena",
-  "city": "Bratislava, Slovakia",
-  "date": "2026-10-11T13:00:00Z"
-},
-
-{
-  "id": "exs_2026101110",
-  "league": "slovakextraliga",
-  "team": "HC 05 Banská Bystrica",
-  "opponent": "MHK 32 Liptovský Mikuláš",
-  "arena": "Tipsport Arena Banská Bystrica",
-  "city": "Banská Bystrica, Slovakia",
-  "date": "2026-10-11T13:30:00Z"
-},
-
-{
-  "id": "exs_2026101111",
-  "league": "slovakextraliga",
-  "team": "HK Nitra",
-  "opponent": "HK Spišská Nová Ves",
-  "arena": "Tipsport Arena Nitra",
-  "city": "Nitra, Slovakia",
-  "date": "2026-10-11T14:00:00Z"
-},
-
-{
-  "id": "exs_2026101112",
-  "league": "slovakextraliga",
-  "team": "Vlci Žilina",
-  "opponent": "HK Dukla Michalovce",
-  "arena": "Niké Arena",
-  "city": "Žilina, Slovakia",
-  "date": "2026-10-11T14:00:00Z"
-},
-
-{
-  "id": "exs_2026101613",
-  "league": "slovakextraliga",
-  "team": "HK Dukla Michalovce",
-  "opponent": "HC 05 Banská Bystrica",
-  "arena": "TiposBet Arena Michalovce",
-  "city": "Michalovce, Slovakia",
-  "date": "2026-10-16T14:30:00Z"
-},
-
-{
-  "id": "exs_2026101614",
-  "league": "slovakextraliga",
-  "team": "HK Spišská Nová Ves",
-  "opponent": "HC Košice",
-  "arena": "TiposBet Arena Spišská Nová Ves",
-  "city": "Spišská Nová Ves, Slovakia",
-  "date": "2026-10-16T14:30:00Z"
-},
-
-{
-  "id": "exs_2026101615",
-  "league": "slovakextraliga",
-  "team": "HKM Zvolen",
-  "opponent": "Vlci Žilina",
-  "arena": "TiposBet Arena Zvolen",
-  "city": "Zvolen, Slovakia",
-  "date": "2026-10-16T14:30:00Z"
-},
-
-{
-  "id": "exs_2026101616",
-  "league": "slovakextraliga",
-  "team": "HC Prešov",
-  "opponent": "HK Nitra",
-  "arena": "Zimný štadión Prešov",
-  "city": "Prešov, Slovakia",
-  "date": "2026-10-16T15:00:00Z"
-},
-
-{
-  "id": "exs_2026101617",
-  "league": "slovakextraliga",
-  "team": "HK Dukla Trenčín",
-  "opponent": "HK Poprad",
-  "arena": "Zimný štadión Pavla Demitru",
-  "city": "Trenčín, Slovakia",
-  "date": "2026-10-16T15:00:00Z"
-},
-
-{
-  "id": "exs_2026101618",
-  "league": "slovakextraliga",
-  "team": "MHK 32 Liptovský Mikuláš",
-  "opponent": "HC Slovan Bratislava",
-  "arena": "JL Aréna",
-  "city": "Liptovský Mikuláš, Slovakia",
-  "date": "2026-10-16T15:00:00Z"
-},
-
-{
-  "id": "exs_2026101719",
-  "league": "slovakextraliga",
-  "team": "HK Spišská Nová Ves",
-  "opponent": "HK Poprad",
-  "arena": "TiposBet Arena Spišská Nová Ves",
-  "city": "Spišská Nová Ves, Slovakia",
-  "date": "2026-10-17T14:30:00Z"
-},
-
-{
-  "id": "exs_2026101720",
-  "league": "slovakextraliga",
-  "team": "HC 05 Banská Bystrica",
-  "opponent": "HKM Zvolen",
-  "arena": "Tipsport Arena Banská Bystrica",
-  "city": "Banská Bystrica, Slovakia",
-  "date": "2026-10-17T15:00:00Z"
-},
-
-{
-  "id": "exs_2026101721",
-  "league": "slovakextraliga",
-  "team": "HK Dukla Trenčín",
-  "opponent": "Vlci Žilina",
-  "arena": "Zimný štadión Pavla Demitru",
-  "city": "Trenčín, Slovakia",
-  "date": "2026-10-17T15:00:00Z"
-},
-
-{
-  "id": "exs_2026101722",
-  "league": "slovakextraliga",
-  "team": "HC Prešov",
-  "opponent": "HC Košice",
-  "arena": "Zimný štadión Prešov",
-  "city": "Prešov, Slovakia",
-  "date": "2026-10-17T16:00:00Z"
-},
-
-{
-  "id": "exs_2026101823",
-  "league": "slovakextraliga",
-  "team": "HC Slovan Bratislava",
-  "opponent": "HK Nitra",
-  "arena": "Tipos Arena",
-  "city": "Bratislava, Slovakia",
-  "date": "2026-10-18T13:00:00Z"
-},
-
-{
-  "id": "exs_2026101824",
-  "league": "slovakextraliga",
-  "team": "HK Dukla Michalovce",
-  "opponent": "MHK 32 Liptovský Mikuláš",
-  "arena": "TiposBet Arena Michalovce",
-  "city": "Michalovce, Slovakia",
-  "date": "2026-10-18T13:30:00Z"
-},
-
-{
-  "id": "exs_2026102325",
-  "league": "slovakextraliga",
-  "team": "HC 05 Banská Bystrica",
-  "opponent": "HK Dukla Trenčín",
-  "arena": "Tipsport Arena Banská Bystrica",
-  "city": "Banská Bystrica, Slovakia",
-  "date": "2026-10-23T14:30:00Z"
-},
-
-{
-  "id": "exs_2026102326",
-  "league": "slovakextraliga",
-  "team": "HK Dukla Michalovce",
-  "opponent": "HC Slovan Bratislava",
-  "arena": "TiposBet Arena Michalovce",
-  "city": "Michalovce, Slovakia",
-  "date": "2026-10-23T14:30:00Z"
-},
-
-{
-  "id": "exs_2026102327",
-  "league": "slovakextraliga",
-  "team": "HK Poprad",
-  "opponent": "HC Prešov",
-  "arena": "Zimný štadión Poprad",
-  "city": "Poprad, Slovakia",
-  "date": "2026-10-23T14:30:00Z"
-},
-
-{
-  "id": "exs_2026102328",
-  "league": "slovakextraliga",
-  "team": "Vlci Žilina",
-  "opponent": "HK Spišská Nová Ves",
-  "arena": "Niké Arena",
-  "city": "Žilina, Slovakia",
-  "date": "2026-10-23T14:30:00Z"
-},
-
-{
-  "id": "exs_2026102329",
-  "league": "slovakextraliga",
-  "team": "HK Nitra",
-  "opponent": "HC Košice",
-  "arena": "Tipsport Arena Nitra",
-  "city": "Nitra, Slovakia",
-  "date": "2026-10-23T15:00:00Z"
-},
-
-{
-  "id": "exs_2026102330",
-  "league": "slovakextraliga",
-  "team": "MHK 32 Liptovský Mikuláš",
-  "opponent": "HKM Zvolen",
-  "arena": "JL Aréna",
-  "city": "Liptovský Mikuláš, Slovakia",
-  "date": "2026-10-23T15:00:00Z"
-},
-
-{
-  "id": "exs_2026102431",
-  "league": "slovakextraliga",
-  "team": "HK Nitra",
-  "opponent": "HK Poprad",
-  "arena": "Tipsport Arena Nitra",
-  "city": "Nitra, Slovakia",
-  "date": "2026-10-24T16:00:00Z"
-},
-
-{
-  "id": "exs_2026102532",
-  "league": "slovakextraliga",
-  "team": "HK Dukla Trenčín",
-  "opponent": "MHK 32 Liptovský Mikuláš",
-  "arena": "Zimný štadión Pavla Demitru",
-  "city": "Trenčín, Slovakia",
-  "date": "2026-10-25T14:30:00Z"
-},
-
-{
-  "id": "exs_2026102533",
-  "league": "slovakextraliga",
-  "team": "HC Slovan Bratislava",
-  "opponent": "HC Košice",
-  "arena": "Tipos Arena",
-  "city": "Bratislava, Slovakia",
-  "date": "2026-10-25T15:00:00Z"
-},
-
-{
-  "id": "exs_2026102534",
-  "league": "slovakextraliga",
-  "team": "HK Spišská Nová Ves",
-  "opponent": "HC 05 Banská Bystrica",
-  "arena": "TiposBet Arena Spišská Nová Ves",
-  "city": "Spišská Nová Ves, Slovakia",
-  "date": "2026-10-25T15:00:00Z"
-},
-
-{
-  "id": "exs_2026102535",
-  "league": "slovakextraliga",
-  "team": "HC Prešov",
-  "opponent": "Vlci Žilina",
-  "arena": "Zimný štadión Prešov",
-  "city": "Prešov, Slovakia",
-  "date": "2026-10-25T15:30:00Z"
-},
-
-{
-  "id": "exs_2026102536",
-  "league": "slovakextraliga",
-  "team": "HKM Zvolen",
-  "opponent": "HK Dukla Michalovce",
-  "arena": "TiposBet Arena Zvolen",
-  "city": "Zvolen, Slovakia",
-  "date": "2026-10-25T16:00:00Z"
-},
-
-{
-  "id": "exs_2026102837",
-  "league": "slovakextraliga",
-  "team": "HC Slovan Bratislava",
-  "opponent": "HK Dukla Trenčín",
-  "arena": "Tipos Arena",
-  "city": "Bratislava, Slovakia",
-  "date": "2026-10-28T17:30:00Z"
-},
-
-{
-  "id": "exs_2026103038",
-  "league": "slovakextraliga",
-  "team": "HC 05 Banská Bystrica",
-  "opponent": "HC Prešov",
-  "arena": "Tipsport Arena Banská Bystrica",
-  "city": "Banská Bystrica, Slovakia",
-  "date": "2026-10-30T16:30:00Z"
-},
-
-{
-  "id": "exs_2026103039",
-  "league": "slovakextraliga",
-  "team": "HK Dukla Michalovce",
-  "opponent": "HK Dukla Trenčín",
-  "arena": "TiposBet Arena Michalovce",
-  "city": "Michalovce, Slovakia",
-  "date": "2026-10-30T16:30:00Z"
-},
-
-{
-  "id": "exs_2026103040",
-  "league": "slovakextraliga",
-  "team": "HK Poprad",
-  "opponent": "HC Košice",
-  "arena": "Zimný štadión Poprad",
-  "city": "Poprad, Slovakia",
-  "date": "2026-10-30T16:30:00Z"
-},
-
-{
-  "id": "exs_2026103041",
-  "league": "slovakextraliga",
-  "team": "Vlci Žilina",
-  "opponent": "HK Nitra",
-  "arena": "Niké Arena",
-  "city": "Žilina, Slovakia",
-  "date": "2026-10-30T16:30:00Z"
-},
-
-{
-  "id": "exs_2026103042",
-  "league": "slovakextraliga",
-  "team": "MHK 32 Liptovský Mikuláš",
-  "opponent": "HK Spišská Nová Ves",
-  "arena": "JL Aréna",
-  "city": "Liptovský Mikuláš, Slovakia",
-  "date": "2026-10-30T17:00:00Z"
-},
-
-{
-  "id": "exs_2026103043",
-  "league": "slovakextraliga",
-  "team": "HC Slovan Bratislava",
-  "opponent": "HKM Zvolen",
-  "arena": "Tipos Arena",
-  "city": "Bratislava, Slovakia",
-  "date": "2026-10-30T17:30:00Z"
-},
+    "id": "exs_2026100901",
+    "league": "slovakextraliga",
+    "team": "HC 05 Banská Bystrica",
+    "opponent": "HC Slovan Bratislava",
+    "arena": "Tipsport Arena Banská Bystrica",
+    "city": "Banská Bystrica, Slovakia",
+    "date": "2026-10-09T14:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026100902",
+    "league": "slovakextraliga",
+    "team": "HK Dukla Michalovce",
+    "opponent": "HK Poprad",
+    "arena": "TiposBet Arena Michalovce",
+    "city": "Michalovce, Slovakia",
+    "date": "2026-10-09T14:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026100903",
+    "league": "slovakextraliga",
+    "team": "HK Spišská Nová Ves",
+    "opponent": "HC Prešov",
+    "arena": "TiposBet Arena Spišská Nová Ves",
+    "city": "Spišská Nová Ves, Slovakia",
+    "date": "2026-10-09T14:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026100904",
+    "league": "slovakextraliga",
+    "team": "HK Dukla Trenčín",
+    "opponent": "HK Nitra",
+    "arena": "Zimný štadión Pavla Demitru",
+    "city": "Trenčín, Slovakia",
+    "date": "2026-10-09T15:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026100905",
+    "league": "slovakextraliga",
+    "team": "HKM Zvolen",
+    "opponent": "HC Košice",
+    "arena": "TiposBet Arena Zvolen",
+    "city": "Zvolen, Slovakia",
+    "date": "2026-10-09T15:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026100906",
+    "league": "slovakextraliga",
+    "team": "MHK 32 Liptovský Mikuláš",
+    "opponent": "Vlci Žilina",
+    "arena": "JL Aréna",
+    "city": "Liptovský Mikuláš, Slovakia",
+    "date": "2026-10-09T15:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026101007",
+    "league": "slovakextraliga",
+    "team": "HK Poprad",
+    "opponent": "HKM Zvolen",
+    "arena": "Zimný štadión Poprad",
+    "city": "Poprad, Slovakia",
+    "date": "2026-10-10T16:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026101108",
+    "league": "slovakextraliga",
+    "team": "HC Košice",
+    "opponent": "HK Dukla Trenčín",
+    "arena": "Steel Arena",
+    "city": "Košice, Slovakia",
+    "date": "2026-10-11T13:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026101109",
+    "league": "slovakextraliga",
+    "team": "HC Slovan Bratislava",
+    "opponent": "HC Prešov",
+    "arena": "Tipos Arena",
+    "city": "Bratislava, Slovakia",
+    "date": "2026-10-11T13:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026101110",
+    "league": "slovakextraliga",
+    "team": "HC 05 Banská Bystrica",
+    "opponent": "MHK 32 Liptovský Mikuláš",
+    "arena": "Tipsport Arena Banská Bystrica",
+    "city": "Banská Bystrica, Slovakia",
+    "date": "2026-10-11T13:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026101111",
+    "league": "slovakextraliga",
+    "team": "HK Nitra",
+    "opponent": "HK Spišská Nová Ves",
+    "arena": "Tipsport Arena Nitra",
+    "city": "Nitra, Slovakia",
+    "date": "2026-10-11T14:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026101112",
+    "league": "slovakextraliga",
+    "team": "Vlci Žilina",
+    "opponent": "HK Dukla Michalovce",
+    "arena": "Niké Arena",
+    "city": "Žilina, Slovakia",
+    "date": "2026-10-11T14:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026101613",
+    "league": "slovakextraliga",
+    "team": "HK Dukla Michalovce",
+    "opponent": "HC 05 Banská Bystrica",
+    "arena": "TiposBet Arena Michalovce",
+    "city": "Michalovce, Slovakia",
+    "date": "2026-10-16T14:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026101614",
+    "league": "slovakextraliga",
+    "team": "HK Spišská Nová Ves",
+    "opponent": "HC Košice",
+    "arena": "TiposBet Arena Spišská Nová Ves",
+    "city": "Spišská Nová Ves, Slovakia",
+    "date": "2026-10-16T14:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026101615",
+    "league": "slovakextraliga",
+    "team": "HKM Zvolen",
+    "opponent": "Vlci Žilina",
+    "arena": "TiposBet Arena Zvolen",
+    "city": "Zvolen, Slovakia",
+    "date": "2026-10-16T14:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026101616",
+    "league": "slovakextraliga",
+    "team": "HC Prešov",
+    "opponent": "HK Nitra",
+    "arena": "Zimný štadión Prešov",
+    "city": "Prešov, Slovakia",
+    "date": "2026-10-16T15:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026101617",
+    "league": "slovakextraliga",
+    "team": "HK Dukla Trenčín",
+    "opponent": "HK Poprad",
+    "arena": "Zimný štadión Pavla Demitru",
+    "city": "Trenčín, Slovakia",
+    "date": "2026-10-16T15:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026101618",
+    "league": "slovakextraliga",
+    "team": "MHK 32 Liptovský Mikuláš",
+    "opponent": "HC Slovan Bratislava",
+    "arena": "JL Aréna",
+    "city": "Liptovský Mikuláš, Slovakia",
+    "date": "2026-10-16T15:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026101719",
+    "league": "slovakextraliga",
+    "team": "HK Spišská Nová Ves",
+    "opponent": "HK Poprad",
+    "arena": "TiposBet Arena Spišská Nová Ves",
+    "city": "Spišská Nová Ves, Slovakia",
+    "date": "2026-10-17T14:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026101720",
+    "league": "slovakextraliga",
+    "team": "HC 05 Banská Bystrica",
+    "opponent": "HKM Zvolen",
+    "arena": "Tipsport Arena Banská Bystrica",
+    "city": "Banská Bystrica, Slovakia",
+    "date": "2026-10-17T15:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026101721",
+    "league": "slovakextraliga",
+    "team": "HK Dukla Trenčín",
+    "opponent": "Vlci Žilina",
+    "arena": "Zimný štadión Pavla Demitru",
+    "city": "Trenčín, Slovakia",
+    "date": "2026-10-17T15:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026101722",
+    "league": "slovakextraliga",
+    "team": "HC Prešov",
+    "opponent": "HC Košice",
+    "arena": "Zimný štadión Prešov",
+    "city": "Prešov, Slovakia",
+    "date": "2026-10-17T16:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026101823",
+    "league": "slovakextraliga",
+    "team": "HC Slovan Bratislava",
+    "opponent": "HK Nitra",
+    "arena": "Tipos Arena",
+    "city": "Bratislava, Slovakia",
+    "date": "2026-10-18T13:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026101824",
+    "league": "slovakextraliga",
+    "team": "HK Dukla Michalovce",
+    "opponent": "MHK 32 Liptovský Mikuláš",
+    "arena": "TiposBet Arena Michalovce",
+    "city": "Michalovce, Slovakia",
+    "date": "2026-10-18T13:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026102325",
+    "league": "slovakextraliga",
+    "team": "HC 05 Banská Bystrica",
+    "opponent": "HK Dukla Trenčín",
+    "arena": "Tipsport Arena Banská Bystrica",
+    "city": "Banská Bystrica, Slovakia",
+    "date": "2026-10-23T14:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026102326",
+    "league": "slovakextraliga",
+    "team": "HK Dukla Michalovce",
+    "opponent": "HC Slovan Bratislava",
+    "arena": "TiposBet Arena Michalovce",
+    "city": "Michalovce, Slovakia",
+    "date": "2026-10-23T14:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026102327",
+    "league": "slovakextraliga",
+    "team": "HK Poprad",
+    "opponent": "HC Prešov",
+    "arena": "Zimný štadión Poprad",
+    "city": "Poprad, Slovakia",
+    "date": "2026-10-23T14:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026102328",
+    "league": "slovakextraliga",
+    "team": "Vlci Žilina",
+    "opponent": "HK Spišská Nová Ves",
+    "arena": "Niké Arena",
+    "city": "Žilina, Slovakia",
+    "date": "2026-10-23T14:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026102329",
+    "league": "slovakextraliga",
+    "team": "HK Nitra",
+    "opponent": "HC Košice",
+    "arena": "Tipsport Arena Nitra",
+    "city": "Nitra, Slovakia",
+    "date": "2026-10-23T15:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026102330",
+    "league": "slovakextraliga",
+    "team": "MHK 32 Liptovský Mikuláš",
+    "opponent": "HKM Zvolen",
+    "arena": "JL Aréna",
+    "city": "Liptovský Mikuláš, Slovakia",
+    "date": "2026-10-23T15:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026102431",
+    "league": "slovakextraliga",
+    "team": "HK Nitra",
+    "opponent": "HK Poprad",
+    "arena": "Tipsport Arena Nitra",
+    "city": "Nitra, Slovakia",
+    "date": "2026-10-24T16:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026102532",
+    "league": "slovakextraliga",
+    "team": "HK Dukla Trenčín",
+    "opponent": "MHK 32 Liptovský Mikuláš",
+    "arena": "Zimný štadión Pavla Demitru",
+    "city": "Trenčín, Slovakia",
+    "date": "2026-10-25T14:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026102533",
+    "league": "slovakextraliga",
+    "team": "HC Slovan Bratislava",
+    "opponent": "HC Košice",
+    "arena": "Tipos Arena",
+    "city": "Bratislava, Slovakia",
+    "date": "2026-10-25T15:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026102534",
+    "league": "slovakextraliga",
+    "team": "HK Spišská Nová Ves",
+    "opponent": "HC 05 Banská Bystrica",
+    "arena": "TiposBet Arena Spišská Nová Ves",
+    "city": "Spišská Nová Ves, Slovakia",
+    "date": "2026-10-25T15:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026102535",
+    "league": "slovakextraliga",
+    "team": "HC Prešov",
+    "opponent": "Vlci Žilina",
+    "arena": "Zimný štadión Prešov",
+    "city": "Prešov, Slovakia",
+    "date": "2026-10-25T15:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026102536",
+    "league": "slovakextraliga",
+    "team": "HKM Zvolen",
+    "opponent": "HK Dukla Michalovce",
+    "arena": "TiposBet Arena Zvolen",
+    "city": "Zvolen, Slovakia",
+    "date": "2026-10-25T16:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026102837",
+    "league": "slovakextraliga",
+    "team": "HC Slovan Bratislava",
+    "opponent": "HK Dukla Trenčín",
+    "arena": "Tipos Arena",
+    "city": "Bratislava, Slovakia",
+    "date": "2026-10-28T17:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026103038",
+    "league": "slovakextraliga",
+    "team": "HC 05 Banská Bystrica",
+    "opponent": "HC Prešov",
+    "arena": "Tipsport Arena Banská Bystrica",
+    "city": "Banská Bystrica, Slovakia",
+    "date": "2026-10-30T16:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026103039",
+    "league": "slovakextraliga",
+    "team": "HK Dukla Michalovce",
+    "opponent": "HK Dukla Trenčín",
+    "arena": "TiposBet Arena Michalovce",
+    "city": "Michalovce, Slovakia",
+    "date": "2026-10-30T16:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026103040",
+    "league": "slovakextraliga",
+    "team": "HK Poprad",
+    "opponent": "HC Košice",
+    "arena": "Zimný štadión Poprad",
+    "city": "Poprad, Slovakia",
+    "date": "2026-10-30T16:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026103041",
+    "league": "slovakextraliga",
+    "team": "Vlci Žilina",
+    "opponent": "HK Nitra",
+    "arena": "Niké Arena",
+    "city": "Žilina, Slovakia",
+    "date": "2026-10-30T16:30:00Z"
+  },
+  
+  {
+    "id": "exs_2026103042",
+    "league": "slovakextraliga",
+    "team": "MHK 32 Liptovský Mikuláš",
+    "opponent": "HK Spišská Nová Ves",
+    "arena": "JL Aréna",
+    "city": "Liptovský Mikuláš, Slovakia",
+    "date": "2026-10-30T17:00:00Z"
+  },
+  
+  {
+    "id": "exs_2026103043",
+    "league": "slovakextraliga",
+    "team": "HC Slovan Bratislava",
+    "opponent": "HKM Zvolen",
+    "arena": "Tipos Arena",
+    "city": "Bratislava, Slovakia",
+    "date": "2026-10-30T17:30:00Z"
+  }
   
 ]
