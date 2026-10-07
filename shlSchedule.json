@@ -1,3 +1,172 @@
 [
+  {
+    "id": "shl_2026100101",
+    "league": "SHL",
+    "team": "Djurgårdens IF",
+    "opponent": "Färjestad BK",
+    "arena": "Hovet",
+    "city": "Stockholm, Sweden",
+    "date": "2026-10-01T17:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026100302",
+    "league": "SHL",
+    "team": "Frölunda HC",
+    "opponent": "Djurgårdens IF",
+    "arena": "Scandinavium",
+    "city": "Gothenburg, Sweden",
+    "date": "2026-10-03T13:15:00Z"
+  },
+  
+  {
+    "id": "shl_2026100803",
+    "league": "SHL",
+    "team": "Brynäs IF",
+    "opponent": "IF Björklöven",
+    "arena": "Monitor ERP Arena",
+    "city": "Gävle, Sweden",
+    "date": "2026-10-08T17:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101004",
+    "league": "SHL",
+    "team": "Färjestad BK",
+    "opponent": "Malmö Redhawks",
+    "arena": "Löfbergs Arena",
+    "city": "Karlstad, Sweden",
+    "date": "2026-10-10T13:15:00Z"
+  },
+  
+  {
+    "id": "shl_2026101505",
+    "league": "SHL",
+    "team": "Brynäs IF",
+    "opponent": "Djurgårdens IF",
+    "arena": "Monitor ERP Arena",
+    "city": "Gävle, Sweden",
+    "date": "2026-10-15T17:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026101706",
+    "league": "SHL",
+    "team": "Djurgårdens IF",
+    "opponent": "Malmö Redhawks",
+    "arena": "Hovet",
+    "city": "Stockholm, Sweden",
+    "date": "2026-10-17T13:15:00Z"
+  },
+  
+  {
+    "id": "shl_2026102207",
+    "league": "SHL",
+    "team": "IF Björklöven",
+    "opponent": "Malmö Redhawks",
+    "arena": "Winpos Arena",
+    "city": "Umeå, Sweden",
+    "date": "2026-10-22T17:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102408",
+    "league": "SHL",
+    "team": "IF Björklöven",
+    "opponent": "Skellefteå AIK",
+    "arena": "Winpos Arena",
+    "city": "Umeå, Sweden",
+    "date": "2026-10-24T13:15:00Z"
+  },
+  
+  {
+    "id": "shl_2026102709",
+    "league": "SHL",
+    "team": "Malmö Redhawks",
+    "opponent": "Linköping HC",
+    "arena": "Malmö Arena",
+    "city": "Malmö, Sweden",
+    "date": "2026-10-27T18:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026102910",
+    "league": "SHL",
+    "team": "Brynäs IF",
+    "opponent": "Färjestad BK",
+    "arena": "Monitor ERP Arena",
+    "city": "Gävle, Sweden",
+    "date": "2026-10-29T18:00:00Z"
+  },
+  
+  {
+    "id": "shl_2026103111",
+    "league": "SHL",
+    "team": "Frölunda HC",
+    "opponent": "Linköping HC",
+    "arena": "Scandinavium",
+    "city": "Gothenburg, Sweden",
+    "date": "2026-10-31T14:15:00Z"
+  },
+  {
+  "id": "shl_2026111201",
+  "league": "SHL",
+  "team": "Brynäs IF",
+  "opponent": "Skellefteå AIK",
+  "arena": "Monitor ERP Arena",
+  "city": "Gävle, Sweden",
+  "date": "2026-11-12T18:00:00Z"
+},
+
+{
+  "id": "shl_2026111902",
+  "league": "SHL",
+  "team": "Brynäs IF",
+  "opponent": "Luleå Hockey",
+  "arena": "Monitor ERP Arena",
+  "city": "Gävle, Sweden",
+  "date": "2026-11-19T18:00:00Z"
+},
+
+{
+  "id": "shl_2026112103",
+  "league": "SHL",
+  "team": "Djurgårdens IF",
+  "opponent": "Luleå Hockey",
+  "arena": "Hovet",
+  "city": "Stockholm, Sweden",
+  "date": "2026-11-21T14:15:00Z"
+},
+
+{
+  "id": "shl_2026112404",
+  "league": "SHL",
+  "team": "Luleå Hockey",
+  "opponent": "Malmö Redhawks",
+  "arena": "Coop Norrbotten Arena",
+  "city": "Luleå, Sweden",
+  "date": "2026-11-24T18:00:00Z"
+},
+
+{
+  "id": "shl_2026112605",
+  "league": "SHL",
+  "team": "Frölunda HC",
+  "opponent": "IF Björklöven",
+  "arena": "Scandinavium",
+  "city": "Gothenburg, Sweden",
+  "date": "2026-11-26T18:00:00Z"
+},
+
+{
+  "id": "shl_2026112806",
+  "league": "SHL",
+  "team": "Brynäs IF",
+  "opponent": "Örebro HK",
+  "arena": "Monitor ERP Arena",
+  "city": "Gävle, Sweden",
+  "date": "2026-11-28T14:15:00Z"
+}
+  
   
 ]
