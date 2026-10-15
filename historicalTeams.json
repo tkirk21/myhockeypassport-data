@@ -4203,6 +4203,23 @@
     "endDate": "2006-05-31"
   },
   {
+    "teamName": "Manchester Monarchs",
+    "teamCode": "MAN",
+    "arena": "Verizon Wireless Arena",
+    "arenaId": "snhu_arena_manchester",
+    "city": "Manchester, New Hampshire",
+    "address": "555 Elm St, Manchester, New Hampshire 03101",
+    "website": "https://echl.com/teams/manchester-monarchs",
+    "latitude": 42.98661759781477,
+    "longitude": -71.46180177147485,
+    "colorCode": "#000000",
+    "colorCode2": "#7F7F7F",
+    "league": "AHL",
+    "timezone": "America/New_York",
+    "startDate": "2001-09-01",
+    "endDate": "2015-05-31"
+  },
+  {
     "teamName": "Maine Mariners",
     "teamCode": "MAI",
     "arena": "Cumberland County Civic Center",
