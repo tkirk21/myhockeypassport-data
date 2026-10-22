@@ -129,4 +129,494 @@
     "date": "2026-10-31T23:30:00Z"
 },
 
+{
+  "id": "lnah_2026110701",
+  "league": "LNAH",
+  "team": "3L Rivière-du-Loup",
+  "opponent": "Éperviers Sorel-Tracy",
+  "arena": "Centre Premier Tech",
+  "city": "Rivière-du-Loup, Quebec",
+  "date": "2026-11-07T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026110702",
+  "league": "LNAH",
+  "team": "Bataillon Saint-Hyacinthe",
+  "opponent": "Assurancia Thetford",
+  "arena": "Stade Louis-Philippe-Gaucher",
+  "city": "Saint-Hyacinthe, Quebec",
+  "date": "2026-11-07T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026110703",
+  "league": "LNAH",
+  "team": "Mariners Manotick",
+  "opponent": "Saint-Georges Cool FM 103.5",
+  "arena": "Mike O'Neil Arena",
+  "city": "Manotick, Ontario",
+  "date": "2026-11-07T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026110704",
+  "league": "LNAH",
+  "team": "National Québec",
+  "opponent": "Jonquière Marquis",
+  "arena": "Complexe Sportif Bonair",
+  "city": "L'Ancienne-Lorette, Quebec",
+  "date": "2026-11-07T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026110805",
+  "league": "LNAH",
+  "team": "Mariners Manotick",
+  "opponent": "National Québec",
+  "arena": "Mike O'Neil Arena",
+  "city": "Manotick, Ontario",
+  "date": "2026-11-08T00:00:00Z"
+},
+
+{
+  "id": "lnah_2026110806",
+  "league": "LNAH",
+  "team": "Assurancia Thetford",
+  "opponent": "Bataillon Saint-Hyacinthe",
+  "arena": "Centre Mario Gosselin",
+  "city": "Thetford Mines, Quebec",
+  "date": "2026-11-08T00:30:00Z"
+},
+
+{
+  "id": "lnah_2026111407",
+  "league": "LNAH",
+  "team": "Assurancia Thetford",
+  "opponent": "Jonquière Marquis",
+  "arena": "Centre Mario Gosselin",
+  "city": "Thetford Mines, Quebec",
+  "date": "2026-11-14T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026111408",
+  "league": "LNAH",
+  "team": "Éperviers Sorel-Tracy",
+  "opponent": "Saint-Georges Cool FM 103.5",
+  "arena": "Colisée Cardin",
+  "city": "Sorel-Tracy, Quebec",
+  "date": "2026-11-14T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026111409",
+  "league": "LNAH",
+  "team": "Mariners Manotick",
+  "opponent": "Bataillon Saint-Hyacinthe",
+  "arena": "Mike O'Neil Arena",
+  "city": "Manotick, Ontario",
+  "date": "2026-11-14T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026111410",
+  "league": "LNAH",
+  "team": "National Québec",
+  "opponent": "3L Rivière-du-Loup",
+  "arena": "Complexe Sportif Bonair",
+  "city": "L'Ancienne-Lorette, Quebec",
+  "date": "2026-11-14T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026111511",
+  "league": "LNAH",
+  "team": "Bataillon Saint-Hyacinthe",
+  "opponent": "National Québec",
+  "arena": "Stade Louis-Philippe-Gaucher",
+  "city": "Saint-Hyacinthe, Quebec",
+  "date": "2026-11-15T00:00:00Z"
+},
+
+{
+  "id": "lnah_2026111512",
+  "league": "LNAH",
+  "team": "Jonquière Marquis",
+  "opponent": "Mariners Manotick",
+  "arena": "Palais des Sports de Saguenay",
+  "city": "Saguenay, Quebec",
+  "date": "2026-11-15T00:30:00Z"
+},
+
+{
+  "id": "lnah_2026112013",
+  "league": "LNAH",
+  "team": "National Québec",
+  "opponent": "Éperviers Sorel-Tracy",
+  "arena": "Complexe Sportif Bonair",
+  "city": "L'Ancienne-Lorette, Quebec",
+  "date": "2026-11-20T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026112114",
+  "league": "LNAH",
+  "team": "3L Rivière-du-Loup",
+  "opponent": "Jonquière Marquis",
+  "arena": "Centre Premier Tech",
+  "city": "Rivière-du-Loup, Quebec",
+  "date": "2026-11-21T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026112115",
+  "league": "LNAH",
+  "team": "Bataillon Saint-Hyacinthe",
+  "opponent": "Saint-Georges Cool FM 103.5",
+  "arena": "Stade Louis-Philippe-Gaucher",
+  "city": "Saint-Hyacinthe, Quebec",
+  "date": "2026-11-21T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026112116",
+  "league": "LNAH",
+  "team": "Éperviers Sorel-Tracy",
+  "opponent": "Assurancia Thetford",
+  "arena": "Colisée Cardin",
+  "city": "Sorel-Tracy, Quebec",
+  "date": "2026-11-21T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026112217",
+  "league": "LNAH",
+  "team": "Assurancia Thetford",
+  "opponent": "Mariners Manotick",
+  "arena": "Centre Mario Gosselin",
+  "city": "Thetford Mines, Quebec",
+  "date": "2026-11-22T00:30:00Z"
+},
+
+{
+  "id": "lnah_2026112218",
+  "league": "LNAH",
+  "team": "Saint-Georges Cool FM 103.5",
+  "opponent": "3L Rivière-du-Loup",
+  "arena": "Centre Sportif Lacroix-Dutil",
+  "city": "Saint-Georges, Quebec",
+  "date": "2026-11-22T00:30:00Z"
+},
+
+{
+  "id": "lnah_2026112219",
+  "league": "LNAH",
+  "team": "Jonquière Marquis",
+  "opponent": "National Québec",
+  "arena": "Palais des Sports de Saguenay",
+  "city": "Saguenay, Quebec",
+  "date": "2026-11-22T00:30:00Z"
+},
+
+{
+  "id": "lnah_2026112820",
+  "league": "LNAH",
+  "team": "3L Rivière-du-Loup",
+  "opponent": "Bataillon Saint-Hyacinthe",
+  "arena": "Centre Premier Tech",
+  "city": "Rivière-du-Loup, Quebec",
+  "date": "2026-11-28T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026112821",
+  "league": "LNAH",
+  "team": "Éperviers Sorel-Tracy",
+  "opponent": "National Québec",
+  "arena": "Colisée Cardin",
+  "city": "Sorel-Tracy, Quebec",
+  "date": "2026-11-28T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026112822",
+  "league": "LNAH",
+  "team": "Mariners Manotick",
+  "opponent": "Assurancia Thetford",
+  "arena": "Mike O'Neil Arena",
+  "city": "Manotick, Ontario",
+  "date": "2026-11-28T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026112823",
+  "league": "LNAH",
+  "team": "Jonquière Marquis",
+  "opponent": "Saint-Georges Cool FM 103.5",
+  "arena": "Palais des Sports de Saguenay",
+  "city": "Saguenay, Quebec",
+  "date": "2026-11-28T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026112924",
+  "league": "LNAH",
+  "team": "3L Rivière-du-Loup",
+  "opponent": "Mariners Manotick",
+  "arena": "Centre Premier Tech",
+  "city": "Rivière-du-Loup, Quebec",
+  "date": "2026-11-29T00:30:00Z"
+},
+
+{
+  "id": "lnah_2026112925",
+  "league": "LNAH",
+  "team": "Assurancia Thetford",
+  "opponent": "Jonquière Marquis",
+  "arena": "Centre Mario Gosselin",
+  "city": "Thetford Mines, Quebec",
+  "date": "2026-11-29T00:30:00Z"
+},
+
+{
+  "id": "lnah_2026120501",
+  "league": "LNAH",
+  "team": "Assurancia Thetford",
+  "opponent": "3L Rivière-du-Loup",
+  "arena": "Centre Mario Gosselin",
+  "city": "Thetford Mines, Quebec",
+  "date": "2026-12-05T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026120502",
+  "league": "LNAH",
+  "team": "Mariners Manotick",
+  "opponent": "Éperviers Sorel-Tracy",
+  "arena": "Mike O'Neil Arena",
+  "city": "Manotick, Ontario",
+  "date": "2026-12-05T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026120503",
+  "league": "LNAH",
+  "team": "Jonquière Marquis",
+  "opponent": "Bataillon Saint-Hyacinthe",
+  "arena": "Palais des Sports de Saguenay",
+  "city": "Saguenay, Quebec",
+  "date": "2026-12-05T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026120504",
+  "league": "LNAH",
+  "team": "National Québec",
+  "opponent": "Saint-Georges Cool FM 103.5",
+  "arena": "Complexe Sportif Bonair",
+  "city": "L'Ancienne-Lorette, Quebec",
+  "date": "2026-12-05T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026120605",
+  "league": "LNAH",
+  "team": "Saint-Georges Cool FM 103.5",
+  "opponent": "Mariners Manotick",
+  "arena": "Centre Sportif Lacroix-Dutil",
+  "city": "Saint-Georges, Quebec",
+  "date": "2026-12-06T00:30:00Z"
+},
+
+{
+  "id": "lnah_2026120606",
+  "league": "LNAH",
+  "team": "Éperviers Sorel-Tracy",
+  "opponent": "Jonquière Marquis",
+  "arena": "Colisée Cardin",
+  "city": "Sorel-Tracy, Quebec",
+  "date": "2026-12-06T00:30:00Z"
+},
+
+{
+  "id": "lnah_2026120607",
+  "league": "LNAH",
+  "team": "Bataillon Saint-Hyacinthe",
+  "opponent": "National Québec",
+  "arena": "Stade Louis-Philippe-Gaucher",
+  "city": "Saint-Hyacinthe, Quebec",
+  "date": "2026-12-06T19:00:00Z"
+},
+
+{
+  "id": "lnah_2026121208",
+  "league": "LNAH",
+  "team": "3L Rivière-du-Loup",
+  "opponent": "Éperviers Sorel-Tracy",
+  "arena": "Centre Premier Tech",
+  "city": "Rivière-du-Loup, Quebec",
+  "date": "2026-12-12T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026121209",
+  "league": "LNAH",
+  "team": "Saint-Georges Cool FM 103.5",
+  "opponent": "Jonquière Marquis",
+  "arena": "Centre Sportif Lacroix-Dutil",
+  "city": "Saint-Georges, Quebec",
+  "date": "2026-12-12T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026121210",
+  "league": "LNAH",
+  "team": "National Québec",
+  "opponent": "Assurancia Thetford",
+  "arena": "Complexe Sportif Bonair",
+  "city": "L'Ancienne-Lorette, Quebec",
+  "date": "2026-12-12T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026121311",
+  "league": "LNAH",
+  "team": "Assurancia Thetford",
+  "opponent": "National Québec",
+  "arena": "Centre Mario Gosselin",
+  "city": "Thetford Mines, Quebec",
+  "date": "2026-12-13T00:00:00Z"
+},
+
+{
+  "id": "lnah_2026121312",
+  "league": "LNAH",
+  "team": "Bataillon Saint-Hyacinthe",
+  "opponent": "3L Rivière-du-Loup",
+  "arena": "Stade Louis-Philippe-Gaucher",
+  "city": "Saint-Hyacinthe, Quebec",
+  "date": "2026-12-13T00:30:00Z"
+},
+
+{
+  "id": "lnah_2026121313",
+  "league": "LNAH",
+  "team": "Éperviers Sorel-Tracy",
+  "opponent": "Mariners Manotick",
+  "arena": "Colisée Cardin",
+  "city": "Sorel-Tracy, Quebec",
+  "date": "2026-12-13T00:30:00Z"
+},
+
+{
+  "id": "lnah_2026121914",
+  "league": "LNAH",
+  "team": "Assurancia Thetford",
+  "opponent": "Saint-Georges Cool FM 103.5",
+  "arena": "Centre Mario Gosselin",
+  "city": "Thetford Mines, Quebec",
+  "date": "2026-12-19T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026121915",
+  "league": "LNAH",
+  "team": "Éperviers Sorel-Tracy",
+  "opponent": "Bataillon Saint-Hyacinthe",
+  "arena": "Colisée Cardin",
+  "city": "Sorel-Tracy, Quebec",
+  "date": "2026-12-19T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026121916",
+  "league": "LNAH",
+  "team": "Mariners Manotick",
+  "opponent": "National Québec",
+  "arena": "Mike O'Neil Arena",
+  "city": "Manotick, Ontario",
+  "date": "2026-12-19T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026121917",
+  "league": "LNAH",
+  "team": "Jonquière Marquis",
+  "opponent": "3L Rivière-du-Loup",
+  "arena": "Palais des Sports de Saguenay",
+  "city": "Saguenay, Quebec",
+  "date": "2026-12-19T01:00:00Z"
+},
+
+{
+  "id": "lnah_2026121918",
+  "league": "LNAH",
+  "team": "Saint-Georges Cool FM 103.5",
+  "opponent": "Éperviers Sorel-Tracy",
+  "arena": "Centre Sportif Lacroix-Dutil",
+  "city": "Saint-Georges, Quebec",
+  "date": "2026-12-19T20:00:00Z"
+},
+
+{
+  "id": "lnah_2026122019",
+  "league": "LNAH",
+  "team": "3L Rivière-du-Loup",
+  "opponent": "Assurancia Thetford",
+  "arena": "Centre Premier Tech",
+  "city": "Rivière-du-Loup, Quebec",
+  "date": "2026-12-20T00:00:00Z"
+},
+
+{
+  "id": "lnah_2026122020",
+  "league": "LNAH",
+  "team": "Bataillon Saint-Hyacinthe",
+  "opponent": "Mariners Manotick",
+  "arena": "Stade Louis-Philippe-Gaucher",
+  "city": "Saint-Hyacinthe, Quebec",
+  "date": "2026-12-20T00:30:00Z"
+},
+
+{
+  "id": "lnah_2026122721",
+  "league": "LNAH",
+  "team": "3L Rivière-du-Loup",
+  "opponent": "National Québec",
+  "arena": "Centre Premier Tech",
+  "city": "Rivière-du-Loup, Quebec",
+  "date": "2026-12-27T19:00:00Z"
+},
+
+{
+  "id": "lnah_2026122722",
+  "league": "LNAH",
+  "team": "Bataillon Saint-Hyacinthe",
+  "opponent": "Éperviers Sorel-Tracy",
+  "arena": "Stade Louis-Philippe-Gaucher",
+  "city": "Saint-Hyacinthe, Quebec",
+  "date": "2026-12-27T20:00:00Z"
+},
+
+{
+  "id": "lnah_2026122723",
+  "league": "LNAH",
+  "team": "Saint-Georges Cool FM 103.5",
+  "opponent": "Assurancia Thetford",
+  "arena": "Centre Sportif Lacroix-Dutil",
+  "city": "Saint-Georges, Quebec",
+  "date": "2026-12-27T21:00:00Z"
+},
+
+{
+  "id": "lnah_2026122724",
+  "league": "LNAH",
+  "team": "Mariners Manotick",
+  "opponent": "Jonquière Marquis",
+  "arena": "Mike O'Neil Arena",
+  "city": "Manotick, Ontario",
+  "date": "2026-12-27T21:00:00Z"
+}  
+
 ]
