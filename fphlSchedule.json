@@ -1,571 +1,2842 @@
 [
   {
-    "id": "fphl_2026101001",
-    "league": "FPHL",
-    "team": "Watertown Wolves",
-    "opponent": "Binghamton Black Bears",
-    "arena": "Watertown Arena",
-    "city": "Watertown, New York",
-    "date": "2026-10-10T16:00:00Z"
-  },
-  
+  "id": "fphl_2026111301",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-11-13T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026111402",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-11-14T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026111503",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-11-15T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026112504",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-11-25T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026112805",
+  "league": "FPHL",
+  "team": "Watertown Wolves",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Watertown Arena",
+  "city": "Watertown, New York",
+  "date": "2026-11-28T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110606",
+  "league": "FPHL",
+  "team": "Twin City Thunderbirds",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Winston-Salem Fairgrounds Arena",
+  "city": "Winston-Salem, North Carolina",
+  "date": "2026-11-06T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026111307",
+  "league": "FPHL",
+  "team": "Monroe Moccasins",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana",
+  "date": "2026-11-13T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026111408",
+  "league": "FPHL",
+  "team": "Monroe Moccasins",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana",
+  "date": "2026-11-14T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026112009",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-11-20T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026112110",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-11-21T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026112811",
+  "league": "FPHL",
+  "team": "Twin City Thunderbirds",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Winston-Salem Fairgrounds Arena",
+  "city": "Winston-Salem, North Carolina",
+  "date": "2026-11-28T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026112012",
+  "league": "FPHL",
+  "team": "Monroe Moccasins",
+  "opponent": "Baton Rouge Kingfish",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana",
+  "date": "2026-11-20T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026112713",
+  "league": "FPHL",
+  "team": "Mid-South Monarchs",
+  "opponent": "Baton Rouge Kingfish",
+  "arena": "Landers Center",
+  "city": "Southaven, Mississippi",
+  "date": "2026-11-27T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026111314",
+  "league": "FPHL",
+  "team": "Mid-South Monarchs",
+  "opponent": "Columbus River Dragons",
+  "arena": "Landers Center",
+  "city": "Southaven, Mississippi",
+  "date": "2026-11-13T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026112015",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Columbus River Dragons",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-11-20T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026112116",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Columbus River Dragons",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-11-21T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026112517",
+  "league": "FPHL",
+  "team": "Twin City Thunderbirds",
+  "opponent": "Columbus River Dragons",
+  "arena": "Winston-Salem Fairgrounds Arena",
+  "city": "Winston-Salem, North Carolina",
+  "date": "2026-11-25T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110618",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-06T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026110719",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-07T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026112020",
+  "league": "FPHL",
+  "team": "Port Huron Prowlers",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan",
+  "date": "2026-11-20T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026112121",
+  "league": "FPHL",
+  "team": "Port Huron Prowlers",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan",
+  "date": "2026-11-21T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110622",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Fresno Falcons",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-11-06T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026110723",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Fresno Falcons",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-11-07T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026112524",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Fresno Falcons",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-11-25T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026112725",
+  "league": "FPHL",
+  "team": "Minnesota Northern Lights",
+  "opponent": "Fresno Falcons",
+  "arena": "Ralph Engelstad Arena (TRF)",
+  "city": "Thief River Falls, Minnesota",
+  "date": "2026-11-27T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026112826",
+  "league": "FPHL",
+  "team": "Minnesota Northern Lights",
+  "opponent": "Fresno Falcons",
+  "arena": "Ralph Engelstad Arena (TRF)",
+  "city": "Thief River Falls, Minnesota",
+  "date": "2026-11-28T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026111327",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Indiana Sentinels",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-11-13T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026111428",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Indiana Sentinels",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-11-14T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026112729",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Indiana Sentinels",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-27T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026112830",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Indiana Sentinels",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-28T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026111431",
+  "league": "FPHL",
+  "team": "Columbus River Dragons",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Columbus Civic Center",
+  "city": "Columbus, Georgia",
+  "date": "2026-11-14T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026112032",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-11-20T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026112133",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-11-21T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026112834",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-11-28T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026110635",
+  "league": "FPHL",
+  "team": "Port Huron Prowlers",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan",
+  "date": "2026-11-06T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110736",
+  "league": "FPHL",
+  "team": "Port Huron Prowlers",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan",
+  "date": "2026-11-07T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026111337",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-11-13T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026111438",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-11-14T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026112039",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-11-20T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026112140",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-11-21T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026110641",
+  "league": "FPHL",
+  "team": "Columbus River Dragons",
+  "opponent": "Monroe Moccasins",
+  "arena": "Columbus Civic Center",
+  "city": "Columbus, Georgia",
+  "date": "2026-11-06T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110742",
+  "league": "FPHL",
+  "team": "Columbus River Dragons",
+  "opponent": "Monroe Moccasins",
+  "arena": "Columbus Civic Center",
+  "city": "Columbus, Georgia",
+  "date": "2026-11-07T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026112143",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Monroe Moccasins",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-11-21T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026111344",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Motor City Rockers",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-11-13T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026111445",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Motor City Rockers",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-11-14T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110846",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Oceanside Shock",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-11-08T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026111747",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Oceanside Shock",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-11-17T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026111848",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Oceanside Shock",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-11-18T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026111149",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-11T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026111350",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-11-13T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026111451",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-11-14T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026112552",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-25T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026112753",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-11-27T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026112854",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-11-28T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026112555",
+  "league": "FPHL",
+  "team": "Minnesota Northern Lights",
+  "opponent": "Stockton Thunder",
+  "arena": "Ralph Engelstad Arena (TRF)",
+  "city": "Thief River Falls, Minnesota",
+  "date": "2026-11-25T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026112756",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Stockton Thunder",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-11-27T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026112857",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Stockton Thunder",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-11-28T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026110658",
+  "league": "FPHL",
+  "team": "Mid-South Monarchs",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Landers Center",
+  "city": "Southaven, Mississippi",
+  "date": "2026-11-06T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026110759",
+  "league": "FPHL",
+  "team": "Mid-South Monarchs",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Landers Center",
+  "city": "Southaven, Mississippi",
+  "date": "2026-11-07T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026112760",
+  "league": "FPHL",
+  "team": "Monroe Moccasins",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana",
+  "date": "2026-11-27T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026112861",
+  "league": "FPHL",
+  "team": "Monroe Moccasins",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana",
+  "date": "2026-11-28T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026110762",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-11-07T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026111363",
+  "league": "FPHL",
+  "team": "Watertown Wolves",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Watertown Arena",
+  "city": "Watertown, New York",
+  "date": "2026-11-13T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026111464",
+  "league": "FPHL",
+  "team": "Watertown Wolves",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Watertown Arena",
+  "city": "Watertown, New York",
+  "date": "2026-11-14T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026112065",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-11-20T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026112166",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-11-21T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026112767",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-11-27T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110668",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Watertown Wolves",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-11-06T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110769",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Watertown Wolves",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-11-07T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026111170",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Watertown Wolves",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-11-11T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026112071",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Watertown Wolves",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-20T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026112172",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Watertown Wolves",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-21T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026112773",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Watertown Wolves",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-11-27T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110674",
+  "league": "FPHL",
+  "team": "Twin City Thunderbirds",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Winston-Salem Fairgrounds Arena",
+  "city": "Winston-Salem, North Carolina",
+  "date": "2026-11-06T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110675",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-06T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026110676",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Fresno Falcons",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-11-06T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026110677",
+  "league": "FPHL",
+  "team": "Port Huron Prowlers",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan",
+  "date": "2026-11-06T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110678",
+  "league": "FPHL",
+  "team": "Columbus River Dragons",
+  "opponent": "Monroe Moccasins",
+  "arena": "Columbus Civic Center",
+  "city": "Columbus, Georgia",
+  "date": "2026-11-06T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110679",
+  "league": "FPHL",
+  "team": "Mid-South Monarchs",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Landers Center",
+  "city": "Southaven, Mississippi",
+  "date": "2026-11-06T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026110680",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Watertown Wolves",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-11-06T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110781",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-11-07T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110782",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-07T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026110783",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Fresno Falcons",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-11-07T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026110784",
+  "league": "FPHL",
+  "team": "Port Huron Prowlers",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan",
+  "date": "2026-11-07T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110785",
+  "league": "FPHL",
+  "team": "Columbus River Dragons",
+  "opponent": "Monroe Moccasins",
+  "arena": "Columbus Civic Center",
+  "city": "Columbus, Georgia",
+  "date": "2026-11-07T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110786",
+  "league": "FPHL",
+  "team": "Mid-South Monarchs",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Landers Center",
+  "city": "Southaven, Mississippi",
+  "date": "2026-11-07T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026110787",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Watertown Wolves",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-11-07T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026110888",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Oceanside Shock",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-11-08T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026111189",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Watertown Wolves",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-11-11T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026111190",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-11T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026111391",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-11-13T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026111392",
+  "league": "FPHL",
+  "team": "Monroe Moccasins",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana",
+  "date": "2026-11-13T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026111393",
+  "league": "FPHL",
+  "team": "Mid-South Monarchs",
+  "opponent": "Columbus River Dragons",
+  "arena": "Landers Center",
+  "city": "Southaven, Mississippi",
+  "date": "2026-11-13T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026111394",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-11-13T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026111395",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Indiana Sentinels",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-11-13T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026111396",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Motor City Rockers",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-11-13T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026111397",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-11-13T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026111398",
+  "league": "FPHL",
+  "team": "Watertown Wolves",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Watertown Arena",
+  "city": "Watertown, New York",
+  "date": "2026-11-13T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026111499",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-11-14T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261114100",
+  "league": "FPHL",
+  "team": "Monroe Moccasins",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana",
+  "date": "2026-11-14T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261114101",
+  "league": "FPHL",
+  "team": "Columbus River Dragons",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Columbus Civic Center",
+  "city": "Columbus, Georgia",
+  "date": "2026-11-14T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261114102",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-11-14T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261114103",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Indiana Sentinels",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-11-14T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261114104",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Motor City Rockers",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-11-14T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261114105",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-11-14T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261114106",
+  "league": "FPHL",
+  "team": "Watertown Wolves",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Watertown Arena",
+  "city": "Watertown, New York",
+  "date": "2026-11-14T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261115107",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-11-15T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261117108",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Oceanside Shock",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-11-17T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261118109",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Oceanside Shock",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-11-18T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261120110",
+  "league": "FPHL",
+  "team": "Monroe Moccasins",
+  "opponent": "Baton Rouge Kingfish",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana",
+  "date": "2026-11-20T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261120111",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-11-20T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261120112",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Columbus River Dragons",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-11-20T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261120113",
+  "league": "FPHL",
+  "team": "Port Huron Prowlers",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan",
+  "date": "2026-11-20T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261120114",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-11-20T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261120115",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-11-20T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261120116",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Watertown Wolves",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-20T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261120117",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-11-20T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261121118",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Monroe Moccasins",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-11-21T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261121119",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-11-21T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261121120",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Columbus River Dragons",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-11-21T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261121121",
+  "league": "FPHL",
+  "team": "Port Huron Prowlers",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan",
+  "date": "2026-11-21T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261121122",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-11-21T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261121123",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-11-21T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261121124",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Watertown Wolves",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-21T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261121125",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-11-21T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261125126",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Fresno Falcons",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-11-25T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261125127",
+  "league": "FPHL",
+  "team": "Minnesota Northern Lights",
+  "opponent": "Stockton Thunder",
+  "arena": "Ralph Engelstad Arena (TRF)",
+  "city": "Thief River Falls, Minnesota",
+  "date": "2026-11-25T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261125128",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-11-25T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261125129",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-25T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261125130",
+  "league": "FPHL",
+  "team": "Twin City Thunderbirds",
+  "opponent": "Columbus River Dragons",
+  "arena": "Winston-Salem Fairgrounds Arena",
+  "city": "Winston-Salem, North Carolina",
+  "date": "2026-11-25T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261127131",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-11-27T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261127132",
+  "league": "FPHL",
+  "team": "Minnesota Northern Lights",
+  "opponent": "Fresno Falcons",
+  "arena": "Ralph Engelstad Arena (TRF)",
+  "city": "Thief River Falls, Minnesota",
+  "date": "2026-11-27T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261127133",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Watertown Wolves",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-11-27T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261127134",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Indiana Sentinels",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-27T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261127135",
+  "league": "FPHL",
+  "team": "Mid-South Monarchs",
+  "opponent": "Baton Rouge Kingfish",
+  "arena": "Landers Center",
+  "city": "Southaven, Mississippi",
+  "date": "2026-11-27T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261127136",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-11-27T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261127137",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Stockton Thunder",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-11-27T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261127138",
+  "league": "FPHL",
+  "team": "Monroe Moccasins",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana",
+  "date": "2026-11-27T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261128139",
+  "league": "FPHL",
+  "team": "Twin City Thunderbirds",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Winston-Salem Fairgrounds Arena",
+  "city": "Winston-Salem, North Carolina",
+  "date": "2026-11-28T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261128140",
+  "league": "FPHL",
+  "team": "Minnesota Northern Lights",
+  "opponent": "Fresno Falcons",
+  "arena": "Ralph Engelstad Arena (TRF)",
+  "city": "Thief River Falls, Minnesota",
+  "date": "2026-11-28T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261128141",
+  "league": "FPHL",
+  "team": "Watertown Wolves",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Watertown Arena",
+  "city": "Watertown, New York",
+  "date": "2026-11-28T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261128142",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Indiana Sentinels",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-11-28T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261128143",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-11-28T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261128144",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-11-28T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261128145",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Stockton Thunder",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-11-28T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261128146",
+  "league": "FPHL",
+  "team": "Monroe Moccasins",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana",
+  "date": "2026-11-28T18:00:00Z"
+},
+
   {
-    "id": "fphl_2026101602",
-    "league": "FPHL",
-    "team": "Port Huron Prowlers",
-    "opponent": "Binghamton Black Bears",
-    "arena": "McMorran Arena",
-    "city": "Port Huron, Michigan",
-    "date": "2026-10-16T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101703",
-    "league": "FPHL",
-    "team": "Port Huron Prowlers",
-    "opponent": "Binghamton Black Bears",
-    "arena": "McMorran Arena",
-    "city": "Port Huron, Michigan",
-    "date": "2026-10-17T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103104",
-    "league": "FPHL",
-    "team": "Danbury Hat Tricks",
-    "opponent": "Binghamton Black Bears",
-    "arena": "Danbury Arena",
-    "city": "Danbury, Connecticut",
-    "date": "2026-10-31T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101605",
-    "league": "FPHL",
-    "team": "Columbus River Dragons",
-    "opponent": "Blue Ridge Bobcats",
-    "arena": "Columbus Civic Center",
-    "city": "Columbus, Georgia",
-    "date": "2026-10-16T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101706",
-    "league": "FPHL",
-    "team": "Columbus River Dragons",
-    "opponent": "Blue Ridge Bobcats",
-    "arena": "Columbus Civic Center",
-    "city": "Columbus, Georgia",
-    "date": "2026-10-17T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101607",
-    "league": "FPHL",
-    "team": "Monroe Moccasins",
-    "opponent": "Baton Rouge Kingfish",
-    "arena": "Monroe Civic Center",
-    "city": "Monroe, Louisiana",
-    "date": "2026-10-16T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102508",
-    "league": "FPHL",
-    "team": "Mid-South Monarchs",
-    "opponent": "Baton Rouge Kingfish",
-    "arena": "Landers Center",
-    "city": "Southaven, Mississippi",
-    "date": "2026-10-25T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102309",
-    "league": "FPHL",
-    "team": "Binghamton Black Bears",
-    "opponent": "Columbus River Dragons",
-    "arena": "Visions Veterans Memorial Arena",
-    "city": "Binghamton, New York",
-    "date": "2026-10-23T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102410",
-    "league": "FPHL",
-    "team": "Binghamton Black Bears",
-    "opponent": "Columbus River Dragons",
-    "arena": "Visions Veterans Memorial Arena",
-    "city": "Binghamton, New York",
-    "date": "2026-10-24T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102311",
-    "league": "FPHL",
-    "team": "Twin City Thunderbirds",
-    "opponent": "Danbury Hat Tricks",
-    "arena": "Winston-Salem Fairgrounds Arena",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-10-23T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102412",
-    "league": "FPHL",
-    "team": "Twin City Thunderbirds",
-    "opponent": "Danbury Hat Tricks",
-    "arena": "Winston-Salem Fairgrounds Arena",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-10-24T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103013",
-    "league": "FPHL",
-    "team": "Binghamton Black Bears",
-    "opponent": "Danbury Hat Tricks",
-    "arena": "Visions Veterans Memorial Arena",
-    "city": "Binghamton, New York",
-    "date": "2026-10-30T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026100914",
-    "league": "FPHL",
-    "team": "Fresno Falcons",
-    "opponent": "Oceanside Shock",
-    "arena": "Selland Arena",
-    "city": "Fresno, California",
-    "date": "2026-10-09T19:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101615",
-    "league": "FPHL",
-    "team": "Mid-South Monarchs",
-    "opponent": "Fresno Falcons",
-    "arena": "Landers Center",
-    "city": "Southaven, Mississippi",
-    "date": "2026-10-16T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101716",
-    "league": "FPHL",
-    "team": "Mid-South Monarchs",
-    "opponent": "Fresno Falcons",
-    "arena": "Landers Center",
-    "city": "Southaven, Mississippi",
-    "date": "2026-10-17T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102417",
-    "league": "FPHL",
-    "team": "Stockton Thunder",
-    "opponent": "Fresno Falcons",
-    "arena": "Adventist Health Arena",
-    "city": "Stockton, California",
-    "date": "2026-10-24T19:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026100918",
-    "league": "FPHL",
-    "team": "Indiana Sentinels",
-    "opponent": "Minnesota Northern Lights",
-    "arena": "Hamilton Community Ice Arena",
-    "city": "Columbus, Indiana",
-    "date": "2026-10-09T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101019",
-    "league": "FPHL",
-    "team": "Indiana Sentinels",
-    "opponent": "Minnesota Northern Lights",
-    "arena": "Hamilton Community Ice Arena",
-    "city": "Columbus, Indiana",
-    "date": "2026-10-10T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103020",
-    "league": "FPHL",
-    "team": "Motor City Rockers",
-    "opponent": "Indiana Sentinels",
-    "arena": "Yack Arena",
-    "city": "Wyandotte, Michigan",
-    "date": "2026-10-30T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103121",
-    "league": "FPHL",
-    "team": "Motor City Rockers",
-    "opponent": "Indiana Sentinels",
-    "arena": "Yack Arena",
-    "city": "Wyandotte, Michigan",
-    "date": "2026-10-31T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102322",
-    "league": "FPHL",
-    "team": "Baton Rouge Kingfish",
-    "opponent": "Mid-South Monarchs",
-    "arena": "Raising Cane's River Center",
-    "city": "Baton Rouge, Louisiana",
-    "date": "2026-10-23T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102423",
-    "league": "FPHL",
-    "team": "Baton Rouge Kingfish",
-    "opponent": "Mid-South Monarchs",
-    "arena": "Raising Cane's River Center",
-    "city": "Baton Rouge, Louisiana",
-    "date": "2026-10-24T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103024",
-    "league": "FPHL",
-    "team": "Columbus River Dragons",
-    "opponent": "Mid-South Monarchs",
-    "arena": "Columbus Civic Center",
-    "city": "Columbus, Georgia",
-    "date": "2026-10-30T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103125",
-    "league": "FPHL",
-    "team": "Columbus River Dragons",
-    "opponent": "Mid-South Monarchs",
-    "arena": "Columbus Civic Center",
-    "city": "Columbus, Georgia",
-    "date": "2026-10-31T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101626",
-    "league": "FPHL",
-    "team": "Motor City Rockers",
-    "opponent": "Minnesota Northern Lights",
-    "arena": "Yack Arena",
-    "city": "Wyandotte, Michigan",
-    "date": "2026-10-16T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101727",
-    "league": "FPHL",
-    "team": "Motor City Rockers",
-    "opponent": "Minnesota Northern Lights",
-    "arena": "Yack Arena",
-    "city": "Wyandotte, Michigan",
-    "date": "2026-10-17T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103028",
-    "league": "FPHL",
-    "team": "Blue Ridge Bobcats",
-    "opponent": "Minnesota Northern Lights",
-    "arena": "Hitachi Energy Arena",
-    "city": "Wytheville, Virginia",
-    "date": "2026-10-30T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103129",
-    "league": "FPHL",
-    "team": "Blue Ridge Bobcats",
-    "opponent": "Minnesota Northern Lights",
-    "arena": "Hitachi Energy Arena",
-    "city": "Wytheville, Virginia",
-    "date": "2026-10-31T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026100930",
-    "league": "FPHL",
-    "team": "Mid-South Monarchs",
-    "opponent": "Monroe Moccasins",
-    "arena": "Landers Center",
-    "city": "Southaven, Mississippi",
-    "date": "2026-10-09T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101031",
-    "league": "FPHL",
-    "team": "Mid-South Monarchs",
-    "opponent": "Monroe Moccasins",
-    "arena": "Landers Center",
-    "city": "Southaven, Mississippi",
-    "date": "2026-10-10T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101732",
-    "league": "FPHL",
-    "team": "Baton Rouge Kingfish",
-    "opponent": "Monroe Moccasins",
-    "arena": "Raising Cane's River Center",
-    "city": "Baton Rouge, Louisiana",
-    "date": "2026-10-17T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103033",
-    "league": "FPHL",
-    "team": "Twin City Thunderbirds",
-    "opponent": "Monroe Moccasins",
-    "arena": "Winston-Salem Fairgrounds Arena",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-10-30T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103134",
-    "league": "FPHL",
-    "team": "Twin City Thunderbirds",
-    "opponent": "Monroe Moccasins",
-    "arena": "Winston-Salem Fairgrounds Arena",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-10-31T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102435",
-    "league": "FPHL",
-    "team": "Port Huron Prowlers",
-    "opponent": "Motor City Rockers",
-    "arena": "McMorran Arena",
-    "city": "Port Huron, Michigan",
-    "date": "2026-10-24T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101036",
-    "league": "FPHL",
-    "team": "Fresno Falcons",
-    "opponent": "Oceanside Shock",
-    "arena": "Selland Arena",
-    "city": "Fresno, California",
-    "date": "2026-10-10T19:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101137",
-    "league": "FPHL",
-    "team": "Stockton Thunder",
-    "opponent": "Oceanside Shock",
-    "arena": "Adventist Health Arena",
-    "city": "Stockton, California",
-    "date": "2026-10-11T19:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101838",
-    "league": "FPHL",
-    "team": "Stockton Thunder",
-    "opponent": "Oceanside Shock",
-    "arena": "Adventist Health Arena",
-    "city": "Stockton, California",
-    "date": "2026-10-18T19:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102339",
-    "league": "FPHL",
-    "team": "Minnesota Northern Lights",
-    "opponent": "Oceanside Shock",
-    "arena": "Ralph Engelstad Arena (TRF)",
-    "city": "Thief River Falls, Minnesota",
-    "date": "2026-10-23T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102540",
-    "league": "FPHL",
-    "team": "Minnesota Northern Lights",
-    "opponent": "Oceanside Shock",
-    "arena": "Ralph Engelstad Arena (TRF)",
-    "city": "Thief River Falls, Minnesota",
-    "date": "2026-10-25T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103041",
-    "league": "FPHL",
-    "team": "Fresno Falcons",
-    "opponent": "Oceanside Shock",
-    "arena": "Selland Arena",
-    "city": "Fresno, California",
-    "date": "2026-10-30T19:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103142",
-    "league": "FPHL",
-    "team": "Fresno Falcons",
-    "opponent": "Oceanside Shock",
-    "arena": "Selland Arena",
-    "city": "Fresno, California",
-    "date": "2026-10-31T19:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102343",
-    "league": "FPHL",
-    "team": "Indiana Sentinels",
-    "opponent": "Port Huron Prowlers",
-    "arena": "Hamilton Community Ice Arena",
-    "city": "Columbus, Indiana",
-    "date": "2026-10-23T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103044",
-    "league": "FPHL",
-    "team": "Watertown Wolves",
-    "opponent": "Port Huron Prowlers",
-    "arena": "Watertown Arena",
-    "city": "Watertown, New York",
-    "date": "2026-10-30T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103145",
-    "league": "FPHL",
-    "team": "Watertown Wolves",
-    "opponent": "Port Huron Prowlers",
-    "arena": "Watertown Arena",
-    "city": "Watertown, New York",
-    "date": "2026-10-31T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101746",
-    "league": "FPHL",
-    "team": "Oceanside Shock",
-    "opponent": "Stockton Thunder",
-    "arena": "Frontwave Arena",
-    "city": "Oceanside, California",
-    "date": "2026-10-17T19:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102347",
-    "league": "FPHL",
-    "team": "Fresno Falcons",
-    "opponent": "Stockton Thunder",
-    "arena": "Selland Arena",
-    "city": "Fresno, California",
-    "date": "2026-10-23T19:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103048",
-    "league": "FPHL",
-    "team": "Baton Rouge Kingfish",
-    "opponent": "Stockton Thunder",
-    "arena": "Raising Cane's River Center",
-    "city": "Baton Rouge, Louisiana",
-    "date": "2026-10-30T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026103149",
-    "league": "FPHL",
-    "team": "Baton Rouge Kingfish",
-    "opponent": "Stockton Thunder",
-    "arena": "Raising Cane's River Center",
-    "city": "Baton Rouge, Louisiana",
-    "date": "2026-10-31T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101650",
-    "league": "FPHL",
-    "team": "Indiana Sentinels",
-    "opponent": "Topeka Scarecrows",
-    "arena": "Hamilton Community Ice Arena",
-    "city": "Columbus, Indiana",
-    "date": "2026-10-16T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101751",
-    "league": "FPHL",
-    "team": "Indiana Sentinels",
-    "opponent": "Topeka Scarecrows",
-    "arena": "Hamilton Community Ice Arena",
-    "city": "Columbus, Indiana",
-    "date": "2026-10-17T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102352",
-    "league": "FPHL",
-    "team": "Monroe Moccasins",
-    "opponent": "Topeka Scarecrows",
-    "arena": "Monroe Civic Center",
-    "city": "Monroe, Louisiana",
-    "date": "2026-10-23T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102453",
-    "league": "FPHL",
-    "team": "Monroe Moccasins",
-    "opponent": "Topeka Scarecrows",
-    "arena": "Monroe Civic Center",
-    "city": "Monroe, Louisiana",
-    "date": "2026-10-24T17:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101654",
-    "league": "FPHL",
-    "team": "Danbury Hat Tricks",
-    "opponent": "Watertown Wolves",
-    "arena": "Danbury Arena",
-    "city": "Danbury, Connecticut",
-    "date": "2026-10-16T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026101755",
-    "league": "FPHL",
-    "team": "Danbury Hat Tricks",
-    "opponent": "Watertown Wolves",
-    "arena": "Danbury Arena",
-    "city": "Danbury, Connecticut",
-    "date": "2026-10-17T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102356",
-    "league": "FPHL",
-    "team": "Blue Ridge Bobcats",
-    "opponent": "Watertown Wolves",
-    "arena": "Hitachi Energy Arena",
-    "city": "Wytheville, Virginia",
-    "date": "2026-10-23T16:00:00Z"
-  },
-  
-  {
-    "id": "fphl_2026102457",
-    "league": "FPHL",
-    "team": "Blue Ridge Bobcats",
-    "opponent": "Watertown Wolves",
-    "arena": "Hitachi Energy Arena",
-    "city": "Wytheville, Virginia",
-    "date": "2026-10-24T16:00:00Z"
-  }
+  "id": "fphl_2026121801",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-12-18T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121902",
+  "league": "FPHL",
+  "team": "Watertown Wolves",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Watertown Arena",
+  "city": "Watertown, New York",
+  "date": "2026-12-19T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026122303",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-12-23T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026123104",
+  "league": "FPHL",
+  "team": "Watertown Wolves",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Watertown Arena",
+  "city": "Watertown, New York",
+  "date": "2026-12-31T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121205",
+  "league": "FPHL",
+  "team": "Twin City Thunderbirds",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Winston-Salem Fairgrounds Arena",
+  "city": "Winston-Salem, North Carolina",
+  "date": "2026-12-12T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121806",
+  "league": "FPHL",
+  "team": "Twin City Thunderbirds",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Winston-Salem Fairgrounds Arena",
+  "city": "Winston-Salem, North Carolina",
+  "date": "2026-12-18T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026123107",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-12-31T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121108",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Baton Rouge Kingfish",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-12-11T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026121209",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Baton Rouge Kingfish",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-12-12T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026121810",
+  "league": "FPHL",
+  "team": "Columbus River Dragons",
+  "opponent": "Baton Rouge Kingfish",
+  "arena": "Columbus Civic Center",
+  "city": "Columbus, Georgia",
+  "date": "2026-12-18T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121911",
+  "league": "FPHL",
+  "team": "Columbus River Dragons",
+  "opponent": "Baton Rouge Kingfish",
+  "arena": "Columbus Civic Center",
+  "city": "Columbus, Georgia",
+  "date": "2026-12-19T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120512",
+  "league": "FPHL",
+  "team": "Twin City Thunderbirds",
+  "opponent": "Columbus River Dragons",
+  "arena": "Winston-Salem Fairgrounds Arena",
+  "city": "Winston-Salem, North Carolina",
+  "date": "2026-12-05T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121113",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Columbus River Dragons",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-12-11T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026121214",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Columbus River Dragons",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-12-12T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026122615",
+  "league": "FPHL",
+  "team": "Twin City Thunderbirds",
+  "opponent": "Columbus River Dragons",
+  "arena": "Winston-Salem Fairgrounds Arena",
+  "city": "Winston-Salem, North Carolina",
+  "date": "2026-12-26T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120416",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-12-04T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120517",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-12-05T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121918",
+  "league": "FPHL",
+  "team": "Port Huron Prowlers",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan",
+  "date": "2026-12-19T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026122619",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-12-26T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121120",
+  "league": "FPHL",
+  "team": "Minnesota Northern Lights",
+  "opponent": "Fresno Falcons",
+  "arena": "Ralph Engelstad Arena (TRF)",
+  "city": "Thief River Falls, Minnesota",
+  "date": "2026-12-11T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026121221",
+  "league": "FPHL",
+  "team": "Minnesota Northern Lights",
+  "opponent": "Fresno Falcons",
+  "arena": "Ralph Engelstad Arena (TRF)",
+  "city": "Thief River Falls, Minnesota",
+  "date": "2026-12-12T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026121822",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Fresno Falcons",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-12-18T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026121923",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Fresno Falcons",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-12-19T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026123124",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Fresno Falcons",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-12-31T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026121125",
+  "league": "FPHL",
+  "team": "Watertown Wolves",
+  "opponent": "Indiana Sentinels",
+  "arena": "Watertown Arena",
+  "city": "Watertown, New York",
+  "date": "2026-12-11T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121226",
+  "league": "FPHL",
+  "team": "Watertown Wolves",
+  "opponent": "Indiana Sentinels",
+  "arena": "Watertown Arena",
+  "city": "Watertown, New York",
+  "date": "2026-12-12T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120427",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-12-04T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026120528",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-12-05T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026121129",
+  "league": "FPHL",
+  "team": "Monroe Moccasins",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana",
+  "date": "2026-12-11T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026121230",
+  "league": "FPHL",
+  "team": "Monroe Moccasins",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana",
+  "date": "2026-12-12T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026121831",
+  "league": "FPHL",
+  "team": "Minnesota Northern Lights",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Ralph Engelstad Arena (TRF)",
+  "city": "Thief River Falls, Minnesota",
+  "date": "2026-12-18T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026121932",
+  "league": "FPHL",
+  "team": "Minnesota Northern Lights",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Ralph Engelstad Arena (TRF)",
+  "city": "Thief River Falls, Minnesota",
+  "date": "2026-12-19T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026120433",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-12-04T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026120534",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-12-05T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026120435",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Monroe Moccasins",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-12-04T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026120536",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Monroe Moccasins",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-12-05T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026121837",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Monroe Moccasins",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-12-18T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026121938",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Monroe Moccasins",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-12-19T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026122939",
+  "league": "FPHL",
+  "team": "Mid-South Monarchs",
+  "opponent": "Monroe Moccasins",
+  "arena": "Landers Center",
+  "city": "Southaven, Mississippi",
+  "date": "2026-12-29T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026123140",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Monroe Moccasins",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-12-31T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026120441",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Motor City Rockers",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-12-04T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026120542",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Motor City Rockers",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-12-05T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026121843",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Motor City Rockers",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-12-18T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121944",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Motor City Rockers",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-12-19T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026123145",
+  "league": "FPHL",
+  "team": "Port Huron Prowlers",
+  "opponent": "Motor City Rockers",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan",
+  "date": "2026-12-31T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120846",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Oceanside Shock",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-12-08T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026120947",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Oceanside Shock",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-12-09T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026122148",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Oceanside Shock",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-12-21T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026122249",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Oceanside Shock",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-12-22T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026121150",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-12-11T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121251",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-12-12T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026122652",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-12-26T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026122753",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-12-27T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121154",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Stockton Thunder",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-12-11T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026121255",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Stockton Thunder",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-12-12T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026122056",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Stockton Thunder",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-12-20T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026122657",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Stockton Thunder",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-12-26T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026120358",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-12-03T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120459",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-12-04T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120560",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-12-05T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026122661",
+  "league": "FPHL",
+  "team": "Mid-South Monarchs",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Landers Center",
+  "city": "Southaven, Mississippi",
+  "date": "2026-12-26T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026122762",
+  "league": "FPHL",
+  "team": "Mid-South Monarchs",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Landers Center",
+  "city": "Southaven, Mississippi",
+  "date": "2026-12-27T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026120463",
+  "league": "FPHL",
+  "team": "Columbus River Dragons",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Columbus Civic Center",
+  "city": "Columbus, Georgia",
+  "date": "2026-12-04T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121164",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-12-11T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121965",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-12-19T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026123166",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-12-31T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120467",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Watertown Wolves",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-12-04T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120568",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Watertown Wolves",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-12-05T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121869",
+  "league": "FPHL",
+  "team": "Port Huron Prowlers",
+  "opponent": "Watertown Wolves",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan",
+  "date": "2026-12-18T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120370",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-12-03T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120471",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-12-04T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120472",
+  "league": "FPHL",
+  "team": "Columbus River Dragons",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Columbus Civic Center",
+  "city": "Columbus, Georgia",
+  "date": "2026-12-04T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120473",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-12-04T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120474",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Motor City Rockers",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-12-04T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026120475",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-12-04T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026120476",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-12-04T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026120477",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Watertown Wolves",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-12-04T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120478",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Monroe Moccasins",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-12-04T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026120579",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-12-05T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120580",
+  "league": "FPHL",
+  "team": "Twin City Thunderbirds",
+  "opponent": "Columbus River Dragons",
+  "arena": "Winston-Salem Fairgrounds Arena",
+  "city": "Winston-Salem, North Carolina",
+  "date": "2026-12-05T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120581",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-12-05T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120582",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Motor City Rockers",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-12-05T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026120583",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Minnesota Northern Lights",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-12-05T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026120584",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-12-05T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026120585",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Watertown Wolves",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-12-05T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026120586",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Monroe Moccasins",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-12-05T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026120887",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Oceanside Shock",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-12-08T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026120988",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Oceanside Shock",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-12-09T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026121189",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Stockton Thunder",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-12-11T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026121190",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-12-11T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121191",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Baton Rouge Kingfish",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-12-11T20:00:00Z"
+},
+
+{
+  "id": "fphl_2026121192",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Columbus River Dragons",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-12-11T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026121193",
+  "league": "FPHL",
+  "team": "Watertown Wolves",
+  "opponent": "Indiana Sentinels",
+  "arena": "Watertown Arena",
+  "city": "Watertown, New York",
+  "date": "2026-12-11T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121194",
+  "league": "FPHL",
+  "team": "Minnesota Northern Lights",
+  "opponent": "Fresno Falcons",
+  "arena": "Ralph Engelstad Arena (TRF)",
+  "city": "Thief River Falls, Minnesota",
+  "date": "2026-12-11T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026121195",
+  "league": "FPHL",
+  "team": "Monroe Moccasins",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana",
+  "date": "2026-12-11T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026121196",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-12-11T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121297",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Stockton Thunder",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-12-12T18:00:00Z"
+},
+
+{
+  "id": "fphl_2026121298",
+  "league": "FPHL",
+  "team": "Twin City Thunderbirds",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Winston-Salem Fairgrounds Arena",
+  "city": "Winston-Salem, North Carolina",
+  "date": "2026-12-12T17:00:00Z"
+},
+
+{
+  "id": "fphl_2026121299",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Baton Rouge Kingfish",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-12-12T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261212100",
+  "league": "FPHL",
+  "team": "Motor City Rockers",
+  "opponent": "Columbus River Dragons",
+  "arena": "Yack Arena",
+  "city": "Wyandotte, Michigan",
+  "date": "2026-12-12T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261212101",
+  "league": "FPHL",
+  "team": "Watertown Wolves",
+  "opponent": "Indiana Sentinels",
+  "arena": "Watertown Arena",
+  "city": "Watertown, New York",
+  "date": "2026-12-12T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261212102",
+  "league": "FPHL",
+  "team": "Minnesota Northern Lights",
+  "opponent": "Fresno Falcons",
+  "arena": "Ralph Engelstad Arena (TRF)",
+  "city": "Thief River Falls, Minnesota",
+  "date": "2026-12-12T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261212103",
+  "league": "FPHL",
+  "team": "Monroe Moccasins",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Monroe Civic Center",
+  "city": "Monroe, Louisiana",
+  "date": "2026-12-12T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261212104",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-12-12T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261218105",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Fresno Falcons",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-12-18T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261218106",
+  "league": "FPHL",
+  "team": "Twin City Thunderbirds",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Winston-Salem Fairgrounds Arena",
+  "city": "Winston-Salem, North Carolina",
+  "date": "2026-12-18T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261218107",
+  "league": "FPHL",
+  "team": "Port Huron Prowlers",
+  "opponent": "Watertown Wolves",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan",
+  "date": "2026-12-18T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261218108",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-12-18T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261218109",
+  "league": "FPHL",
+  "team": "Columbus River Dragons",
+  "opponent": "Baton Rouge Kingfish",
+  "arena": "Columbus Civic Center",
+  "city": "Columbus, Georgia",
+  "date": "2026-12-18T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261218110",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Motor City Rockers",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-12-18T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261218111",
+  "league": "FPHL",
+  "team": "Minnesota Northern Lights",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Ralph Engelstad Arena (TRF)",
+  "city": "Thief River Falls, Minnesota",
+  "date": "2026-12-18T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261218112",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Monroe Moccasins",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-12-18T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261219113",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Fresno Falcons",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-12-19T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261219114",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-12-19T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261219115",
+  "league": "FPHL",
+  "team": "Port Huron Prowlers",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan",
+  "date": "2026-12-19T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261219116",
+  "league": "FPHL",
+  "team": "Watertown Wolves",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Watertown Arena",
+  "city": "Watertown, New York",
+  "date": "2026-12-19T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261219117",
+  "league": "FPHL",
+  "team": "Columbus River Dragons",
+  "opponent": "Baton Rouge Kingfish",
+  "arena": "Columbus Civic Center",
+  "city": "Columbus, Georgia",
+  "date": "2026-12-19T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261219118",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Motor City Rockers",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-12-19T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261219119",
+  "league": "FPHL",
+  "team": "Minnesota Northern Lights",
+  "opponent": "Mid-South Monarchs",
+  "arena": "Ralph Engelstad Arena (TRF)",
+  "city": "Thief River Falls, Minnesota",
+  "date": "2026-12-19T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261219120",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Monroe Moccasins",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-12-19T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261220121",
+  "league": "FPHL",
+  "team": "Topeka Scarecrows",
+  "opponent": "Stockton Thunder",
+  "arena": "Landon Arena",
+  "city": "Topeka, Kansas",
+  "date": "2026-12-20T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261221122",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Oceanside Shock",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-12-21T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261222123",
+  "league": "FPHL",
+  "team": "Fresno Falcons",
+  "opponent": "Oceanside Shock",
+  "arena": "Selland Arena",
+  "city": "Fresno, California",
+  "date": "2026-12-22T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261223124",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-12-23T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261226125",
+  "league": "FPHL",
+  "team": "Twin City Thunderbirds",
+  "opponent": "Columbus River Dragons",
+  "arena": "Winston-Salem Fairgrounds Arena",
+  "city": "Winston-Salem, North Carolina",
+  "date": "2026-12-26T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261226126",
+  "league": "FPHL",
+  "team": "Binghamton Black Bears",
+  "opponent": "Danbury Hat Tricks",
+  "arena": "Visions Veterans Memorial Arena",
+  "city": "Binghamton, New York",
+  "date": "2026-12-26T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261226127",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-12-26T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261226128",
+  "league": "FPHL",
+  "team": "Oceanside Shock",
+  "opponent": "Stockton Thunder",
+  "arena": "Frontwave Arena",
+  "city": "Oceanside, California",
+  "date": "2026-12-26T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261226129",
+  "league": "FPHL",
+  "team": "Mid-South Monarchs",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Landers Center",
+  "city": "Southaven, Mississippi",
+  "date": "2026-12-26T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261227130",
+  "league": "FPHL",
+  "team": "Blue Ridge Bobcats",
+  "opponent": "Port Huron Prowlers",
+  "arena": "Hitachi Energy Arena",
+  "city": "Wytheville, Virginia",
+  "date": "2026-12-27T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261227131",
+  "league": "FPHL",
+  "team": "Mid-South Monarchs",
+  "opponent": "Topeka Scarecrows",
+  "arena": "Landers Center",
+  "city": "Southaven, Mississippi",
+  "date": "2026-12-27T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261229132",
+  "league": "FPHL",
+  "team": "Mid-South Monarchs",
+  "opponent": "Monroe Moccasins",
+  "arena": "Landers Center",
+  "city": "Southaven, Mississippi",
+  "date": "2026-12-29T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261231133",
+  "league": "FPHL",
+  "team": "Stockton Thunder",
+  "opponent": "Fresno Falcons",
+  "arena": "Adventist Health Arena",
+  "city": "Stockton, California",
+  "date": "2026-12-31T20:00:00Z"
+},
+
+{
+  "id": "fphl_20261231134",
+  "league": "FPHL",
+  "team": "Baton Rouge Kingfish",
+  "opponent": "Monroe Moccasins",
+  "arena": "Raising Cane's River Center",
+  "city": "Baton Rouge, Louisiana",
+  "date": "2026-12-31T18:00:00Z"
+},
+
+{
+  "id": "fphl_20261231135",
+  "league": "FPHL",
+  "team": "Watertown Wolves",
+  "opponent": "Binghamton Black Bears",
+  "arena": "Watertown Arena",
+  "city": "Watertown, New York",
+  "date": "2026-12-31T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261231136",
+  "league": "FPHL",
+  "team": "Port Huron Prowlers",
+  "opponent": "Motor City Rockers",
+  "arena": "McMorran Arena",
+  "city": "Port Huron, Michigan",
+  "date": "2026-12-31T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261231137",
+  "league": "FPHL",
+  "team": "Danbury Hat Tricks",
+  "opponent": "Blue Ridge Bobcats",
+  "arena": "Danbury Arena",
+  "city": "Danbury, Connecticut",
+  "date": "2026-12-31T17:00:00Z"
+},
+
+{
+  "id": "fphl_20261231138",
+  "league": "FPHL",
+  "team": "Indiana Sentinels",
+  "opponent": "Twin City Thunderbirds",
+  "arena": "Hamilton Community Ice Arena",
+  "city": "Columbus, Indiana",
+  "date": "2026-12-31T17:00:00Z"
+}
+
 ]
