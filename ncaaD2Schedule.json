@@ -1,21 +1,72 @@
 [
   {
-    "id": "ncaa2_2026102301",
-    "league": "NCAA DIV II",
-    "team": "Southern New Hampshire University Penmen",
-    "opponent": "Michigan State Spartens",
-    "arena": "Ice Den",
-    "city": "Manchester, New Hampshire",
-    "date": "2026-10-23T00:00:00Z"
-  },
-  
+  "id": "ncaa2_2026110701",
+  "league": "NCAA DIV II",
+  "team": "Southern New Hampshire University Penmen",
+  "opponent": "Mass.-Lowell",
+  "arena": "Ice Den",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-11-07T00:00:00Z"
+},
+
+{
+  "id": "ncaa2_2026111302",
+  "league": "NCAA DIV II",
+  "team": "Southern New Hampshire University Penmen",
+  "opponent": "RPI",
+  "arena": "Ice Den",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-11-13T00:00:00Z"
+},
+
+{
+  "id": "ncaa2_2026111403",
+  "league": "NCAA DIV II",
+  "team": "Southern New Hampshire University Penmen",
+  "opponent": "Union",
+  "arena": "Ice Den",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-11-14T00:00:00Z"
+},
+
+{
+  "id": "ncaa2_2026112104",
+  "league": "NCAA DIV II",
+  "team": "Southern New Hampshire University Penmen",
+  "opponent": "Connecticut",
+  "arena": "Ice Den",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-11-21T00:00:00Z"
+},
+
+{
+  "id": "ncaa2_2026112805",
+  "league": "NCAA DIV II",
+  "team": "Southern New Hampshire University Penmen",
+  "opponent": "Brown",
+  "arena": "Ice Den",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-11-28T00:00:00Z"
+},
+
   {
-    "id": "ncaa2_2026102402",
-    "league": "NCAA DIV II",
-    "team": "Southern New Hampshire University Penmen",
-    "opponent": "Michigan State Spartens",
-    "arena": "Ice Den",
-    "city": "Manchester, New Hampshire",
-    "date": "2026-10-24T00:00:00Z"
-  }
+  "id": "ncaa2_2026120401",
+  "league": "NCAA DIV II",
+  "team": "Southern New Hampshire University Penmen",
+  "opponent": "Maine",
+  "arena": "Ice Den",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-12-04T00:00:00Z"
+},
+
+{
+  "id": "ncaa2_2026120502",
+  "league": "NCAA DIV II",
+  "team": "Southern New Hampshire University Penmen",
+  "opponent": "Maine",
+  "arena": "Ice Den",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-12-05T00:00:00Z"
+}
+  
 ]
