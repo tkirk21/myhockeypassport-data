@@ -1,911 +1,1492 @@
 [
   {
-    "id": "liiga_2026100201",
-    "league": "LIIGA",
-    "team": "HPK",
-    "opponent": "JYP",
-    "arena": "Pohjantähti Areena",
-    "city": "Hämeenlinna, Finland",
-    "date": "2026-10-02T15:30:00Z"
-  },
+  "id": "liiga_2026110101",
+  "league": "LIIGA",
+  "team": "Tappara",
+  "opponent": "HPK",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-11-01T13:00:00Z"
+},
+
+{
+  "id": "liiga_2026110902",
+  "league": "LIIGA",
+  "team": "TPS",
+  "opponent": "KalPa",
+  "arena": "Gatorade Center",
+  "city": "Turku, Finland",
+  "date": "2026-11-09T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111103",
+  "league": "LIIGA",
+  "team": "Mikkelin Jukurit",
+  "opponent": "Porin Ässät",
+  "arena": "Let's Go Areena",
+  "city": "Mikkeli, Finland",
+  "date": "2026-11-11T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111104",
+  "league": "LIIGA",
+  "team": "Tampereen Ilves",
+  "opponent": "Lahti Pelicans",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-11-11T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111105",
+  "league": "LIIGA",
+  "team": "JYP",
+  "opponent": "Oulun Kärpät",
+  "arena": "LähiTapiola Areena",
+  "city": "Jyväskylä, Finland",
+  "date": "2026-11-11T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111106",
+  "league": "LIIGA",
+  "team": "Kiekko-Espoo",
+  "opponent": "Vaasan Sport",
+  "arena": "Espoo Metro Areena",
+  "city": "Espoo, Finland",
+  "date": "2026-11-11T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111107",
+  "league": "LIIGA",
+  "team": "Rauman Lukko",
+  "opponent": "KalPa",
+  "arena": "Kivikylän Areena",
+  "city": "Rauma, Finland",
+  "date": "2026-11-11T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111108",
+  "league": "LIIGA",
+  "team": "HIFK",
+  "opponent": "Jokerit",
+  "arena": "Helsinki Ice Hall",
+  "city": "Helsinki, Finland",
+  "date": "2026-11-11T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111309",
+  "league": "LIIGA",
+  "team": "HPK",
+  "opponent": "Mikkelin Jukurit",
+  "arena": "Pohjantähti Areena",
+  "city": "Hämeenlinna, Finland",
+  "date": "2026-11-13T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111310",
+  "league": "LIIGA",
+  "team": "KalPa",
+  "opponent": "Kiekko-Espoo",
+  "arena": "Olvi Arena",
+  "city": "Kuopio, Finland",
+  "date": "2026-11-13T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111311",
+  "league": "LIIGA",
+  "team": "KooKoo",
+  "opponent": "JYP",
+  "arena": "Kouvolan Jäähalli",
+  "city": "Kouvola, Finland",
+  "date": "2026-11-13T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111312",
+  "league": "LIIGA",
+  "team": "SaiPa",
+  "opponent": "Tampereen Ilves",
+  "arena": "Lappeenrannan kisapuiston jäähalli",
+  "city": "Lappeenranta, Finland",
+  "date": "2026-11-13T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111313",
+  "league": "LIIGA",
+  "team": "TPS",
+  "opponent": "Jokerit",
+  "arena": "Gatorade Center",
+  "city": "Turku, Finland",
+  "date": "2026-11-13T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111314",
+  "league": "LIIGA",
+  "team": "Tappara",
+  "opponent": "HIFK",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-11-13T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111315",
+  "league": "LIIGA",
+  "team": "Lahti Pelicans",
+  "opponent": "Porin Ässät",
+  "arena": "Wemasto Areena",
+  "city": "Lahti, Finland",
+  "date": "2026-11-13T17:30:00Z"
+},
+
+{
+  "id": "liiga_2026111416",
+  "league": "LIIGA",
+  "team": "Mikkelin Jukurit",
+  "opponent": "KooKoo",
+  "arena": "Let's Go Areena",
+  "city": "Mikkeli, Finland",
+  "date": "2026-11-14T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026111417",
+  "league": "LIIGA",
+  "team": "JYP",
+  "opponent": "Lahti Pelicans",
+  "arena": "LähiTapiola Areena",
+  "city": "Jyväskylä, Finland",
+  "date": "2026-11-14T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026111418",
+  "league": "LIIGA",
+  "team": "Oulun Kärpät",
+  "opponent": "Tappara",
+  "arena": "Oulun Energia Areena",
+  "city": "Oulu, Finland",
+  "date": "2026-11-14T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026111419",
+  "league": "LIIGA",
+  "team": "Vaasan Sport",
+  "opponent": "HPK",
+  "arena": "Vaasan Sähkö Areena",
+  "city": "Vaasa, Finland",
+  "date": "2026-11-14T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026111420",
+  "league": "LIIGA",
+  "team": "Porin Ässät",
+  "opponent": "Jokerit",
+  "arena": "Enersense Areena",
+  "city": "Pori, Finland",
+  "date": "2026-11-14T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026111521",
+  "league": "LIIGA",
+  "team": "Tampereen Ilves",
+  "opponent": "SaiPa",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-11-15T13:00:00Z"
+},
+
+{
+  "id": "liiga_2026111822",
+  "league": "LIIGA",
+  "team": "JYP",
+  "opponent": "Vaasan Sport",
+  "arena": "LähiTapiola Areena",
+  "city": "Jyväskylä, Finland",
+  "date": "2026-11-18T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111823",
+  "league": "LIIGA",
+  "team": "Mikkelin Jukurit",
+  "opponent": "Jokerit",
+  "arena": "Let's Go Areena",
+  "city": "Mikkeli, Finland",
+  "date": "2026-11-18T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111824",
+  "league": "LIIGA",
+  "team": "KalPa",
+  "opponent": "Rauman Lukko",
+  "arena": "Olvi Arena",
+  "city": "Kuopio, Finland",
+  "date": "2026-11-18T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111825",
+  "league": "LIIGA",
+  "team": "Kiekko-Espoo",
+  "opponent": "Tampereen Ilves",
+  "arena": "Espoo Metro Areena",
+  "city": "Espoo, Finland",
+  "date": "2026-11-18T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111826",
+  "league": "LIIGA",
+  "team": "TPS",
+  "opponent": "Oulun Kärpät",
+  "arena": "Gatorade Center",
+  "city": "Turku, Finland",
+  "date": "2026-11-18T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111827",
+  "league": "LIIGA",
+  "team": "Porin Ässät",
+  "opponent": "Lahti Pelicans",
+  "arena": "Enersense Areena",
+  "city": "Pori, Finland",
+  "date": "2026-11-18T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026111928",
+  "league": "LIIGA",
+  "team": "Tappara",
+  "opponent": "Vaasan Sport",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-11-19T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112029",
+  "league": "LIIGA",
+  "team": "KooKoo",
+  "opponent": "Oulun Kärpät",
+  "arena": "Kouvolan Jäähalli",
+  "city": "Kouvola, Finland",
+  "date": "2026-11-20T16:00:00Z"
+},
+
+{
+  "id": "liiga_2026112030",
+  "league": "LIIGA",
+  "team": "Lahti Pelicans",
+  "opponent": "Rauman Lukko",
+  "arena": "Wemasto Areena",
+  "city": "Lahti, Finland",
+  "date": "2026-11-20T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112031",
+  "league": "LIIGA",
+  "team": "HPK",
+  "opponent": "Jokerit",
+  "arena": "Pohjantähti Areena",
+  "city": "Hämeenlinna, Finland",
+  "date": "2026-11-20T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112032",
+  "league": "LIIGA",
+  "team": "JYP",
+  "opponent": "HIFK",
+  "arena": "LähiTapiola Areena",
+  "city": "Jyväskylä, Finland",
+  "date": "2026-11-20T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112033",
+  "league": "LIIGA",
+  "team": "SaiPa",
+  "opponent": "TPS",
+  "arena": "Lappeenrannan kisapuiston jäähalli",
+  "city": "Lappeenranta, Finland",
+  "date": "2026-11-20T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112034",
+  "league": "LIIGA",
+  "team": "Tampereen Ilves",
+  "opponent": "Tappara",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-11-20T17:30:00Z"
+},
+
+{
+  "id": "liiga_2026112135",
+  "league": "LIIGA",
+  "team": "Kiekko-Espoo",
+  "opponent": "Porin Ässät",
+  "arena": "Espoo Metro Areena",
+  "city": "Espoo, Finland",
+  "date": "2026-11-21T12:00:00Z"
+},
+
+{
+  "id": "liiga_2026112136",
+  "league": "LIIGA",
+  "team": "Vaasan Sport",
+  "opponent": "Lahti Pelicans",
+  "arena": "Vaasan Sähkö Areena",
+  "city": "Vaasa, Finland",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026112137",
+  "league": "LIIGA",
+  "team": "Mikkelin Jukurit",
+  "opponent": "TPS",
+  "arena": "Let's Go Areena",
+  "city": "Mikkeli, Finland",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026112138",
+  "league": "LIIGA",
+  "team": "KalPa",
+  "opponent": "HIFK",
+  "arena": "Olvi Arena",
+  "city": "Kuopio, Finland",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026112139",
+  "league": "LIIGA",
+  "team": "Oulun Kärpät",
+  "opponent": "Jokerit",
+  "arena": "Oulun Energia Areena",
+  "city": "Oulu, Finland",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026112140",
+  "league": "LIIGA",
+  "team": "Rauman Lukko",
+  "opponent": "HPK",
+  "arena": "Kivikylän Areena",
+  "city": "Rauma, Finland",
+  "date": "2026-11-21T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026112441",
+  "league": "LIIGA",
+  "team": "Tampereen Ilves",
+  "opponent": "Porin Ässät",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-11-24T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112442",
+  "league": "LIIGA",
+  "team": "SaiPa",
+  "opponent": "Rauman Lukko",
+  "arena": "Lappeenrannan kisapuiston jäähalli",
+  "city": "Lappeenranta, Finland",
+  "date": "2026-11-24T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112443",
+  "league": "LIIGA",
+  "team": "Vaasan Sport",
+  "opponent": "Kiekko-Espoo",
+  "arena": "Vaasan Sähkö Areena",
+  "city": "Vaasa, Finland",
+  "date": "2026-11-24T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112544",
+  "league": "LIIGA",
+  "team": "HIFK",
+  "opponent": "TPS",
+  "arena": "Helsinki Ice Hall",
+  "city": "Helsinki, Finland",
+  "date": "2026-11-25T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112545",
+  "league": "LIIGA",
+  "team": "Jokerit",
+  "opponent": "KooKoo",
+  "arena": "Veikkaus Arena",
+  "city": "Helsinki, Finland",
+  "date": "2026-11-25T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112546",
+  "league": "LIIGA",
+  "team": "Oulun Kärpät",
+  "opponent": "Lahti Pelicans",
+  "arena": "Oulun Energia Areena",
+  "city": "Oulu, Finland",
+  "date": "2026-11-25T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112547",
+  "league": "LIIGA",
+  "team": "Tappara",
+  "opponent": "Mikkelin Jukurit",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-11-25T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112648",
+  "league": "LIIGA",
+  "team": "Vaasan Sport",
+  "opponent": "Tampereen Ilves",
+  "arena": "Vaasan Sähkö Areena",
+  "city": "Vaasa, Finland",
+  "date": "2026-11-26T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112749",
+  "league": "LIIGA",
+  "team": "Rauman Lukko",
+  "opponent": "Mikkelin Jukurit",
+  "arena": "Kivikylän Areena",
+  "city": "Rauma, Finland",
+  "date": "2026-11-27T15:30:00Z"
+},
+
+{
+  "id": "liiga_2026112750",
+  "league": "LIIGA",
+  "team": "KalPa",
+  "opponent": "JYP",
+  "arena": "Olvi Arena",
+  "city": "Kuopio, Finland",
+  "date": "2026-11-27T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112751",
+  "league": "LIIGA",
+  "team": "KooKoo",
+  "opponent": "HPK",
+  "arena": "Kouvolan Jäähalli",
+  "city": "Kouvola, Finland",
+  "date": "2026-11-27T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112752",
+  "league": "LIIGA",
+  "team": "Tappara",
+  "opponent": "Kiekko-Espoo",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-11-27T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026112753",
+  "league": "LIIGA",
+  "team": "HIFK",
+  "opponent": "SaiPa",
+  "arena": "Helsinki Ice Hall",
+  "city": "Helsinki, Finland",
+  "date": "2026-11-27T17:30:00Z"
+},
+
+{
+  "id": "liiga_2026112854",
+  "league": "LIIGA",
+  "team": "Tampereen Ilves",
+  "opponent": "HIFK",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026112855",
+  "league": "LIIGA",
+  "team": "JYP",
+  "opponent": "KalPa",
+  "arena": "LähiTapiola Areena",
+  "city": "Jyväskylä, Finland",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026112856",
+  "league": "LIIGA",
+  "team": "Lahti Pelicans",
+  "opponent": "KooKoo",
+  "arena": "Wemasto Areena",
+  "city": "Lahti, Finland",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026112857",
+  "league": "LIIGA",
+  "team": "SaiPa",
+  "opponent": "Jokerit",
+  "arena": "Lappeenrannan kisapuiston jäähalli",
+  "city": "Lappeenranta, Finland",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026112858",
+  "league": "LIIGA",
+  "team": "TPS",
+  "opponent": "Kiekko-Espoo",
+  "arena": "Gatorade Center",
+  "city": "Turku, Finland",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026112859",
+  "league": "LIIGA",
+  "team": "Porin Ässät",
+  "opponent": "Oulun Kärpät",
+  "arena": "Enersense Areena",
+  "city": "Pori, Finland",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026112860",
+  "league": "LIIGA",
+  "team": "Mikkelin Jukurit",
+  "opponent": "Rauman Lukko",
+  "arena": "Let's Go Areena",
+  "city": "Mikkeli, Finland",
+  "date": "2026-11-28T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026112961",
+  "league": "LIIGA",
+  "team": "TPS",
+  "opponent": "Vaasan Sport",
+  "arena": "Gatorade Center",
+  "city": "Turku, Finland",
+  "date": "2026-11-29T15:00:00Z"
+},
+
+  {
+  "id": "liiga_2026120101",
+  "league": "LIIGA",
+  "team": "Mikkelin Jukurit",
+  "opponent": "HPK",
+  "arena": "Let's Go Areena",
+  "city": "Mikkeli, Finland",
+  "date": "2026-12-01T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120202",
+  "league": "LIIGA",
+  "team": "Porin Ässät",
+  "opponent": "JYP",
+  "arena": "Enersense Areena",
+  "city": "Pori, Finland",
+  "date": "2026-12-02T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120203",
+  "league": "LIIGA",
+  "team": "Tampereen Ilves",
+  "opponent": "Oulun Kärpät",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-12-02T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120204",
+  "league": "LIIGA",
+  "team": "KalPa",
+  "opponent": "HPK",
+  "arena": "Olvi Arena",
+  "city": "Kuopio, Finland",
+  "date": "2026-12-02T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120205",
+  "league": "LIIGA",
+  "team": "Kiekko-Espoo",
+  "opponent": "SaiPa",
+  "arena": "Espoo Metro Areena",
+  "city": "Espoo, Finland",
+  "date": "2026-12-02T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120206",
+  "league": "LIIGA",
+  "team": "KooKoo",
+  "opponent": "Rauman Lukko",
+  "arena": "Kouvolan Jäähalli",
+  "city": "Kouvola, Finland",
+  "date": "2026-12-02T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120207",
+  "league": "LIIGA",
+  "team": "Lahti Pelicans",
+  "opponent": "TPS",
+  "arena": "Wemasto Areena",
+  "city": "Lahti, Finland",
+  "date": "2026-12-02T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120208",
+  "league": "LIIGA",
+  "team": "Jokerit",
+  "opponent": "Vaasan Sport",
+  "arena": "Veikkaus Arena",
+  "city": "Helsinki, Finland",
+  "date": "2026-12-02T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120309",
+  "league": "LIIGA",
+  "team": "Tappara",
+  "opponent": "JYP",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-12-03T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120410",
+  "league": "LIIGA",
+  "team": "Mikkelin Jukurit",
+  "opponent": "SaiPa",
+  "arena": "Let's Go Areena",
+  "city": "Mikkeli, Finland",
+  "date": "2026-12-04T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120411",
+  "league": "LIIGA",
+  "team": "Vaasan Sport",
+  "opponent": "KalPa",
+  "arena": "Vaasan Sähkö Areena",
+  "city": "Vaasa, Finland",
+  "date": "2026-12-04T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120412",
+  "league": "LIIGA",
+  "team": "TPS",
+  "opponent": "Porin Ässät",
+  "arena": "Gatorade Center",
+  "city": "Turku, Finland",
+  "date": "2026-12-04T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120413",
+  "league": "LIIGA",
+  "team": "Rauman Lukko",
+  "opponent": "Oulun Kärpät",
+  "arena": "Kivikylän Areena",
+  "city": "Rauma, Finland",
+  "date": "2026-12-04T17:30:00Z"
+},
+
+{
+  "id": "liiga_2026120414",
+  "league": "LIIGA",
+  "team": "HIFK",
+  "opponent": "KooKoo",
+  "arena": "Helsinki Ice Hall",
+  "city": "Helsinki, Finland",
+  "date": "2026-12-04T17:30:00Z"
+},
+
+{
+  "id": "liiga_2026120515",
+  "league": "LIIGA",
+  "team": "HPK",
+  "opponent": "Tappara",
+  "arena": "Pohjantähti Areena",
+  "city": "Hämeenlinna, Finland",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026120516",
+  "league": "LIIGA",
+  "team": "JYP",
+  "opponent": "Tampereen Ilves",
+  "arena": "LähiTapiola Areena",
+  "city": "Jyväskylä, Finland",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026120517",
+  "league": "LIIGA",
+  "team": "KooKoo",
+  "opponent": "Kiekko-Espoo",
+  "arena": "Kouvolan Jäähalli",
+  "city": "Kouvola, Finland",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026120518",
+  "league": "LIIGA",
+  "team": "Rauman Lukko",
+  "opponent": "Oulun Kärpät",
+  "arena": "Kivikylän Areena",
+  "city": "Rauma, Finland",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026120519",
+  "league": "LIIGA",
+  "team": "SaiPa",
+  "opponent": "Mikkelin Jukurit",
+  "arena": "Lappeenrannan kisapuiston jäähalli",
+  "city": "Lappeenranta, Finland",
+  "date": "2026-12-05T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026120520",
+  "league": "LIIGA",
+  "team": "Lahti Pelicans",
+  "opponent": "Jokerit",
+  "arena": "Wemasto Areena",
+  "city": "Lahti, Finland",
+  "date": "2026-12-05T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120521",
+  "league": "LIIGA",
+  "team": "Porin Ässät",
+  "opponent": "KalPa",
+  "arena": "Enersense Areena",
+  "city": "Pori, Finland",
+  "date": "2026-12-05T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120822",
+  "league": "LIIGA",
+  "team": "JYP",
+  "opponent": "TPS",
+  "arena": "LähiTapiola Areena",
+  "city": "Jyväskylä, Finland",
+  "date": "2026-12-08T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120823",
+  "league": "LIIGA",
+  "team": "SaiPa",
+  "opponent": "Kiekko-Espoo",
+  "arena": "Lappeenrannan kisapuiston jäähalli",
+  "city": "Lappeenranta, Finland",
+  "date": "2026-12-08T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120824",
+  "league": "LIIGA",
+  "team": "HIFK",
+  "opponent": "Vaasan Sport",
+  "arena": "Helsinki Ice Hall",
+  "city": "Helsinki, Finland",
+  "date": "2026-12-08T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120825",
+  "league": "LIIGA",
+  "team": "Tappara",
+  "opponent": "Lahti Pelicans",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-12-08T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120926",
+  "league": "LIIGA",
+  "team": "Lahti Pelicans",
+  "opponent": "Tampereen Ilves",
+  "arena": "Wemasto Areena",
+  "city": "Lahti, Finland",
+  "date": "2026-12-09T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120927",
+  "league": "LIIGA",
+  "team": "Mikkelin Jukurit",
+  "opponent": "HIFK",
+  "arena": "Let's Go Areena",
+  "city": "Mikkeli, Finland",
+  "date": "2026-12-09T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120928",
+  "league": "LIIGA",
+  "team": "KalPa",
+  "opponent": "TPS",
+  "arena": "Olvi Arena",
+  "city": "Kuopio, Finland",
+  "date": "2026-12-09T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120929",
+  "league": "LIIGA",
+  "team": "Kiekko-Espoo",
+  "opponent": "HPK",
+  "arena": "Espoo Metro Areena",
+  "city": "Espoo, Finland",
+  "date": "2026-12-09T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120930",
+  "league": "LIIGA",
+  "team": "Porin Ässät",
+  "opponent": "KooKoo",
+  "arena": "Enersense Areena",
+  "city": "Pori, Finland",
+  "date": "2026-12-09T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026120931",
+  "league": "LIIGA",
+  "team": "Jokerit",
+  "opponent": "Oulun Kärpät",
+  "arena": "Veikkaus Arena",
+  "city": "Helsinki, Finland",
+  "date": "2026-12-09T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121132",
+  "league": "LIIGA",
+  "team": "JYP",
+  "opponent": "Jokerit",
+  "arena": "LähiTapiola Areena",
+  "city": "Jyväskylä, Finland",
+  "date": "2026-12-11T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121133",
+  "league": "LIIGA",
+  "team": "Lahti Pelicans",
+  "opponent": "HPK",
+  "arena": "Wemasto Areena",
+  "city": "Lahti, Finland",
+  "date": "2026-12-11T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121134",
+  "league": "LIIGA",
+  "team": "SaiPa",
+  "opponent": "KalPa",
+  "arena": "Lappeenrannan kisapuiston jäähalli",
+  "city": "Lappeenranta, Finland",
+  "date": "2026-12-11T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121135",
+  "league": "LIIGA",
+  "team": "TPS",
+  "opponent": "Tappara",
+  "arena": "Gatorade Center",
+  "city": "Turku, Finland",
+  "date": "2026-12-11T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121136",
+  "league": "LIIGA",
+  "team": "Rauman Lukko",
+  "opponent": "Porin Ässät",
+  "arena": "Kivikylän Areena",
+  "city": "Rauma, Finland",
+  "date": "2026-12-11T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121137",
+  "league": "LIIGA",
+  "team": "Vaasan Sport",
+  "opponent": "Mikkelin Jukurit",
+  "arena": "Vaasan Sähkö Areena",
+  "city": "Vaasa, Finland",
+  "date": "2026-12-11T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121238",
+  "league": "LIIGA",
+  "team": "HPK",
+  "opponent": "JYP",
+  "arena": "Pohjantähti Areena",
+  "city": "Hämeenlinna, Finland",
+  "date": "2026-12-12T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026121239",
+  "league": "LIIGA",
+  "team": "KalPa",
+  "opponent": "Jokerit",
+  "arena": "Olvi Arena",
+  "city": "Kuopio, Finland",
+  "date": "2026-12-12T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026121240",
+  "league": "LIIGA",
+  "team": "Kiekko-Espoo",
+  "opponent": "Rauman Lukko",
+  "arena": "Espoo Metro Areena",
+  "city": "Espoo, Finland",
+  "date": "2026-12-12T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026121241",
+  "league": "LIIGA",
+  "team": "KooKoo",
+  "opponent": "Tampereen Ilves",
+  "arena": "Kouvolan Jäähalli",
+  "city": "Kouvola, Finland",
+  "date": "2026-12-12T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026121242",
+  "league": "LIIGA",
+  "team": "Porin Ässät",
+  "opponent": "Tappara",
+  "arena": "Enersense Areena",
+  "city": "Pori, Finland",
+  "date": "2026-12-12T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026121243",
+  "league": "LIIGA",
+  "team": "Oulun Kärpät",
+  "opponent": "HIFK",
+  "arena": "Oulun Energia Areena",
+  "city": "Oulu, Finland",
+  "date": "2026-12-12T16:00:00Z"
+},
+
+{
+  "id": "liiga_2026121444",
+  "league": "LIIGA",
+  "team": "Kiekko-Espoo",
+  "opponent": "Mikkelin Jukurit",
+  "arena": "Espoo Metro Areena",
+  "city": "Espoo, Finland",
+  "date": "2026-12-14T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121545",
+  "league": "LIIGA",
+  "team": "Tampereen Ilves",
+  "opponent": "HPK",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-12-15T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121546",
+  "league": "LIIGA",
+  "team": "KooKoo",
+  "opponent": "KalPa",
+  "arena": "Kouvolan Jäähalli",
+  "city": "Kouvola, Finland",
+  "date": "2026-12-15T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121647",
+  "league": "LIIGA",
+  "team": "Vaasan Sport",
+  "opponent": "JYP",
+  "arena": "Vaasan Sähkö Areena",
+  "city": "Vaasa, Finland",
+  "date": "2026-12-16T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121648",
+  "league": "LIIGA",
+  "team": "HIFK",
+  "opponent": "Lahti Pelicans",
+  "arena": "Helsinki Ice Hall",
+  "city": "Helsinki, Finland",
+  "date": "2026-12-16T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121649",
+  "league": "LIIGA",
+  "team": "Jokerit",
+  "opponent": "Rauman Lukko",
+  "arena": "Veikkaus Arena",
+  "city": "Helsinki, Finland",
+  "date": "2026-12-16T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121750",
+  "league": "LIIGA",
+  "team": "Tampereen Ilves",
+  "opponent": "KooKoo",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-12-17T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121751",
+  "league": "LIIGA",
+  "team": "Oulun Kärpät",
+  "opponent": "Kiekko-Espoo",
+  "arena": "Oulun Energia Areena",
+  "city": "Oulu, Finland",
+  "date": "2026-12-17T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121852",
+  "league": "LIIGA",
+  "team": "Mikkelin Jukurit",
+  "opponent": "Jokerit",
+  "arena": "Let's Go Areena",
+  "city": "Mikkeli, Finland",
+  "date": "2026-12-18T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121853",
+  "league": "LIIGA",
+  "team": "JYP",
+  "opponent": "Porin Ässät",
+  "arena": "LähiTapiola Areena",
+  "city": "Jyväskylä, Finland",
+  "date": "2026-12-18T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121854",
+  "league": "LIIGA",
+  "team": "Lahti Pelicans",
+  "opponent": "TPS",
+  "arena": "Wemasto Areena",
+  "city": "Lahti, Finland",
+  "date": "2026-12-18T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121855",
+  "league": "LIIGA",
+  "team": "SaiPa",
+  "opponent": "HPK",
+  "arena": "Lappeenrannan kisapuiston jäähalli",
+  "city": "Lappeenranta, Finland",
+  "date": "2026-12-18T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121856",
+  "league": "LIIGA",
+  "team": "HIFK",
+  "opponent": "Rauman Lukko",
+  "arena": "Helsinki Ice Hall",
+  "city": "Helsinki, Finland",
+  "date": "2026-12-18T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026121857",
+  "league": "LIIGA",
+  "team": "Tappara",
+  "opponent": "KalPa",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-12-18T17:30:00Z"
+},
+
+{
+  "id": "liiga_2026121958",
+  "league": "LIIGA",
+  "team": "HPK",
+  "opponent": "HIFK",
+  "arena": "Pohjantähti Areena",
+  "city": "Hämeenlinna, Finland",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026121959",
+  "league": "LIIGA",
+  "team": "KalPa",
+  "opponent": "Tappara",
+  "arena": "Olvi Arena",
+  "city": "Kuopio, Finland",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026121960",
+  "league": "LIIGA",
+  "team": "KooKoo",
+  "opponent": "Lahti Pelicans",
+  "arena": "Kouvolan Jäähalli",
+  "city": "Kouvola, Finland",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026121961",
+  "league": "LIIGA",
+  "team": "Rauman Lukko",
+  "opponent": "Tampereen Ilves",
+  "arena": "Kivikylän Areena",
+  "city": "Rauma, Finland",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026121962",
+  "league": "LIIGA",
+  "team": "Vaasan Sport",
+  "opponent": "Oulun Kärpät",
+  "arena": "Vaasan Sähkö Areena",
+  "city": "Vaasa, Finland",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026121963",
+  "league": "LIIGA",
+  "team": "Porin Ässät",
+  "opponent": "Kiekko-Espoo",
+  "arena": "Enersense Areena",
+  "city": "Pori, Finland",
+  "date": "2026-12-19T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026122064",
+  "league": "LIIGA",
+  "team": "Jokerit",
+  "opponent": "SaiPa",
+  "arena": "Veikkaus Arena",
+  "city": "Helsinki, Finland",
+  "date": "2026-12-20T13:00:00Z"
+},
+
+{
+  "id": "liiga_2026122165",
+  "league": "LIIGA",
+  "team": "TPS",
+  "opponent": "Oulun Kärpät",
+  "arena": "Gatorade Center",
+  "city": "Turku, Finland",
+  "date": "2026-12-21T16:00:00Z"
+},
+
+{
+  "id": "liiga_2026122166",
+  "league": "LIIGA",
+  "team": "Vaasan Sport",
+  "opponent": "Tappara",
+  "arena": "Vaasan Sähkö Areena",
+  "city": "Vaasa, Finland",
+  "date": "2026-12-21T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026122667",
+  "league": "LIIGA",
+  "team": "Mikkelin Jukurit",
+  "opponent": "SaiPa",
+  "arena": "Let's Go Areena",
+  "city": "Mikkeli, Finland",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026122668",
+  "league": "LIIGA",
+  "team": "KalPa",
+  "opponent": "HIFK",
+  "arena": "Olvi Arena",
+  "city": "Kuopio, Finland",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026122669",
+  "league": "LIIGA",
+  "team": "Kiekko-Espoo",
+  "opponent": "Lahti Pelicans",
+  "arena": "Espoo Metro Areena",
+  "city": "Espoo, Finland",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026122670",
+  "league": "LIIGA",
+  "team": "Oulun Kärpät",
+  "opponent": "JYP",
+  "arena": "Oulun Energia Areena",
+  "city": "Oulu, Finland",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026122671",
+  "league": "LIIGA",
+  "team": "TPS",
+  "opponent": "Porin Ässät",
+  "arena": "Gatorade Center",
+  "city": "Turku, Finland",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026122672",
+  "league": "LIIGA",
+  "team": "Vaasan Sport",
+  "opponent": "Rauman Lukko",
+  "arena": "Vaasan Sähkö Areena",
+  "city": "Vaasa, Finland",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026122673",
+  "league": "LIIGA",
+  "team": "Tappara",
+  "opponent": "KooKoo",
+  "arena": "Nokia Arena",
+  "city": "Tampere, Finland",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026122674",
+  "league": "LIIGA",
+  "team": "Jokerit",
+  "opponent": "HPK",
+  "arena": "Veikkaus Arena",
+  "city": "Helsinki, Finland",
+  "date": "2026-12-26T15:00:00Z"
+},
+
+{
+  "id": "liiga_2026122875",
+  "league": "LIIGA",
+  "team": "Kiekko-Espoo",
+  "opponent": "Tappara",
+  "arena": "Espoo Metro Areena",
+  "city": "Espoo, Finland",
+  "date": "2026-12-28T15:30:00Z"
+},
+
+{
+  "id": "liiga_2026122876",
+  "league": "LIIGA",
+  "team": "JYP",
+  "opponent": "HIFK",
+  "arena": "LähiTapiola Areena",
+  "city": "Jyväskylä, Finland",
+  "date": "2026-12-28T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026122877",
+  "league": "LIIGA",
+  "team": "KooKoo",
+  "opponent": "Oulun Kärpät",
+  "arena": "Kouvolan Jäähalli",
+  "city": "Kouvola, Finland",
+  "date": "2026-12-28T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026122878",
+  "league": "LIIGA",
+  "team": "Rauman Lukko",
+  "opponent": "KalPa",
+  "arena": "Kivikylän Areena",
+  "city": "Rauma, Finland",
+  "date": "2026-12-28T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026122879",
+  "league": "LIIGA",
+  "team": "SaiPa",
+  "opponent": "Lahti Pelicans",
+  "arena": "Lappeenrannan kisapuiston jäähalli",
+  "city": "Lappeenranta, Finland",
+  "date": "2026-12-28T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026122980",
+  "league": "LIIGA",
+  "team": "Porin Ässät",
+  "opponent": "Mikkelin Jukurit",
+  "arena": "Enersense Areena",
+  "city": "Pori, Finland",
+  "date": "2026-12-29T15:30:00Z"
+},
+
+{
+  "id": "liiga_2026122981",
+  "league": "LIIGA",
+  "team": "HPK",
+  "opponent": "TPS",
+  "arena": "Pohjantähti Areena",
+  "city": "Hämeenlinna, Finland",
+  "date": "2026-12-29T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026122982",
+  "league": "LIIGA",
+  "team": "Jokerit",
+  "opponent": "Kiekko-Espoo",
+  "arena": "Veikkaus Arena",
+  "city": "Helsinki, Finland",
+  "date": "2026-12-29T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026122983",
+  "league": "LIIGA",
+  "team": "Lahti Pelicans",
+  "opponent": "KalPa",
+  "arena": "Wemasto Areena",
+  "city": "Lahti, Finland",
+  "date": "2026-12-29T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026123084",
+  "league": "LIIGA",
+  "team": "JYP",
+  "opponent": "Vaasan Sport",
+  "arena": "LähiTapiola Areena",
+  "city": "Jyväskylä, Finland",
+  "date": "2026-12-30T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026123085",
+  "league": "LIIGA",
+  "team": "KooKoo",
+  "opponent": "Jokerit",
+  "arena": "Kouvolan Jäähalli",
+  "city": "Kouvola, Finland",
+  "date": "2026-12-30T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026123086",
+  "league": "LIIGA",
+  "team": "Oulun Kärpät",
+  "opponent": "Tappara",
+  "arena": "Oulun Energia Areena",
+  "city": "Oulu, Finland",
+  "date": "2026-12-30T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026123087",
+  "league": "LIIGA",
+  "team": "SaiPa",
+  "opponent": "Rauman Lukko",
+  "arena": "Lappeenrannan kisapuiston jäähalli",
+  "city": "Lappeenranta, Finland",
+  "date": "2026-12-30T16:30:00Z"
+},
+
+{
+  "id": "liiga_2026123088",
+  "league": "LIIGA",
+  "team": "TPS",
+  "opponent": "HPK",
+  "arena": "Gatorade Center",
+  "city": "Turku, Finland",
+  "date": "2026-12-30T16:30:00Z"
+}
   
-  {
-    "id": "liiga_2026100202",
-    "league": "LIIGA",
-    "team": "KalPa",
-    "opponent": "SaiPa",
-    "arena": "Olvi Arena",
-    "city": "Kuopio, Finland",
-    "date": "2026-10-02T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100203",
-    "league": "LIIGA",
-    "team": "Kiekko-Espoo",
-    "opponent": "Oulun Kärpät",
-    "arena": "Espoo Metro Areena",
-    "city": "Espoo, Finland",
-    "date": "2026-10-02T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100204",
-    "league": "LIIGA",
-    "team": "Tappara",
-    "opponent": "Jokerit",
-    "arena": "Nokia Arena",
-    "city": "Tampere, Finland",
-    "date": "2026-10-02T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100205",
-    "league": "LIIGA",
-    "team": "Porin Ässät",
-    "opponent": "Rauman Lukko",
-    "arena": "Enersense Areena",
-    "city": "Pori, Finland",
-    "date": "2026-10-02T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100306",
-    "league": "LIIGA",
-    "team": "HPK",
-    "opponent": "Oulun Kärpät",
-    "arena": "Pohjantähti Areena",
-    "city": "Hämeenlinna, Finland",
-    "date": "2026-10-03T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100307",
-    "league": "LIIGA",
-    "team": "Tampereen Ilves",
-    "opponent": "Kiekko-Espoo",
-    "arena": "Nokia Arena",
-    "city": "Tampere, Finland",
-    "date": "2026-10-03T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100308",
-    "league": "LIIGA",
-    "team": "Mikkelin Jukurit",
-    "opponent": "KalPa",
-    "arena": "Let's Go Areena",
-    "city": "Mikkeli, Finland",
-    "date": "2026-10-03T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100309",
-    "league": "LIIGA",
-    "team": "KooKoo",
-    "opponent": "Lahti Pelicans",
-    "arena": "Kouvolan Jäähalli",
-    "city": "Kouvola, Finland",
-    "date": "2026-10-03T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100310",
-    "league": "LIIGA",
-    "team": "Rauman Lukko",
-    "opponent": "Porin Ässät",
-    "arena": "Kivikylän Areena",
-    "city": "Rauma, Finland",
-    "date": "2026-10-03T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100311",
-    "league": "LIIGA",
-    "team": "SaiPa",
-    "opponent": "Jokerit",
-    "arena": "Lappeenrannan kisapuiston jäähalli",
-    "city": "Lappeenranta, Finland",
-    "date": "2026-10-03T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100312",
-    "league": "LIIGA",
-    "team": "TPS",
-    "opponent": "JYP",
-    "arena": "Gatorade Center",
-    "city": "Turku, Finland",
-    "date": "2026-10-03T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100313",
-    "league": "LIIGA",
-    "team": "Vaasan Sport",
-    "opponent": "HIFK",
-    "arena": "Vaasan Sähkö Areena",
-    "city": "Vaasa, Finland",
-    "date": "2026-10-03T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100714",
-    "league": "LIIGA",
-    "team": "Mikkelin Jukurit",
-    "opponent": "Porin Ässät",
-    "arena": "Let's Go Areena",
-    "city": "Mikkeli, Finland",
-    "date": "2026-10-07T09:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100715",
-    "league": "LIIGA",
-    "team": "Oulun Kärpät",
-    "opponent": "Kiekko-Espoo",
-    "arena": "Oulun Energia Areena",
-    "city": "Oulu, Finland",
-    "date": "2026-10-07T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100716",
-    "league": "LIIGA",
-    "team": "Vaasan Sport",
-    "opponent": "Tampereen Ilves",
-    "arena": "Vaasan Sähkö Areena",
-    "city": "Vaasa, Finland",
-    "date": "2026-10-07T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100817",
-    "league": "LIIGA",
-    "team": "SaiPa",
-    "opponent": "JYP",
-    "arena": "Lappeenrannan kisapuiston jäähalli",
-    "city": "Lappeenranta, Finland",
-    "date": "2026-10-08T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100818",
-    "league": "LIIGA",
-    "team": "Jokerit",
-    "opponent": "HIFK",
-    "arena": "Veikkaus Arena",
-    "city": "Helsinki, Finland",
-    "date": "2026-10-08T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100919",
-    "league": "LIIGA",
-    "team": "Kiekko-Espoo",
-    "opponent": "JYP",
-    "arena": "Espoo Metro Areena",
-    "city": "Espoo, Finland",
-    "date": "2026-10-09T14:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100920",
-    "league": "LIIGA",
-    "team": "Tampereen Ilves",
-    "opponent": "Rauman Lukko",
-    "arena": "Nokia Arena",
-    "city": "Tampere, Finland",
-    "date": "2026-10-09T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100921",
-    "league": "LIIGA",
-    "team": "KooKoo",
-    "opponent": "Mikkelin Jukurit",
-    "arena": "Kouvolan Jäähalli",
-    "city": "Kouvola, Finland",
-    "date": "2026-10-09T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100922",
-    "league": "LIIGA",
-    "team": "Lahti Pelicans",
-    "opponent": "Oulun Kärpät",
-    "arena": "Wemasto Areena",
-    "city": "Lahti, Finland",
-    "date": "2026-10-09T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100923",
-    "league": "LIIGA",
-    "team": "TPS",
-    "opponent": "Vaasan Sport",
-    "arena": "Gatorade Center",
-    "city": "Turku, Finland",
-    "date": "2026-10-09T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100924",
-    "league": "LIIGA",
-    "team": "Porin Ässät",
-    "opponent": "HPK",
-    "arena": "Enersense Areena",
-    "city": "Pori, Finland",
-    "date": "2026-10-09T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026100925",
-    "league": "LIIGA",
-    "team": "KalPa",
-    "opponent": "Tappara",
-    "arena": "Olvi Arena",
-    "city": "Kuopio, Finland",
-    "date": "2026-10-09T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101026",
-    "league": "LIIGA",
-    "team": "HPK",
-    "opponent": "KooKoo",
-    "arena": "Pohjantähti Areena",
-    "city": "Hämeenlinna, Finland",
-    "date": "2026-10-10T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101027",
-    "league": "LIIGA",
-    "team": "Mikkelin Jukurit",
-    "opponent": "Oulun Kärpät",
-    "arena": "Let's Go Areena",
-    "city": "Mikkeli, Finland",
-    "date": "2026-10-10T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101028",
-    "league": "LIIGA",
-    "team": "Tappara",
-    "opponent": "TPS",
-    "arena": "Nokia Arena",
-    "city": "Tampere, Finland",
-    "date": "2026-10-10T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101029",
-    "league": "LIIGA",
-    "team": "Jokerit",
-    "opponent": "Tampereen Ilves",
-    "arena": "Veikkaus Arena",
-    "city": "Helsinki, Finland",
-    "date": "2026-10-10T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101030",
-    "league": "LIIGA",
-    "team": "HIFK",
-    "opponent": "KalPa",
-    "arena": "Helsinki Ice Hall",
-    "city": "Helsinki, Finland",
-    "date": "2026-10-10T15:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101431",
-    "league": "LIIGA",
-    "team": "HIFK",
-    "opponent": "TPS",
-    "arena": "Helsinki Ice Hall",
-    "city": "Helsinki, Finland",
-    "date": "2026-10-14T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101432",
-    "league": "LIIGA",
-    "team": "KalPa",
-    "opponent": "Porin Ässät",
-    "arena": "Olvi Arena",
-    "city": "Kuopio, Finland",
-    "date": "2026-10-14T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101433",
-    "league": "LIIGA",
-    "team": "JYP",
-    "opponent": "Rauman Lukko",
-    "arena": "LähiTapiola Areena",
-    "city": "Jyväskylä, Finland",
-    "date": "2026-10-14T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101534",
-    "league": "LIIGA",
-    "team": "SaiPa",
-    "opponent": "HPK",
-    "arena": "Lappeenrannan kisapuiston jäähalli",
-    "city": "Lappeenranta, Finland",
-    "date": "2026-10-15T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101535",
-    "league": "LIIGA",
-    "team": "Vaasan Sport",
-    "opponent": "KooKoo",
-    "arena": "Vaasan Sähkö Areena",
-    "city": "Vaasa, Finland",
-    "date": "2026-10-15T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101636",
-    "league": "LIIGA",
-    "team": "HPK",
-    "opponent": "Tampereen Ilves",
-    "arena": "Pohjantähti Areena",
-    "city": "Hämeenlinna, Finland",
-    "date": "2026-10-16T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101637",
-    "league": "LIIGA",
-    "team": "TPS",
-    "opponent": "Kiekko-Espoo",
-    "arena": "Gatorade Center",
-    "city": "Turku, Finland",
-    "date": "2026-10-16T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101638",
-    "league": "LIIGA",
-    "team": "Tappara",
-    "opponent": "Rauman Lukko",
-    "arena": "Nokia Arena",
-    "city": "Tampere, Finland",
-    "date": "2026-10-16T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101639",
-    "league": "LIIGA",
-    "team": "Jokerit",
-    "opponent": "Porin Ässät",
-    "arena": "Veikkaus Arena",
-    "city": "Helsinki, Finland",
-    "date": "2026-10-16T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101640",
-    "league": "LIIGA",
-    "team": "Lahti Pelicans",
-    "opponent": "Vaasan Sport",
-    "arena": "Wemasto Areena",
-    "city": "Lahti, Finland",
-    "date": "2026-10-16T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101641",
-    "league": "LIIGA",
-    "team": "JYP",
-    "opponent": "Oulun Kärpät",
-    "arena": "LähiTapiola Areena",
-    "city": "Jyväskylä, Finland",
-    "date": "2026-10-16T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101742",
-    "league": "LIIGA",
-    "team": "Tampereen Ilves",
-    "opponent": "Jokerit",
-    "arena": "Nokia Arena",
-    "city": "Tampere, Finland",
-    "date": "2026-10-17T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101743",
-    "league": "LIIGA",
-    "team": "KalPa",
-    "opponent": "Lahti Pelicans",
-    "arena": "Olvi Arena",
-    "city": "Kuopio, Finland",
-    "date": "2026-10-17T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101744",
-    "league": "LIIGA",
-    "team": "Oulun Kärpät",
-    "opponent": "KooKoo",
-    "arena": "Oulun Energia Areena",
-    "city": "Oulu, Finland",
-    "date": "2026-10-17T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101745",
-    "league": "LIIGA",
-    "team": "Rauman Lukko",
-    "opponent": "Kiekko-Espoo",
-    "arena": "Kivikylän Areena",
-    "city": "Rauma, Finland",
-    "date": "2026-10-17T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101746",
-    "league": "LIIGA",
-    "team": "SaiPa",
-    "opponent": "HIFK",
-    "arena": "Lappeenrannan kisapuiston jäähalli",
-    "city": "Lappeenranta, Finland",
-    "date": "2026-10-17T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101747",
-    "league": "LIIGA",
-    "team": "Porin Ässät",
-    "opponent": "TPS",
-    "arena": "Enersense Areena",
-    "city": "Pori, Finland",
-    "date": "2026-10-17T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026101748",
-    "league": "LIIGA",
-    "team": "Mikkelin Jukurit",
-    "opponent": "Tappara",
-    "arena": "Let's Go Areena",
-    "city": "Mikkeli, Finland",
-    "date": "2026-10-17T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102049",
-    "league": "LIIGA",
-    "team": "TPS",
-    "opponent": "Tampereen Ilves",
-    "arena": "Gatorade Center",
-    "city": "Turku, Finland",
-    "date": "2026-10-20T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102050",
-    "league": "LIIGA",
-    "team": "HPK",
-    "opponent": "Lahti Pelicans",
-    "arena": "Pohjantähti Areena",
-    "city": "Hämeenlinna, Finland",
-    "date": "2026-10-20T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102051",
-    "league": "LIIGA",
-    "team": "KooKoo",
-    "opponent": "Tappara",
-    "arena": "Kouvolan Jäähalli",
-    "city": "Kouvola, Finland",
-    "date": "2026-10-20T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102052",
-    "league": "LIIGA",
-    "team": "Rauman Lukko",
-    "opponent": "HIFK",
-    "arena": "Kivikylän Areena",
-    "city": "Rauma, Finland",
-    "date": "2026-10-20T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102053",
-    "league": "LIIGA",
-    "team": "SaiPa",
-    "opponent": "Oulun Kärpät",
-    "arena": "Lappeenrannan kisapuiston jäähalli",
-    "city": "Lappeenranta, Finland",
-    "date": "2026-10-20T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102054",
-    "league": "LIIGA",
-    "team": "Vaasan Sport",
-    "opponent": "Mikkelin Jukurit",
-    "arena": "Vaasan Sähkö Areena",
-    "city": "Vaasa, Finland",
-    "date": "2026-10-20T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102155",
-    "league": "LIIGA",
-    "team": "Kiekko-Espoo",
-    "opponent": "KooKoo",
-    "arena": "Espoo Metro Areena",
-    "city": "Espoo, Finland",
-    "date": "2026-10-21T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102156",
-    "league": "LIIGA",
-    "team": "Tappara",
-    "opponent": "Porin Ässät",
-    "arena": "Nokia Arena",
-    "city": "Tampere, Finland",
-    "date": "2026-10-21T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102257",
-    "league": "LIIGA",
-    "team": "JYP",
-    "opponent": "HPK",
-    "arena": "LähiTapiola Areena",
-    "city": "Jyväskylä, Finland",
-    "date": "2026-10-22T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102358",
-    "league": "LIIGA",
-    "team": "Oulun Kärpät",
-    "opponent": "KalPa",
-    "arena": "Oulun Energia Areena",
-    "city": "Oulu, Finland",
-    "date": "2026-10-23T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102359",
-    "league": "LIIGA",
-    "team": "Rauman Lukko",
-    "opponent": "TPS",
-    "arena": "Kivikylän Areena",
-    "city": "Rauma, Finland",
-    "date": "2026-10-23T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102360",
-    "league": "LIIGA",
-    "team": "Vaasan Sport",
-    "opponent": "SaiPa",
-    "arena": "Vaasan Sähkö Areena",
-    "city": "Vaasa, Finland",
-    "date": "2026-10-23T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102361",
-    "league": "LIIGA",
-    "team": "Mikkelin Jukurit",
-    "opponent": "Tampereen Ilves",
-    "arena": "Let's Go Areena",
-    "city": "Mikkeli, Finland",
-    "date": "2026-10-23T15:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102362",
-    "league": "LIIGA",
-    "team": "Kiekko-Espoo",
-    "opponent": "HIFK",
-    "arena": "Espoo Metro Areena",
-    "city": "Espoo, Finland",
-    "date": "2026-10-23T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102463",
-    "league": "LIIGA",
-    "team": "Tampereen Ilves",
-    "opponent": "Mikkelin Jukurit",
-    "arena": "Nokia Arena",
-    "city": "Tampere, Finland",
-    "date": "2026-10-24T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102464",
-    "league": "LIIGA",
-    "team": "HPK",
-    "opponent": "HIFK",
-    "arena": "Pohjantähti Areena",
-    "city": "Hämeenlinna, Finland",
-    "date": "2026-10-24T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102465",
-    "league": "LIIGA",
-    "team": "JYP",
-    "opponent": "Porin Ässät",
-    "arena": "LähiTapiola Areena",
-    "city": "Jyväskylä, Finland",
-    "date": "2026-10-24T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102466",
-    "league": "LIIGA",
-    "team": "KooKoo",
-    "opponent": "Jokerit",
-    "arena": "Kouvolan Jäähalli",
-    "city": "Kouvola, Finland",
-    "date": "2026-10-24T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102467",
-    "league": "LIIGA",
-    "team": "Oulun Kärpät",
-    "opponent": "KalPa",
-    "arena": "Oulun Energia Areena",
-    "city": "Oulu, Finland",
-    "date": "2026-10-24T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102468",
-    "league": "LIIGA",
-    "team": "Lahti Pelicans",
-    "opponent": "Tappara",
-    "arena": "Wemasto Areena",
-    "city": "Lahti, Finland",
-    "date": "2026-10-24T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102469",
-    "league": "LIIGA",
-    "team": "TPS",
-    "opponent": "Rauman Lukko",
-    "arena": "Gatorade Center",
-    "city": "Turku, Finland",
-    "date": "2026-10-24T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102470",
-    "league": "LIIGA",
-    "team": "Vaasan Sport",
-    "opponent": "SaiPa",
-    "arena": "Vaasan Sähkö Areena",
-    "city": "Vaasa, Finland",
-    "date": "2026-10-24T14:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102771",
-    "league": "LIIGA",
-    "team": "KalPa",
-    "opponent": "Vaasan Sport",
-    "arena": "Olvi Arena",
-    "city": "Kuopio, Finland",
-    "date": "2026-10-27T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102872",
-    "league": "LIIGA",
-    "team": "Mikkelin Jukurit",
-    "opponent": "Rauman Lukko",
-    "arena": "Let's Go Areena",
-    "city": "Mikkeli, Finland",
-    "date": "2026-10-28T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102873",
-    "league": "LIIGA",
-    "team": "JYP",
-    "opponent": "Tappara",
-    "arena": "LähiTapiola Areena",
-    "city": "Jyväskylä, Finland",
-    "date": "2026-10-28T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102874",
-    "league": "LIIGA",
-    "team": "Kiekko-Espoo",
-    "opponent": "TPS",
-    "arena": "Espoo Metro Areena",
-    "city": "Espoo, Finland",
-    "date": "2026-10-28T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102875",
-    "league": "LIIGA",
-    "team": "KooKoo",
-    "opponent": "Porin Ässät",
-    "arena": "Kouvolan Jäähalli",
-    "city": "Kouvola, Finland",
-    "date": "2026-10-28T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102876",
-    "league": "LIIGA",
-    "team": "Oulun Kärpät",
-    "opponent": "HPK",
-    "arena": "Oulun Energia Areena",
-    "city": "Oulu, Finland",
-    "date": "2026-10-28T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102877",
-    "league": "LIIGA",
-    "team": "Lahti Pelicans",
-    "opponent": "SaiPa",
-    "arena": "Wemasto Areena",
-    "city": "Lahti, Finland",
-    "date": "2026-10-28T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026102878",
-    "league": "LIIGA",
-    "team": "HIFK",
-    "opponent": "Tampereen Ilves",
-    "arena": "Helsinki Ice Hall",
-    "city": "Helsinki, Finland",
-    "date": "2026-10-28T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026103079",
-    "league": "LIIGA",
-    "team": "HPK",
-    "opponent": "Kiekko-Espoo",
-    "arena": "Pohjantähti Areena",
-    "city": "Hämeenlinna, Finland",
-    "date": "2026-10-30T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026103080",
-    "league": "LIIGA",
-    "team": "Rauman Lukko",
-    "opponent": "KooKoo",
-    "arena": "Kivikylän Areena",
-    "city": "Rauma, Finland",
-    "date": "2026-10-30T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026103081",
-    "league": "LIIGA",
-    "team": "SaiPa",
-    "opponent": "JYP",
-    "arena": "Lappeenrannan kisapuiston jäähalli",
-    "city": "Lappeenranta, Finland",
-    "date": "2026-10-30T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026103082",
-    "league": "LIIGA",
-    "team": "TPS",
-    "opponent": "Lahti Pelicans",
-    "arena": "Gatorade Center",
-    "city": "Turku, Finland",
-    "date": "2026-10-30T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026103083",
-    "league": "LIIGA",
-    "team": "Porin Ässät",
-    "opponent": "HIFK",
-    "arena": "Enersense Areena",
-    "city": "Pori, Finland",
-    "date": "2026-10-30T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026103084",
-    "league": "LIIGA",
-    "team": "Tappara",
-    "opponent": "Tampereen Ilves",
-    "arena": "Nokia Arena",
-    "city": "Tampere, Finland",
-    "date": "2026-10-30T16:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026103085",
-    "league": "LIIGA",
-    "team": "KalPa",
-    "opponent": "Jokerit",
-    "arena": "Olvi Arena",
-    "city": "Kuopio, Finland",
-    "date": "2026-10-30T17:30:00Z"
-  },
-  
-  {
-    "id": "liiga_2026103186",
-    "league": "LIIGA",
-    "team": "Tampereen Ilves",
-    "opponent": "KalPa",
-    "arena": "Nokia Arena",
-    "city": "Tampere, Finland",
-    "date": "2026-10-31T15:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026103187",
-    "league": "LIIGA",
-    "team": "JYP",
-    "opponent": "Jokerit",
-    "arena": "LähiTapiola Areena",
-    "city": "Jyväskylä, Finland",
-    "date": "2026-10-31T15:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026103188",
-    "league": "LIIGA",
-    "team": "KooKoo",
-    "opponent": "HIFK",
-    "arena": "Kouvolan Jäähalli",
-    "city": "Kouvola, Finland",
-    "date": "2026-10-31T15:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026103189",
-    "league": "LIIGA",
-    "team": "Oulun Kärpät",
-    "opponent": "Mikkelin Jukurit",
-    "arena": "Oulun Energia Areena",
-    "city": "Oulu, Finland",
-    "date": "2026-10-31T15:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026103190",
-    "league": "LIIGA",
-    "team": "Lahti Pelicans",
-    "opponent": "Kiekko-Espoo",
-    "arena": "Wemasto Areena",
-    "city": "Lahti, Finland",
-    "date": "2026-10-31T15:00:00Z"
-  },
-  
-  {
-    "id": "liiga_2026103191",
-    "league": "LIIGA",
-    "team": "Vaasan Sport",
-    "opponent": "Porin Ässät",
-    "arena": "Vaasan Sähkö Areena",
-    "city": "Vaasa, Finland",
-    "date": "2026-10-31T15:00:00Z"
-  }
 ]
