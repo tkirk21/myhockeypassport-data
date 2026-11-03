@@ -1,761 +1,1391 @@
 [
   {
-    "id": "ushl_2026100201",
-    "league": "USHL",
-    "team": "Youngstown Phantoms",
-    "opponent": "Fargo Force",
-    "arena": "Covelli Centre",
-    "city": "Youngstown, Ohio",
-    "date": "2026-10-02"
-  },
-  
-  {
-    "id": "ushl_2026100202",
-    "league": "USHL",
-    "team": "Muskegon Lumberjacks",
-    "opponent": "Madison Capitols",
-    "arena": "Trinity Health Arena",
-    "city": "Muskegon, Michigan",
-    "date": "2026-10-02"
-  },
-  
-  {
-    "id": "ushl_2026100203",
-    "league": "USHL",
-    "team": "Waterloo Black Hawks",
-    "opponent": "Dubuque Fighting Saints",
-    "arena": "Young Arena",
-    "city": "Waterloo, Iowa",
-    "date": "2026-10-02"
-  },
-  
-  {
-    "id": "ushl_2026100204",
-    "league": "USHL",
-    "team": "Cedar Rapids RoughRiders",
-    "opponent": "Chicago Steel",
-    "arena": "ImOn Ice Arena (Cedar Rapids)",
-    "city": "Cedar Rapids, Iowa",
-    "date": "2026-10-02"
-  },
-  
-  {
-    "id": "ushl_2026100205",
-    "league": "USHL",
-    "team": "Sioux City Musketeers",
-    "opponent": "Sioux Falls Stampede",
-    "arena": "Tyson Events Center",
-    "city": "Sioux City, Iowa",
-    "date": "2026-10-02"
-  },
-  
-  {
-    "id": "ushl_2026100206",
-    "league": "USHL",
-    "team": "Des Moines Buccaneers",
-    "opponent": "Omaha Lancers",
-    "arena": "MidAmerican Energy Company RecPlex",
-    "city": "West Des Moines, Iowa",
-    "date": "2026-10-02"
-  },
-  
-  {
-    "id": "ushl_2026100207",
-    "league": "USHL",
-    "team": "Lincoln Stars",
-    "opponent": "Tri-City Storm",
-    "arena": "Ice Box",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-10-02"
-  },
-  
-  {
-    "id": "ushl_2026100308",
-    "league": "USHL",
-    "team": "Youngstown Phantoms",
-    "opponent": "Fargo Force",
-    "arena": "Covelli Centre",
-    "city": "Youngstown, Ohio",
-    "date": "2026-10-03"
-  },
-  
-  {
-    "id": "ushl_2026100309",
-    "league": "USHL",
-    "team": "Muskegon Lumberjacks",
-    "opponent": "Madison Capitols",
-    "arena": "Trinity Health Arena",
-    "city": "Muskegon, Michigan",
-    "date": "2026-10-03"
-  },
-  
-  {
-    "id": "ushl_2026100310",
-    "league": "USHL",
-    "team": "Chicago Steel",
-    "opponent": "Green Bay Gamblers",
-    "arena": "USG Arena",
-    "city": "Geneva, Illinois",
-    "date": "2026-10-03"
-  },
-  
-  {
-    "id": "ushl_2026100311",
-    "league": "USHL",
-    "team": "Des Moines Buccaneers",
-    "opponent": "Tri-City Storm",
-    "arena": "MidAmerican Energy Company RecPlex",
-    "city": "West Des Moines, Iowa",
-    "date": "2026-10-03"
-  },
-  
-  {
-    "id": "ushl_2026100312",
-    "league": "USHL",
-    "team": "Sioux Falls Stampede",
-    "opponent": "Sioux City Musketeers",
-    "arena": "Denny Sanford PREMIER Center",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-10-03"
-  },
-  
-  {
-    "id": "ushl_2026100313",
-    "league": "USHL",
-    "team": "Dubuque Fighting Saints",
-    "opponent": "Cedar Rapids RoughRiders",
-    "arena": "ImOn Arena (Dubuque)",
-    "city": "Dubuque, Iowa",
-    "date": "2026-10-03"
-  },
-  
-  {
-    "id": "ushl_2026100614",
-    "league": "USHL",
-    "team": "Green Bay Gamblers",
-    "opponent": "Cedar Rapids RoughRiders",
-    "arena": "Resch Center",
-    "city": "Ashwaubenon, Wisconsin",
-    "date": "2026-10-06"
-  },
-  
-  {
-    "id": "ushl_2026100915",
-    "league": "USHL",
-    "team": "USA Hockey National Team Development Program",
-    "opponent": "Tri-City Storm",
-    "arena": "USA Hockey Arena",
-    "city": "Plymouth, Michigan",
-    "date": "2026-10-09"
-  },
-  
-  {
-    "id": "ushl_2026100916",
-    "league": "USHL",
-    "team": "Chicago Steel",
-    "opponent": "Muskegon Lumberjacks",
-    "arena": "USG Arena",
-    "city": "Geneva, Illinois",
-    "date": "2026-10-09"
-  },
-  
-  {
-    "id": "ushl_2026100917",
-    "league": "USHL",
-    "team": "Cedar Rapids RoughRiders",
-    "opponent": "Madison Capitols",
-    "arena": "ImOn Ice Arena (Cedar Rapids)",
-    "city": "Cedar Rapids, Iowa",
-    "date": "2026-10-09"
-  },
-  
-  {
-    "id": "ushl_2026100918",
-    "league": "USHL",
-    "team": "Dubuque Fighting Saints",
-    "opponent": "Youngstown Phantoms",
-    "arena": "ImOn Arena (Dubuque)",
-    "city": "Dubuque, Iowa",
-    "date": "2026-10-09"
-  },
-  
-  {
-    "id": "ushl_2026100919",
-    "league": "USHL",
-    "team": "Sioux City Musketeers",
-    "opponent": "Green Bay Gamblers",
-    "arena": "Tyson Events Center",
-    "city": "Sioux City, Iowa",
-    "date": "2026-10-09"
-  },
-  
-  {
-    "id": "ushl_2026100920",
-    "league": "USHL",
-    "team": "Lincoln Stars",
-    "opponent": "Des Moines Buccaneers",
-    "arena": "Ice Box",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-10-09"
-  },
-  
-  {
-    "id": "ushl_2026100921",
-    "league": "USHL",
-    "team": "Sioux Falls Stampede",
-    "opponent": "Fargo Force",
-    "arena": "Denny Sanford PREMIER Center",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-10-09"
-  },
-  
-  {
-    "id": "ushl_2026101022",
-    "league": "USHL",
-    "team": "Chicago Steel",
-    "opponent": "Muskegon Lumberjacks",
-    "arena": "USG Arena",
-    "city": "Geneva, Illinois",
-    "date": "2026-10-10"
-  },
-  
-  {
-    "id": "ushl_2026101023",
-    "league": "USHL",
-    "team": "USA Hockey National Team Development Program",
-    "opponent": "Tri-City Storm",
-    "arena": "USA Hockey Arena",
-    "city": "Plymouth, Michigan",
-    "date": "2026-10-10"
-  },
-  
-  {
-    "id": "ushl_2026101024",
-    "league": "USHL",
-    "team": "Sioux City Musketeers",
-    "opponent": "Green Bay Gamblers",
-    "arena": "Tyson Events Center",
-    "city": "Sioux City, Iowa",
-    "date": "2026-10-10"
-  },
-  
-  {
-    "id": "ushl_2026101025",
-    "league": "USHL",
-    "team": "Des Moines Buccaneers",
-    "opponent": "Lincoln Stars",
-    "arena": "MidAmerican Energy Company RecPlex",
-    "city": "West Des Moines, Iowa",
-    "date": "2026-10-10"
-  },
-  
-  {
-    "id": "ushl_2026101026",
-    "league": "USHL",
-    "team": "Fargo Force",
-    "opponent": "Sioux Falls Stampede",
-    "arena": "Scheels Arena",
-    "city": "Fargo, North Dakota",
-    "date": "2026-10-10"
-  },
-  
-  {
-    "id": "ushl_2026101027",
-    "league": "USHL",
-    "team": "Waterloo Black Hawks",
-    "opponent": "Madison Capitols",
-    "arena": "Young Arena",
-    "city": "Waterloo, Iowa",
-    "date": "2026-10-10"
-  },
-  
-  {
-    "id": "ushl_2026101028",
-    "league": "USHL",
-    "team": "Cedar Rapids RoughRiders",
-    "opponent": "Omaha Lancers",
-    "arena": "ImOn Ice Arena (Cedar Rapids)",
-    "city": "Cedar Rapids, Iowa",
-    "date": "2026-10-10"
-  },
-  
-  {
-    "id": "ushl_2026101029",
-    "league": "USHL",
-    "team": "Dubuque Fighting Saints",
-    "opponent": "Youngstown Phantoms",
-    "arena": "ImOn Arena (Dubuque)",
-    "city": "Dubuque, Iowa",
-    "date": "2026-10-10"
-  },
-  
-  {
-    "id": "ushl_2026101230",
-    "league": "USHL",
-    "team": "Sioux Falls Stampede",
-    "opponent": "Lincoln Stars",
-    "arena": "Denny Sanford PREMIER Center",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-10-12"
-  },
-  
-  {
-    "id": "ushl_2026101331",
-    "league": "USHL",
-    "team": "Youngstown Phantoms",
-    "opponent": "USA Hockey National Team Development Program",
-    "arena": "Covelli Centre",
-    "city": "Youngstown, Ohio",
-    "date": "2026-10-13"
-  },
-  
-  {
-    "id": "ushl_2026101532",
-    "league": "USHL",
-    "team": "Fargo Force",
-    "opponent": "Green Bay Gamblers",
-    "arena": "Scheels Arena",
-    "city": "Fargo, North Dakota",
-    "date": "2026-10-15"
-  },
-  
-  {
-    "id": "ushl_2026101633",
-    "league": "USHL",
-    "team": "USA Hockey National Team Development Program",
-    "opponent": "Dubuque Fighting Saints",
-    "arena": "USA Hockey Arena",
-    "city": "Plymouth, Michigan",
-    "date": "2026-10-16"
-  },
-  
-  {
-    "id": "ushl_2026101634",
-    "league": "USHL",
-    "team": "Muskegon Lumberjacks",
-    "opponent": "Youngstown Phantoms",
-    "arena": "Trinity Health Arena",
-    "city": "Muskegon, Michigan",
-    "date": "2026-10-16"
-  },
-  
-  {
-    "id": "ushl_2026101635",
-    "league": "USHL",
-    "team": "Cedar Rapids RoughRiders",
-    "opponent": "Sioux Falls Stampede",
-    "arena": "ImOn Ice Arena (Cedar Rapids)",
-    "city": "Cedar Rapids, Iowa",
-    "date": "2026-10-16"
-  },
-  
-  {
-    "id": "ushl_2026101636",
-    "league": "USHL",
-    "team": "Des Moines Buccaneers",
-    "opponent": "Waterloo Black Hawks",
-    "arena": "MidAmerican Energy Company RecPlex",
-    "city": "West Des Moines, Iowa",
-    "date": "2026-10-16"
-  },
-  
-  {
-    "id": "ushl_2026101637",
-    "league": "USHL",
-    "team": "Fargo Force",
-    "opponent": "Green Bay Gamblers",
-    "arena": "Scheels Arena",
-    "city": "Fargo, North Dakota",
-    "date": "2026-10-16"
-  },
-  
-  {
-    "id": "ushl_2026101638",
-    "league": "USHL",
-    "team": "Tri-City Storm",
-    "opponent": "Omaha Lancers",
-    "arena": "Viaero Center",
-    "city": "Kearney, Nebraska",
-    "date": "2026-10-16"
-  },
-  
-  {
-    "id": "ushl_2026101739",
-    "league": "USHL",
-    "team": "USA Hockey National Team Development Program",
-    "opponent": "Dubuque Fighting Saints",
-    "arena": "USA Hockey Arena",
-    "city": "Plymouth, Michigan",
-    "date": "2026-10-17"
-  },
-  
-  {
-    "id": "ushl_2026101740",
-    "league": "USHL",
-    "team": "Muskegon Lumberjacks",
-    "opponent": "Youngstown Phantoms",
-    "arena": "Trinity Health Arena",
-    "city": "Muskegon, Michigan",
-    "date": "2026-10-17"
-  },
-  
-  {
-    "id": "ushl_2026101741",
-    "league": "USHL",
-    "team": "Madison Capitols",
-    "opponent": "Chicago Steel",
-    "arena": "Bob Suter's LEGACY20 Arena Middleton",
-    "city": "Middleton, Wisconsin",
-    "date": "2026-10-17"
-  },
-  
-  {
-    "id": "ushl_2026101742",
-    "league": "USHL",
-    "team": "Lincoln Stars",
-    "opponent": "Sioux City Musketeers",
-    "arena": "Ice Box",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-10-17"
-  },
-  
-  {
-    "id": "ushl_2026101743",
-    "league": "USHL",
-    "team": "Omaha Lancers",
-    "opponent": "Tri-City Storm",
-    "arena": "Liberty First Credit Union Arena",
-    "city": "Ralston, Nebraska",
-    "date": "2026-10-17"
-  },
-  
-  {
-    "id": "ushl_2026101744",
-    "league": "USHL",
-    "team": "Waterloo Black Hawks",
-    "opponent": "Des Moines Buccaneers",
-    "arena": "Young Arena",
-    "city": "Waterloo, Iowa",
-    "date": "2026-10-17"
-  },
-  
-  {
-    "id": "ushl_2026101745",
-    "league": "USHL",
-    "team": "Cedar Rapids RoughRiders",
-    "opponent": "Sioux Falls Stampede",
-    "arena": "ImOn Ice Arena (Cedar Rapids)",
-    "city": "Cedar Rapids, Iowa",
-    "date": "2026-10-17"
-  },
-  
-  {
-    "id": "ushl_2026101846",
-    "league": "USHL",
-    "team": "USA Hockey National Team Development Program",
-    "opponent": "Dubuque Fighting Saints",
-    "arena": "USA Hockey Arena",
-    "city": "Plymouth, Michigan",
-    "date": "2026-10-18"
-  },
-  
-  {
-    "id": "ushl_2026101847",
-    "league": "USHL",
-    "team": "Tri-City Storm",
-    "opponent": "Sioux City Musketeers",
-    "arena": "Viaero Center",
-    "city": "Kearney, Nebraska",
-    "date": "2026-10-18"
-  },
-  
-  {
-    "id": "ushl_2026102048",
-    "league": "USHL",
-    "team": "Sioux Falls Stampede",
-    "opponent": "Lincoln Stars",
-    "arena": "Denny Sanford PREMIER Center",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-10-20"
-  },
-  
-  {
-    "id": "ushl_2026102249",
-    "league": "USHL",
-    "team": "Fargo Force",
-    "opponent": "Cedar Rapids RoughRiders",
-    "arena": "Scheels Arena",
-    "city": "Fargo, North Dakota",
-    "date": "2026-10-22"
-  },
-  
-  {
-    "id": "ushl_2026102350",
-    "league": "USHL",
-    "team": "Chicago Steel",
-    "opponent": "Youngstown Phantoms",
-    "arena": "USG Arena",
-    "city": "Geneva, Illinois",
-    "date": "2026-10-23"
-  },
-  
-  {
-    "id": "ushl_2026102351",
-    "league": "USHL",
-    "team": "Dubuque Fighting Saints",
-    "opponent": "Sioux City Musketeers",
-    "arena": "ImOn Arena (Dubuque)",
-    "city": "Dubuque, Iowa",
-    "date": "2026-10-23"
-  },
-  
-  {
-    "id": "ushl_2026102352",
-    "league": "USHL",
-    "team": "Green Bay Gamblers",
-    "opponent": "Des Moines Buccaneers",
-    "arena": "Resch Center",
-    "city": "Ashwaubenon, Wisconsin",
-    "date": "2026-10-23"
-  },
-  
-  {
-    "id": "ushl_2026102353",
-    "league": "USHL",
-    "team": "Madison Capitols",
-    "opponent": "Waterloo Black Hawks",
-    "arena": "Bob Suter's LEGACY20 Arena Middleton",
-    "city": "Middleton, Wisconsin",
-    "date": "2026-10-23"
-  },
-  
-  {
-    "id": "ushl_2026102354",
-    "league": "USHL",
-    "team": "Fargo Force",
-    "opponent": "Cedar Rapids RoughRiders",
-    "arena": "Scheels Arena",
-    "city": "Fargo, North Dakota",
-    "date": "2026-10-23"
-  },
-  
-  {
-    "id": "ushl_2026102355",
-    "league": "USHL",
-    "team": "Lincoln Stars",
-    "opponent": "Muskegon Lumberjacks",
-    "arena": "Ice Box",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-10-23"
-  },
-  
-  {
-    "id": "ushl_2026102356",
-    "league": "USHL",
-    "team": "Sioux Falls Stampede",
-    "opponent": "Omaha Lancers",
-    "arena": "Denny Sanford PREMIER Center",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-10-23"
-  },
-  
-  {
-    "id": "ushl_2026102457",
-    "league": "USHL",
-    "team": "Chicago Steel",
-    "opponent": "Youngstown Phantoms",
-    "arena": "USG Arena",
-    "city": "Geneva, Illinois",
-    "date": "2026-10-24"
-  },
-  
-  {
-    "id": "ushl_2026102458",
-    "league": "USHL",
-    "team": "Green Bay Gamblers",
-    "opponent": "Des Moines Buccaneers",
-    "arena": "Resch Center",
-    "city": "Ashwaubenon, Wisconsin",
-    "date": "2026-10-24"
-  },
-  
-  {
-    "id": "ushl_2026102459",
-    "league": "USHL",
-    "team": "Madison Capitols",
-    "opponent": "Waterloo Black Hawks",
-    "arena": "Bob Suter's LEGACY20 Arena Middleton",
-    "city": "Middleton, Wisconsin",
-    "date": "2026-10-24"
-  },
-  
-  {
-    "id": "ushl_2026102460",
-    "league": "USHL",
-    "team": "Lincoln Stars",
-    "opponent": "Muskegon Lumberjacks",
-    "arena": "Ice Box",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-10-24"
-  },
-  
-  {
-    "id": "ushl_2026102461",
-    "league": "USHL",
-    "team": "Omaha Lancers",
-    "opponent": "Tri-City Storm",
-    "arena": "Liberty First Credit Union Arena",
-    "city": "Ralston, Nebraska",
-    "date": "2026-10-24"
-  },
-  
-  {
-    "id": "ushl_2026102462",
-    "league": "USHL",
-    "team": "Dubuque Fighting Saints",
-    "opponent": "Sioux City Musketeers",
-    "arena": "ImOn Arena (Dubuque)",
-    "city": "Dubuque, Iowa",
-    "date": "2026-10-24"
-  },
-  
-  {
-    "id": "ushl_2026102563",
-    "league": "USHL",
-    "team": "Sioux Falls Stampede",
-    "opponent": "Fargo Force",
-    "arena": "Denny Sanford PREMIER Center",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-10-25"
-  },
-  
-  {
-    "id": "ushl_2026102864",
-    "league": "USHL",
-    "team": "USA Hockey National Team Development Program",
-    "opponent": "Muskegon Lumberjacks",
-    "arena": "USA Hockey Arena",
-    "city": "Plymouth, Michigan",
-    "date": "2026-10-28"
-  },
-  
-  {
-    "id": "ushl_2026103065",
-    "league": "USHL",
-    "team": "Waterloo Black Hawks",
-    "opponent": "Sioux City Musketeers",
-    "arena": "Young Arena",
-    "city": "Waterloo, Iowa",
-    "date": "2026-10-30"
-  },
-  
-  {
-    "id": "ushl_2026103066",
-    "league": "USHL",
-    "team": "Green Bay Gamblers",
-    "opponent": "Sioux Falls Stampede",
-    "arena": "Resch Center",
-    "city": "Ashwaubenon, Wisconsin",
-    "date": "2026-10-30"
-  },
-  
-  {
-    "id": "ushl_2026103067",
-    "league": "USHL",
-    "team": "Madison Capitols",
-    "opponent": "Cedar Rapids RoughRiders",
-    "arena": "Bob Suter's LEGACY20 Arena Middleton",
-    "city": "Middleton, Wisconsin",
-    "date": "2026-10-30"
-  },
-  
-  {
-    "id": "ushl_2026103068",
-    "league": "USHL",
-    "team": "Des Moines Buccaneers",
-    "opponent": "Youngstown Phantoms",
-    "arena": "MidAmerican Energy Company RecPlex",
-    "city": "West Des Moines, Iowa",
-    "date": "2026-10-30"
-  },
-  
-  {
-    "id": "ushl_2026103069",
-    "league": "USHL",
-    "team": "Lincoln Stars",
-    "opponent": "Omaha Lancers",
-    "arena": "Ice Box",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-10-30"
-  },
-  
-  {
-    "id": "ushl_2026103070",
-    "league": "USHL",
-    "team": "Tri-City Storm",
-    "opponent": "Chicago Steel",
-    "arena": "Viaero Center",
-    "city": "Kearney, Nebraska",
-    "date": "2026-10-30"
-  },
-  
-  {
-    "id": "ushl_2026103171",
-    "league": "USHL",
-    "team": "Green Bay Gamblers",
-    "opponent": "Sioux Falls Stampede",
-    "arena": "Resch Center",
-    "city": "Ashwaubenon, Wisconsin",
-    "date": "2026-10-31"
-  },
-  
-  {
-    "id": "ushl_2026103172",
-    "league": "USHL",
-    "team": "Waterloo Black Hawks",
-    "opponent": "Dubuque Fighting Saints",
-    "arena": "Young Arena",
-    "city": "Waterloo, Iowa",
-    "date": "2026-10-31"
-  },
-  
-  {
-    "id": "ushl_2026103173",
-    "league": "USHL",
-    "team": "Sioux City Musketeers",
-    "opponent": "Fargo Force",
-    "arena": "Tyson Events Center",
-    "city": "Sioux City, Iowa",
-    "date": "2026-10-31"
-  },
-  
-  {
-    "id": "ushl_2026103174",
-    "league": "USHL",
-    "team": "Des Moines Buccaneers",
-    "opponent": "Youngstown Phantoms",
-    "arena": "MidAmerican Energy Company RecPlex",
-    "city": "West Des Moines, Iowa",
-    "date": "2026-10-31"
-  },
-  
-  {
-    "id": "ushl_2026103175",
-    "league": "USHL",
-    "team": "Tri-City Storm",
-    "opponent": "Chicago Steel",
-    "arena": "Viaero Center",
-    "city": "Kearney, Nebraska",
-    "date": "2026-10-31"
-  },
-  
-  {
-    "id": "ushl_2026103176",
-    "league": "USHL",
-    "team": "Omaha Lancers",
-    "opponent": "Lincoln Stars",
-    "arena": "Liberty First Credit Union Arena",
-    "city": "Ralston, Nebraska",
-    "date": "2026-10-31"
-  }
+  "id": "ushl_2026110101",
+  "league": "USHL",
+  "team": "Dubuque Fighting Saints",
+  "opponent": "Waterloo Black Hawks",
+  "arena": "ImOn Arena",
+  "city": "Dubuque, Iowa",
+  "date": "2026-11-01"
+},
+
+{
+  "id": "ushl_2026110102",
+  "league": "USHL",
+  "team": "Sioux City Musketeers",
+  "opponent": "Fargo Force",
+  "arena": "Tyson Events Center",
+  "city": "Sioux City, Iowa",
+  "date": "2026-11-01"
+},
+
+{
+  "id": "ushl_2026110603",
+  "league": "USHL",
+  "team": "Youngstown Phantoms",
+  "opponent": "Madison Capitols",
+  "arena": "Covelli Centre",
+  "city": "Youngstown, Ohio",
+  "date": "2026-11-06"
+},
+
+{
+  "id": "ushl_2026110604",
+  "league": "USHL",
+  "team": "Waterloo Black Hawks",
+  "opponent": "Lincoln Stars",
+  "arena": "Young Arena",
+  "city": "Waterloo, Iowa",
+  "date": "2026-11-06"
+},
+
+{
+  "id": "ushl_2026110605",
+  "league": "USHL",
+  "team": "Chicago Steel",
+  "opponent": "Des Moines Buccaneers",
+  "arena": "USG Arena",
+  "city": "Geneva, Illinois",
+  "date": "2026-11-06"
+},
+
+{
+  "id": "ushl_2026110606",
+  "league": "USHL",
+  "team": "Cedar Rapids RoughRiders",
+  "opponent": "Green Bay Gamblers",
+  "arena": "ImOn Ice Arena (Cedar Rapids)",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-11-06"
+},
+
+{
+  "id": "ushl_2026110607",
+  "league": "USHL",
+  "team": "Dubuque Fighting Saints",
+  "opponent": "Muskegon Lumberjacks",
+  "arena": "ImOn Arena",
+  "city": "Dubuque, Iowa",
+  "date": "2026-11-06"
+},
+
+{
+  "id": "ushl_2026110608",
+  "league": "USHL",
+  "team": "Sioux City Musketeers",
+  "opponent": "Sioux Falls Stampede",
+  "arena": "Tyson Events Center",
+  "city": "Sioux City, Iowa",
+  "date": "2026-11-06"
+},
+
+{
+  "id": "ushl_2026110609",
+  "league": "USHL",
+  "team": "Tri-City Storm",
+  "opponent": "Omaha Lancers",
+  "arena": "Viaero Center",
+  "city": "Kearney, Nebraska",
+  "date": "2026-11-06"
+},
+
+{
+  "id": "ushl_2026110710",
+  "league": "USHL",
+  "team": "Youngstown Phantoms",
+  "opponent": "Madison Capitols",
+  "arena": "Covelli Centre",
+  "city": "Youngstown, Ohio",
+  "date": "2026-11-07"
+},
+
+{
+  "id": "ushl_2026110711",
+  "league": "USHL",
+  "team": "Chicago Steel",
+  "opponent": "Des Moines Buccaneers",
+  "arena": "USG Arena",
+  "city": "Geneva, Illinois",
+  "date": "2026-11-07"
+},
+
+{
+  "id": "ushl_2026110712",
+  "league": "USHL",
+  "team": "Sioux City Musketeers",
+  "opponent": "Omaha Lancers",
+  "arena": "Tyson Events Center",
+  "city": "Sioux City, Iowa",
+  "date": "2026-11-07"
+},
+
+{
+  "id": "ushl_2026110713",
+  "league": "USHL",
+  "team": "Lincoln Stars",
+  "opponent": "Waterloo Black Hawks",
+  "arena": "Ice Box",
+  "city": "Lincoln, Nebraska",
+  "date": "2026-11-07"
+},
+
+{
+  "id": "ushl_2026110714",
+  "league": "USHL",
+  "team": "Sioux Falls Stampede",
+  "opponent": "Fargo Force",
+  "arena": "Denny Sanford PREMIER Center",
+  "city": "Sioux Falls, South Dakota",
+  "date": "2026-11-07"
+},
+
+{
+  "id": "ushl_2026110715",
+  "league": "USHL",
+  "team": "Cedar Rapids RoughRiders",
+  "opponent": "Green Bay Gamblers",
+  "arena": "ImOn Ice Arena (Cedar Rapids)",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-11-07"
+},
+
+{
+  "id": "ushl_2026110716",
+  "league": "USHL",
+  "team": "Dubuque Fighting Saints",
+  "opponent": "Muskegon Lumberjacks",
+  "arena": "ImOn Arena",
+  "city": "Dubuque, Iowa",
+  "date": "2026-11-07"
+},
+
+{
+  "id": "ushl_2026111017",
+  "league": "USHL",
+  "team": "Sioux Falls Stampede",
+  "opponent": "Fargo Force",
+  "arena": "Denny Sanford PREMIER Center",
+  "city": "Sioux Falls, South Dakota",
+  "date": "2026-11-10"
+},
+
+{
+  "id": "ushl_2026111118",
+  "league": "USHL",
+  "team": "Green Bay Gamblers",
+  "opponent": "Chicago Steel",
+  "arena": "Resch Center",
+  "city": "Ashwaubenon, Wisconsin",
+  "date": "2026-11-11"
+},
+
+{
+  "id": "ushl_2026111319",
+  "league": "USHL",
+  "team": "USA Hockey National Team Development Program",
+  "opponent": "Chicago Steel",
+  "arena": "USA Hockey Arena",
+  "city": "Plymouth, Michigan",
+  "date": "2026-11-13"
+},
+
+{
+  "id": "ushl_2026111320",
+  "league": "USHL",
+  "team": "Youngstown Phantoms",
+  "opponent": "Waterloo Black Hawks",
+  "arena": "Covelli Centre",
+  "city": "Youngstown, Ohio",
+  "date": "2026-11-13"
+},
+
+{
+  "id": "ushl_2026111321",
+  "league": "USHL",
+  "team": "Muskegon Lumberjacks",
+  "opponent": "Cedar Rapids RoughRiders",
+  "arena": "Trinity Health Arena",
+  "city": "Muskegon, Michigan",
+  "date": "2026-11-13"
+},
+
+{
+  "id": "ushl_2026111322",
+  "league": "USHL",
+  "team": "Madison Capitols",
+  "opponent": "Green Bay Gamblers",
+  "arena": "LEGACY20 Arena at DeForest Yards",
+  "city": "Middleton, Wisconsin",
+  "date": "2026-11-13"
+},
+
+{
+  "id": "ushl_2026111323",
+  "league": "USHL",
+  "team": "Des Moines Buccaneers",
+  "opponent": "Dubuque Fighting Saints",
+  "arena": "MidAmerican Energy Company RecPlex",
+  "city": "West Des Moines, Iowa",
+  "date": "2026-11-13"
+},
+
+{
+  "id": "ushl_2026111324",
+  "league": "USHL",
+  "team": "Fargo Force",
+  "opponent": "Sioux City Musketeers",
+  "arena": "Scheels Arena",
+  "city": "Fargo, North Dakota",
+  "date": "2026-11-13"
+},
+
+{
+  "id": "ushl_2026111325",
+  "league": "USHL",
+  "team": "Omaha Lancers",
+  "opponent": "Sioux Falls Stampede",
+  "arena": "Liberty First Credit Union Arena",
+  "city": "Ralston, Nebraska",
+  "date": "2026-11-13"
+},
+
+{
+  "id": "ushl_2026111326",
+  "league": "USHL",
+  "team": "Tri-City Storm",
+  "opponent": "Lincoln Stars",
+  "arena": "Viaero Center",
+  "city": "Kearney, Nebraska",
+  "date": "2026-11-13"
+},
+
+{
+  "id": "ushl_2026111427",
+  "league": "USHL",
+  "team": "USA Hockey National Team Development Program",
+  "opponent": "Chicago Steel",
+  "arena": "USA Hockey Arena",
+  "city": "Plymouth, Michigan",
+  "date": "2026-11-14"
+},
+
+{
+  "id": "ushl_2026111428",
+  "league": "USHL",
+  "team": "Youngstown Phantoms",
+  "opponent": "Waterloo Black Hawks",
+  "arena": "Covelli Centre",
+  "city": "Youngstown, Ohio",
+  "date": "2026-11-14"
+},
+
+{
+  "id": "ushl_2026111429",
+  "league": "USHL",
+  "team": "Muskegon Lumberjacks",
+  "opponent": "Cedar Rapids RoughRiders",
+  "arena": "Trinity Health Arena",
+  "city": "Muskegon, Michigan",
+  "date": "2026-11-14"
+},
+
+{
+  "id": "ushl_2026111430",
+  "league": "USHL",
+  "team": "Green Bay Gamblers",
+  "opponent": "Madison Capitols",
+  "arena": "Resch Center",
+  "city": "Ashwaubenon, Wisconsin",
+  "date": "2026-11-14"
+},
+
+{
+  "id": "ushl_2026111431",
+  "league": "USHL",
+  "team": "Fargo Force",
+  "opponent": "Sioux City Musketeers",
+  "arena": "Scheels Arena",
+  "city": "Fargo, North Dakota",
+  "date": "2026-11-14"
+},
+
+{
+  "id": "ushl_2026111432",
+  "league": "USHL",
+  "team": "Lincoln Stars",
+  "opponent": "Sioux Falls Stampede",
+  "arena": "Ice Box",
+  "city": "Lincoln, Nebraska",
+  "date": "2026-11-14"
+},
+
+{
+  "id": "ushl_2026111433",
+  "league": "USHL",
+  "team": "Tri-City Storm",
+  "opponent": "Omaha Lancers",
+  "arena": "Viaero Center",
+  "city": "Kearney, Nebraska",
+  "date": "2026-11-14"
+},
+
+{
+  "id": "ushl_2026111434",
+  "league": "USHL",
+  "team": "Dubuque Fighting Saints",
+  "opponent": "Des Moines Buccaneers",
+  "arena": "ImOn Arena",
+  "city": "Dubuque, Iowa",
+  "date": "2026-11-14"
+},
+
+{
+  "id": "ushl_2026111535",
+  "league": "USHL",
+  "team": "Youngstown Phantoms",
+  "opponent": "Cedar Rapids RoughRiders",
+  "arena": "Covelli Centre",
+  "city": "Youngstown, Ohio",
+  "date": "2026-11-15"
+},
+
+{
+  "id": "ushl_2026111836",
+  "league": "USHL",
+  "team": "Sioux City Musketeers",
+  "opponent": "Omaha Lancers",
+  "arena": "Tyson Events Center",
+  "city": "Sioux City, Iowa",
+  "date": "2026-11-18"
+},
+
+{
+  "id": "ushl_2026111937",
+  "league": "USHL",
+  "team": "Tri-City Storm",
+  "opponent": "Dubuque Fighting Saints",
+  "arena": "Viaero Center",
+  "city": "Kearney, Nebraska",
+  "date": "2026-11-19"
+},
+
+{
+  "id": "ushl_2026112038",
+  "league": "USHL",
+  "team": "Youngstown Phantoms",
+  "opponent": "USA Hockey National Team Development Program",
+  "arena": "Covelli Centre",
+  "city": "Youngstown, Ohio",
+  "date": "2026-11-20"
+},
+
+{
+  "id": "ushl_2026112039",
+  "league": "USHL",
+  "team": "Waterloo Black Hawks",
+  "opponent": "Sioux Falls Stampede",
+  "arena": "Young Arena",
+  "city": "Waterloo, Iowa",
+  "date": "2026-11-20"
+},
+
+{
+  "id": "ushl_2026112040",
+  "league": "USHL",
+  "team": "Chicago Steel",
+  "opponent": "Green Bay Gamblers",
+  "arena": "USG Arena",
+  "city": "Geneva, Illinois",
+  "date": "2026-11-20"
+},
+
+{
+  "id": "ushl_2026112041",
+  "league": "USHL",
+  "team": "Cedar Rapids RoughRiders",
+  "opponent": "Sioux City Musketeers",
+  "arena": "ImOn Ice Arena (Cedar Rapids)",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-11-20"
+},
+
+{
+  "id": "ushl_2026112042",
+  "league": "USHL",
+  "team": "Madison Capitols",
+  "opponent": "Lincoln Stars",
+  "arena": "LEGACY20 Arena at DeForest Yards",
+  "city": "Middleton, Wisconsin",
+  "date": "2026-11-20"
+},
+
+{
+  "id": "ushl_2026112043",
+  "league": "USHL",
+  "team": "Des Moines Buccaneers",
+  "opponent": "Muskegon Lumberjacks",
+  "arena": "MidAmerican Energy Company RecPlex",
+  "city": "West Des Moines, Iowa",
+  "date": "2026-11-20"
+},
+
+{
+  "id": "ushl_2026112044",
+  "league": "USHL",
+  "team": "Omaha Lancers",
+  "opponent": "Fargo Force",
+  "arena": "Liberty First Credit Union Arena",
+  "city": "Ralston, Nebraska",
+  "date": "2026-11-20"
+},
+
+{
+  "id": "ushl_2026112045",
+  "league": "USHL",
+  "team": "Tri-City Storm",
+  "opponent": "Dubuque Fighting Saints",
+  "arena": "Viaero Center",
+  "city": "Kearney, Nebraska",
+  "date": "2026-11-20"
+},
+
+{
+  "id": "ushl_2026112146",
+  "league": "USHL",
+  "team": "USA Hockey National Team Development Program",
+  "opponent": "Youngstown Phantoms",
+  "arena": "USA Hockey Arena",
+  "city": "Plymouth, Michigan",
+  "date": "2026-11-21"
+},
+
+{
+  "id": "ushl_2026112147",
+  "league": "USHL",
+  "team": "Chicago Steel",
+  "opponent": "Green Bay Gamblers",
+  "arena": "USG Arena",
+  "city": "Geneva, Illinois",
+  "date": "2026-11-21"
+},
+
+{
+  "id": "ushl_2026112148",
+  "league": "USHL",
+  "team": "Madison Capitols",
+  "opponent": "Lincoln Stars",
+  "arena": "LEGACY20 Arena at DeForest Yards",
+  "city": "Middleton, Wisconsin",
+  "date": "2026-11-21"
+},
+
+{
+  "id": "ushl_2026112149",
+  "league": "USHL",
+  "team": "Omaha Lancers",
+  "opponent": "Fargo Force",
+  "arena": "Liberty First Credit Union Arena",
+  "city": "Ralston, Nebraska",
+  "date": "2026-11-21"
+},
+
+{
+  "id": "ushl_2026112150",
+  "league": "USHL",
+  "team": "Tri-City Storm",
+  "opponent": "Dubuque Fighting Saints",
+  "arena": "Viaero Center",
+  "city": "Kearney, Nebraska",
+  "date": "2026-11-21"
+},
+
+{
+  "id": "ushl_2026112151",
+  "league": "USHL",
+  "team": "Des Moines Buccaneers",
+  "opponent": "Muskegon Lumberjacks",
+  "arena": "MidAmerican Energy Company RecPlex",
+  "city": "West Des Moines, Iowa",
+  "date": "2026-11-21"
+},
+
+{
+  "id": "ushl_2026112152",
+  "league": "USHL",
+  "team": "Waterloo Black Hawks",
+  "opponent": "Sioux Falls Stampede",
+  "arena": "Young Arena",
+  "city": "Waterloo, Iowa",
+  "date": "2026-11-21"
+},
+
+{
+  "id": "ushl_2026112153",
+  "league": "USHL",
+  "team": "Cedar Rapids RoughRiders",
+  "opponent": "Sioux City Musketeers",
+  "arena": "ImOn Ice Arena (Cedar Rapids)",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-11-21"
+},
+
+{
+  "id": "ushl_2026112554",
+  "league": "USHL",
+  "team": "USA Hockey National Team Development Program",
+  "opponent": "Muskegon Lumberjacks",
+  "arena": "USA Hockey Arena",
+  "city": "Plymouth, Michigan",
+  "date": "2026-11-25"
+},
+
+{
+  "id": "ushl_2026112555",
+  "league": "USHL",
+  "team": "USA Hockey National Team Development Program",
+  "opponent": "Youngstown Phantoms",
+  "arena": "USA Hockey Arena",
+  "city": "Plymouth, Michigan",
+  "date": "2026-11-25"
+},
+
+{
+  "id": "ushl_2026112556",
+  "league": "USHL",
+  "team": "Chicago Steel",
+  "opponent": "Madison Capitols",
+  "arena": "USG Arena",
+  "city": "Geneva, Illinois",
+  "date": "2026-11-25"
+},
+
+{
+  "id": "ushl_2026112557",
+  "league": "USHL",
+  "team": "Sioux City Musketeers",
+  "opponent": "Des Moines Buccaneers",
+  "arena": "Tyson Events Center",
+  "city": "Sioux City, Iowa",
+  "date": "2026-11-25"
+},
+
+{
+  "id": "ushl_2026112558",
+  "league": "USHL",
+  "team": "Fargo Force",
+  "opponent": "Tri-City Storm",
+  "arena": "Scheels Arena",
+  "city": "Fargo, North Dakota",
+  "date": "2026-11-25"
+},
+
+{
+  "id": "ushl_2026112559",
+  "league": "USHL",
+  "team": "Lincoln Stars",
+  "opponent": "Omaha Lancers",
+  "arena": "Ice Box",
+  "city": "Lincoln, Nebraska",
+  "date": "2026-11-25"
+},
+
+{
+  "id": "ushl_2026112660",
+  "league": "USHL",
+  "team": "Waterloo Black Hawks",
+  "opponent": "Cedar Rapids RoughRiders",
+  "arena": "Young Arena",
+  "city": "Waterloo, Iowa",
+  "date": "2026-11-26"
+},
+
+{
+  "id": "ushl_2026112761",
+  "league": "USHL",
+  "team": "Lincoln Stars",
+  "opponent": "Sioux City Musketeers",
+  "arena": "Ice Box",
+  "city": "Lincoln, Nebraska",
+  "date": "2026-11-27"
+},
+
+{
+  "id": "ushl_2026112762",
+  "league": "USHL",
+  "team": "USA Hockey National Team Development Program",
+  "opponent": "Omaha Lancers",
+  "arena": "USA Hockey Arena",
+  "city": "Plymouth, Michigan",
+  "date": "2026-11-27"
+},
+
+{
+  "id": "ushl_2026112763",
+  "league": "USHL",
+  "team": "Muskegon Lumberjacks",
+  "opponent": "Madison Capitols",
+  "arena": "Trinity Health Arena",
+  "city": "Muskegon, Michigan",
+  "date": "2026-11-27"
+},
+
+{
+  "id": "ushl_2026112764",
+  "league": "USHL",
+  "team": "Dubuque Fighting Saints",
+  "opponent": "Youngstown Phantoms",
+  "arena": "ImOn Arena",
+  "city": "Dubuque, Iowa",
+  "date": "2026-11-27"
+},
+
+{
+  "id": "ushl_2026112765",
+  "league": "USHL",
+  "team": "Green Bay Gamblers",
+  "opponent": "USA Hockey National Team Development Program",
+  "arena": "Resch Center",
+  "city": "Ashwaubenon, Wisconsin",
+  "date": "2026-11-27"
+},
+
+{
+  "id": "ushl_2026112766",
+  "league": "USHL",
+  "team": "Des Moines Buccaneers",
+  "opponent": "Chicago Steel",
+  "arena": "MidAmerican Energy Company RecPlex",
+  "city": "West Des Moines, Iowa",
+  "date": "2026-11-27"
+},
+
+{
+  "id": "ushl_2026112767",
+  "league": "USHL",
+  "team": "Fargo Force",
+  "opponent": "Tri-City Storm",
+  "arena": "Scheels Arena",
+  "city": "Fargo, North Dakota",
+  "date": "2026-11-27"
+},
+
+{
+  "id": "ushl_2026112868",
+  "league": "USHL",
+  "team": "USA Hockey National Team Development Program",
+  "opponent": "Omaha Lancers",
+  "arena": "USA Hockey Arena",
+  "city": "Plymouth, Michigan",
+  "date": "2026-11-28"
+},
+
+{
+  "id": "ushl_2026112869",
+  "league": "USHL",
+  "team": "Muskegon Lumberjacks",
+  "opponent": "Madison Capitols",
+  "arena": "Trinity Health Arena",
+  "city": "Muskegon, Michigan",
+  "date": "2026-11-28"
+},
+
+{
+  "id": "ushl_2026112870",
+  "league": "USHL",
+  "team": "Green Bay Gamblers",
+  "opponent": "USA Hockey National Team Development Program",
+  "arena": "Resch Center",
+  "city": "Ashwaubenon, Wisconsin",
+  "date": "2026-11-28"
+},
+
+{
+  "id": "ushl_2026112871",
+  "league": "USHL",
+  "team": "Des Moines Buccaneers",
+  "opponent": "Chicago Steel",
+  "arena": "MidAmerican Energy Company RecPlex",
+  "city": "West Des Moines, Iowa",
+  "date": "2026-11-28"
+},
+
+{
+  "id": "ushl_2026112872",
+  "league": "USHL",
+  "team": "Fargo Force",
+  "opponent": "Tri-City Storm",
+  "arena": "Scheels Arena",
+  "city": "Fargo, North Dakota",
+  "date": "2026-11-28"
+},
+
+{
+  "id": "ushl_2026112873",
+  "league": "USHL",
+  "team": "Sioux Falls Stampede",
+  "opponent": "Lincoln Stars",
+  "arena": "Denny Sanford PREMIER Center",
+  "city": "Sioux Falls, South Dakota",
+  "date": "2026-11-28"
+},
+
+{
+  "id": "ushl_2026112874",
+  "league": "USHL",
+  "team": "Cedar Rapids RoughRiders",
+  "opponent": "Waterloo Black Hawks",
+  "arena": "ImOn Ice Arena (Cedar Rapids)",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-11-28"
+},
+
+{
+  "id": "ushl_2026112875",
+  "league": "USHL",
+  "team": "Dubuque Fighting Saints",
+  "opponent": "Youngstown Phantoms",
+  "arena": "ImOn Arena",
+  "city": "Dubuque, Iowa",
+  "date": "2026-11-28"
+},
+
+  {
+  "id": "ushl_2026120301",
+  "league": "USHL",
+  "team": "Muskegon Lumberjacks",
+  "opponent": "Youngstown Phantoms",
+  "arena": "Rochester Ice Center",
+  "city": "Muskegon, Michigan",
+  "date": "2026-12-03"
+},
+
+{
+  "id": "ushl_2026120402",
+  "league": "USHL",
+  "team": "Youngstown Phantoms",
+  "opponent": "Muskegon Lumberjacks",
+  "arena": "Rochester Ice Center",
+  "city": "Youngstown, Ohio",
+  "date": "2026-12-04"
+},
+
+{
+  "id": "ushl_2026120403",
+  "league": "USHL",
+  "team": "Chicago Steel",
+  "opponent": "Madison Capitols",
+  "arena": "USG Arena",
+  "city": "Geneva, Illinois",
+  "date": "2026-12-04"
+},
+
+{
+  "id": "ushl_2026120404",
+  "league": "USHL",
+  "team": "Dubuque Fighting Saints",
+  "opponent": "Green Bay Gamblers",
+  "arena": "ImOn Arena",
+  "city": "Dubuque, Iowa",
+  "date": "2026-12-04"
+},
+
+{
+  "id": "ushl_2026120405",
+  "league": "USHL",
+  "team": "Des Moines Buccaneers",
+  "opponent": "Cedar Rapids RoughRiders",
+  "arena": "MidAmerican Energy Company RecPlex",
+  "city": "West Des Moines, Iowa",
+  "date": "2026-12-04"
+},
+
+{
+  "id": "ushl_2026120406",
+  "league": "USHL",
+  "team": "Lincoln Stars",
+  "opponent": "Fargo Force",
+  "arena": "Ice Box",
+  "city": "Lincoln, Nebraska",
+  "date": "2026-12-04"
+},
+
+{
+  "id": "ushl_2026120407",
+  "league": "USHL",
+  "team": "Omaha Lancers",
+  "opponent": "Sioux City Musketeers",
+  "arena": "Liberty First Credit Union Arena",
+  "city": "Ralston, Nebraska",
+  "date": "2026-12-04"
+},
+
+{
+  "id": "ushl_2026120408",
+  "league": "USHL",
+  "team": "Tri-City Storm",
+  "opponent": "Waterloo Black Hawks",
+  "arena": "Viaero Center",
+  "city": "Kearney, Nebraska",
+  "date": "2026-12-04"
+},
+
+{
+  "id": "ushl_2026120509",
+  "league": "USHL",
+  "team": "Lincoln Stars",
+  "opponent": "Fargo Force",
+  "arena": "Ice Box",
+  "city": "Lincoln, Nebraska",
+  "date": "2026-12-05"
+},
+
+{
+  "id": "ushl_2026120510",
+  "league": "USHL",
+  "team": "Omaha Lancers",
+  "opponent": "Sioux Falls Stampede",
+  "arena": "Liberty First Credit Union Arena",
+  "city": "Ralston, Nebraska",
+  "date": "2026-12-05"
+},
+
+{
+  "id": "ushl_2026120511",
+  "league": "USHL",
+  "team": "Tri-City Storm",
+  "opponent": "Waterloo Black Hawks",
+  "arena": "Viaero Center",
+  "city": "Kearney, Nebraska",
+  "date": "2026-12-05"
+},
+
+{
+  "id": "ushl_2026120512",
+  "league": "USHL",
+  "team": "Cedar Rapids RoughRiders",
+  "opponent": "Chicago Steel",
+  "arena": "ImOn Ice Arena (Cedar Rapids)",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-12-05"
+},
+
+{
+  "id": "ushl_2026120513",
+  "league": "USHL",
+  "team": "Dubuque Fighting Saints",
+  "opponent": "Des Moines Buccaneers",
+  "arena": "ImOn Arena",
+  "city": "Dubuque, Iowa",
+  "date": "2026-12-05"
+},
+
+{
+  "id": "ushl_2026120514",
+  "league": "USHL",
+  "team": "Madison Capitols",
+  "opponent": "Green Bay Gamblers",
+  "arena": "LEGACY20 Arena at DeForest Yards",
+  "city": "Middleton, Wisconsin",
+  "date": "2026-12-05"
+},
+
+{
+  "id": "ushl_2026120615",
+  "league": "USHL",
+  "team": "Madison Capitols",
+  "opponent": "Dubuque Fighting Saints",
+  "arena": "LEGACY20 Arena at DeForest Yards",
+  "city": "Middleton, Wisconsin",
+  "date": "2026-12-06"
+},
+
+{
+  "id": "ushl_2026121016",
+  "league": "USHL",
+  "team": "Fargo Force",
+  "opponent": "Des Moines Buccaneers",
+  "arena": "Scheels Arena",
+  "city": "Fargo, North Dakota",
+  "date": "2026-12-10"
+},
+
+{
+  "id": "ushl_2026121117",
+  "league": "USHL",
+  "team": "Muskegon Lumberjacks",
+  "opponent": "Tri-City Storm",
+  "arena": "Trinity Health Arena",
+  "city": "Muskegon, Michigan",
+  "date": "2026-12-11"
+},
+
+{
+  "id": "ushl_2026121118",
+  "league": "USHL",
+  "team": "Waterloo Black Hawks",
+  "opponent": "USA Hockey National Team Development Program",
+  "arena": "Young Arena",
+  "city": "Waterloo, Iowa",
+  "date": "2026-12-11"
+},
+
+{
+  "id": "ushl_2026121119",
+  "league": "USHL",
+  "team": "Chicago Steel",
+  "opponent": "Cedar Rapids RoughRiders",
+  "arena": "USG Arena",
+  "city": "Geneva, Illinois",
+  "date": "2026-12-11"
+},
+
+{
+  "id": "ushl_2026121120",
+  "league": "USHL",
+  "team": "Madison Capitols",
+  "opponent": "Green Bay Gamblers",
+  "arena": "LEGACY20 Arena at DeForest Yards",
+  "city": "Middleton, Wisconsin",
+  "date": "2026-12-11"
+},
+
+{
+  "id": "ushl_2026121121",
+  "league": "USHL",
+  "team": "Fargo Force",
+  "opponent": "Des Moines Buccaneers",
+  "arena": "Scheels Arena",
+  "city": "Fargo, North Dakota",
+  "date": "2026-12-11"
+},
+
+{
+  "id": "ushl_2026121122",
+  "league": "USHL",
+  "team": "Omaha Lancers",
+  "opponent": "Lincoln Stars",
+  "arena": "Liberty First Credit Union Arena",
+  "city": "Ralston, Nebraska",
+  "date": "2026-12-11"
+},
+
+{
+  "id": "ushl_2026121123",
+  "league": "USHL",
+  "team": "Sioux Falls Stampede",
+  "opponent": "Sioux City Musketeers",
+  "arena": "Denny Sanford PREMIER Center",
+  "city": "Sioux Falls, South Dakota",
+  "date": "2026-12-11"
+},
+
+{
+  "id": "ushl_2026121224",
+  "league": "USHL",
+  "team": "Youngstown Phantoms",
+  "opponent": "Dubuque Fighting Saints",
+  "arena": "Covelli Centre",
+  "city": "Youngstown, Ohio",
+  "date": "2026-12-12"
+},
+
+{
+  "id": "ushl_2026121225",
+  "league": "USHL",
+  "team": "Muskegon Lumberjacks",
+  "opponent": "Tri-City Storm",
+  "arena": "Trinity Health Arena",
+  "city": "Muskegon, Michigan",
+  "date": "2026-12-12"
+},
+
+{
+  "id": "ushl_2026121226",
+  "league": "USHL",
+  "team": "Green Bay Gamblers",
+  "opponent": "Chicago Steel",
+  "arena": "Resch Center",
+  "city": "Ashwaubenon, Wisconsin",
+  "date": "2026-12-12"
+},
+
+{
+  "id": "ushl_2026121227",
+  "league": "USHL",
+  "team": "Sioux City Musketeers",
+  "opponent": "Omaha Lancers",
+  "arena": "Tyson Events Center",
+  "city": "Sioux City, Iowa",
+  "date": "2026-12-12"
+},
+
+{
+  "id": "ushl_2026121228",
+  "league": "USHL",
+  "team": "Fargo Force",
+  "opponent": "Des Moines Buccaneers",
+  "arena": "Scheels Arena",
+  "city": "Fargo, North Dakota",
+  "date": "2026-12-12"
+},
+
+{
+  "id": "ushl_2026121229",
+  "league": "USHL",
+  "team": "Lincoln Stars",
+  "opponent": "Sioux Falls Stampede",
+  "arena": "Ice Box",
+  "city": "Lincoln, Nebraska",
+  "date": "2026-12-12"
+},
+
+{
+  "id": "ushl_2026121230",
+  "league": "USHL",
+  "team": "Waterloo Black Hawks",
+  "opponent": "USA Hockey National Team Development Program",
+  "arena": "Young Arena",
+  "city": "Waterloo, Iowa",
+  "date": "2026-12-12"
+},
+
+{
+  "id": "ushl_2026121231",
+  "league": "USHL",
+  "team": "Madison Capitols",
+  "opponent": "Cedar Rapids RoughRiders",
+  "arena": "LEGACY20 Arena at DeForest Yards",
+  "city": "Middleton, Wisconsin",
+  "date": "2026-12-12"
+},
+
+{
+  "id": "ushl_2026121332",
+  "league": "USHL",
+  "team": "Youngstown Phantoms",
+  "opponent": "Dubuque Fighting Saints",
+  "arena": "Covelli Centre",
+  "city": "Youngstown, Ohio",
+  "date": "2026-12-13"
+},
+
+{
+  "id": "ushl_2026121333",
+  "league": "USHL",
+  "team": "Sioux City Musketeers",
+  "opponent": "Lincoln Stars",
+  "arena": "Tyson Events Center",
+  "city": "Sioux City, Iowa",
+  "date": "2026-12-13"
+},
+
+{
+  "id": "ushl_2026121534",
+  "league": "USHL",
+  "team": "Des Moines Buccaneers",
+  "opponent": "Cedar Rapids RoughRiders",
+  "arena": "MidAmerican Energy Company RecPlex",
+  "city": "West Des Moines, Iowa",
+  "date": "2026-12-15"
+},
+
+{
+  "id": "ushl_2026121635",
+  "league": "USHL",
+  "team": "USA Hockey National Team Development Program",
+  "opponent": "Muskegon Lumberjacks",
+  "arena": "USA Hockey Arena",
+  "city": "Plymouth, Michigan",
+  "date": "2026-12-16"
+},
+
+{
+  "id": "ushl_2026121836",
+  "league": "USHL",
+  "team": "USA Hockey National Team Development Program",
+  "opponent": "Youngstown Phantoms",
+  "arena": "USA Hockey Arena",
+  "city": "Plymouth, Michigan",
+  "date": "2026-12-18"
+},
+
+{
+  "id": "ushl_2026121837",
+  "league": "USHL",
+  "team": "Chicago Steel",
+  "opponent": "Sioux City Musketeers",
+  "arena": "USG Arena",
+  "city": "Geneva, Illinois",
+  "date": "2026-12-18"
+},
+
+{
+  "id": "ushl_2026121838",
+  "league": "USHL",
+  "team": "Dubuque Fighting Saints",
+  "opponent": "Cedar Rapids RoughRiders",
+  "arena": "ImOn Arena",
+  "city": "Dubuque, Iowa",
+  "date": "2026-12-18"
+},
+
+{
+  "id": "ushl_2026121839",
+  "league": "USHL",
+  "team": "Green Bay Gamblers",
+  "opponent": "Muskegon Lumberjacks",
+  "arena": "Resch Center",
+  "city": "Ashwaubenon, Wisconsin",
+  "date": "2026-12-18"
+},
+
+{
+  "id": "ushl_2026121840",
+  "league": "USHL",
+  "team": "Lincoln Stars",
+  "opponent": "Des Moines Buccaneers",
+  "arena": "Ice Box",
+  "city": "Lincoln, Nebraska",
+  "date": "2026-12-18"
+},
+
+{
+  "id": "ushl_2026121841",
+  "league": "USHL",
+  "team": "Omaha Lancers",
+  "opponent": "Madison Capitols",
+  "arena": "Liberty First Credit Union Arena",
+  "city": "Ralston, Nebraska",
+  "date": "2026-12-18"
+},
+
+{
+  "id": "ushl_2026121842",
+  "league": "USHL",
+  "team": "Sioux Falls Stampede",
+  "opponent": "Waterloo Black Hawks",
+  "arena": "Denny Sanford PREMIER Center",
+  "city": "Sioux Falls, South Dakota",
+  "date": "2026-12-18"
+},
+
+{
+  "id": "ushl_2026121843",
+  "league": "USHL",
+  "team": "Tri-City Storm",
+  "opponent": "Fargo Force",
+  "arena": "Viaero Center",
+  "city": "Kearney, Nebraska",
+  "date": "2026-12-18"
+},
+
+{
+  "id": "ushl_2026121944",
+  "league": "USHL",
+  "team": "Chicago Steel",
+  "opponent": "Sioux City Musketeers",
+  "arena": "USG Arena",
+  "city": "Geneva, Illinois",
+  "date": "2026-12-19"
+},
+
+{
+  "id": "ushl_2026121945",
+  "league": "USHL",
+  "team": "Youngstown Phantoms",
+  "opponent": "USA Hockey National Team Development Program",
+  "arena": "Covelli Centre",
+  "city": "Youngstown, Ohio",
+  "date": "2026-12-19"
+},
+
+{
+  "id": "ushl_2026121946",
+  "league": "USHL",
+  "team": "Green Bay Gamblers",
+  "opponent": "Muskegon Lumberjacks",
+  "arena": "Resch Center",
+  "city": "Ashwaubenon, Wisconsin",
+  "date": "2026-12-19"
+},
+
+{
+  "id": "ushl_2026121947",
+  "league": "USHL",
+  "team": "Lincoln Stars",
+  "opponent": "Des Moines Buccaneers",
+  "arena": "Ice Box",
+  "city": "Lincoln, Nebraska",
+  "date": "2026-12-19"
+},
+
+{
+  "id": "ushl_2026121948",
+  "league": "USHL",
+  "team": "Omaha Lancers",
+  "opponent": "Madison Capitols",
+  "arena": "Liberty First Credit Union Arena",
+  "city": "Ralston, Nebraska",
+  "date": "2026-12-19"
+},
+
+{
+  "id": "ushl_2026121949",
+  "league": "USHL",
+  "team": "Sioux Falls Stampede",
+  "opponent": "Waterloo Black Hawks",
+  "arena": "Denny Sanford PREMIER Center",
+  "city": "Sioux Falls, South Dakota",
+  "date": "2026-12-19"
+},
+
+{
+  "id": "ushl_2026121950",
+  "league": "USHL",
+  "team": "Tri-City Storm",
+  "opponent": "Fargo Force",
+  "arena": "Viaero Center",
+  "city": "Kearney, Nebraska",
+  "date": "2026-12-19"
+},
+
+{
+  "id": "ushl_2026121951",
+  "league": "USHL",
+  "team": "Cedar Rapids RoughRiders",
+  "opponent": "Dubuque Fighting Saints",
+  "arena": "ImOn Ice Arena (Cedar Rapids)",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-12-19"
+},
+
+{
+  "id": "ushl_2026122852",
+  "league": "USHL",
+  "team": "Muskegon Lumberjacks",
+  "opponent": "Youngstown Phantoms",
+  "arena": "Trinity Health Arena",
+  "city": "Muskegon, Michigan",
+  "date": "2026-12-28"
+},
+
+{
+  "id": "ushl_2026122853",
+  "league": "USHL",
+  "team": "Omaha Lancers",
+  "opponent": "Tri-City Storm",
+  "arena": "Liberty First Credit Union Arena",
+  "city": "Ralston, Nebraska",
+  "date": "2026-12-28"
+},
+
+{
+  "id": "ushl_2026122854",
+  "league": "USHL",
+  "team": "Sioux Falls Stampede",
+  "opponent": "Fargo Force",
+  "arena": "Denny Sanford PREMIER Center",
+  "city": "Sioux Falls, South Dakota",
+  "date": "2026-12-28"
+},
+
+{
+  "id": "ushl_2026122955",
+  "league": "USHL",
+  "team": "Muskegon Lumberjacks",
+  "opponent": "Youngstown Phantoms",
+  "arena": "Trinity Health Arena",
+  "city": "Muskegon, Michigan",
+  "date": "2026-12-29"
+},
+
+{
+  "id": "ushl_2026122956",
+  "league": "USHL",
+  "team": "Waterloo Black Hawks",
+  "opponent": "Des Moines Buccaneers",
+  "arena": "Young Arena",
+  "city": "Waterloo, Iowa",
+  "date": "2026-12-29"
+},
+
+{
+  "id": "ushl_2026122957",
+  "league": "USHL",
+  "team": "Cedar Rapids RoughRiders",
+  "opponent": "Omaha Lancers",
+  "arena": "ImOn Ice Arena (Cedar Rapids)",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-12-29"
+},
+
+{
+  "id": "ushl_2026122958",
+  "league": "USHL",
+  "team": "Green Bay Gamblers",
+  "opponent": "Chicago Steel",
+  "arena": "Resch Center",
+  "city": "Ashwaubenon, Wisconsin",
+  "date": "2026-12-29"
+},
+
+{
+  "id": "ushl_2026123159",
+  "league": "USHL",
+  "team": "Dubuque Fighting Saints",
+  "opponent": "Des Moines Buccaneers",
+  "arena": "ImOn Arena",
+  "city": "Dubuque, Iowa",
+  "date": "2026-12-31"
+},
+
+{
+  "id": "ushl_2026123160",
+  "league": "USHL",
+  "team": "Green Bay Gamblers",
+  "opponent": "Madison Capitols",
+  "arena": "Resch Center",
+  "city": "Ashwaubenon, Wisconsin",
+  "date": "2026-12-31"
+},
+
+{
+  "id": "ushl_2026123161",
+  "league": "USHL",
+  "team": "Sioux Falls Stampede",
+  "opponent": "Lincoln Stars",
+  "arena": "Denny Sanford PREMIER Center",
+  "city": "Sioux Falls, South Dakota",
+  "date": "2026-12-31"
+},
+
+{
+  "id": "ushl_2026123162",
+  "league": "USHL",
+  "team": "Muskegon Lumberjacks",
+  "opponent": "Chicago Steel",
+  "arena": "Trinity Health Arena",
+  "city": "Muskegon, Michigan",
+  "date": "2026-12-31"
+},
+
+{
+  "id": "ushl_2026123163",
+  "league": "USHL",
+  "team": "Waterloo Black Hawks",
+  "opponent": "Omaha Lancers",
+  "arena": "Young Arena",
+  "city": "Waterloo, Iowa",
+  "date": "2026-12-31"
+},
+
+{
+  "id": "ushl_2026123164",
+  "league": "USHL",
+  "team": "Sioux City Musketeers",
+  "opponent": "Fargo Force",
+  "arena": "Tyson Events Center",
+  "city": "Sioux City, Iowa",
+  "date": "2026-12-31"
+} 
 ]
