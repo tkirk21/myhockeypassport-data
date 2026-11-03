@@ -1185,12 +1185,14 @@
     ]
   },
   {
-    "currentArena": "Keystone Centre",
+    "currentArena": "Assiniboine Credit Union Place",
     "teamName": "Brandon Wheat Kings",
     "league": "WHL",
     "history": [
-      { "name": "Westoba Place", "from": "1972-09-01", "to": "2007-05-31" },
-      { "name": "Keystone Centre", "from": "2007-09-01", "to": null }
+      { "name": "Westman Place", "from": "1973-09-01", "to": "2007-06-30" },
+      { "name": "Westman Communications Group Place", "from": "2007-09-01", "to": "2017-06-30" },
+      { "name": "Westoba Place", "from": "2018-09-01", "to": "2025-06-30" },
+      { "name": "Assiniboine Credit Union Place", "from": "2025-09-01", "to": null }
     ]
   },
   {
