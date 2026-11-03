@@ -1126,14 +1126,13 @@
     ]
   },
   {
-    "currentArena": "Spokane Veterans Memorial Arena",
-    "teamName": "Red Deer Rebels",
+    "currentArena": "Numerica Veterans Arena",
+    "teamName": "Spokane Chiefs",
     "league": "WHL",
     "history": [
       { "name": "Spokane Arena", "from": "1995-09-01", "to": "1999-05-31" },
-      { "name": "Spokane Veterans Memorial Arena", "from": "1999-09-01", "to": "2017-05-31" },
-      { "name": "Numerica Credit Union Arena", "from": "2017-09-01", "to": "2023-05-31" },
-      { "name": "Spokane Veterans Memorial Arena", "from": "2023-09-01", "to": null }
+      { "name": "Spokane Veterans Memorial Arena", "from": "1999-09-01", "to": "2025-05-31" },
+      { "name": "Numerica Veterans Arena", "from": "2025-09-01", "to": null }
     ]
   },
   {
