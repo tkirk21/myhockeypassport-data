@@ -1,5 +1,1763 @@
 [
-  
+  {
+  "id": "ahl_2026110411",
+  "league": "AHL",
+  "team": "Hershey Bears",
+  "opponent": "Hartford Wolf Pack",
+  "arena": "Giant Center",
+  "city": "Hershey, Pennsylvania",
+  "date": "2026-11-05T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026110412",
+  "league": "AHL",
+  "team": "Grand Rapids Griffins",
+  "opponent": "Texas Stars",
+  "arena": "Van Andel Arena",
+  "city": "Grand Rapids, Michigan",
+  "date": "2026-11-05T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026110413",
+  "league": "AHL",
+  "team": "Laval Rocket",
+  "opponent": "Lehigh Valley Phantoms",
+  "arena": "Place Bell",
+  "city": "Laval, Quebec",
+  "date": "2026-11-05T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026110414",
+  "league": "AHL",
+  "team": "Hamilton Hammers",
+  "opponent": "Toronto Marlies",
+  "arena": "TD Coliseum",
+  "city": "Hamilton, Ontario",
+  "date": "2026-11-05T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026110415",
+  "league": "AHL",
+  "team": "Rochester Americans",
+  "opponent": "Cleveland Monsters",
+  "arena": "Blue Cross Arena",
+  "city": "Rochester, New York",
+  "date": "2026-11-05T00:05:00Z"
+},
+
+{
+  "id": "ahl_2026110416",
+  "league": "AHL",
+  "team": "Ontario Reign",
+  "opponent": "San Jose Barracuda",
+  "arena": "Toyota Arena",
+  "city": "Ontario, California",
+  "date": "2026-11-05T03:00:00Z"
+},
+
+{
+  "id": "ahl_2026110417",
+  "league": "AHL",
+  "team": "Coachella Valley Firebirds",
+  "opponent": "Colorado Eagles",
+  "arena": "Acrisure Arena",
+  "city": "Thousand Palms, California",
+  "date": "2026-11-05T03:00:00Z"
+},
+
+{
+  "id": "ahl_2026110518",
+  "league": "AHL",
+  "team": "Iowa Wild",
+  "opponent": "Rockford IceHogs",
+  "arena": "Casey’s Center",
+  "city": "Des Moines, Iowa",
+  "date": "2026-11-05T16:30:00Z"
+},
+
+{
+  "id": "ahl_2026110619",
+  "league": "AHL",
+  "team": "Charlotte Checkers",
+  "opponent": "Wilkes-Barre/Scranton Penguins",
+  "arena": "Bojangles Coliseum",
+  "city": "Charlotte, North Carolina",
+  "date": "2026-11-07T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026110620",
+  "league": "AHL",
+  "team": "Grand Rapids Griffins",
+  "opponent": "Milwaukee Admirals",
+  "arena": "Van Andel Arena",
+  "city": "Grand Rapids, Michigan",
+  "date": "2026-11-07T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026110621",
+  "league": "AHL",
+  "team": "Utica Comets",
+  "opponent": "Syracuse Crunch",
+  "arena": "NBT Bank Arena",
+  "city": "Utica, New York",
+  "date": "2026-11-07T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026110622",
+  "league": "AHL",
+  "team": "Belleville Senators",
+  "opponent": "Lehigh Valley Phantoms",
+  "arena": "CIBC Place",
+  "city": "Belleville, Ontario",
+  "date": "2026-11-07T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026110623",
+  "league": "AHL",
+  "team": "Laval Rocket",
+  "opponent": "Cleveland Monsters",
+  "arena": "Place Bell",
+  "city": "Laval, Quebec",
+  "date": "2026-11-07T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026110624",
+  "league": "AHL",
+  "team": "Hamilton Hammers",
+  "opponent": "Providence Bruins",
+  "arena": "TD Coliseum",
+  "city": "Hamilton, Ontario",
+  "date": "2026-11-07T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026110625",
+  "league": "AHL",
+  "team": "Springfield Thunderbirds",
+  "opponent": "Hershey Bears",
+  "arena": "MassMutual Center",
+  "city": "Springfield, Massachusetts",
+  "date": "2026-11-07T00:05:00Z"
+},
+
+{
+  "id": "ahl_2026110626",
+  "league": "AHL",
+  "team": "Rochester Americans",
+  "opponent": "Hartford Wolf Pack",
+  "arena": "Blue Cross Arena",
+  "city": "Rochester, New York",
+  "date": "2026-11-07T00:05:00Z"
+},
+
+{
+  "id": "ahl_2026110627",
+  "league": "AHL",
+  "team": "Manitoba Moose",
+  "opponent": "Toronto Marlies",
+  "arena": "Canada Life Centre",
+  "city": "Winnipeg, Manitoba",
+  "date": "2026-11-07T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026110628",
+  "league": "AHL",
+  "team": "Texas Stars",
+  "opponent": "Chicago Wolves",
+  "arena": "H-E-B Center at Cedar Park",
+  "city": "Cedar Park, Texas",
+  "date": "2026-11-07T01:00:00Z"
+},
+
+{
+  "id": "ahl_2026110629",
+  "league": "AHL",
+  "team": "Tucson Roadrunners",
+  "opponent": "Coachella Valley Firebirds",
+  "arena": "Tucson Convention Center Arena",
+  "city": "Tucson, Arizona",
+  "date": "2026-11-07T02:00:00Z"
+},
+
+{
+  "id": "ahl_2026110630",
+  "league": "AHL",
+  "team": "Colorado Eagles",
+  "opponent": "Calgary Wranglers",
+  "arena": "Blue Federal Credit Union Arena",
+  "city": "Loveland, Colorado",
+  "date": "2026-11-07T02:05:00Z"
+},
+
+{
+  "id": "ahl_2026110631",
+  "league": "AHL",
+  "team": "San Jose Barracuda",
+  "opponent": "Bakersfield Condors",
+  "arena": "Tech CU Arena",
+  "city": "San Jose, California",
+  "date": "2026-11-07T03:00:00Z"
+},
+
+{
+  "id": "ahl_2026110632",
+  "league": "AHL",
+  "team": "Henderson Silver Knights",
+  "opponent": "San Diego Gulls",
+  "arena": "Lee’s Family Forum",
+  "city": "Henderson, Nevada",
+  "date": "2026-11-07T03:00:00Z"
+},
+
+{
+  "id": "ahl_2026110633",
+  "league": "AHL",
+  "team": "Abbotsford Canucks",
+  "opponent": "Ontario Reign",
+  "arena": "Rogers Forum",
+  "city": "Abbotsford, British Columbia",
+  "date": "2026-11-07T02:00:00Z"
+},
+
+{
+  "id": "ahl_2026110734",
+  "league": "AHL",
+  "team": "Laval Rocket",
+  "opponent": "Cleveland Monsters",
+  "arena": "Place Bell",
+  "city": "Laval, Quebec",
+  "date": "2026-11-07T20:00:00Z"
+},
+
+{
+  "id": "ahl_2026110735",
+  "league": "AHL",
+  "team": "Syracuse Crunch",
+  "opponent": "Hartford Wolf Pack",
+  "arena": "Upstate Medical University Arena",
+  "city": "Syracuse, New York",
+  "date": "2026-11-07T22:00:00Z"
+},
+
+{
+  "id": "ahl_2026110736",
+  "league": "AHL",
+  "team": "Charlotte Checkers",
+  "opponent": "Wilkes-Barre/Scranton Penguins",
+  "arena": "Bojangles Coliseum",
+  "city": "Charlotte, North Carolina",
+  "date": "2026-11-07T23:00:00Z"
+},
+
+{
+  "id": "ahl_2026110737",
+  "league": "AHL",
+  "team": "Utica Comets",
+  "opponent": "Rochester Americans",
+  "arena": "NBT Bank Arena",
+  "city": "Utica, New York",
+  "date": "2026-11-07T23:00:00Z"
+},
+
+{
+  "id": "ahl_2026110738",
+  "league": "AHL",
+  "team": "Springfield Thunderbirds",
+  "opponent": "Hershey Bears",
+  "arena": "MassMutual Center",
+  "city": "Springfield, Massachusetts",
+  "date": "2026-11-07T23:05:00Z"
+},
+
+{
+  "id": "ahl_2026110739",
+  "league": "AHL",
+  "team": "Manitoba Moose",
+  "opponent": "Toronto Marlies",
+  "arena": "Canada Life Centre",
+  "city": "Winnipeg, Manitoba",
+  "date": "2026-11-07T23:00:00Z"
+},
+
+{
+  "id": "ahl_2026110740",
+  "league": "AHL",
+  "team": "Milwaukee Admirals",
+  "opponent": "Iowa Wild",
+  "arena": "UW-Milwaukee Panther Arena",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2026-11-08T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026110741",
+  "league": "AHL",
+  "team": "Belleville Senators",
+  "opponent": "Providence Bruins",
+  "arena": "CIBC Place",
+  "city": "Belleville, Ontario",
+  "date": "2026-11-08T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026110742",
+  "league": "AHL",
+  "team": "Hamilton Hammers",
+  "opponent": "Lehigh Valley Phantoms",
+  "arena": "TD Coliseum",
+  "city": "Hamilton, Ontario",
+  "date": "2026-11-08T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026110743",
+  "league": "AHL",
+  "team": "Rockford IceHogs",
+  "opponent": "Grand Rapids Griffins",
+  "arena": "BMO Center",
+  "city": "Rockford, Illinois",
+  "date": "2026-11-08T01:00:00Z"
+},
+
+{
+  "id": "ahl_2026110744",
+  "league": "AHL",
+  "team": "Texas Stars",
+  "opponent": "Chicago Wolves",
+  "arena": "H-E-B Center at Cedar Park",
+  "city": "Cedar Park, Texas",
+  "date": "2026-11-08T01:00:00Z"
+},
+
+{
+  "id": "ahl_2026110745",
+  "league": "AHL",
+  "team": "Abbotsford Canucks",
+  "opponent": "Ontario Reign",
+  "arena": "Rogers Forum",
+  "city": "Abbotsford, British Columbia",
+  "date": "2026-11-08T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026110746",
+  "league": "AHL",
+  "team": "Colorado Eagles",
+  "opponent": "Calgary Wranglers",
+  "arena": "Blue Federal Credit Union Arena",
+  "city": "Loveland, Colorado",
+  "date": "2026-11-08T01:05:00Z"
+},
+
+{
+  "id": "ahl_2026110747",
+  "league": "AHL",
+  "team": "San Jose Barracuda",
+  "opponent": "Bakersfield Condors",
+  "arena": "Tech CU Arena",
+  "city": "San Jose, California",
+  "date": "2026-11-08T02:00:00Z"
+},
+
+{
+  "id": "ahl_2026110748",
+  "league": "AHL",
+  "team": "Tucson Roadrunners",
+  "opponent": "Coachella Valley Firebirds",
+  "arena": "Tucson Convention Center Arena",
+  "city": "Tucson, Arizona",
+  "date": "2026-11-08T02:00:00Z"
+},
+
+{
+  "id": "ahl_2026110749",
+  "league": "AHL",
+  "team": "Henderson Silver Knights",
+  "opponent": "San Diego Gulls",
+  "arena": "Lee’s Family Forum",
+  "city": "Henderson, Nevada",
+  "date": "2026-11-08T02:00:00Z"
+},
+
+{
+  "id": "ahl_2026110850",
+  "league": "AHL",
+  "team": "Rockford IceHogs",
+  "opponent": "Iowa Wild",
+  "arena": "BMO Center",
+  "city": "Rockford, Illinois",
+  "date": "2026-11-08T22:00:00Z"
+},
+
+{
+  "id": "ahl_2026111051",
+  "league": "AHL",
+  "team": "Springfield Thunderbirds",
+  "opponent": "Hartford Wolf Pack",
+  "arena": "MassMutual Center",
+  "city": "Springfield, Massachusetts",
+  "date": "2026-11-10T15:35:00Z"
+},
+
+{
+  "id": "ahl_2026111052",
+  "league": "AHL",
+  "team": "Milwaukee Admirals",
+  "opponent": "Iowa Wild",
+  "arena": "UW-Milwaukee Panther Arena",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2026-11-10T16:30:00Z"
+},
+
+{
+  "id": "ahl_2026111053",
+  "league": "AHL",
+  "team": "Wilkes-Barre/Scranton Penguins",
+  "opponent": "Utica Comets",
+  "arena": "Mohegan Arena at Casey Plaza",
+  "city": "Wilkes-Barre Township, Pennsylvania",
+  "date": "2026-11-10T23:35:00Z"
+},
+
+{
+  "id": "ahl_2026111054",
+  "league": "AHL",
+  "team": "Charlotte Checkers",
+  "opponent": "Providence Bruins",
+  "arena": "Bojangles Coliseum",
+  "city": "Charlotte, North Carolina",
+  "date": "2026-11-11T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026111055",
+  "league": "AHL",
+  "team": "Texas Stars",
+  "opponent": "Manitoba Moose",
+  "arena": "H-E-B Center at Cedar Park",
+  "city": "Cedar Park, Texas",
+  "date": "2026-11-11T01:00:00Z"
+},
+
+{
+  "id": "ahl_2026111056",
+  "league": "AHL",
+  "team": "Bakersfield Condors",
+  "opponent": "Calgary Wranglers",
+  "arena": "Dignity Health Arena",
+  "city": "Bakersfield, California",
+  "date": "2026-11-11T02:40:00Z"
+},
+
+{
+  "id": "ahl_2026111057",
+  "league": "AHL",
+  "team": "Abbotsford Canucks",
+  "opponent": "Colorado Eagles",
+  "arena": "Rogers Forum",
+  "city": "Abbotsford, British Columbia",
+  "date": "2026-11-11T02:00:00Z"
+},
+
+{
+  "id": "ahl_2026111158",
+  "league": "AHL",
+  "team": "Grand Rapids Griffins",
+  "opponent": "Rockford IceHogs",
+  "arena": "Van Andel Arena",
+  "city": "Grand Rapids, Michigan",
+  "date": "2026-11-11T16:00:00Z"
+},
+
+{
+  "id": "ahl_2026111159",
+  "league": "AHL",
+  "team": "Utica Comets",
+  "opponent": "Belleville Senators",
+  "arena": "NBT Bank Arena",
+  "city": "Utica, New York",
+  "date": "2026-11-11T23:00:00Z"
+},
+
+{
+  "id": "ahl_2026111160",
+  "league": "AHL",
+  "team": "Hershey Bears",
+  "opponent": "Hamilton Hammers",
+  "arena": "Giant Center",
+  "city": "Hershey, Pennsylvania",
+  "date": "2026-11-12T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026111161",
+  "league": "AHL",
+  "team": "Charlotte Checkers",
+  "opponent": "Providence Bruins",
+  "arena": "Bojangles Coliseum",
+  "city": "Charlotte, North Carolina",
+  "date": "2026-11-12T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026111162",
+  "league": "AHL",
+  "team": "Syracuse Crunch",
+  "opponent": "Laval Rocket",
+  "arena": "Upstate Medical University Arena",
+  "city": "Syracuse, New York",
+  "date": "2026-11-12T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026111163",
+  "league": "AHL",
+  "team": "Texas Stars",
+  "opponent": "Manitoba Moose",
+  "arena": "H-E-B Center at Cedar Park",
+  "city": "Cedar Park, Texas",
+  "date": "2026-11-12T01:00:00Z"
+},
+
+{
+  "id": "ahl_2026111164",
+  "league": "AHL",
+  "team": "Abbotsford Canucks",
+  "opponent": "Colorado Eagles",
+  "arena": "Rogers Forum",
+  "city": "Abbotsford, British Columbia",
+  "date": "2026-11-12T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026111165",
+  "league": "AHL",
+  "team": "San Diego Gulls",
+  "opponent": "San Jose Barracuda",
+  "arena": "Pechanga Arena San Diego",
+  "city": "San Diego, California",
+  "date": "2026-11-12T03:00:00Z"
+},
+
+{
+  "id": "ahl_2026111266",
+  "league": "AHL",
+  "team": "Henderson Silver Knights",
+  "opponent": "Calgary Wranglers",
+  "arena": "Lee’s Family Forum",
+  "city": "Henderson, Nevada",
+  "date": "2026-11-13T03:00:00Z"
+},
+
+{
+  "id": "ahl_2026111267",
+  "league": "AHL",
+  "team": "Coachella Valley Firebirds",
+  "opponent": "San Jose Barracuda",
+  "arena": "Acrisure Arena",
+  "city": "Thousand Palms, California",
+  "date": "2026-11-13T03:00:00Z"
+},
+
+{
+  "id": "ahl_2026111368",
+  "league": "AHL",
+  "team": "Hershey Bears",
+  "opponent": "Wilkes-Barre/Scranton Penguins",
+  "arena": "Giant Center",
+  "city": "Hershey, Pennsylvania",
+  "date": "2026-11-14T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026111369",
+  "league": "AHL",
+  "team": "Syracuse Crunch",
+  "opponent": "Toronto Marlies",
+  "arena": "Upstate Medical University Arena",
+  "city": "Syracuse, New York",
+  "date": "2026-11-14T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026111370",
+  "league": "AHL",
+  "team": "Providence Bruins",
+  "opponent": "Springfield Thunderbirds",
+  "arena": "Amica Mutual Pavilion",
+  "city": "Providence, Rhode Island",
+  "date": "2026-11-14T00:05:00Z"
+},
+
+{
+  "id": "ahl_2026111371",
+  "league": "AHL",
+  "team": "Lehigh Valley Phantoms",
+  "opponent": "Hamilton Hammers",
+  "arena": "PPL Center",
+  "city": "Allentown, Pennsylvania",
+  "date": "2026-11-14T00:05:00Z"
+},
+
+{
+  "id": "ahl_2026111372",
+  "league": "AHL",
+  "team": "Rochester Americans",
+  "opponent": "Laval Rocket",
+  "arena": "Blue Cross Arena",
+  "city": "Rochester, New York",
+  "date": "2026-11-14T00:05:00Z"
+},
+
+{
+  "id": "ahl_2026111373",
+  "league": "AHL",
+  "team": "Rockford IceHogs",
+  "opponent": "Milwaukee Admirals",
+  "arena": "BMO Center",
+  "city": "Rockford, Illinois",
+  "date": "2026-11-14T01:00:00Z"
+},
+
+{
+  "id": "ahl_2026111374",
+  "league": "AHL",
+  "team": "Iowa Wild",
+  "opponent": "Grand Rapids Griffins",
+  "arena": "Casey’s Center",
+  "city": "Des Moines, Iowa",
+  "date": "2026-11-14T01:00:00Z"
+},
+
+{
+  "id": "ahl_2026111375",
+  "league": "AHL",
+  "team": "Bakersfield Condors",
+  "opponent": "San Diego Gulls",
+  "arena": "Dignity Health Arena",
+  "city": "Bakersfield, California",
+  "date": "2026-11-14T03:10:00Z"
+},
+
+{
+  "id": "ahl_2026111476",
+  "league": "AHL",
+  "team": "Belleville Senators",
+  "opponent": "Cleveland Monsters",
+  "arena": "CIBC Place",
+  "city": "Belleville, Ontario",
+  "date": "2026-11-14T21:00:00Z"
+},
+
+{
+  "id": "ahl_2026111477",
+  "league": "AHL",
+  "team": "Rochester Americans",
+  "opponent": "Laval Rocket",
+  "arena": "Blue Cross Arena",
+  "city": "Rochester, New York",
+  "date": "2026-11-14T22:05:00Z"
+},
+
+{
+  "id": "ahl_2026111478",
+  "league": "AHL",
+  "team": "Utica Comets",
+  "opponent": "Syracuse Crunch",
+  "arena": "NBT Bank Arena",
+  "city": "Utica, New York",
+  "date": "2026-11-14T23:00:00Z"
+},
+
+{
+  "id": "ahl_2026111479",
+  "league": "AHL",
+  "team": "Wilkes-Barre/Scranton Penguins",
+  "opponent": "Hamilton Hammers",
+  "arena": "Mohegan Arena at Casey Plaza",
+  "city": "Wilkes-Barre Township, Pennsylvania",
+  "date": "2026-11-14T23:05:00Z"
+},
+
+{
+  "id": "ahl_2026111480",
+  "league": "AHL",
+  "team": "Milwaukee Admirals",
+  "opponent": "Chicago Wolves",
+  "arena": "UW-Milwaukee Panther Arena",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2026-11-15T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026111481",
+  "league": "AHL",
+  "team": "Iowa Wild",
+  "opponent": "Grand Rapids Griffins",
+  "arena": "Casey’s Center",
+  "city": "Des Moines, Iowa",
+  "date": "2026-11-15T00:00:00Z"
+},
+
+{
+  "id": "ahl_2026111482",
+  "league": "AHL",
+  "team": "Lehigh Valley Phantoms",
+  "opponent": "Charlotte Checkers",
+  "arena": "PPL Center",
+  "city": "Allentown, Pennsylvania",
+  "date": "2026-11-15T00:05:00Z"
+},
+
+{
+  "id": "ahl_2026111483",
+  "league": "AHL",
+  "team": "Hartford Wolf Pack",
+  "opponent": "Springfield Thunderbirds",
+  "arena": "PeoplesBank Arena",
+  "city": "Hartford, Connecticut",
+  "date": "2026-11-15T00:15:00Z"
+},
+
+{
+  "id": "ahl_2026111484",
+  "league": "AHL",
+  "team": "Rockford IceHogs",
+  "opponent": "Manitoba Moose",
+  "arena": "BMO Center",
+  "city": "Rockford, Illinois",
+  "date": "2026-11-15T01:00:00Z"
+},
+
+{
+  "id": "ahl_2026111485",
+  "league": "AHL",
+  "team": "Ontario Reign",
+  "opponent": "Abbotsford Canucks",
+  "arena": "Toyota Arena",
+  "city": "Ontario, California",
+  "date": "2026-11-15T02:00:00Z"
+},
+
+{
+  "id": "ahl_2026111486",
+  "league": "AHL",
+  "team": "San Jose Barracuda",
+  "opponent": "San Diego Gulls",
+  "arena": "Tech CU Arena",
+  "city": "San Jose, California",
+  "date": "2026-11-15T02:00:00Z"
+},
+
+{
+  "id": "ahl_2026111487",
+  "league": "AHL",
+  "team": "Tucson Roadrunners",
+  "opponent": "Texas Stars",
+  "arena": "Tucson Convention Center Arena",
+  "city": "Tucson, Arizona",
+  "date": "2026-11-15T02:00:00Z"
+},
+
+{
+  "id": "ahl_2026111488",
+  "league": "AHL",
+  "team": "Henderson Silver Knights",
+  "opponent": "Calgary Wranglers",
+  "arena": "Lee’s Family Forum",
+  "city": "Henderson, Nevada",
+  "date": "2026-11-15T02:00:00Z"
+},
+
+{
+  "id": "ahl_2026111489",
+  "league": "AHL",
+  "team": "Bakersfield Condors",
+  "opponent": "Colorado Eagles",
+  "arena": "Dignity Health Arena",
+  "city": "Bakersfield, California",
+  "date": "2026-11-15T03:10:00Z"
+},
+
+{
+  "id": "ahl_2026111590",
+  "league": "AHL",
+  "team": "Belleville Senators",
+  "opponent": "Cleveland Monsters",
+  "arena": "CIBC Place",
+  "city": "Belleville, Ontario",
+  "date": "2026-11-15T18:00:00Z"
+},
+
+{
+  "id": "ahl_2026111591",
+  "league": "AHL",
+  "team": "Hershey Bears",
+  "opponent": "Charlotte Checkers",
+  "arena": "Giant Center",
+  "city": "Hershey, Pennsylvania",
+  "date": "2026-11-15T20:00:00Z"
+},
+
+{
+  "id": "ahl_2026111592",
+  "league": "AHL",
+  "team": "Providence Bruins",
+  "opponent": "Toronto Marlies",
+  "arena": "Amica Mutual Pavilion",
+  "city": "Providence, Rhode Island",
+  "date": "2026-11-15T20:05:00Z"
+},
+
+{
+  "id": "ahl_2026111593",
+  "league": "AHL",
+  "team": "Chicago Wolves",
+  "opponent": "Manitoba Moose",
+  "arena": "Allstate Arena",
+  "city": "Rosemont, Illinois",
+  "date": "2026-11-15T21:00:00Z"
+},
+
+{
+  "id": "ahl_2026111594",
+  "league": "AHL",
+  "team": "Tucson Roadrunners",
+  "opponent": "Texas Stars",
+  "arena": "Tucson Convention Center Arena",
+  "city": "Tucson, Arizona",
+  "date": "2026-11-15T23:00:00Z"
+},
+
+{
+  "id": "ahl_2026111595",
+  "league": "AHL",
+  "team": "Coachella Valley Firebirds",
+  "opponent": "Abbotsford Canucks",
+  "arena": "Acrisure Arena",
+  "city": "Thousand Palms, California",
+  "date": "2026-11-15T23:00:00Z"
+},
+
+{
+  "id": "ahl_2026111596",
+  "league": "AHL",
+  "team": "Wilkes-Barre/Scranton Penguins",
+  "opponent": "Lehigh Valley Phantoms",
+  "arena": "Mohegan Arena at Casey Plaza",
+  "city": "Wilkes-Barre Township, Pennsylvania",
+  "date": "2026-11-15T23:05:00Z"
+},
+
+{
+  "id": "ahl_2026111597",
+  "league": "AHL",
+  "team": "Ontario Reign",
+  "opponent": "Colorado Eagles",
+  "arena": "Toyota Arena",
+  "city": "Ontario, California",
+  "date": "2026-11-16T01:00:00Z"
+},
+
+{
+  "id": "ahl_2026111798",
+  "league": "AHL",
+  "team": "Hartford Wolf Pack",
+  "opponent": "Charlotte Checkers",
+  "arena": "PeoplesBank Arena",
+  "city": "Hartford, Connecticut",
+  "date": "2026-11-17T16:00:00Z"
+},
+
+{
+  "id": "ahl_2026111799",
+  "league": "AHL",
+  "team": "Bakersfield Condors",
+  "opponent": "Colorado Eagles",
+  "arena": "Dignity Health Arena",
+  "city": "Bakersfield, California",
+  "date": "2026-11-17T18:30:00Z"
+},
+
+{
+  "id": "ahl_20261117100",
+  "league": "AHL",
+  "team": "Cleveland Monsters",
+  "opponent": "Hamilton Hammers",
+  "arena": "Rocket Arena",
+  "city": "Cleveland, Ohio",
+  "date": "2026-11-18T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261117101",
+  "league": "AHL",
+  "team": "Rockford IceHogs",
+  "opponent": "Chicago Wolves",
+  "arena": "BMO Center",
+  "city": "Rockford, Illinois",
+  "date": "2026-11-18T01:00:00Z"
+},
+
+{
+  "id": "ahl_20261117102",
+  "league": "AHL",
+  "team": "Calgary Wranglers",
+  "opponent": "Coachella Valley Firebirds",
+  "arena": "Scotiabank Saddledome",
+  "city": "Calgary, Alberta",
+  "date": "2026-11-18T01:00:00Z"
+},
+
+{
+  "id": "ahl_20261118103",
+  "league": "AHL",
+  "team": "Belleville Senators",
+  "opponent": "Laval Rocket",
+  "arena": "Canadian Tire Centre",
+  "city": "Ottawa, Ontario",
+  "date": "2026-11-18T15:30:00Z"
+},
+
+{
+  "id": "ahl_20261118104",
+  "league": "AHL",
+  "team": "Wilkes-Barre/Scranton Penguins",
+  "opponent": "Milwaukee Admirals",
+  "arena": "Mohegan Arena at Casey Plaza",
+  "city": "Wilkes-Barre Township, Pennsylvania",
+  "date": "2026-11-18T23:35:00Z"
+},
+
+{
+  "id": "ahl_20261118105",
+  "league": "AHL",
+  "team": "Grand Rapids Griffins",
+  "opponent": "Manitoba Moose",
+  "arena": "Van Andel Arena",
+  "city": "Grand Rapids, Michigan",
+  "date": "2026-11-19T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261118106",
+  "league": "AHL",
+  "team": "Syracuse Crunch",
+  "opponent": "Rochester Americans",
+  "arena": "Upstate Medical University Arena",
+  "city": "Syracuse, New York",
+  "date": "2026-11-19T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261118107",
+  "league": "AHL",
+  "team": "Calgary Wranglers",
+  "opponent": "Coachella Valley Firebirds",
+  "arena": "Scotiabank Saddledome",
+  "city": "Calgary, Alberta",
+  "date": "2026-11-19T01:00:00Z"
+},
+
+{
+  "id": "ahl_20261118108",
+  "league": "AHL",
+  "team": "Ontario Reign",
+  "opponent": "Abbotsford Canucks",
+  "arena": "Toyota Arena",
+  "city": "Ontario, California",
+  "date": "2026-11-19T03:00:00Z"
+},
+
+{
+  "id": "ahl_20261118109",
+  "league": "AHL",
+  "team": "San Diego Gulls",
+  "opponent": "Bakersfield Condors",
+  "arena": "Pechanga Arena San Diego",
+  "city": "San Diego, California",
+  "date": "2026-11-19T03:00:00Z"
+},
+
+{
+  "id": "ahl_20261118110",
+  "league": "AHL",
+  "team": "Henderson Silver Knights",
+  "opponent": "San Jose Barracuda",
+  "arena": "Lee’s Family Forum",
+  "city": "Henderson, Nevada",
+  "date": "2026-11-19T03:00:00Z"
+},
+
+{
+  "id": "ahl_20261120111",
+  "league": "AHL",
+  "team": "Hershey Bears",
+  "opponent": "Rochester Americans",
+  "arena": "Giant Center",
+  "city": "Hershey, Pennsylvania",
+  "date": "2026-11-21T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261120112",
+  "league": "AHL",
+  "team": "Hamilton Hammers",
+  "opponent": "Belleville Senators",
+  "arena": "TD Coliseum",
+  "city": "Hamilton, Ontario",
+  "date": "2026-11-21T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261120113",
+  "league": "AHL",
+  "team": "Lehigh Valley Phantoms",
+  "opponent": "Wilkes-Barre/Scranton Penguins",
+  "arena": "PPL Center",
+  "city": "Allentown, Pennsylvania",
+  "date": "2026-11-21T00:05:00Z"
+},
+
+{
+  "id": "ahl_20261120114",
+  "league": "AHL",
+  "team": "Springfield Thunderbirds",
+  "opponent": "Charlotte Checkers",
+  "arena": "MassMutual Center",
+  "city": "Springfield, Massachusetts",
+  "date": "2026-11-21T00:05:00Z"
+},
+
+{
+  "id": "ahl_20261120115",
+  "league": "AHL",
+  "team": "Manitoba Moose",
+  "opponent": "Rockford IceHogs",
+  "arena": "Canada Life Centre",
+  "city": "Winnipeg, Manitoba",
+  "date": "2026-11-21T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261120116",
+  "league": "AHL",
+  "team": "Texas Stars",
+  "opponent": "San Jose Barracuda",
+  "arena": "H-E-B Center at Cedar Park",
+  "city": "Cedar Park, Texas",
+  "date": "2026-11-21T01:00:00Z"
+},
+
+{
+  "id": "ahl_20261120117",
+  "league": "AHL",
+  "team": "Colorado Eagles",
+  "opponent": "Grand Rapids Griffins",
+  "arena": "Blue Federal Credit Union Arena",
+  "city": "Loveland, Colorado",
+  "date": "2026-11-21T02:05:00Z"
+},
+
+{
+  "id": "ahl_20261120118",
+  "league": "AHL",
+  "team": "San Diego Gulls",
+  "opponent": "Iowa Wild",
+  "arena": "Pechanga Arena San Diego",
+  "city": "San Diego, California",
+  "date": "2026-11-21T03:00:00Z"
+},
+
+{
+  "id": "ahl_20261120119",
+  "league": "AHL",
+  "team": "Abbotsford Canucks",
+  "opponent": "Tucson Roadrunners",
+  "arena": "Rogers Forum",
+  "city": "Abbotsford, British Columbia",
+  "date": "2026-11-21T02:00:00Z"
+},
+
+{
+  "id": "ahl_20261121120",
+  "league": "AHL",
+  "team": "Toronto Marlies",
+  "opponent": "Chicago Wolves",
+  "arena": "Scotiabank Arena",
+  "city": "Toronto, Ontario",
+  "date": "2026-11-21T18:30:00Z"
+},
+
+{
+  "id": "ahl_20261121121",
+  "league": "AHL",
+  "team": "Laval Rocket",
+  "opponent": "Calgary Wranglers",
+  "arena": "Place Bell",
+  "city": "Laval, Quebec",
+  "date": "2026-11-21T20:00:00Z"
+},
+
+{
+  "id": "ahl_20261121122",
+  "league": "AHL",
+  "team": "Hartford Wolf Pack",
+  "opponent": "Milwaukee Admirals",
+  "arena": "PeoplesBank Arena",
+  "city": "Hartford, Connecticut",
+  "date": "2026-11-21T23:00:00Z"
+},
+
+{
+  "id": "ahl_20261121123",
+  "league": "AHL",
+  "team": "Wilkes-Barre/Scranton Penguins",
+  "opponent": "Rochester Americans",
+  "arena": "Mohegan Arena at Casey Plaza",
+  "city": "Wilkes-Barre Township, Pennsylvania",
+  "date": "2026-11-21T23:05:00Z"
+},
+
+{
+  "id": "ahl_20261121124",
+  "league": "AHL",
+  "team": "Syracuse Crunch",
+  "opponent": "Belleville Senators",
+  "arena": "Upstate Medical University Arena",
+  "city": "Syracuse, New York",
+  "date": "2026-11-22T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261121125",
+  "league": "AHL",
+  "team": "Cleveland Monsters",
+  "opponent": "Utica Comets",
+  "arena": "Rocket Arena",
+  "city": "Cleveland, Ohio",
+  "date": "2026-11-22T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261121126",
+  "league": "AHL",
+  "team": "Providence Bruins",
+  "opponent": "Charlotte Checkers",
+  "arena": "Amica Mutual Pavilion",
+  "city": "Providence, Rhode Island",
+  "date": "2026-11-22T00:05:00Z"
+},
+
+{
+  "id": "ahl_20261121127",
+  "league": "AHL",
+  "team": "Lehigh Valley Phantoms",
+  "opponent": "Hershey Bears",
+  "arena": "PPL Center",
+  "city": "Allentown, Pennsylvania",
+  "date": "2026-11-22T00:05:00Z"
+},
+
+{
+  "id": "ahl_20261121128",
+  "league": "AHL",
+  "team": "Texas Stars",
+  "opponent": "San Jose Barracuda",
+  "arena": "H-E-B Center at Cedar Park",
+  "city": "Cedar Park, Texas",
+  "date": "2026-11-22T01:00:00Z"
+},
+
+{
+  "id": "ahl_20261121129",
+  "league": "AHL",
+  "team": "Abbotsford Canucks",
+  "opponent": "Tucson Roadrunners",
+  "arena": "Rogers Forum",
+  "city": "Abbotsford, British Columbia",
+  "date": "2026-11-22T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261121130",
+  "league": "AHL",
+  "team": "Colorado Eagles",
+  "opponent": "Grand Rapids Griffins",
+  "arena": "Blue Federal Credit Union Arena",
+  "city": "Loveland, Colorado",
+  "date": "2026-11-22T01:05:00Z"
+},
+
+{
+  "id": "ahl_20261121131",
+  "league": "AHL",
+  "team": "Ontario Reign",
+  "opponent": "Coachella Valley Firebirds",
+  "arena": "Toyota Arena",
+  "city": "Ontario, California",
+  "date": "2026-11-22T02:00:00Z"
+},
+
+{
+  "id": "ahl_20261121132",
+  "league": "AHL",
+  "team": "San Diego Gulls",
+  "opponent": "Iowa Wild",
+  "arena": "Pechanga Arena San Diego",
+  "city": "San Diego, California",
+  "date": "2026-11-22T02:00:00Z"
+},
+
+{
+  "id": "ahl_20261121133",
+  "league": "AHL",
+  "team": "Bakersfield Condors",
+  "opponent": "Henderson Silver Knights",
+  "arena": "Dignity Health Arena",
+  "city": "Bakersfield, California",
+  "date": "2026-11-22T03:10:00Z"
+},
+
+{
+  "id": "ahl_20261122134",
+  "league": "AHL",
+  "team": "Hartford Wolf Pack",
+  "opponent": "Springfield Thunderbirds",
+  "arena": "PeoplesBank Arena",
+  "city": "Hartford, Connecticut",
+  "date": "2026-11-22T20:00:00Z"
+},
+
+{
+  "id": "ahl_20261122135",
+  "league": "AHL",
+  "team": "Manitoba Moose",
+  "opponent": "Rockford IceHogs",
+  "arena": "Canada Life Centre",
+  "city": "Winnipeg, Manitoba",
+  "date": "2026-11-22T19:00:00Z"
+},
+
+{
+  "id": "ahl_20261122136",
+  "league": "AHL",
+  "team": "Cleveland Monsters",
+  "opponent": "Utica Comets",
+  "arena": "Rocket Arena",
+  "city": "Cleveland, Ohio",
+  "date": "2026-11-22T20:00:00Z"
+},
+
+{
+  "id": "ahl_20261122137",
+  "league": "AHL",
+  "team": "Providence Bruins",
+  "opponent": "Milwaukee Admirals",
+  "arena": "Amica Mutual Pavilion",
+  "city": "Providence, Rhode Island",
+  "date": "2026-11-22T20:05:00Z"
+},
+
+{
+  "id": "ahl_20261122138",
+  "league": "AHL",
+  "team": "Toronto Marlies",
+  "opponent": "Chicago Wolves",
+  "arena": "Coca-Cola Coliseum",
+  "city": "Toronto, Ontario",
+  "date": "2026-11-22T21:00:00Z"
+},
+
+{
+  "id": "ahl_20261122139",
+  "league": "AHL",
+  "team": "Ontario Reign",
+  "opponent": "Henderson Silver Knights",
+  "arena": "Toyota Arena",
+  "city": "Ontario, California",
+  "date": "2026-11-22T23:00:00Z"
+},
+
+{
+  "id": "ahl_20261122140",
+  "league": "AHL",
+  "team": "Bakersfield Condors",
+  "opponent": "Coachella Valley Firebirds",
+  "arena": "Dignity Health Arena",
+  "city": "Bakersfield, California",
+  "date": "2026-11-23T01:10:00Z"
+},
+
+{
+  "id": "ahl_20261124141",
+  "league": "AHL",
+  "team": "Manitoba Moose",
+  "opponent": "Grand Rapids Griffins",
+  "arena": "Canada Life Centre",
+  "city": "Winnipeg, Manitoba",
+  "date": "2026-11-24T15:30:00Z"
+},
+
+{
+  "id": "ahl_20261124142",
+  "league": "AHL",
+  "team": "Texas Stars",
+  "opponent": "Tucson Roadrunners",
+  "arena": "H-E-B Center at Cedar Park",
+  "city": "Cedar Park, Texas",
+  "date": "2026-11-25T01:00:00Z"
+},
+
+{
+  "id": "ahl_20261124143",
+  "league": "AHL",
+  "team": "San Diego Gulls",
+  "opponent": "Ontario Reign",
+  "arena": "Pechanga Arena San Diego",
+  "city": "San Diego, California",
+  "date": "2026-11-25T03:00:00Z"
+},
+
+{
+  "id": "ahl_20261125144",
+  "league": "AHL",
+  "team": "Belleville Senators",
+  "opponent": "Toronto Marlies",
+  "arena": "CIBC Place",
+  "city": "Belleville, Ontario",
+  "date": "2026-11-25T15:30:00Z"
+},
+
+{
+  "id": "ahl_20261125145",
+  "league": "AHL",
+  "team": "Hamilton Hammers",
+  "opponent": "Syracuse Crunch",
+  "arena": "TD Coliseum",
+  "city": "Hamilton, Ontario",
+  "date": "2026-11-25T16:00:00Z"
+},
+
+{
+  "id": "ahl_20261125146",
+  "league": "AHL",
+  "team": "Hershey Bears",
+  "opponent": "Wilkes-Barre/Scranton Penguins",
+  "arena": "Giant Center",
+  "city": "Hershey, Pennsylvania",
+  "date": "2026-11-26T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261125147",
+  "league": "AHL",
+  "team": "Utica Comets",
+  "opponent": "Hartford Wolf Pack",
+  "arena": "NBT Bank Arena",
+  "city": "Utica, New York",
+  "date": "2026-11-26T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261125148",
+  "league": "AHL",
+  "team": "Lehigh Valley Phantoms",
+  "opponent": "Providence Bruins",
+  "arena": "PPL Center",
+  "city": "Allentown, Pennsylvania",
+  "date": "2026-11-26T00:05:00Z"
+},
+
+{
+  "id": "ahl_20261125149",
+  "league": "AHL",
+  "team": "Manitoba Moose",
+  "opponent": "Grand Rapids Griffins",
+  "arena": "Canada Life Centre",
+  "city": "Winnipeg, Manitoba",
+  "date": "2026-11-26T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261125150",
+  "league": "AHL",
+  "team": "Rockford IceHogs",
+  "opponent": "Milwaukee Admirals",
+  "arena": "BMO Center",
+  "city": "Rockford, Illinois",
+  "date": "2026-11-26T01:00:00Z"
+},
+
+{
+  "id": "ahl_20261125151",
+  "league": "AHL",
+  "team": "Texas Stars",
+  "opponent": "Tucson Roadrunners",
+  "arena": "H-E-B Center at Cedar Park",
+  "city": "Cedar Park, Texas",
+  "date": "2026-11-26T01:00:00Z"
+},
+
+{
+  "id": "ahl_20261125152",
+  "league": "AHL",
+  "team": "San Jose Barracuda",
+  "opponent": "Coachella Valley Firebirds",
+  "arena": "Tech CU Arena",
+  "city": "San Jose, California",
+  "date": "2026-11-26T03:00:00Z"
+},
+
+{
+  "id": "ahl_20261125153",
+  "league": "AHL",
+  "team": "Henderson Silver Knights",
+  "opponent": "Abbotsford Canucks",
+  "arena": "Lee’s Family Forum",
+  "city": "Henderson, Nevada",
+  "date": "2026-11-26T03:00:00Z"
+},
+
+{
+  "id": "ahl_20261127154",
+  "league": "AHL",
+  "team": "Charlotte Checkers",
+  "opponent": "Hershey Bears",
+  "arena": "Bojangles Coliseum",
+  "city": "Charlotte, North Carolina",
+  "date": "2026-11-27T21:00:00Z"
+},
+
+{
+  "id": "ahl_20261127155",
+  "league": "AHL",
+  "team": "Henderson Silver Knights",
+  "opponent": "Abbotsford Canucks",
+  "arena": "Lee’s Family Forum",
+  "city": "Henderson, Nevada",
+  "date": "2026-11-27T21:00:00Z"
+},
+
+{
+  "id": "ahl_20261127156",
+  "league": "AHL",
+  "team": "Hartford Wolf Pack",
+  "opponent": "Springfield Thunderbirds",
+  "arena": "PeoplesBank Arena",
+  "city": "Hartford, Connecticut",
+  "date": "2026-11-27T22:00:00Z"
+},
+
+{
+  "id": "ahl_20261127157",
+  "league": "AHL",
+  "team": "Grand Rapids Griffins",
+  "opponent": "Iowa Wild",
+  "arena": "Van Andel Arena",
+  "city": "Grand Rapids, Michigan",
+  "date": "2026-11-28T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261127158",
+  "league": "AHL",
+  "team": "Cleveland Monsters",
+  "opponent": "Hamilton Hammers",
+  "arena": "Rocket Arena",
+  "city": "Cleveland, Ohio",
+  "date": "2026-11-28T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261127159",
+  "league": "AHL",
+  "team": "Utica Comets",
+  "opponent": "Laval Rocket",
+  "arena": "NBT Bank Arena",
+  "city": "Utica, New York",
+  "date": "2026-11-28T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261127160",
+  "league": "AHL",
+  "team": "Wilkes-Barre/Scranton Penguins",
+  "opponent": "Providence Bruins",
+  "arena": "Mohegan Arena at Casey Plaza",
+  "city": "Wilkes-Barre Township, Pennsylvania",
+  "date": "2026-11-28T00:05:00Z"
+},
+
+{
+  "id": "ahl_20261127161",
+  "league": "AHL",
+  "team": "Rochester Americans",
+  "opponent": "Syracuse Crunch",
+  "arena": "Blue Cross Arena",
+  "city": "Rochester, New York",
+  "date": "2026-11-28T00:05:00Z"
+},
+
+{
+  "id": "ahl_20261127162",
+  "league": "AHL",
+  "team": "Chicago Wolves",
+  "opponent": "Milwaukee Admirals",
+  "arena": "Allstate Arena",
+  "city": "Rosemont, Illinois",
+  "date": "2026-11-28T01:00:00Z"
+},
+
+{
+  "id": "ahl_20261127163",
+  "league": "AHL",
+  "team": "Rockford IceHogs",
+  "opponent": "Texas Stars",
+  "arena": "BMO Center",
+  "city": "Rockford, Illinois",
+  "date": "2026-11-28T01:00:00Z"
+},
+
+{
+  "id": "ahl_20261127164",
+  "league": "AHL",
+  "team": "Colorado Eagles",
+  "opponent": "San Diego Gulls",
+  "arena": "Blue Federal Credit Union Arena",
+  "city": "Loveland, Colorado",
+  "date": "2026-11-28T01:05:00Z"
+},
+
+{
+  "id": "ahl_20261127165",
+  "league": "AHL",
+  "team": "Coachella Valley Firebirds",
+  "opponent": "Bakersfield Condors",
+  "arena": "Acrisure Arena",
+  "city": "Thousand Palms, California",
+  "date": "2026-11-28T03:00:00Z"
+},
+
+{
+  "id": "ahl_20261128166",
+  "league": "AHL",
+  "team": "Manitoba Moose",
+  "opponent": "Belleville Senators",
+  "arena": "Canada Life Centre",
+  "city": "Winnipeg, Manitoba",
+  "date": "2026-11-28T19:00:00Z"
+},
+
+{
+  "id": "ahl_20261128167",
+  "league": "AHL",
+  "team": "Charlotte Checkers",
+  "opponent": "Hershey Bears",
+  "arena": "Bojangles Coliseum",
+  "city": "Charlotte, North Carolina",
+  "date": "2026-11-28T21:00:00Z"
+},
+
+{
+  "id": "ahl_20261128168",
+  "league": "AHL",
+  "team": "Toronto Marlies",
+  "opponent": "Rochester Americans",
+  "arena": "Coca-Cola Coliseum",
+  "city": "Toronto, Ontario",
+  "date": "2026-11-28T21:00:00Z"
+},
+
+{
+  "id": "ahl_20261128169",
+  "league": "AHL",
+  "team": "Colorado Eagles",
+  "opponent": "San Diego Gulls",
+  "arena": "Blue Federal Credit Union Arena",
+  "city": "Loveland, Colorado",
+  "date": "2026-11-28T22:05:00Z"
+},
+
+{
+  "id": "ahl_20261128170",
+  "league": "AHL",
+  "team": "Springfield Thunderbirds",
+  "opponent": "Utica Comets",
+  "arena": "MassMutual Center",
+  "city": "Springfield, Massachusetts",
+  "date": "2026-11-28T23:05:00Z"
+},
+
+{
+  "id": "ahl_20261128171",
+  "league": "AHL",
+  "team": "Milwaukee Admirals",
+  "opponent": "Rockford IceHogs",
+  "arena": "UW-Milwaukee Panther Arena",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2026-11-29T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261128172",
+  "league": "AHL",
+  "team": "Syracuse Crunch",
+  "opponent": "Laval Rocket",
+  "arena": "Upstate Medical University Arena",
+  "city": "Syracuse, New York",
+  "date": "2026-11-29T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261128173",
+  "league": "AHL",
+  "team": "Cleveland Monsters",
+  "opponent": "Hamilton Hammers",
+  "arena": "Rocket Arena",
+  "city": "Cleveland, Ohio",
+  "date": "2026-11-29T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261128174",
+  "league": "AHL",
+  "team": "Lehigh Valley Phantoms",
+  "opponent": "Providence Bruins",
+  "arena": "PPL Center",
+  "city": "Allentown, Pennsylvania",
+  "date": "2026-11-29T00:05:00Z"
+},
+
+{
+  "id": "ahl_20261128175",
+  "league": "AHL",
+  "team": "Calgary Wranglers",
+  "opponent": "Ontario Reign",
+  "arena": "Scotiabank Saddledome",
+  "city": "Calgary, Alberta",
+  "date": "2026-11-29T00:00:00Z"
+},
+
+{
+  "id": "ahl_20261128176",
+  "league": "AHL",
+  "team": "Tucson Roadrunners",
+  "opponent": "San Jose Barracuda",
+  "arena": "Tucson Convention Center Arena",
+  "city": "Tucson, Arizona",
+  "date": "2026-11-29T02:00:00Z"
+},
+
+{
+  "id": "ahl_20261128177",
+  "league": "AHL",
+  "team": "Coachella Valley Firebirds",
+  "opponent": "Henderson Silver Knights",
+  "arena": "Acrisure Arena",
+  "city": "Thousand Palms, California",
+  "date": "2026-11-29T02:00:00Z"
+},
+
+{
+  "id": "ahl_20261128178",
+  "league": "AHL",
+  "team": "Bakersfield Condors",
+  "opponent": "Abbotsford Canucks",
+  "arena": "Dignity Health Arena",
+  "city": "Bakersfield, California",
+  "date": "2026-11-29T03:10:00Z"
+},
+
+{
+  "id": "ahl_20261129179",
+  "league": "AHL",
+  "team": "Hartford Wolf Pack",
+  "opponent": "Springfield Thunderbirds",
+  "arena": "PeoplesBank Arena",
+  "city": "Hartford, Connecticut",
+  "date": "2026-11-29T20:00:00Z"
+},
+
+{
+  "id": "ahl_20261129180",
+  "league": "AHL",
+  "team": "Manitoba Moose",
+  "opponent": "Belleville Senators",
+  "arena": "Canada Life Centre",
+  "city": "Winnipeg, Manitoba",
+  "date": "2026-11-29T19:00:00Z"
+},
+
+{
+  "id": "ahl_20261129181",
+  "league": "AHL",
+  "team": "Wilkes-Barre/Scranton Penguins",
+  "opponent": "Lehigh Valley Phantoms",
+  "arena": "Mohegan Arena at Casey Plaza",
+  "city": "Wilkes-Barre Township, Pennsylvania",
+  "date": "2026-11-29T20:05:00Z"
+},
+
+{
+  "id": "ahl_20261129182",
+  "league": "AHL",
+  "team": "Grand Rapids Griffins",
+  "opponent": "Iowa Wild",
+  "arena": "Van Andel Arena",
+  "city": "Grand Rapids, Michigan",
+  "date": "2026-11-29T21:00:00Z"
+},
+
+{
+  "id": "ahl_20261129183",
+  "league": "AHL",
+  "team": "Chicago Wolves",
+  "opponent": "Texas Stars",
+  "arena": "Allstate Arena",
+  "city": "Rosemont, Illinois",
+  "date": "2026-11-29T21:00:00Z"
+},
+
+{
+  "id": "ahl_20261129184",
+  "league": "AHL",
+  "team": "Toronto Marlies",
+  "opponent": "Rochester Americans",
+  "arena": "Coca-Cola Coliseum",
+  "city": "Toronto, Ontario",
+  "date": "2026-11-29T21:00:00Z"
+},
+
+{
+  "id": "ahl_20261129185",
+  "league": "AHL",
+  "team": "Calgary Wranglers",
+  "opponent": "Ontario Reign",
+  "arena": "Scotiabank Saddledome",
+  "city": "Calgary, Alberta",
+  "date": "2026-11-29T21:00:00Z"
+},
+
+{
+  "id": "ahl_20261129186",
+  "league": "AHL",
+  "team": "Tucson Roadrunners",
+  "opponent": "San Jose Barracuda",
+  "arena": "Tucson Convention Center Arena",
+  "city": "Tucson, Arizona",
+  "date": "2026-11-29T23:00:00Z"
+},
 
   {
     "id": "ahl_2026120101",
