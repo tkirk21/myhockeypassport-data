@@ -1614,6 +1614,15 @@
       { "name": "Ilfishalle", "from": "1975-09-01", "to": "1985-06-30" }
     ]
   },
+  {
+    "currentArena": "Home Credit Arena",
+    "teamName": "Bílí Tygři Liberec",
+    "league": "ELH",
+    "history": [
+      { "name": "Tipsport Arena", "from": "2005-09-01", "to": "2014-06-30" },
+      { "name": "Home Credit Arena", "from": "2014-09-01", "to": null }
+    ]
+  }, 
 
 
 
